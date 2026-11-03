@@ -19,8 +19,8 @@ every id it created is on record.
 
 Credentials come from the environment and are never written to disk:
 
-    WEBUDDHIST_API_KEY   sent as X-API-Key
-    WEBUDDHIST_APP       sent as X-Application
+    WEBUDDHIST_API_KEY   sent as X-API-Key       (required)
+    WEBUDDHIST_APP       sent as X-Application   (optional; omitted if empty)
 
 Usage:
     upload_liturgy.py --payloads <dir> [--only <stem>] [--limit N] [--dry-run]
@@ -64,7 +64,12 @@ def post(url, body, key, app, timeout=60):
     req = urllib.request.Request(url, data=data, method="POST")
     req.add_header("Content-Type", "application/json")
     req.add_header("X-API-Key", key)
-    req.add_header("X-Application", app)
+    # Omitted rather than sent empty: `X-Application` is not declared in the
+    # v2 schema for these operations — they are secured by `X-API-Key` alone.
+    # This matches upload_translations.py, which uploaded all 646 translation
+    # editions this way.
+    if app:
+        req.add_header("X-Application", app)
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return resp.status, json.loads(resp.read().decode("utf-8"))
@@ -86,8 +91,8 @@ def main(argv=None):
 
     key = os.environ.get("WEBUDDHIST_API_KEY", "")
     app = os.environ.get("WEBUDDHIST_APP", "")
-    if not args.dry_run and not (key and app):
-        print("WEBUDDHIST_API_KEY and WEBUDDHIST_APP must be set", file=sys.stderr)
+    if not args.dry_run and not key:
+        print("WEBUDDHIST_API_KEY must be set", file=sys.stderr)
         return 2
 
     stems = sorted({f.rsplit(".", 2)[0] for f in os.listdir(args.payloads)

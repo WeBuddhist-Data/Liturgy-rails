@@ -11,6 +11,8 @@ translation_of_text_id: ZEggQpnRdNyGUaocUZLXy
 translation_of_edition_id: qu5nwRaH41iTbKCJE8W2w
 text_id:
 edition_id:
+tags: [practice/chant, tradition/vajrayana]
+tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
 target_language: vietnamese
 lang_tag: vi

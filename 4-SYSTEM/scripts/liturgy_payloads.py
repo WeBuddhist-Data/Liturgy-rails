@@ -6,14 +6,17 @@ Emits, per note in 1-SOURCES/Text/:
     <stem>.text.json      ->  POST /v2/texts
     <stem>.edition.json   ->  POST /v2/texts/{text_id}/editions
 
-No toc.json: a flat liturgy text has no table of contents. The parser
+No toc.json. A flat liturgy text has no table of contents: the parser
 would manufacture a one-entry TOC out of the H1 title, which is an
-artifact of the parser rather than structure in the text, so it is not
-emitted. Texts that carry real `##` sections are handled separately.
+artifact of the parser rather than structure in the text. Texts that do
+carry real `##` sections have their headings kept OUT of `content` and
+`segmentation` (parser policy, 2026-09-20) but no TOC is emitted for them
+either — deferred by the user on 2026-09-21; add it later with
+POST /v2/editions/{id}/table-of-contents.
 
 Content and character spans come from the vendored upstream parser
-(`parser-root-text/parser.py`), which stays untouched — see UPSTREAM.md.
-Two things are layered on top here:
+(`parser-root-text/parser.py`), which carries three documented forks of its
+own — see UPSTREAM.md. Two further things are layered on top here:
 
 1. `text.json` is built straight from the note's own frontmatter, so the
    upstream linter (dead endpoint, in-place .md patching, required
@@ -189,6 +192,9 @@ def main(argv=None):
 
             # upstream writes its own output/ copy; we only want the dict
             _, edition = P.build_edition(__import__("pathlib").Path(path), None)
+            # `_headings` is TOC input the parser hands back in memory; it is
+            # not edition data and the API must never see it.
+            edition.pop("_headings", None)
             counts = retype_segments(edition)
 
             meta = {"type": etype}

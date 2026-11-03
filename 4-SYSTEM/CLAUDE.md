@@ -103,3 +103,14 @@ substitutes the backend-assigned segment ids returned by the instance POST.
 - The 12 `layout: prose` texts (see `liturgy-catalog.json`) have the
   least certain segment boundaries — treat their segmentation as
   provisional until a human has reviewed it.
+
+## Tags (backend)
+
+`4-SYSTEM/tag-registry.json` is the source of truth for WeBuddhist tags
+(key `facet/value`, localized title, description, backend id).
+`stamp_metadata.py --tags` mirrors live `tag_ids` into note frontmatter as `tags:` / `tag_ids:`. `4-SYSTEM/scripts/tags.py sync` creates missing tags idempotently;
+`tags.py apply KEY --category CID` attaches a tag to every text in a
+category (diff-based, ledger in `4-SYSTEM/tag-ledgers/`); `tags.py verify`
+compares the tag listing with the category listing. Tagging a root text
+cascades to its translations on the backend. New uploads are not tagged
+automatically: re-run `apply practice/chant` after each upload.

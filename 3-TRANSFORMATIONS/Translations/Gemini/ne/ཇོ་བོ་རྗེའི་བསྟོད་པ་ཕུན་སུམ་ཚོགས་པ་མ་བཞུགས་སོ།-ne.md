@@ -11,6 +11,8 @@ translation_of_text_id: 5yVLOg0Vna5MtaXlf6KaY
 translation_of_edition_id: u4GrFTrXLKLkBp0mqYbZp
 text_id:
 edition_id:
+tags: [practice/chant, tradition/vajrayana]
+tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
 target_language: nepali
 lang_tag: ne

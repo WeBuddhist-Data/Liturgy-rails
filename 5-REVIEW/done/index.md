@@ -1,4 +1,4 @@
-# The 93 finished texts
+# The 92 finished texts
 
 All seven languages present, uploaded, and aligned. Click a title to open its folder.
 
@@ -89,11 +89,10 @@ All seven languages present, uploaded, and aligned. Click a title to open its fo
 | 83 | [ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།](<ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།/>) | Seven-Branch Praise to the Goddess |
 | 84 | [སངས་རྒྱས་ཆོས་ཚོགས་མ།](<སངས་རྒྱས་ཆོས་ཚོགས་མ།/>) | The Refuge and Bodhicitta Prayer |
 | 85 | [སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།](<སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།/>) | Prayer to Tārā: A Sevenfold Supplication for Protection |
-| 86 | [སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།](<སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།/>) | Praises to the Twenty-One Tārās |
-| 87 | [སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །](<སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །/>) | Stairway to Liberation: The Uncommon Guru Yoga in Reliance on Cittamaṇi Tārā |
-| 88 | [སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།](<སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།/>) | Praise to the Teacher, the Lord of Sages |
-| 89 | [སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།](<སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/>) | Aspiration Prayer from the Bodhicharyāvatāra |
-| 90 | [སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།](<སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།/>) | The Secret Vajra Knot |
-| 91 | [སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། །](<སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། །/>) | Yearning Song of Prayer to Invoke the Wisdom Mind of the Compassionate Teacher Padmasambhava |
-| 92 | [སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།](<སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/>) | The Name Mantra of the Precious Master |
-| 93 | [ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔](<ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔/>) | The Testament Prayer to Orgyen Rinpoche |
+| 86 | [སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །](<སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །/>) | Stairway to Liberation: The Uncommon Guru Yoga in Reliance on Cittamaṇi Tārā |
+| 87 | [སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།](<སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།/>) | Praise to the Teacher, the Lord of Sages |
+| 88 | [སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།](<སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/>) | Aspiration Prayer from the Bodhicharyāvatāra |
+| 89 | [སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།](<སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།/>) | The Secret Vajra Knot |
+| 90 | [སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། །](<སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། །/>) | Yearning Song of Prayer to Invoke the Wisdom Mind of the Compassionate Teacher Padmasambhava |
+| 91 | [སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།](<སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/>) | The Name Mantra of the Precious Master |
+| 92 | [ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔](<ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔/>) | The Testament Prayer to Orgyen Rinpoche |

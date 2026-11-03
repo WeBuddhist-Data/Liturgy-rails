@@ -39,6 +39,16 @@ silently reverts all of them. This script restores them and is safe to repeat.
     Writes ``title_en`` / ``title_zh`` onto the source notes, so a text's names
     live with the text.
 
+--tags
+    Reads every text's live ``tag_ids`` from the WeBuddhist library (one
+    paginated listing, ~8 calls) and writes two keys on every source note and
+    translation file: ``tags`` (registry keys, e.g. ``[practice/chant]`` —
+    Obsidian nested-tag syntax) and ``tag_ids`` (the backend ids). A
+    translation file is looked up by its own ``text_id`` when it has one,
+    else by ``translation_of_text_id``, because the backend cascades a root
+    text's tags to its translations. Ids not in
+    ``4-SYSTEM/tag-registry.json`` are kept as ids and reported.
+
 Nothing here writes translation *content*. --ids and --source-titles are the
 only passes that touch ``1-SOURCES/``.
 """
@@ -55,6 +65,8 @@ TRACKS_DIR = os.path.join(VAULT, "3-TRANSFORMATIONS", "Translations")
 LEDGER = os.path.join(VAULT, "4-SYSTEM", "scripts", "upload_ledger.json")
 REGISTRY = os.path.join(VAULT, "1-SOURCES", "liturgy-titles.json")
 PERSONS = os.path.join(VAULT, "1-SOURCES", "liturgy-persons.json")
+TAG_REGISTRY = os.path.join(VAULT, "4-SYSTEM", "tag-registry.json")
+API_BASE = "https://library.webuddhist.com"
 
 # Files in a track folder that are track documentation, not a translated text.
 TRACK_DOCS = {"about.md", "style.md", "context-header.md", "requirements.md", "termbase.md"}
@@ -147,6 +159,29 @@ def get_key(fm_lines, key):
     if i < 0:
         return ""
     return fm_lines[i].split(":", 1)[1].strip().strip('"').strip("'")
+
+
+def set_list(fm_lines, key, items, after=None):
+    """Set key to a YAML flow list of plain scalars, or drop the key when
+    `items` is empty. Same placement rules as set_key."""
+    if not items:
+        return drop_key(fm_lines, key)
+    rendered = f"{key}: [" + ", ".join(items) + "]"
+    i = find_key(fm_lines, key)
+    if i >= 0:
+        if fm_lines[i] != rendered:
+            fm_lines[i] = rendered
+            return True
+        return False
+    pos = len(fm_lines)
+    if after:
+        for anchor in ([after] if isinstance(after, str) else after):
+            j = find_key(fm_lines, anchor)
+            if j >= 0:
+                pos = j + 1
+                break
+    fm_lines.insert(pos, rendered)
+    return True
 
 
 def _generator_kind(fm_lines):
@@ -537,6 +572,87 @@ def pass_authors():
     return 0
 
 
+# --------------------------------------------------------------------------
+# pass 6 — tags (live backend -> vault frontmatter)
+# --------------------------------------------------------------------------
+
+def _live_tag_map():
+    """-> {text_id: [tag_id, ...]} for every text the library lists."""
+    import urllib.parse
+    import urllib.request
+    app = os.environ.get("WEBUDDHIST_APP") or "webuddhist"
+    out, offset = {}, 0
+    while True:
+        q = urllib.parse.urlencode({"limit": 100, "offset": offset})
+        req = urllib.request.Request(f"{API_BASE}/v2/texts?{q}",
+                                     headers={"X-Application": app})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            page = json.load(r)
+        for t in page["items"]:
+            out[t["id"]] = list(t.get("tag_ids") or [])
+        if not page.get("has_more"):
+            return out
+        offset += 100
+
+
+def pass_tags():
+    with open(TAG_REGISTRY) as fh:
+        reg = json.load(fh)["tags"]
+    id_to_key = {spec["id"]: key for key, spec in reg.items() if spec.get("id")}
+    live = _live_tag_map()
+    unknown_ids, no_id, not_live = set(), [], []
+    n_src = n_tr = 0
+
+    def apply_for(text_id, fm, label):
+        if not text_id:
+            no_id.append(label)
+            return False
+        if text_id not in live:
+            not_live.append(label)
+            return False
+        # sort by key so the rendered lists are stable across runs, whatever
+        # order the backend happens to return the ids in
+        pairs = []
+        for i in live[text_id]:
+            if i in id_to_key:
+                pairs.append((id_to_key[i], i))
+            else:
+                unknown_ids.add(i)
+                pairs.append((i, i))
+        pairs.sort()
+        keys = [k for k, _ in pairs]
+        ids = [i for _, i in pairs]
+        a = set_list(fm, "tags", keys, after=["edition_id", "text_id", "category_id"])
+        b = set_list(fm, "tag_ids", ids, after="tags")
+        return a or b
+
+    for name in sorted(os.listdir(SRC_DIR)):
+        if not name.endswith(".md"):
+            continue
+
+        def apply(fm, body, name=name):
+            return apply_for(get_key(fm, "text_id"), fm, f"source {name[:-3]}")
+
+        n_src += bool(edit(os.path.join(SRC_DIR, name), apply))
+
+    for stem, path in track_files():
+        def apply(fm, body, path=path):
+            tid = get_key(fm, "text_id") or get_key(fm, "translation_of_text_id")
+            return apply_for(tid, fm, f"track {os.path.relpath(path, VAULT)}")
+
+        n_tr += bool(edit(path, apply))
+
+    print(f"tags: {n_src} source notes, {n_tr} translation files updated "
+          f"({len(live)} live texts, {len(id_to_key)} registry tags)")
+    for label in no_id:
+        print(f"  !! no text_id: {label}", file=sys.stderr)
+    for label in not_live:
+        print(f"  !! text_id not found on backend: {label}", file=sys.stderr)
+    for i in sorted(unknown_ids):
+        print(f"  !! tag id not in registry (kept as id): {i}", file=sys.stderr)
+    return int(bool(no_id or not_live))
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -545,6 +661,7 @@ def main():
     ap.add_argument("--titles", action="store_true")
     ap.add_argument("--source-titles", action="store_true")
     ap.add_argument("--authors", action="store_true")
+    ap.add_argument("--tags", action="store_true")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--track", default=None,
                     help="restrict the translation passes to one track folder — "
@@ -555,7 +672,7 @@ def main():
         global ONLY_TRACK
         ONLY_TRACK = args.track
     if not any([args.ids, args.track_meta, args.titles, args.source_titles,
-                args.authors, args.all]):
+                args.authors, args.tags, args.all]):
         ap.error("choose at least one pass")
 
     rc = 0
@@ -569,6 +686,8 @@ def main():
         rc |= pass_source_titles()
     if args.authors or args.all:
         rc |= pass_authors()
+    if args.all or args.tags:
+        rc |= pass_tags()
     return rc
 
 

@@ -11,6 +11,8 @@ translation_of_text_id: Xkc1mMeTE2DDxnMl9soTA
 translation_of_edition_id: wjJ5a3Ay2TIeiaAyVww6c
 text_id:
 edition_id:
+tags: [practice/chant, tradition/vajrayana]
+tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
 target_language: mongolian
 lang_tag: mn
