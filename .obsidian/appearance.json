@@ -1,6 +1,4 @@
 {
-  "textFontFamily": "Monlam Uni OuChan2",
-  "baseFontSize": 24,
-  "interfaceFontFamily": "Monlam Uni OuChan3",
-  "baseFontSizeAction": true
+  "interfaceFontFamily": "Kalsang QUSE",
+  "textFontFamily": "Kalsang QUSE"
 }

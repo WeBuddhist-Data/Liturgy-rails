@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "d8a74bb86ef69615",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa969b7a683b1e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91726ff6d1f49606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text 1/༄༅། །བྱང་སྡོམ་བླང་ཆོག་དཔལ་སྤྲུལ་གསུང་རྒྱུན་ལྟར་བཀོད་པ་བཞུགས་སོ། །.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "༄༅། །བྱང་སྡོམ་བླང་ཆོག་དཔལ་སྤྲུལ་གསུང་རྒྱུན་ལྟར་བཀོད་པ་བཞུགས་སོ། །"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd18f6a04850a529",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac50e317258a9e5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7626945992f0a0e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d4e80db8e3da9111",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9e908f76aa18cc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d96a8d413e4d92ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "af446907be832284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e45a91559de37d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Text 1/༄༅། །ཐུབ་ཆོག་བྱིན་རླབས་གཏེར་མཛོད་བཞུགས་སོ། །.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "15759c52db6afb83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f6ad5db15eb06765",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c534d04aa6464a48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3ae76d9f653644f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "91726ff6d1f49606",
+  "lastOpenFiles": [
+    "Text 1/༄༅། །བླ་མ་དང་སྤྱན་རས་གཟིགས་དབྱེར་མེད་ཀྱི་རྣལ་འབྱོར་མདོར་བསྡུས་བཞུགས་སོ།།.md",
+    "Text 1/༄༅། །བྱང་སྡོམ་བླང་ཆོག་དཔལ་སྤྲུལ་གསུང་རྒྱུན་ལྟར་བཀོད་པ་བཞུགས་སོ། །.md",
+    "Text 1/༄༅། །ཐུབ་ཆོག་བྱིན་རླབས་གཏེར་མཛོད་བཞུགས་སོ། །.md",
+    "Text 1/༄༅། །ཉིན་ཞག་ཕྲུགས་གཅིག་ལ་ཉམས་ལེན་བྱ་ཚུལ་ནོར་བུ་རྣམ་པར་བཀྲ་བའིམཛེས་རྒྱན།.md",
+    "Text 1/༄༅། །བཅོམ་ལྡན་འདས་སྨན་བླའི་མདོ་ཆོག་སྙིང་པོ་བསྡུས་པ་ཡིད་བཞིན་ནོར་བུ།.md",
+    "Text 1/༄༅། །ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ།།.md",
+    "Text 1/༄༅། །མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ། །.md",
+    "Text 1/༄༅། །མཁན་སློབ་ཆོས་གསུམ་གྱི་གསོལ་འདེབས་བཞུགས།.md",
+    "Text 1/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །.md",
+    "Text 1/གཏོར་མ་ཆ་གསུམ་བཞུགས་སོ། །.md",
+    "Text 1/བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།.md",
+    "Text 1/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ། །.md",
+    "Text 1/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ། །.md",
+    "Text 1/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
+    "Text 1/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།.md",
+    "Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.md",
+    "Text 1/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.md",
+    "Text 1/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
+    "Text 1/ཚད་མེད་བཞི།.md",
+    "Text 1/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།.md",
+    "Text 1/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།.md",
+    "Text 1/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.md",
+    "Untitled.canvas",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base"
+  ]
+}

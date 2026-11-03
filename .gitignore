@@ -1,24 +1,16 @@
-# Obsidian workspace state (per-machine, not shared)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
+# Ignore audio files
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.wma
 
-# System junk
-.trash/
-.DS_Store
-
-# Python
-__pycache__/
-*.pyc
-.venv
-.env
-.env.local
-**/.env.local
-
-# vendored toolchain: generated payloads and caches
-# payloads/ sits directly under scripts/, so the */output/ glob misses it —
-# it is regenerated wholesale from 1-SOURCES/Text on every build.
-4-SYSTEM/scripts/payloads/
-4-SYSTEM/scripts/payloads-translations/
-4-SYSTEM/scripts/*/output/
-4-SYSTEM/scripts/**/__pycache__/
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
