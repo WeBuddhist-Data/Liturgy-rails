@@ -1,19 +1,19 @@
 # Review folder — what is finished and what is not
 
-Built 2026-09-08 by `4-SYSTEM/scripts/build_review_bundle.py`.
+Built 2026-09-21 by `4-SYSTEM/scripts/build_review_bundle.py`.
 
 ## In one line
 
-Of the 94 liturgy texts in the collection, **93 are finished** and live on the website in all seven languages. **1** got stuck part-way through publishing, and **8** more are still raw text that has not been started yet.
+Of the 113 liturgy texts in the collection, **92 are finished** and live on the website in all seven languages. **21** got stuck part-way through publishing, and **1** more are still raw text that has not been started yet.
 
 ## The two folders
 
 ```
 5-REVIEW/
-  done/                          93 texts — finished, checked, published
+  done/                          92 texts — finished, checked, published
   not-done/
-    1-upload-incomplete/         1 text — translated, but publishing failed
-    2-never-processed/           8 texts — raw, not started
+    1-upload-incomplete/         21 text — translated, but publishing failed
+    2-never-processed/           1 texts — raw, not started
 ```
 
 ### `done/`
@@ -45,9 +45,9 @@ See [`done/index.md`](done/index.md) for the full list with titles.
 
 Two groups, because they need two different kinds of work.
 
-**`1-upload-incomplete/` — 1 text.** The translation work is finished; the publishing step is not. The folder has the same seven files as any `done/` text, so it reads normally — it is only the website side that is missing. What exactly is missing is written in that folder's own `WHAT-IS-MISSING.md`.
+**`1-upload-incomplete/` — 21 text.** The translation work is finished; the publishing step is not. The folder has the same seven files as any `done/` text, so it reads normally — it is only the website side that is missing. What exactly is missing is written in that folder's own `WHAT-IS-MISSING.md`.
 
-**`2-never-processed/` — 8 texts.** Raw liturgies that came in but have not been started. They are not numbered, not translated, and not on the website. They are here so nothing is quietly forgotten. See that folder's `WHAT-IS-MISSING.md`.
+**`2-never-processed/` — 1 texts.** Raw liturgies that came in but have not been started. They are not numbered, not translated, and not on the website. They are here so nothing is quietly forgotten. See that folder's `WHAT-IS-MISSING.md`.
 
 ## About the translations
 
@@ -69,4 +69,4 @@ python3 4-SYSTEM/scripts/build_review_bundle.py
 
 ## Not counted here
 
-1 text is *retired* — a duplicate of another text that was entered twice. It stays in `0-INBOX` as a record but is deliberately excluded from the collection, so it appears in neither folder. See `4-SYSTEM/retired-texts.txt`.
+2 text is *retired* — a duplicate of another text that was entered twice. It stays in `0-INBOX` as a record but is deliberately excluded from the collection, so it appears in neither folder. See `4-SYSTEM/retired-texts.txt`.

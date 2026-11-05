@@ -16,3 +16,20 @@
 # Backend records deleted 2026-08-31: text GgvnquJHN7waAAvmewbJT,
 # edition J5X659dDCKohRrR6RmwGM (both verified 404, no orphans).
 སྣང་སྲིད་དབང་དུ་སྡུད་པའི་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན།
+
+# Removed from this vault entirely on 2026-09-19 at the user's instruction: the
+# 21-Tārā praise belongs to the tara21 rails repo, which uploaded it and now owns
+# it on the backend. All local copies were deleted (0-INBOX, 1-SOURCES,
+# 3-TRANSFORMATIONS ×6 languages, payloads, parser output, 5-REVIEW) along with
+# its seven upload-ledger entries, so nothing here can pick it up again.
+#
+# NOTHING WAS DELETED ON THE BACKEND, and nothing should be. The Tibetan text
+# HyUbHGlzS9LsSrgiFQNYE / edition lEmYv8BrRQkOMPY9ymQpS is the tara21 repo's own
+# upload (old `I-1` id scheme, not this pipeline's). The six translation texts
+# this vault created in August — W5o6Tyq3hhQDxhmvdoS7B (en),
+# O9TxCvL6lhjufpaaOAxAj (zh), 4NECafzLDkznK7jBxfmHU (hi),
+# QGjmqg2hVtIjqJdifTVUV (ne), 7n1BhMN4FNkyaThaBtn3g (mn),
+# vROdFp8qvU9rNYMEwhdjl (vi) — have since been re-populated by that repo with
+# NEW editions, all six aligned to the Tibetan edition. Deleting those texts
+# would destroy the other repo's live content; the API refuses it with 409.
+སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།

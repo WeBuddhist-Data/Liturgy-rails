@@ -1,0 +1,58 @@
+{
+  "_about": "Source of truth for WeBuddhist tags. Key is facet/value (lowercase ascii, one slash). The backend tag model is flat (title + description only), so the key is written as the first line of the description and mirrored here with the backend id once created. Renaming a tag on the backend means delete + recreate + re-attach: change keys here only before creation.",
+  "application": "webuddhist",
+  "tags": {
+    "practice/chant": {
+      "id": "FZ5STsdU0eLvo7Nb2CpvH",
+      "title": {
+        "en": "Chants",
+        "bo": "ཞལ་འདོན།",
+        "zh": "課誦",
+        "hi": "पाठ",
+        "ne": "पाठ",
+        "vi": "Tụng niệm",
+        "mn": "Уншлага"
+      },
+      "description": "Texts recited as practice in the WeBuddhist app; drives the Chants screen. Replaces the use of the Liturgy category for that purpose."
+    },
+    "tradition/theravada": {
+      "id": "296WZOr8MXWteSqBBI7pl",
+      "title": {
+        "en": "Theravāda",
+        "bo": "གནས་བརྟན་སྡེ་པ།",
+        "zh": "上座部",
+        "hi": "थेरवाद",
+        "ne": "थेरवाद",
+        "vi": "Theravāda",
+        "mn": "Тэравада"
+      },
+      "description": "Buddhist tradition of the text, mirroring the app's onboarding choice 'Pāli scriptures'. Applied to root texts; the backend cascades it to their translations."
+    },
+    "tradition/mahayana": {
+      "id": "zjHEBN2egpftHD7BRMQko",
+      "title": {
+        "en": "Mahāyāna",
+        "bo": "ཐེག་པ་ཆེན་པོ།",
+        "zh": "大乘",
+        "hi": "महायान",
+        "ne": "महायान",
+        "vi": "Đại thừa",
+        "mn": "Их хөлгөн"
+      },
+      "description": "Buddhist tradition of the text, mirroring the app's onboarding choice 'Chinese scriptures'. Applied to root texts; the backend cascades it to their translations."
+    },
+    "tradition/vajrayana": {
+      "id": "ZPcgMZgVJxAMQ7rpfW72a",
+      "title": {
+        "en": "Vajrayāna",
+        "bo": "རྡོ་རྗེ་ཐེག་པ།",
+        "zh": "金剛乘",
+        "hi": "वज्रयान",
+        "ne": "वज्रयान",
+        "vi": "Kim Cương thừa",
+        "mn": "Очир хөлгөн"
+      },
+      "description": "Buddhist tradition of the text, mirroring the app's onboarding choice 'Sanskrit & Tibetan scriptures'. Applied to root texts; the backend cascades it to their translations."
+    }
+  }
+}

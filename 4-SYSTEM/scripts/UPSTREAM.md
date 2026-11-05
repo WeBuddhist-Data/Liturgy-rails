@@ -28,5 +28,12 @@ not theorised (see `.claude/skills/block-ids/SKILL.md`):
    preceded by one is swallowed into the previous block, leaking raw `^id`
    and `##` markup into the uploaded content. Silent — no warning.
 
-Both are arguably upstream bugs and should be offered back rather than
+3. `<small>…</small>` (yigchung, ཡིག་ཆུང — a rubric set in small type) is an
+   annotation, not text. Upstream has no notion of it, so the raw tags were
+   measured into `content` and into the character spans. The tags are now
+   dropped and the text between them kept, before `pos` advances. 7 notes
+   carry 13 of them; the live backend already stores `བཀའ་ཐང་བསྡུས་པ།` this
+   way, so this makes the parser agree with the backend rather than diverge.
+
+All three are arguably upstream bugs and should be offered back rather than
 carried forever.
