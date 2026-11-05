@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62644321163d8ebc",
+        "id": "91991568b7118038",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa544fa9dc280c8",
+            "id": "b75346e85437b5c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/bo-jamyang-lodoe-recitation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bo-jamyang-lodoe-recitation"
             }
           }
         ]
@@ -192,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aa544fa9dc280c8",
+  "active": "b75346e85437b5c3",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.WAV",
     "5-REVIEW/not-done/1-upload-incomplete/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།-bo.md",
     "5-REVIEW/not-done/1-upload-incomplete/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།",
@@ -214,7 +219,6 @@
     "5-REVIEW/not-done/1-upload-incomplete/དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།/དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།-bo.md",
     "5-REVIEW/not-done/1-upload-incomplete/དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།",
     "5-REVIEW/not-done/1-upload-incomplete/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།-bo.md",
-    "5-REVIEW/not-done/1-upload-incomplete/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།",
     "5-REVIEW/not-done/1-upload-incomplete/གུ་རུ་ཐོལ་ཤགས།/གུ་རུ་ཐོལ་ཤགས།-bo.md",
     "5-REVIEW/not-done/1-upload-incomplete/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །-bo.md",
     "5-REVIEW/not-done/1-upload-incomplete/གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། །/གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། །-bo.md",
