@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d497988242d6352",
+        "id": "bc91e53bb3feef58",
         "type": "tabs",
         "children": [
           {
-            "id": "9e025fa8519837e6",
+            "id": "6381674d67d289d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e025fa8519837e6",
+  "active": "6381674d67d289d2",
   "lastOpenFiles": [
+    "1-SOURCES/Text/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །.md",
+    "1-SOURCES/Text/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།.md",
+    "1-SOURCES/Text/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+    "1-SOURCES/Text/ཁྱུང་པོའི་སྨོན་ལམ།.md",
     "1-SOURCES/Audio/ཚད་མེད་བཞི།/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/bo-jamyang-lodoe-recitation.md",
@@ -226,10 +230,6 @@
     "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/bo-jamyang-lodoe-recitation.md",
     "5-REVIEW/not-done/1-upload-incomplete/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།-bo.md",
     "5-REVIEW/not-done/1-upload-incomplete/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།-bo.md",
-    "5-REVIEW/not-done/1-upload-incomplete/རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།/རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།-bo.md",
-    "5-REVIEW/not-done/1-upload-incomplete/ཡིག་བརྒྱ།/ཡིག་བརྒྱ།-bo.md",
-    "5-REVIEW/not-done/1-upload-incomplete/འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།/འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།-bo.md",
-    "5-REVIEW/not-done/1-upload-incomplete/ཚེ་དཔག་མེད་ཀྱི་གཟུངས།/ཚེ་དཔག་མེད་ཀྱི་གཟུངས།-bo.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
