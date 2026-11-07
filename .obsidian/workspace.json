@@ -11,10 +11,14 @@
             "id": "6381674d67d289d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/Text 1/ཀྱེ་རྡོར་ལམ་དུས་མ་ནོར་དོན་གསལ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ཀྱེ་རྡོར་ལམ་དུས་མ་ནོར་དོན་གསལ།"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.9000244140625
+    "width": 478.16668701171875
   },
   "right": {
     "id": "a62d1a29f3f6d9a4",
@@ -194,6 +198,9 @@
   },
   "active": "6381674d67d289d2",
   "lastOpenFiles": [
+    "0-INBOX/Text 2/1 ལེའུ་དང་པོ།_.md",
+    "0-INBOX/Text 1/ཀྱེ་རྡོར་ལམ་དུས་མ་ནོར་དོན་གསལ།.md",
+    "0-INBOX/Text 1/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །.md",
     "1-SOURCES/Text/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།.md",
     "1-SOURCES/Text/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
@@ -227,9 +234,6 @@
     "1-SOURCES/Audio/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/བདུད་བཟློག་གསང་བའི་མན་ངག/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/bo-jamyang-lodoe-recitation.md",
-    "5-REVIEW/not-done/1-upload-incomplete/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།-bo.md",
-    "5-REVIEW/not-done/1-upload-incomplete/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།-bo.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
