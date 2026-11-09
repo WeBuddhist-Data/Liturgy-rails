@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Hundred Verses of Advice to the People of Tingri by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།/audio/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:14:07.14
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཕ་དམ་པ་སངས�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།/audio/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།.WAV]]
 
 
 

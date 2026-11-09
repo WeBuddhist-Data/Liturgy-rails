@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Short Praise of the Buddha's Deeds by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།.WAV
+    file: 1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།/audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:02:09.34
@@ -47,7 +47,7 @@ One recording of the root text [[1-SOURCES/Text/ཐུབ་པའི་བས�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།.WAV]]
+![[1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།/audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།.WAV]]
 
 ## Mapping
 

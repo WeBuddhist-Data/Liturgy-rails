@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Aspiration to be Reborn in the Pure Realm of Sukhāvatī (Chags med bde smon) by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-20 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཆགས་མེད་བདེ་སྨོན།/ཆགས་མེད་བདེ་སྨོན།.WAV
+    file: 1-SOURCES/Audio/ཆགས་མེད་བདེ་སྨོན།/audio/ཆགས་མེད་བདེ་སྨོན།.WAV
     version: recitation
     accompaniment: false
     duration: 00:26:20.14
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཆགས་མེད་བད�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཆགས་མེད་བདེ་སྨོན།/ཆགས་མེད་བདེ་སྨོན།.WAV]]
+![[1-SOURCES/Audio/ཆགས་མེད་བདེ་སྨོན།/audio/ཆགས་མེད་བདེ་སྨོན།.WAV]]
 
 
 

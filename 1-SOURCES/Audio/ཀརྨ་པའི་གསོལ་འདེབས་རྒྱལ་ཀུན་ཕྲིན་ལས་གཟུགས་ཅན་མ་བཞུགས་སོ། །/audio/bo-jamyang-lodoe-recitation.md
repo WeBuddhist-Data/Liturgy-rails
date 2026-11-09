@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Karmapa Prayer "Rgyal kun phrin las gzugs can ma" by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-18 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:03:33.09
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/bo-ཀརྨ་པའི་ག�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ།.WAV]]
 
 
 

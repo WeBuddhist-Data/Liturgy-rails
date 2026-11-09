@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of Praise of the Buddha by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།/audio/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:06:01.13
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཐབས་མཁས་ཐུ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།/audio/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།.WAV]]
 
 
 

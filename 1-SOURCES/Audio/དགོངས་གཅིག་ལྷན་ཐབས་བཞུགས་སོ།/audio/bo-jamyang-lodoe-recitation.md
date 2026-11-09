@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Supplement to the Single Intention by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:04:30.35
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/དགོངས་གཅིག�
 
 ## Recitation
 
-![[1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.WAV]]
 
 
 

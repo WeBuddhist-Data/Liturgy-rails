@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of Praise to Lord Atisha by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-21 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།/audio/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:11:19.70
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཇོ་བོ་རྗེའ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།/audio/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།.WAV]]
 
 
 

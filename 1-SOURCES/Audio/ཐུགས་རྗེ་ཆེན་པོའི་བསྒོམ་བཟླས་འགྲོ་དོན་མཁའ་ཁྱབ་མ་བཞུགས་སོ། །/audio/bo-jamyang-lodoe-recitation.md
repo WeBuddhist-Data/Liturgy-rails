@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of Benefiting Beings Pervading Space: The Meditation and Recitation of the Great Compassionate One by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །.WAV
+    file: 1-SOURCES/Audio/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །/audio/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །.WAV
     version: recitation
     accompaniment: false
     duration: 00:08:05.15
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཐུགས་རྗེ་ཆ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །.WAV]]
+![[1-SOURCES/Audio/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །/audio/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །.WAV]]
 
 
 

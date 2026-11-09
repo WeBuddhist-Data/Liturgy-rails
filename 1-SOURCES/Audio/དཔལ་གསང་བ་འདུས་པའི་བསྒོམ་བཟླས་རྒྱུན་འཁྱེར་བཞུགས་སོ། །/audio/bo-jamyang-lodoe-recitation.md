@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of A Daily Practice of the Meditation and Recitation of Glorious Guhyasamāja by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV
+    file: 1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV
     version: recitation
     accompaniment: false
     duration: 00:11:18.54
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/དཔལ་གསང་བ་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV]]
+![[1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV]]
 
 
 

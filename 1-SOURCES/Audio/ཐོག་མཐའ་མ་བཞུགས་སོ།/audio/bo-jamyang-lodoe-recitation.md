@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of A Prayer for the Beginning, Middle, and End of Practice by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/ཐོག་མཐའ་མ་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/audio/ཐོག་མཐའ་མ་བཞུགས་སོ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:10:01.54
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཐོག་མཐའ་མ་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/ཐོག་མཐའ་མ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/audio/ཐོག་མཐའ་མ་བཞུགས་སོ།.WAV]]
 
 
 

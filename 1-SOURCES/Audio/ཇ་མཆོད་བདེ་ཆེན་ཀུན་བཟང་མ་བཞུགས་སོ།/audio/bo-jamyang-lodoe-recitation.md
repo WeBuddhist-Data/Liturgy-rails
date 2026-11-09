@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of Great Bliss Samantabhadra: A Tea Offering by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-21 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།/audio/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:02:41.54
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཇ་མཆོད་བདེ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།/audio/ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ།.WAV]]
 
 
 

@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of Prayer to the Successive Incarnations of the Tai Situ by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-21 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།.WAV
+    file: 1-SOURCES/Audio/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།/audio/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།.WAV
     version: recitation
     accompaniment: false
     duration: 00:03:01.15
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཏཱ་ཡི་སི་ཏ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།.WAV]]
+![[1-SOURCES/Audio/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།/audio/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།.WAV]]
 
 
 

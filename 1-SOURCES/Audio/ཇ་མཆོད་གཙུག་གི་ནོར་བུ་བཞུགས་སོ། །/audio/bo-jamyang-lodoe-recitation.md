@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of The Tea Offering: The Crown Jewel by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-21 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.WAV
+    file: 1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.WAV
     version: recitation
     accompaniment: false
     duration: 00:03:37.58
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཇ་མཆོད་གཙུ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.WAV]]
+![[1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.WAV]]
 
 
 

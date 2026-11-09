@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of The Sage's Harmonious Song of Truth: A Prayer for the Flourishing of the Non-Sectarian Teachings of the Buddha by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.WAV
+    file: 1-SOURCES/Audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།/audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:08:03.23
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཐུབ་བསྟན་ར�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.WAV]]
+![[1-SOURCES/Audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།/audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.WAV]]
 
 
 

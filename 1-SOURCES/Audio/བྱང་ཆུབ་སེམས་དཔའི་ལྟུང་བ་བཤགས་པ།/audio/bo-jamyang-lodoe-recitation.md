@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Bodhisattva's Confession of Downfalls by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-18 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.WAV
+    file: 1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:07:27.09
@@ -47,7 +47,7 @@ One recording of the root text [[1-SOURCES/Text/བྱང་ཆུབ་སེ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.WAV]]
+![[1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.WAV]]
 
 ## Mapping
 

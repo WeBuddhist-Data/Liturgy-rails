@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Prayer to the Seventeen Great Paṇḍitas of Glorious Nālandā by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV
+    file: 1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV
     version: recitation
     accompaniment: false
     duration: 00:09:15.52
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/དཔལ་ནཱ་ལེན�
 
 ## Recitation
 
-![[1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV]]
+![[1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV]]
 
 
 

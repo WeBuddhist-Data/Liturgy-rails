@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Praise of the Twelve Deeds of the Buddha by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV
+    file: 1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/audio/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:04:31.21
@@ -47,7 +47,7 @@ One recording of the root text [[1-SOURCES/Text/ཐུབ་པའི་མཛ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV]]
+![[1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/audio/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV]]
 
 ## Mapping
 

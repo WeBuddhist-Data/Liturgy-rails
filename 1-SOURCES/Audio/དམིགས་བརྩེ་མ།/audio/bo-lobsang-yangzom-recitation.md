@@ -33,7 +33,7 @@ One recording of the root text [[1-SOURCES/Text/དམིགས་བརྩེ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/དམིགས་བརྩེ་མ།/དམིགས་རྩེ་མ།.wav]]
+![[1-SOURCES/Audio/དམིགས་བརྩེ་མ།/audio/དམིགས་རྩེ་མ།.wav]]
 
 ## Mapping
 

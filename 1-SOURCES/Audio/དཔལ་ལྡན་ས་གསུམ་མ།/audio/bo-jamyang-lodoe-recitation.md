@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of The Glorious Three Realms: A Supplication to Je Tsongkhapa by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/དཔལ་ལྡན་ས་གསུམ་མ།.WAV
+    file: 1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:11:32.71
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/དཔལ་ལྡན་ས་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/དཔལ་ལྡན་ས་གསུམ་མ།.WAV]]
+![[1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV]]
 
 
 

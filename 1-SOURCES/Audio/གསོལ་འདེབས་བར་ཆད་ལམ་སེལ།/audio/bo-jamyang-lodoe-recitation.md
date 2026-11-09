@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Prayer Which Removes All Obstacles from the Path by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-14 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.WAV
+    file: 1-SOURCES/Audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།/audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:12:11.96
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/གསོལ་འདེབས�
 
 ## Recitation
 
-![[1-SOURCES/Audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.WAV]]
+![[1-SOURCES/Audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།/audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.WAV]]
 
 
 

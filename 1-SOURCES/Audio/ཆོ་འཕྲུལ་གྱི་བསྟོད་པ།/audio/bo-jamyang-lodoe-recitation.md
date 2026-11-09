@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of In Praise of the Miracles by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-20 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV
+    file: 1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:04:58.07
@@ -49,7 +49,7 @@ One recording of the root text [[1-SOURCES/Text/ཆོ་འཕྲུལ་ག�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV]]
+![[1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV]]
 
 
 

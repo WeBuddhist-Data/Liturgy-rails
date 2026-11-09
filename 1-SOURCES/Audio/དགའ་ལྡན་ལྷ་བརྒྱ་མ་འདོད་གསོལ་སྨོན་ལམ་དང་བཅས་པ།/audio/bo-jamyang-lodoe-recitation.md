@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Hundred Deities of Tushita with Aspiration by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།.WAV
+    file: 1-SOURCES/Audio/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།/audio/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:06:56.90
@@ -47,7 +47,7 @@ One recording of the root text [[1-SOURCES/Text/དགའ་ལྡན་ལྷ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།.WAV]]
+![[1-SOURCES/Audio/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།/audio/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།.WAV]]
 
 ## Mapping
 

@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of Gelongma Palmo's Praise of Avalokiteshvara by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའིའཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.WAV
+    file: 1-SOURCES/Audio/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།/audio/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའིའཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.WAV
     version: recitation
     accompaniment: false
     duration: 00:03:21.98
@@ -47,7 +47,7 @@ One recording of the root text [[1-SOURCES/Text/དགེ་སློང་མ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའིའཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.WAV]]
+![[1-SOURCES/Audio/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།/audio/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའིའཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.WAV]]
 
 ## Mapping
 
