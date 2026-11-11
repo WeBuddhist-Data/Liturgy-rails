@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18516c98f13ee9a0",
+        "id": "e05615b14edc117f",
         "type": "tabs",
         "children": [
           {
-            "id": "732720e2bccdc058",
+            "id": "85135c5956f6080a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/audio/bo-jamyang-lodoe-recitation.md",
+                "file": "1-SOURCES/Text/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-jamyang-lodoe-recitation"
+              "title": "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།"
             }
           }
         ]
@@ -196,44 +196,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "732720e2bccdc058",
+  "active": "85135c5956f6080a",
   "lastOpenFiles": [
-    "1-SOURCES/Audio/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །/སྒྲ/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Text/རྟེན་འབྲེལ་བསྟོད་པ།.md",
+    "1-SOURCES/Text/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.md",
+    "1-SOURCES/Text/རྗེ་གསང་བའི་རྣམ་ཐར།.md",
+    "1-SOURCES/Text/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.md",
+    "1-SOURCES/Text/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.md",
+    "1-SOURCES/Text/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།.md",
+    "1-SOURCES/Text/འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+    "1-SOURCES/Text/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།.md",
+    "1-SOURCES/Text/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།.md",
+    "1-SOURCES/Text/རི་བོ་བསངས་མཆོད་བཞུགས་སོ༔.md",
+    "1-SOURCES/Text/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།.md",
+    "1-SOURCES/Text/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།.md",
+    "1-SOURCES/Text/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.md",
+    "1-SOURCES/Text/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.md",
+    "1-SOURCES/Text/འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ། །.md",
+    "1-SOURCES/Text/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.md",
+    "1-SOURCES/Text/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.md",
+    "0-INBOX/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.md",
+    "0-INBOX/འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+    "0-INBOX/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།.md",
+    "0-INBOX/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.md",
+    "0-INBOX/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.md",
+    "0-INBOX/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།.md",
+    "0-INBOX/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
+    "0-INBOX/འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ།.md",
+    "0-INBOX/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།.md",
     "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ།.WAV",
-    "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio",
     "1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.WAV",
     "1-SOURCES/Audio/ཁྱུང་པོའི་སྨོན་ལམ།/otr",
     "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/otr",
     "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/New folder",
-    "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།.WAV",
     "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/audio",
     "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/otr",
     "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/New folder",
-    "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཚད་མེད་བཞི།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/མཎྜལ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/མར་མེའི་སྨོན་ལམ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/མཁས་གྲུབ་རྗེའི་བསྟོད་པ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།/audio/bo-jamyang-lodoe-recitation.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
