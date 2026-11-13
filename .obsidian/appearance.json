@@ -1,4 +1,5 @@
 {
   "interfaceFontFamily": "Kalsang QUSE",
-  "textFontFamily": "Kalsang QUSE"
+  "textFontFamily": "Kalsang QUSE",
+  "showRibbon": true
 }
