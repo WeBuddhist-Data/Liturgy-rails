@@ -1,103 +1,89 @@
 ---
-title: དཔལ་ལྡན་ས་གསུམ་མ། — Recitation by Jamyang Lodoe
-alt_titles:
-  - en: "The Glorious Three Realms: A Supplication to Je Tsongkhapa — recitation by Jamyang Lodoe"
+title: "དཔལ་ལྡན་ས་གསུམ་མ། — Recitation by Jamyang Lodoe"
+title_en: "The Glorious Three Realms: A Supplication to Je Tsongkhapa — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
 artist: Jamyang Lodoe
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/དཔལ་ལྡན་ས་གསུམ་མ།]]"
-root_text_title: དཔལ་ལྡན་ས་གསུམ་མ།
-recording_date: 2024-01-23
+root_text_title: "དཔལ་ལྡན་ས་གསུམ་མ།"
+source_description: "Single recording of the recitation of The Glorious Three Realms: A Supplication to Je Tsongkhapa by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-14 (from the BWF tags embedded in the file)."
+recording_date: 2024-02-14
 production_software: ZOOM H1essential (field recorder)
-source_description: "Single recording of the recitation of The Glorious Three Realms: A Supplication to Je Tsongkhapa by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file)."
-recordings:
-  - id: recitation
-    file: 1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV
-    version: recitation
-    accompaniment: false
-    duration: 00:11:32.71
-    duration_seconds: 692.715
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
-    sample_rate_hz: 48000
-    bit_depth: 32
-    channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 266035200
-    sha256: 2012cfdf0f6133b17c08ae87051972e0188b3df2d50c7a09c5a692ebd488901b
-    embedded_tags:
-      encoded_by: ZOOM H1essential
-      date: 2024-01-23
-      creation_time: 13:52:44
-      scene: 230124-135244
-      tracks: TrMicL, TrMicR
-      coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
-Timestamp: pending
-license: unknown
-status: TOC added
+audio_file: "1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV"
+accompaniment: false
+duration: "00:26:37.17"
+duration_seconds: 1597.173
+format: "WAV (BWF)"
+codec: "PCM 32-bit float little-endian"
+sample_rate_hz: 48000
+bit_depth: 32
+channels: 2
+bit_rate_kbps: 3072
+file_size_bytes: 613347328
+sha256: 8e6ae2d0c79a57ff85fb3c2f1bc2c63f5fa3621291cf2dc17f9e15b91cca7ee3
+recording_time: "16:21:31"
+scene: "140224-162131"
 ---
 
 # དཔལ་ལྡན་ས་གསུམ་མ། — Jamyang Lodoe
 
-One recording of the root text [[1-SOURCES/Text/དཔལ་ལྡན་ས་གསུམ་མ།|དཔལ་ལྡན་ས་གསུམ་མ།]], recited by **Jamyang Lodoe**. Recorded on a ZOOM H1essential on 2024-01-23 at 13:52:44.
+One recording of the root text [[1-SOURCES/Text/དཔལ་ལྡན་ས་གསུམ་མ།|དཔལ་ལྡན་ས་གསུམ་མ།]], recited by **Jamyang Lodoe**. Recorded on a ZOOM H1essential on 2024-02-14 at 16:21:31.
 
-| Version    | File | Duration | Format                             |
-| ---------- | ---- | -------- | ---------------------------------- |
-| Recitation | `དཔལ་ལྡན་ས་གསུམ་མ།.WAV` | 11:32.71 | WAV, 32-bit float / 48 kHz, stereo |
+| Version    | File | Duration | Format |
+| ---------- | ---- | -------- | ------ |
+| Recitation | `དཔལ་ལྡན་ས་གསུམ་མ།.WAV` | 26:37.17 | WAV, 32-bit float / 48 kHz, stereo |
 
 ## Recitation
 
 ![[1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV]]
 
-
-
-
 ## Mapping
 
-Total duration 11:32.71. Start/End to be filled from the audio (mm:ss.s).
+Total duration 26:37.17. Start/End to be filled from the audio (mm:ss.s). Section numbers follow the block IDs (`^n`) of the root text.
 
 | #   | Section | Text (first line) | Start | End |
 | --- | ------- | ----------------- | ----- | --- |
-| 0 | མགོ་བརྩམས། (title) | ༄༅། །དཔལ་ལྡན་ས་གསུམ་མ། |  |  |
-| 1 | (stanza 1) | དཔལ་ལྡན་རྩ་བའི་བླ་མ་རིན་པོ་ཆེ། ། |  |  |
-| 2 | (stanza 2) | དཔལ་ལྡན་ས་གསུམ་འགྲོ་བའི་མིག་གཅིག་པུ། ། |  |  |
-| 3 | (stanza 3) | རྒྱལ་བའི་སྤྱན་སྔར་བྱང་ཆུབ་སྤྱོད་པ་བླངས། ། |  |  |
-| 4 | (stanza 4) | རྒྱ་ཆེན་བསོད་ནམས་སྨིན་པའི་མཐུ་ལྡན་པས། ། |  |  |
-| 5 | (stanza 5) | ཁྱེད་སྐུའི་ཉིན་བྱེད་ཡུམ་གྱི་ཆུ་འཛིན་ལས། ། |  |  |
-| 6 | (stanza 6) | གཞོན་ནུ་ཉིད་ནས་རྒྱལ་བའི་བརྟུལ་ཞུགས་ཀུན། ། |  |  |
-| 7 | (stanza 7) | རྒྱལ་བའི་གསུང་རབ་ཀུན་གྱི་ཚིག་དོན་ལ། ། |  |  |
-| 8 | (stanza 8) | ཚིག་ཕྲེང་ཝུ་བས་ངོམས་པ་མི་མངའ་ཞིང་། ། |  |  |
-| 9 | (stanza 9) | རྟོག་གེ་ལ་སྦྱངས་རྒོལ་བ་མཐའ་དག་གིས། ། |  |  |
-| 10 | (stanza 10) | འཕགས་ཡུལ་ཤིང་རྟ་ཆེ་རྣམས་བཞེད་པའི་གཞུང་། ། |  |  |
-| 11 | (stanza 11) | དེ་ཕྱིར་མཁས་མཆོག་ཀུན་གྱི་ཅོད་པན་ལ། ། |  |  |
-| 12 | (stanza 12) | རྒྱལ་བའི་མཁྱེན་པས་ཇི་ཙམ་ལེགས་དཔྱད་ཀྱང་། ། |  |  |
-| 13 | (stanza 13) | རིན་ཆེན་འབྱུང་གནས་ཆུ་ཡི་ཕུང་པོ་བཞིན། ། |  |  |
-| 14 | (stanza 14) | ཁྱེད་ཀྱི་ལྷག་བསམ་ཕྱོགས་ལ་མ་བླངས་པའི། ། |  |  |
-| 15 | (stanza 15) | མགོན་པོ་ཁྱེད་ཀྱི་ཞལ་གྱི་དབུགས་ཙམ་ཡང་། ། |  |  |
-| 16 | (stanza 16) | འཇམ་པའི་དབྱངས་ཀྱིས་ཁྱེད་ལ་མངོན་སུམ་དུ། ། |  |  |
-| 17 | (stanza 17) | ཐུབ་བསྟན་པདྨོའི་ཚལ་ལ་འཇིག་རྟེན་འདིར། ། |  |  |
-| 18 | (stanza 18) | གྲངས་མེད་རྒྱལ་བའི་སྐུ་ཡི་རྒྱལ་མཚན་གཟིགས། ། |  |  |
-| 19 | (stanza 19) | ཀླུ་སྒྲུབ་འཕགས་པ་ལྷ་དང་སངས་རྒྱས་བསྐྱངས། ། |  |  |
-| 20 | (stanza 20) | ཁྱེད་ཀྱིས་ཆོས་ཉིད་ནམ་མཁའི་དཀྱིལ་ལྟ་བུ།། |  |  |
-| 21 | (stanza 21) | ཐུབ་པའི་ལེགས་བཤད་ཀུན་གྱི་མཐར་ཐུག་པ། ། |  |  |
-| 22 | (stanza 22) | ཕྱོགས་འདིར་སྔོན་ཆད་གཞན་གྱིས་མ་མྱངས་པའི། ། |  |  |
-| 23 | (stanza 23) | ཕྲ་རགས་ལྷ་ཡི་རྣལ་འབྱོར་མཐར་ཕྱིན་པས།། |  |  |
-| 24 | (stanza 24) | ཀུན་རྟོག་རླུང་གི་རྒྱུ་བ་དྷཱ་ཏཱིར་དེངས། ། |  |  |
-| 25 | (stanza 25) | མཐའ་ཡས་སྨོན་ལམ་སྟོབས་མངའ་ཐབས་མཁས་ཀྱིས། ། |  |  |
-| 26 | (stanza 26) | ཚིག་སྤྱིའི་བཤད་སྒྲུབ་རྟགས་ཀྱི་དགེ་སྦྱོང་གིས། ... ... |  |  |
-| 27 | (stanza 27) | བསམས་བཞིན་ཞིང་འདིར་སྐུ་ཡི་བཀོད་པ་ནི། ། ། |  |  |
-| 28 | (stanza 28) | འོད་གསལ་ཆོས་སྐུ་མངོན་དུ་མཛད་གྱུར་པ། ། |  |  |
-| 29 | (stanza 29) | དེང་ནས་བརྩམས་ཏེ་ཚེ་རབས་ཀུན་ཏུ་བདག ། |  |  |
-| 30 | (stanza 30) | རྙེད་བཀུར་དོན་གཉེར་ཚེ་འདིའི་སྣང་བ་དང་། ། |  |  |
-| 31 | (stanza 31) | ཕྲ་ཞིང་མཛངས་ལ་ཞིབ་པའི་བློ་གྲོས་ཀྱིས། ། |  |  |
-| 32 | (stanza 32) | རྣམ་མང་རྒྱུད་སྡེའི་དོན་ལ་ངེས་རྙེད་ནས། ། |  |  |
-| 33 | (stanza 33) | མདོར་ན་རྒྱལ་བའི་དམ་ཆོས་མཐའ་དག་དང་། ། |  |  |
-| 34 | (stanza 34) | དགེ་བ་འདི་ཡིས་སྐྱེ་བ་ཐམས་ཅད་དུ། ། |  |  |
-| 35 | (stanza 35) | གཞན་ཡང་བདག་གིས་བགྱིས་དང་བགྱིད་འགྱུར་བའི། ། |  |  |
-| 36 | (stanza 36) | ཚེ་རབས་ཀུན་ཏུ་རྒྱལ་བ་ཙོང་ཁ་པས། ། |  |  |
-| 37 | (stanza 37) | ཐེག་ཆེན་ལམ་གྱིས་གཞུང་ཤིང་བྱང་ཆུབ་སེམས། ། |  |  |
-| 38 | (stanza 38) | སྡེ་སྣོད་གསུམ་དང་རྒྱུད་སྡེ་རྣམ་པ་བཞི།། |  |  |
-| 39 | ཐ་མ། (colophon) | ཅེས་རྒྱལ་བ་ཐམས་ཅད་ཀྱི་མཁྱེན་བརྩེ་གཅིག་ཏུ་བསྡུས་པའི་ངོ་བོ། ... |  |  |
-|     |         |                   |       |     |
+| 0 | (title) | ༄༅། །དཔལ་ལྡན་ས་གསུམ་མ། ། |  |  |
+| 0-1 | (verse 0-1) | དཔལ་ལྡན་རྩ་བའི་བླ་མ་རིན་པོ་ཆེ། ། |  |  |
+| 0-2 | (verse 0-2) | དཔལ་ལྡན་ས་གསུམ་འགྲོ་བའི་མིག་གཅིག་པུ། ། |  |  |
+| 0-3 | (verse 0-3) | རྒྱལ་བའི་སྤྱན་སྔར་བྱང་ཆུབ་སྤྱོད་པ་བླངས། ། |  |  |
+| 0-4 | (verse 0-4) | རྒྱ་ཆེན་བསོད་ནམས་སྨིན་པའི་མཐུ་ལྡན་པས། ། |  |  |
+| 0-5 | (verse 0-5) | ཁྱེད་སྐུའི་ཉིན་བྱེད་ཡུམ་གྱི་ཆུ་འཛིན་ལས། ། |  |  |
+| 0-6 | (verse 0-6) | གཞོན་ནུ་ཉིད་ནས་རྒྱལ་བའི་བརྟུལ་ཞུགས་ཀུན། ། |  |  |
+| 0-7 | (verse 0-7) | རྒྱལ་བའི་གསུང་རབ་ཀུན་གྱི་ཚིག་དོན་ལ། ། |  |  |
+| 0-8 | (verse 0-8) | ཚིག་ཕྲེང་ཝུ་བས་ངོམས་པ་མི་མངའ་ཞིང་། ། |  |  |
+| 0-9 | (verse 0-9) | རྟོག་གེ་ལ་སྦྱངས་རྒོལ་བ་མཐའ་དག་གིས། ། |  |  |
+| 0-10 | (verse 0-10) | འཕགས་ཡུལ་ཤིང་རྟ་ཆེ་རྣམས་བཞེད་པའི་གཞུང་། ། |  |  |
+| 0-11 | (verse 0-11) | དེ་ཕྱིར་མཁས་མཆོག་ཀུན་གྱི་ཅོད་པན་ལ། ། |  |  |
+| 0-12 | (verse 0-12) | རྒྱལ་བའི་མཁྱེན་པས་ཇི་ཙམ་ལེགས་དཔྱད་ཀྱང་། ། |  |  |
+| 0-13 | (verse 0-13) | རིན་ཆེན་འབྱུང་གནས་ཆུ་ཡི་ཕུང་པོ་བཞིན། ། |  |  |
+| 0-14 | (verse 0-14) | ཁྱེད་ཀྱི་ལྷག་བསམ་ཕྱོགས་ལ་མ་བླངས་པའི། ། |  |  |
+| 0-15 | (verse 0-15) | མགོན་པོ་ཁྱེད་ཀྱི་ཞལ་གྱི་དབུགས་ཙམ་ཡང་། ། |  |  |
+| 0-16 | (verse 0-16) | འཇམ་པའི་དབྱངས་ཀྱིས་ཁྱེད་ལ་མངོན་སུམ་དུ། ། |  |  |
+| 0-17 | (verse 0-17) | ཐུབ་བསྟན་པདྨོའི་ཚལ་ལ་འཇིག་རྟེན་འདིར། ། |  |  |
+| 0-18 | (verse 0-18) | གྲངས་མེད་རྒྱལ་བའི་སྐུ་ཡི་རྒྱལ་མཚན་གཟིགས། ། |  |  |
+| 0-19 | (verse 0-19) | ཀླུ་སྒྲུབ་འཕགས་པ་ལྷ་དང་སངས་རྒྱས་བསྐྱངས། ། |  |  |
+| 0-20 | (verse 0-20) | ཁྱེད་ཀྱིས་ཆོས་ཉིད་ནམ་མཁའི་དཀྱིལ་ལྟ་བུ།། |  |  |
+| 0-21 | (verse 0-21) | ཐུབ་པའི་ལེགས་བཤད་ཀུན་གྱི་མཐར་ཐུག་པ། ། |  |  |
+| 0-22 | (verse 0-22) | ཕྱོགས་འདིར་སྔོན་ཆད་གཞན་གྱིས་མ་མྱངས་པའི། ། |  |  |
+| 0-23 | (verse 0-23) | ཕྲ་རགས་ལྷ་ཡི་རྣལ་འབྱོར་མཐར་ཕྱིན་པས།། |  |  |
+| 0-24 | (verse 0-24) | ཀུན་རྟོག་རླུང་གི་རྒྱུ་བ་དྷཱ་ཏཱིར་དེངས། ། |  |  |
+| 0-25 | (verse 0-25) | མཐའ་ཡས་སྨོན་ལམ་སྟོབས་མངའ་ཐབས་མཁས་ཀྱིས། ། |  |  |
+| 0-26 | (verse 0-26) | ཚིག་སྤྱིའི་བཤད་སྒྲུབ་རྟགས་ཀྱི་དགེ་སྦྱོང་གིས། ། |  |  |
+| 0-27 | (verse 0-27) | བསམས་བཞིན་ཞིང་འདིར་སྐུ་ཡི་བཀོད་པ་ནི། ། ། |  |  |
+| 0-28 | (verse 0-28) | འོད་གསལ་ཆོས་སྐུ་མངོན་དུ་མཛད་གྱུར་པ། ། |  |  |
+| 0-29 | (verse 0-29) | དེང་ནས་བརྩམས་ཏེ་ཚེ་རབས་ཀུན་ཏུ་བདག ། |  |  |
+| 0-30 | (verse 0-30) | རྙེད་བཀུར་དོན་གཉེར་ཚེ་འདིའི་སྣང་བ་དང་། ། |  |  |
+| 0-31 | (verse 0-31) | ཕྲ་ཞིང་མཛངས་ལ་ཞིབ་པའི་བློ་གྲོས་ཀྱིས། ། |  |  |
+| 0-32 | (verse 0-32) | རྣམ་མང་རྒྱུད་སྡེའི་དོན་ལ་ངེས་རྙེད་ནས། ། |  |  |
+| 0-33 | (verse 0-33) | མདོར་ན་རྒྱལ་བའི་དམ་ཆོས་མཐའ་དག་དང་། ། |  |  |
+| 0-34 | (verse 0-34) | དགེ་བ་འདི་ཡིས་སྐྱེ་བ་ཐམས་ཅད་དུ། ། |  |  |
+| 0-35 | (verse 0-35) | གཞན་ཡང་བདག་གིས་བགྱིས་དང་བགྱིད་འགྱུར་བའི། ། |  |  |
+| 0-36 | (verse 0-36) | ཚེ་རབས་ཀུན་ཏུ་རྒྱལ་བ་ཙོང་ཁ་པས། ། |  |  |
+| 0-37 | (verse 0-37) | ཐེག་ཆེན་ལམ་གྱིས་གཞུང་ཤིང་བྱང་ཆུབ་སེམས། ། |  |  |
+| 0-38 | (verse 0-38) | སྡེ་སྣོད་གསུམ་དང་རྒྱུད་སྡེ་རྣམ་པ་བཞི།། |  |  |
+| 1-0 | (section heading) | མཇུག་བྱང་། |  |  |
+| 1-1-0 | (section heading) | མཛད་བྱང་། |  |  |
+| 1-1-1 | (verse 1-1-1) | ཅེས་རྒྱལ་བ་ཐམས་ཅད་ཀྱི་མཁྱེན་བརྩེ་གཅིག་ཏུ་བསྡུས་པའི... |  |  |
