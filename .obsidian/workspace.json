@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/Text 1/དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+                "file": "1-SOURCES/Text/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།"
+              "title": "ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "0f193b2e659c117e",
   "lastOpenFiles": [
-    "1-SOURCES/titles-list.md",
+    "1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།/otr/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།.otr",
     "0-INBOX/Text 1/དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+    "1-SOURCES/titles-list.md",
     "1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV",
     "1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/otr",
@@ -233,7 +234,6 @@
     "1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Text/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.md",
     "1-SOURCES/Text/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.md",
-    "1-SOURCES/Text/ཡོན་ཏན་གཞིར་གྱུར་མ་བཞུགས་སོ།.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
