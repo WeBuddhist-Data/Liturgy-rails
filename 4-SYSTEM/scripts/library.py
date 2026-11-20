@@ -133,6 +133,9 @@ def main(argv=None):
     a = ap.parse_args(argv)
 
     env = envs.get(a.env)
+    if env.key_dotenv and not env.api_key():
+        raise SystemExit(f"{env.name} needs its own API key: add {env.key_dotenv[0]}=… to the vault's "
+                         "git-ignored .env. Never paste it into chat.")
     if a.command in WRITE and a.yes and env.protected and a.confirm != env.name:
         raise SystemExit(f"{env.name} is protected: add --confirm {env.name} to send")
     if a.command == "delete":
