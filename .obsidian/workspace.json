@@ -196,8 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec047b4d4b36409",
+  "active": "74bd95f2146a1a4c",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/ཡོན་ཏན་གཞིར་གྱུར་མ་བཞུགས་སོ། །/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །/bo-jamyang-lodoe-recitation.md",
     "4-SYSTEM/scripts/webuddhist/__init__.py",
     "4-SYSTEM/scripts/webuddhist/text.py",
     "4-SYSTEM/scripts/webuddhist/plan.py",
@@ -209,7 +215,6 @@
     "4-SYSTEM/scripts/linter-audio/README.md",
     "4-SYSTEM/scripts/linter-audio/lint_audio.py",
     "4-SYSTEM/scripts/linter-audio/audio_note.py",
-    "4-SYSTEM/scripts/linter-audio",
     "4-SYSTEM/Skills/Library-Upload/SKILL.md",
     "0-INBOX/Text 1/མཁས་གྲུབ་རྟོགས་ལྡན་རིན་པོ་ཆེ་གྲགས་པ་སེང་གེའི་རྣམ་ཐར་གསོལ་འདེབས།.md",
     "0-INBOX/Text 1/མཁས་གྲུབ་ཁྱུང་པོ་རྣལ་འབྱོཪ་ལ་བསྔགས་པ་ཨུ་དུམྦ་རའི་འཛུམ་ཟེར་ཅེས་བྱ་བ།.md",
@@ -229,11 +234,6 @@
     "1-SOURCES/titles-list.md",
     "1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/གུ་རུ་ཐོལ་ཤགས།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཐང་སྟོང་རྒྱལ་པོའི་གསུང་སྤྱན་རས་གཟིགས་ཀྱི་སྒོམ་བཟླས།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/དཔལ་རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
