@@ -1,0 +1,57 @@
+---
+title: "ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ།། — Recitation by Jamyang Lodoe"
+file_type: audio
+language: Tibetan
+lang_tag: bo
+artist: Jamyang Lodoe
+performance_type: recitation
+root_text: "[[1-SOURCES/Text/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །]]"
+root_text_title: "ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ།།"
+source_description: "Single recording of the recitation of ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ།། by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-12 (from the BWF tags embedded in the file)."
+recording_date: 2024-02-12
+production_software: ZOOM H1essential (field recorder)
+audio_file: "1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV"
+accompaniment: false
+duration: "00:04:00.56"
+duration_seconds: 240.569
+format: "WAV (BWF)"
+codec: "PCM 32-bit float little-endian"
+sample_rate_hz: 48000
+bit_depth: 32
+channels: 2
+bit_rate_kbps: 3073
+file_size_bytes: 92411392
+sha256: 232fd8faa756f1ce6d696851a474d08ecd94f31ccfd148f3d4ec07dd543b728e
+recording_time: "13:20:49"
+scene: "120224-132049"
+---
+
+# ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ།། — Jamyang Lodoe
+
+One recording of the root text [[1-SOURCES/Text/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །|ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ།།]], recited by **Jamyang Lodoe**. Recorded on a ZOOM H1essential on 2024-02-12 at 13:20:49.
+
+| Version    | File | Duration | Format |
+| ---------- | ---- | -------- | ------ |
+| Recitation | `ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV` | 4:00.56 | WAV, 32-bit float / 48 kHz, stereo |
+
+## Recitation
+
+![[1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV]]
+
+## Mapping
+
+Total duration 4:00.56. Start/End to be filled from the audio (mm:ss.s). Section numbers follow the block IDs (`^n`) of the root text.
+
+| #   | Section | Text (first line) | Start | End |
+| --- | ------- | ----------------- | ----- | --- |
+| 0 | (title) | ༄༅། །ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་... |  |  |
+| 1-0 | (section heading) | ཀླུ་བསངས་དངོས། |  |  |
+| 1-1 | (verse 1-1) | ཀྱེ། རྒྱ་མཚོ་ཆེ་དང་རོལ་མཚོ་བདུན། ། |  |  |
+| 1-2 | (verse 1-2) | གཡུ་ཤུག་ཕྱེ་མར་གསུར་གྱིས་བསངས། ། |  |  |
+| 1-3 | (verse 1-3) | གཡུ་ཤུག་ཕྱེ་མར་གསུར་གྱིས་བསངས། ། |  |  |
+| 1-4 | (verse 1-4) | གཡུ་ཤུག་ཕྱེ་མར་གསུར་གྱིས་བསངས། ། |  |  |
+| 1-5 | (verse 1-5) | གཞན་ཡང་ཡུལ་ཕྱོགས་འདིར་གནས་པའི། ། |  |  |
+| 1-6 | (verse 1-6) | གཡུ་ཤུག་ཕྱེ་མར་གསུར་གྱིས་བསངས། ། |  |  |
+| 2-0 | (section heading) | མཇུག་བྱང། |  |  |
+| 2-1-0 | (section heading) | མཛད་བྱང་། |  |  |
+| 2-1-1 | (verse 2-1-1) | ཅེས་པ་ར་ག་ཨ་སྱས་སྦྱར་བའོ། ། |  |  |
