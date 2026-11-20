@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9fc6fd0317df54e",
+        "id": "46e8032b9fd992cc",
         "type": "tabs",
         "children": [
           {
-            "id": "8d04db07b2c82524",
+            "id": "3fc14ea4ad1bcac2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/Text 1/དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས་མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས་མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ།"
             }
           }
         ]
@@ -38,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -192,11 +196,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d04db07b2c82524",
+  "active": "3fc14ea4ad1bcac2",
   "lastOpenFiles": [
+    "0-INBOX/Text 1/ཀུན་ཁྱབ་སྤྲོས་བྲལ་མ།.md",
+    "0-INBOX/Text 1/ཁྱུང་པོའི་སྨོན་ལམ།.md",
+    "0-INBOX/Text 1/ཀུན་ཏུ་བཟང་པོ་ལ་བསྟོད་ཅིང་སྨོན་ལམ་བཏབ་པ་ཞེས་བྱ་བ།.md",
+    "1-SOURCES/Text/ཁྱུང་པོའི་སྨོན་ལམ།.md",
+    "0-INBOX/Text 3/Copy of ཟབ་ལམ་བླ་མ་མཆོད་པ།.md",
+    "0-INBOX/Text 3/༄༅། །ཀློང་ཆེན་སྙིང་ཐིག་གི་སྔོན་འགྲོའི་ངག་འདོན་རྣམ་མཁྱེན་ལམ་བཟང་། (ཡིག་འབྲི་ཡག་པོ་མེད།).md",
+    "0-INBOX/Text 3/ཕྱག་གི་འགྱུར་སྔགས།.md",
+    "0-INBOX/copy-result.txt",
+    "0-INBOX/Text 3/ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས་སྤྱིའི་རྟེན་བསྐྱེད།.md",
+    "0-INBOX/Text 3/ཧེ་རུ་ཀའི་ཡིག་བརྒྱ།.md",
+    "0-INBOX/Text 3/སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱིས་གསུངས་པའི་གསོལ་འདེབས་ལེའུ་བདུན་མ་བཞུགས་སོ།།.md",
+    "0-INBOX/Text 3/སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱིས་གསུངས་པའི་གསོལ་འདེབས་ལེའུ་བདུན་མ་བཞུགས་སོ།། ཁ་སྐད།.md",
+    "0-INBOX/Text 3/སློབ་དཔོན་ཆེན་པོའི་བསྟོད་པ་སྐུ་གསུམ་མ།_.md",
+    "0-INBOX/Text 3/སྲི་ཟློག་འཁོར་ལོ་འབར་བའི་སྒོམ་བཟླས་བདུད་ལས་རྣམ་རྒྱལ།.md",
+    "0-INBOX/Text 3/སྨྱུང་གནས་ཀྱི་ཆོ་ག་མདོར་བསྡུས་བྱ་ཚུལ།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་སྟོབས་བཅུ།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་སྟོབས་པོ་ཆེ།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད། (༢).md",
+    "0-INBOX/Text 3/སྨོན་ལམ་རྡོ་རྗེ་རྒྱ་མདུད།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་རྒྱལ་བ་རྒྱ་མཚོ་མ།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་རྒྱ་མཚོའི་ཡང་སྙིང་ཀུན་བཟང་ཞིང་གི་ཉི་མ།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་འགྲུབ་པའི་གཟུངས།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་འཁོར་ཚེ་མ།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་མ་ཧཱ་གུ་རུའི་བྱིན་རླབས།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་བཏབ་ཚད་འགྲུབ་པའི་སྔགས་ནི།.md",
+    "0-INBOX/Text 3/སྨོན་ལམ་ཕྱོགས་བཅུ་དུས་བཞི་མ།.md",
+    "0-INBOX/copy_text2_to_text3.bat",
+    "0-INBOX/copy_text2_to_text3.ps1",
+    "0-INBOX/Text 3",
     "Untitled 1.base",
-    "Untitled.base",
-    "Untitled.md",
-    "0-INBOX/Text 2/བདེ་བར་གཤེགས་པ་ལ་སྦྱིན་པའི་སྤྱོད་ཚུལ་གྱི་སྒོ་ནས་བསྟོད་པ་དད་པའི་རྦ་རླབས།.md"
+    "Untitled.base"
   ]
 }
