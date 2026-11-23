@@ -60,7 +60,7 @@ for something the tool does, and never work around a refusal.
 
 | Situation | Run |
 |-----------|-----|
-| New recordings (WAV) arrive | skill **Convert-Audio** → `python 4-SYSTEM/scripts/audio_notes_to_m4a.py --write` → `status` → `push` |
+| New recordings (WAV) arrive | skill **convert-audio** → `python 4-SYSTEM/scripts/audio_notes_to_m4a.py --write` → `status` → `push` |
 | An `.otr` arrives | skill **OTR-To-Mapping** (fills the Mapping table) → `push --only cues <that text>` |
 | A note's title / license / narrator changed | `status` shows `audio-details` → `update --only audio` |
 | Recording title or duration changed | `recording-details` → `update --only recording` |
@@ -175,4 +175,4 @@ references as they exist on that environment.
 - `4-SYSTEM/scripts/library.py` and `4-SYSTEM/scripts/webuddhist/` — the tool
   (environments in `webuddhist/envs.py`)
 - `4-SYSTEM/scripts/linter-audio/` — the audio linter every push goes through
-- skills Convert-Audio, OTR-To-Mapping
+- skills convert-audio, OTR-To-Mapping

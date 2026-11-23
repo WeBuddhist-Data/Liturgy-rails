@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Point audio notes at the AAC (.m4a) made from their WAV (skill Convert-Audio).
+"""Point audio notes at the AAC (.m4a) made from their WAV (skill convert-audio).
 
 For every recording in 1-SOURCES/Audio whose note declares a .wav and whose
 converted .m4a sits next to the WAV, this:

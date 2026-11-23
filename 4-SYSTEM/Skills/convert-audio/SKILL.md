@@ -1,9 +1,9 @@
 ---
-name: Convert-Audio
+name: convert-audio
 description: Convert recitation recordings (WAV/AIFF) to small AAC .m4a files with exactly the same length, on Windows or macOS, with nothing to install. Use whenever someone wants to convert, compress or shrink audio recordings, turn WAV into m4a/AAC, or has a recording that is too big to upload (over 50 MB, "413", "file too large").
 ---
 
-# Convert-Audio
+# convert-audio
 
 The library accepts uploads up to about **50 MB**. Studio recordings are
 uncompressed WAV, about 23 MB per minute, so most of them are too big.
@@ -23,7 +23,7 @@ scripts/convert-audio-mac.sh        ← macOS (afconvert)
 ```
 
 (Paths are relative to this SKILL.md; in the vault it is
-`4-SYSTEM/Skills/Convert-Audio/`.)
+`4-SYSTEM/Skills/convert-audio/`.)
 
 ## 1. Which computer is this?
 
