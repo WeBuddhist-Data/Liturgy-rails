@@ -8,7 +8,7 @@ description: Upload to the WeBuddhist library and keep it in step with the vault
 One tool, run from the vault root:
 
 ```
-python 4-SYSTEM/scripts/library.py <text|translation|commentary|audio> <command> --env <dev|prod> [notes or folders] [options]
+python 4-SYSTEM/scripts/library.py <text|translation|commentary|audio> <command> --env <dev|testing|prod> [notes or folders] [options]
 ```
 
 | Kind | Notes (default folder) | Linked to its root by |
@@ -33,8 +33,8 @@ the kind's folder; name notes or folders to work on part of them.
 
 ## Environments — never mix them
 
-- **dev** (`library.webuddhist.com`) and **prod** (`library-prod.webuddhist.com`)
-  are separate databases; a `test` environment will follow. dev was replicated
+- **dev** (`dev.library.webuddhist.com/api`, the same server as the older `library.webuddhist.com`), **testing** (`testing.library.webuddhist.com/api`) and **prod** (`library-prod.webuddhist.com`)
+  are separate databases. testing and prod each need their own key in the git-ignored `.env`: `testing_api_key=…`, `prod_api_key=…` (the older `api_key=` still counts for prod); dev needs none. dev was replicated
   from prod once: older texts share ids, newer texts exist only on prod, and
   **audio exists only on dev** so far.
 - `--env` is always required; ids and ledgers are per environment
