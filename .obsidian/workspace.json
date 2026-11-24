@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "666e8610c174767c",
+        "id": "f1811da4307d1d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "f81891c13bd1d28d",
+            "id": "adb63d4d5c03f63f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Audio/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bo-jamyang-lodoe-recitation"
+              "title": "New tab"
             }
           }
         ]
@@ -196,8 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f81891c13bd1d28d",
+  "active": "3ec047b4d4b36409",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
+    "4-SYSTEM/scripts/otr_to_mapping.py",
     "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།/audio/sed99wnS5",
     "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/audio/sedF1duyR",
@@ -208,7 +207,6 @@
     "1-SOURCES/Audio/མཁས་གྲུབ་རྗེའི་བསྟོད་པ།/audio/sedt2srEU",
     "1-SOURCES/Audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།/audio/sed1ksezK",
     "1-SOURCES/Audio/བསྟན་འབར་མ་བཞུགས་སོ།/audio/sedKBzX7F",
-    "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/sedq57twh",
     "4-SYSTEM/Skills/library-upload/scripts/linter-audio/README.md",
     "4-SYSTEM/Skills/library-upload/SKILL.md",
     "4-SYSTEM/Skills/convert-audio/SKILL.md",
@@ -232,8 +230,6 @@
     "0-INBOX/Text 3/སྲི་ཟློག་འཁོར་ལོ་འབར་བའི་སྒོམ་བཟླས་བདུད་ལས་རྣམ་རྒྱལ།.md",
     "0-INBOX/Text 3/སྨོན་ལམ་སྟོབས་བཅུ།.md",
     "0-INBOX/Text 3/སྨྱུང་གནས་ཀྱི་ཆོ་ག་མདོར་བསྡུས་བྱ་ཚུལ།.md",
-    "0-INBOX/Text 3/སྨོན་ལམ་རྒྱལ་བ་རྒྱ་མཚོ་མ།.md",
-    "0-INBOX/Text 3/སྨོན་ལམ་སྟོབས་པོ་ཆེ།.md",
     "0-INBOX/Untitled.canvas"
   ]
 }

@@ -57,7 +57,7 @@ One recording of the root text [[1-SOURCES/Text/ཇ་མཆོད་གཙུ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.m4a]]
+![[1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.WAV]]
 
 
 

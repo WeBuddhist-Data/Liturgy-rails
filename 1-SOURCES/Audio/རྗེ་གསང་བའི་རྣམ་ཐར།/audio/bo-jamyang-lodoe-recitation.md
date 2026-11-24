@@ -46,7 +46,7 @@ One recording of the root text [[1-SOURCES/Text/རྗེ་གསང་བའ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/རྗེ་གསང་བའི་རྣམ་ཐར།.m4a]]
+![[1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/audio/རྗེ་གསང་བའི་རྣམ་ཐར།.WAV]]
 
 ## Mapping
 
