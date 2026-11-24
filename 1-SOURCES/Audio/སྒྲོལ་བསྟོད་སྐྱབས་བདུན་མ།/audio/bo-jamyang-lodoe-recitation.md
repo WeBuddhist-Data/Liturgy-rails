@@ -4,7 +4,7 @@ title_en: "Prayer to Tārā: A Sevenfold Supplication for Protection — recitat
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།]]"
 root_text_title: "སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།"
@@ -25,6 +25,7 @@ file_size_bytes: 62996992
 sha256: 417c7110f958ec1e28adaea211c59ec42d4a0107ae3f0b6bbfc1dd7859a347d2
 recording_time: "17:26:13"
 scene: "050224-172613"
+license: cc-by
 ---
 
 # སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ། — Jamyang Lodoe

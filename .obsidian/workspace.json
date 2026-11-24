@@ -199,8 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c7ec04c4e7073cc",
+  "active": "cbf0e09142ce0e65",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/audio/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/audio",
+    "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།",
+    "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio",
+    "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །",
     "0-INBOX/Text 1/ཡང་གསང་བདུད་འདུལ་གྲོ་ལོད་ཀྱི་རྒྱུན་ཁྱེར་སྙིང་པོར་དྲིལ་བ།.md",
     "0-INBOX/Text 1/འོད་དཔག་མེད་ཀྱི་སྒྲུབ་ཐབས་བདེ་ཆེན་མྱུར་ལམ།.md",
     "0-INBOX/Text 1/འོད་དཔག་མེད་ཀྱི་བསྟོད་པ་ཞིང་མཆོག་སྒོ་འབྱེད་མ།.md",
@@ -230,12 +236,6 @@
     "1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/otr/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། །.otr",
     "1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/otr",
     "0-INBOX/Text 1/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོ།.md",
-    "0-INBOX/Text 2/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོའི་དཔུང་རྒྱན།.md",
-    "0-INBOX/Text 1/འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པ་བཞུགས།.md",
-    "4-SYSTEM/scripts/audio_notes_to_m4a.py",
-    "4-SYSTEM/Skills/library-upload/scripts/linter-audio/audio_note.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/__init__.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/vault.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/text.py"
+    "4-SYSTEM/scripts/audio_notes_to_m4a.py"
   ]
 }

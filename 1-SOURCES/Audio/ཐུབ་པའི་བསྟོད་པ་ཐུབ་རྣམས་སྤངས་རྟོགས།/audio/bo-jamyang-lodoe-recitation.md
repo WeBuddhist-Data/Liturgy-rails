@@ -4,7 +4,7 @@ title_en: "In Praise of the Buddha: Though All Sages Are Equal in Abandonment an
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།]]"
 root_text_title: "ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།"
@@ -25,6 +25,7 @@ file_size_bytes: 190119936
 sha256: e58d67a8af873538b8f9acb0424e8346f59bc8aa234aa7801ab29eb566f94032
 recording_time: "16:42:21"
 scene: "170224-164221"
+license: cc-by
 ---
 
 # ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས། — Jamyang Lodoe
