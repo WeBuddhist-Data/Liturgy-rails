@@ -1,5 +1,5 @@
 ---
-title: "སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས། — Recitation by Jamyang Lodoe"
+title: "སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Name Mantra of the Precious Master — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

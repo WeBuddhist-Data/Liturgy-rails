@@ -1,5 +1,5 @@
 ---
-title: "མཎྜལ། — Recitation by Jamyang Lodoe"
+title: "མཎྜལ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Thirty-Seven Point Maṇḍala Offering — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

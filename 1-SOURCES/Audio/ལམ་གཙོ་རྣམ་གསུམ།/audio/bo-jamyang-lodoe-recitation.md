@@ -1,5 +1,5 @@
 ---
-title: "ལམ་གཙོ་རྣམ་གསུམ། — Recitation by Jamyang Lodoe"
+title: "ལམ་གཙོ་རྣམ་གསུམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Three Principal Aspects of the Path — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

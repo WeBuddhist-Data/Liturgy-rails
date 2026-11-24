@@ -1,5 +1,5 @@
 ---
-title: ཆགས་མེད་བདེ་སྨོན། — Recitation by Jamyang Lodoe
+title: ཆགས་མེད་བདེ་སྨོན། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Aspiration to be Reborn in the Pure Realm of Sukhāvatī — recitation by Jamyang Lodoe
 file_type: audio

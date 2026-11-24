@@ -1,5 +1,5 @@
 ---
-title: "གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ། — Recitation by Jamyang Lodoe"
+title: "གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Prayer that Swiftly Fulfils All Wishes — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

@@ -1,5 +1,5 @@
 ---
-title: "སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe"
+title: "སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Stairway to Liberation: The Uncommon Guru Yoga in Reliance on Cittamaṇi Tārā — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

@@ -1,5 +1,5 @@
 ---
-title: "འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ། — Recitation by Jamyang Lodoe"
+title: "འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Great Perfection Mañjuśrī — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

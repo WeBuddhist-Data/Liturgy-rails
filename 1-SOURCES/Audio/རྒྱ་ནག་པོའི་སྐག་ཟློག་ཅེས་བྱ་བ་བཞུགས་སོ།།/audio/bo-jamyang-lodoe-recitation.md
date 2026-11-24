@@ -1,5 +1,5 @@
 ---
-title: "རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།། — Recitation by Jamyang Lodoe"
+title: "རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The 'Chinese' Practice of Averting Periodic Obstacles — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

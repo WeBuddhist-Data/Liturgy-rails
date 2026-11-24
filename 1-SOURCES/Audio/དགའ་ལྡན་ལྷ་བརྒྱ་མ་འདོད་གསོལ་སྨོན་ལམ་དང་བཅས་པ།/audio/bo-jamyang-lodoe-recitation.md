@@ -1,5 +1,5 @@
 ---
-title: དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ། — Recitation by Jamyang Lodoe
+title: དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: The Hundred Deities of Tushita with Aspiration — recitation by Jamyang Lodoe
 file_type: audio

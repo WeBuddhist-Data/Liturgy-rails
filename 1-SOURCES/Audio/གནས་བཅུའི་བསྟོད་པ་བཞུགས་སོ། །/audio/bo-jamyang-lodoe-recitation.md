@@ -1,5 +1,5 @@
 ---
-title: "གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 file_type: audio
 language: Tibetan
 lang_tag: bo

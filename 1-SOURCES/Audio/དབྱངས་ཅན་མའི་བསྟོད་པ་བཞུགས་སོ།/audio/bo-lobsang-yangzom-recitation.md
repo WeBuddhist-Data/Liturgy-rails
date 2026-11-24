@@ -1,5 +1,5 @@
 ---
-title: "དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ། — Recitation by Lobsang Yangzom"
+title: "དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ། — སྐྱོར་མཁན་བློ་བཟང་གཡང་འཛོམས།"
 title_en: "Praise of Sarasvatī — recitation by Lobsang Yangzom"
 file_type: audio
 language: Tibetan

@@ -1,5 +1,5 @@
 ---
-title: "སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ། — Recitation by Jamyang Lodoe"
+title: "སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Prayer to Tārā: A Sevenfold Supplication for Protection — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

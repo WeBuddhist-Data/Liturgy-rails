@@ -1,5 +1,5 @@
 ---
-title: "སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Praise to the Teacher, the Lord of Sages — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

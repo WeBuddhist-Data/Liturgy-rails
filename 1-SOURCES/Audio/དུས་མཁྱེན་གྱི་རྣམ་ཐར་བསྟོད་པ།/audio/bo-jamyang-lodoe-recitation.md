@@ -1,5 +1,5 @@
 ---
-title: "དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Supplication to the Life of the First Karmapa, Dusum Khyenpa — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

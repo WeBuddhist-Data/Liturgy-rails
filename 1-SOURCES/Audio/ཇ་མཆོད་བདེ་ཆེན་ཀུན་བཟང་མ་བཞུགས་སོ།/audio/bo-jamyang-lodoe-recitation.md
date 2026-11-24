@@ -1,5 +1,5 @@
 ---
-title: ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: ཇ་མཆོད་བདེ་ཆེན་ཀུན་བཟང་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: "Great Bliss Samantabhadra: A Tea Offering — recitation by Jamyang Lodoe"
 file_type: audio

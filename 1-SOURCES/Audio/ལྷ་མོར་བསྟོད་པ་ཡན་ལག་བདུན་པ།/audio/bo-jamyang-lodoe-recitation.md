@@ -1,5 +1,5 @@
 ---
-title: "ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ། — Recitation by Jamyang Lodoe"
+title: "ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Seven-Branch Praise to the Goddess — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

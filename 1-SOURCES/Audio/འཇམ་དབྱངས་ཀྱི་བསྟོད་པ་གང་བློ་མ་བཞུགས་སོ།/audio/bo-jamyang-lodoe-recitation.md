@@ -1,5 +1,5 @@
 ---
-title: "འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

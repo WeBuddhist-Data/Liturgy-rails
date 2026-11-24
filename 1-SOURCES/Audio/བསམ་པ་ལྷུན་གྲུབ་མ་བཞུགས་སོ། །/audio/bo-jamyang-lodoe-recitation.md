@@ -1,5 +1,5 @@
 ---
-title: "བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

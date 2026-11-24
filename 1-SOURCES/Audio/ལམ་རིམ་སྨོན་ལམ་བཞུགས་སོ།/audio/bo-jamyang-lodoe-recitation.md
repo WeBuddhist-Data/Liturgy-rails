@@ -1,5 +1,5 @@
 ---
-title: "ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Aspiration for the Stages of the Path — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

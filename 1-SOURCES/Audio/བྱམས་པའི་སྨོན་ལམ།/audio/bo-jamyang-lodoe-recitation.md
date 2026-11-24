@@ -1,5 +1,5 @@
 ---
-title: "བྱམས་པའི་སྨོན་ལམ། — Recitation by Jamyang Lodoe"
+title: "བྱམས་པའི་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Noble Maitreya's King of Aspirations — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

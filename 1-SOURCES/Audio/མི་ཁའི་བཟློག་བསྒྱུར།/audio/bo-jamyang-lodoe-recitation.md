@@ -1,5 +1,5 @@
 ---
-title: "མི་ཁའི་བཟློག་བསྒྱུར། — Recitation by Jamyang Lodoe"
+title: "མི་ཁའི་བཟློག་བསྒྱུར། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Averting and Reversing Gossip — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

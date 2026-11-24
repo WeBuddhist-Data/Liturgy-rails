@@ -1,5 +1,5 @@
 ---
-title: "ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Long-Life Prayer 'In the Blissful Realm of the West — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

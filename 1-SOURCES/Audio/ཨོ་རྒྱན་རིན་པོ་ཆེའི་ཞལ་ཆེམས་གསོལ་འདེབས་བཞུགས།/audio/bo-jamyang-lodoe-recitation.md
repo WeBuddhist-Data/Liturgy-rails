@@ -1,5 +1,5 @@
 ---
-title: "ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔ — Recitation by Jamyang Lodoe"
+title: "ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔ — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Testament Prayer to Orgyen Rinpoche — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

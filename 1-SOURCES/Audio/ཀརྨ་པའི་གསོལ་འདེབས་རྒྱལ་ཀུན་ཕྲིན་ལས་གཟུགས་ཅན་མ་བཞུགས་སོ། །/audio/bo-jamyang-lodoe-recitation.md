@@ -1,5 +1,5 @@
 ---
-title: ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །— Recitation by Jamyang Lodoe
+title: ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །— སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Karmapa Prayer "Rgyal kun phrin las gzugs can ma" — recitation by Jamyang Lodoe
 file_type: audio

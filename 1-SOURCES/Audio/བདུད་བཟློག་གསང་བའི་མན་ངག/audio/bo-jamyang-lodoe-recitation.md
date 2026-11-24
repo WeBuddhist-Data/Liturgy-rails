@@ -1,5 +1,5 @@
 ---
-title: "བདུད་བཟློག་གསང་བའི་མན་ངག — Recitation by Jamyang Lodoe"
+title: "བདུད་བཟློག་གསང་བའི་མན་ངག — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Secret Pith Instruction for Averting Maras — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

@@ -1,5 +1,5 @@
 ---
-title: "རི་བོ་བསངས་མཆོད་བཞུགས་སོ༔ — Recitation by Jamyang Lodoe"
+title: "རི་བོ་བསངས་མཆོད་བཞུགས་སོ༔ — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Mountain Smoke Offering — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

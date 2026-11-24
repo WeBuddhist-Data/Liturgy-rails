@@ -1,5 +1,5 @@
 ---
-title: "ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས། — Recitation by Jamyang Lodoe"
+title: "ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "In Praise of the Buddha: Though All Sages Are Equal in Abandonment and Realization — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

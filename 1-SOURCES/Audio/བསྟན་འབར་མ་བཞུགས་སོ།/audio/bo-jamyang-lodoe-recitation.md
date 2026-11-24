@@ -1,5 +1,5 @@
 ---
-title: "བསྟན་འབར་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "བསྟན་འབར་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Prayer for the Future of the Dharma — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

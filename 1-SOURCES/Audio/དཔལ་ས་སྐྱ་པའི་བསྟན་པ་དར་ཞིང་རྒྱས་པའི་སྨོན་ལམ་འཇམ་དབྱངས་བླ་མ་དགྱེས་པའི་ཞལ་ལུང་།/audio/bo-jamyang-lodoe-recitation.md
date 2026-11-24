@@ -1,5 +1,5 @@
 ---
-title: དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe
+title: དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Prayer for the Flourishing of the Sakya Teachings — recitation by Jamyang Lodoe
 file_type: audio

@@ -1,5 +1,5 @@
 ---
-title: "སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe"
+title: "སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Yearning Song of Prayer to Invoke the Wisdom Mind of the Compassionate Teacher Padmasambhava — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

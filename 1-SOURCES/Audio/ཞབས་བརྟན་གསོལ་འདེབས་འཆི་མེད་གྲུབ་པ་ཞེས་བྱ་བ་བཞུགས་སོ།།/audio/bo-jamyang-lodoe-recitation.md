@@ -1,5 +1,5 @@
 ---
-title: "ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe"
+title: "ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Accomplishing Immortality: A Prayer for Long Life — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

@@ -1,5 +1,5 @@
 ---
-title: "རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ། — Recitation by Jamyang Lodoe"
+title: "རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "In Praise of the Six Ornaments and Two Supreme Ones — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

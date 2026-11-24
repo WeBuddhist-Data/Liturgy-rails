@@ -1,5 +1,5 @@
 ---
-title: "རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ། — Recitation by Jamyang Lodoe"
+title: "རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Aspiration for the Country's Welfare — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

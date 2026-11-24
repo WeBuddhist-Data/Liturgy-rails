@@ -1,5 +1,5 @@
 ---
-title: "འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Mind Training Induced by Way of Poem, A Perfect Composition of Words — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

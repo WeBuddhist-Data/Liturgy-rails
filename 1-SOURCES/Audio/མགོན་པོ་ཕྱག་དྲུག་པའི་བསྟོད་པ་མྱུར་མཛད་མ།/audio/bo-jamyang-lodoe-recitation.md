@@ -1,5 +1,5 @@
 ---
-title: "མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ། — Recitation by Jamyang Lodoe"
+title: "མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Praise to the Six-Armed Mahākāla — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

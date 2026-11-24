@@ -1,5 +1,5 @@
 ---
-title: དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས། — Recitation by Jamyang Lodoe
+title: དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: A Prayer to Kindle the Three Kinds of Faith Addressed to the Seventeen Great Paṇḍitas of Glorious Nālandā — recitation by Jamyang Lodoe
 file_type: audio

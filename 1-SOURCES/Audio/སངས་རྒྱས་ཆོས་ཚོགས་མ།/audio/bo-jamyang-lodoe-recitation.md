@@ -1,5 +1,5 @@
 ---
-title: "སངས་རྒྱས་ཆོས་ཚོགས་མ། — Recitation by Jamyang Lodoe"
+title: "སངས་རྒྱས་ཆོས་ཚོགས་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Refuge and Bodhicitta Prayer — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

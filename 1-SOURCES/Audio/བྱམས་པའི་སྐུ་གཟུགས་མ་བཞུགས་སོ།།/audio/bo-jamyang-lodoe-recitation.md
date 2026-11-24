@@ -1,5 +1,5 @@
 ---
-title: "བྱམས་པའི་སྐུ་གཟུགས་མ་བཞུགས་སོ།། — Recitation by Jamyang Lodoe"
+title: "བྱམས་པའི་སྐུ་གཟུགས་མ་བཞུགས་སོ།། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Aspiration for the Building of a Maitreya Statue — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

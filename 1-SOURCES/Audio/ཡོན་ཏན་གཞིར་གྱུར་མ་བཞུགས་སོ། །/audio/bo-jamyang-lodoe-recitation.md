@@ -1,5 +1,5 @@
 ---
-title: "ཡོན་ཏན་གཞིར་གྱུར་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "ཡོན་ཏན་གཞིར་གྱུར་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Foundation of All Good Qualities — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

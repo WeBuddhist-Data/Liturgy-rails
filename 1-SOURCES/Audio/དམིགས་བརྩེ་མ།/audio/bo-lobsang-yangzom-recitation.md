@@ -1,5 +1,5 @@
 ---
-title: "དམིགས་བརྩེ་མ། — Recitation by Lobsang Yangzom"
+title: "དམིགས་བརྩེ་མ། — སྐྱོར་མཁན་བློ་བཟང་གཡང་འཛོམས།"
 title_en: "Migtsema: A Prayer to Jé Tsongkhapa — recitation by Lobsang Yangzom"
 file_type: audio
 language: Tibetan

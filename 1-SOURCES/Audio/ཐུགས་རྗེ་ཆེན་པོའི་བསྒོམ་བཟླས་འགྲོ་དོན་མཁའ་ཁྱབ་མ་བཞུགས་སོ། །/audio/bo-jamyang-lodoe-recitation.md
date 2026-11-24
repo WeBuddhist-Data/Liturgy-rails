@@ -1,5 +1,5 @@
 ---
-title: ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe
+title: ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: "Benefiting Beings Pervading Space: The Meditation and Recitation of the Great Compassionate One — recitation by Jamyang Lodoe"
 file_type: audio

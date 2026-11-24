@@ -1,5 +1,5 @@
 ---
-title: ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ། — Recitation by Jamyang Lodoe
+title: ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: "The Sage's Harmonious Song of Truth: A Prayer for the Flourishing of the Non-Sectarian Teachings of the Buddha — recitation by Jamyang Lodoe"
 file_type: audio

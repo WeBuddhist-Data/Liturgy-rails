@@ -1,5 +1,5 @@
 ---
-title: "མཁས་གྲུབ་རྗེའི་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "མཁས་གྲུབ་རྗེའི་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Praise to Khedrup Je: The Unrivalled Lion's Roar — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

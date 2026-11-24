@@ -1,5 +1,5 @@
 ---
-title: "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ། — Recitation by Jamyang Lodoe"
+title: "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The King of Aspiration Prayers: Samantabhadra's Aspiration to Good Actions — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

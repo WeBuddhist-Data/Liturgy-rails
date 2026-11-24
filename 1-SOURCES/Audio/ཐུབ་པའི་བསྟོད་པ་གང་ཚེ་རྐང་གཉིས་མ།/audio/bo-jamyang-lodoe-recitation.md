@@ -1,5 +1,5 @@
 ---
-title: ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ། — Recitation by Jamyang Lodoe
+title: ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Short Praise of the Buddha's Deeds — recitation by Jamyang Lodoe
 file_type: audio

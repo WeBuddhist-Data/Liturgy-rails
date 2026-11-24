@@ -1,5 +1,5 @@
 ---
-title: "ཚད་མེད་བཞི། — Recitation by Jamyang Lodoe"
+title: "ཚད་མེད་བཞི། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Four Immeasurables — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

@@ -11,10 +11,14 @@
             "id": "f81891c13bd1d28d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Audio/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bo-jamyang-lodoe-recitation"
             }
           }
         ]
@@ -192,19 +196,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec047b4d4b36409",
+  "active": "f81891c13bd1d28d",
   "lastOpenFiles": [
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/__init__.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/vault.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/spans.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/text.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/payloads.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/plan.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/ledger.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/audio.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/frontmatter.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/envs.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/api.py",
+    "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།/audio/sed99wnS5",
+    "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/audio/sedF1duyR",
+    "1-SOURCES/Audio/འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ། །/audio/sedK4nfRi",
+    "1-SOURCES/Audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/sedyw8fnF",
+    "1-SOURCES/Audio/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།/audio/sedcP2NhQ",
+    "1-SOURCES/Audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།/audio/sedtC82Bq",
+    "1-SOURCES/Audio/མཁས་གྲུབ་རྗེའི་བསྟོད་པ།/audio/sedt2srEU",
+    "1-SOURCES/Audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།/audio/sed1ksezK",
+    "1-SOURCES/Audio/བསྟན་འབར་མ་བཞུགས་སོ།/audio/sedKBzX7F",
+    "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/sedq57twh",
     "4-SYSTEM/Skills/library-upload/scripts/linter-audio/README.md",
     "4-SYSTEM/Skills/library-upload/SKILL.md",
     "4-SYSTEM/Skills/convert-audio/SKILL.md",

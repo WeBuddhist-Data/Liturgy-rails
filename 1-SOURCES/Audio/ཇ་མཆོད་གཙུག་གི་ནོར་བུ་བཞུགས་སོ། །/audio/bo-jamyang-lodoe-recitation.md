@@ -1,5 +1,5 @@
 ---
-title: ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe
+title: ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: "The Tea Offering: The Crown Jewel — recitation by Jamyang Lodoe"
 file_type: audio

@@ -1,5 +1,5 @@
 ---
-title: "འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ། — Recitation by Jamyang Lodoe"
+title: "འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Verses of the Eight Noble Auspicious Ones — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

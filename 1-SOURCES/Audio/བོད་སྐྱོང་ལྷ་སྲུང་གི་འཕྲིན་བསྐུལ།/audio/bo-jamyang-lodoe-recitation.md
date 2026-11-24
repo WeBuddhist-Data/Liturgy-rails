@@ -1,5 +1,5 @@
 ---
-title: "བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ། — Recitation by Jamyang Lodoe"
+title: "བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Exhorting the Protectors of Tibet — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

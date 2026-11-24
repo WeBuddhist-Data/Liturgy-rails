@@ -1,5 +1,5 @@
 ---
-title: ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Praise to Lord Atisha — recitation by Jamyang Lodoe
 file_type: audio

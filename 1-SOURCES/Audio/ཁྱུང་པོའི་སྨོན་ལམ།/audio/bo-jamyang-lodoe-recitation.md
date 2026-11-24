@@ -1,5 +1,5 @@
 ---
-title: ཁྱུང་པོའི་སྨོན་ལམ། — Recitation by Jamyang Lodoe
+title: ཁྱུང་པོའི་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Khyungpo's Aspiration Prayer — recitation by Jamyang Lodoe
 file_type: audio

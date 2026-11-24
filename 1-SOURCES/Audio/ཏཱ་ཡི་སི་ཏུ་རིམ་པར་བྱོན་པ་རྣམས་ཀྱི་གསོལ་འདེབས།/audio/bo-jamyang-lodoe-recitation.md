@@ -1,5 +1,5 @@
 ---
-title: ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས། — Recitation by Jamyang Lodoe
+title: ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Prayer to the Successive Incarnations of the Tai Situ — recitation by Jamyang Lodoe
 file_type: audio

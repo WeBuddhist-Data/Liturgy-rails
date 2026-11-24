@@ -1,5 +1,5 @@
 ---
-title: "བདེན་ཚིག་སྨོན་ལམ། — Recitation by Jamyang Lodoe"
+title: "བདེན་ཚིག་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Prayer of the Words of Truth — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

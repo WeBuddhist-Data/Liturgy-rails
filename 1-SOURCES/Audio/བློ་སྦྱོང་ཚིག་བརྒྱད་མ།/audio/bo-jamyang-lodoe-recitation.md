@@ -1,5 +1,5 @@
 ---
-title: "བློ་སྦྱོང་ཚིག་བརྒྱད་མ། — Recitation by Jamyang Lodoe"
+title: "བློ་སྦྱོང་ཚིག་བརྒྱད་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Eight Verses of Training the Mind — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

@@ -1,5 +1,5 @@
 ---
-title: ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: The Hundred Verses of Advice to the People of Tingri — recitation by Jamyang Lodoe
 file_type: audio

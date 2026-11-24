@@ -1,5 +1,5 @@
 ---
-title: "དབང་སྡུད་གསོལ་འདེབས། — Recitation by Jamyang Lodoe"
+title: "དབང་སྡུད་གསོལ་འདེབས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Great Cloud of Blessings: The Prayer which Magnetizes All that Appears and Exists — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

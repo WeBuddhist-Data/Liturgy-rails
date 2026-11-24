@@ -1,5 +1,5 @@
 ---
-title: "ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ། — Recitation by Lobsang Yangzom"
+title: "ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ། — སྐྱོར་མཁན་བློ་བཟང་གཡང་འཛོམས།"
 title_en: "A Prayer to Be Cared For Throughout All My Lives — recitation by Lobsang Yangzom"
 file_type: audio
 language: Tibetan

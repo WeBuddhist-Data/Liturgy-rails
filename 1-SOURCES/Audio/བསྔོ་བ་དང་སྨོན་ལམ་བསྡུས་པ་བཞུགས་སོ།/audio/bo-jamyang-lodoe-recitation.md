@@ -1,5 +1,5 @@
 ---
-title: "བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "A Concise Dedication and Aspiration — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

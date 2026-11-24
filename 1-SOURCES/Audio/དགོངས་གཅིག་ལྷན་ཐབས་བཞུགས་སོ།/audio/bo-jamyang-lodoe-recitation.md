@@ -1,5 +1,5 @@
 ---
-title: དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: The Supplement to the Single Intention — recitation by Jamyang Lodoe
 file_type: audio

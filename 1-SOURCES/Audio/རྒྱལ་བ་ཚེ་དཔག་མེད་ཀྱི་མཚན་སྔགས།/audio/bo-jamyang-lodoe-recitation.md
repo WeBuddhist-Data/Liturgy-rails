@@ -1,5 +1,5 @@
 ---
-title: "རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས། — Recitation by Jamyang Lodoe"
+title: "རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Name Mantra of Buddha Amitāyus — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

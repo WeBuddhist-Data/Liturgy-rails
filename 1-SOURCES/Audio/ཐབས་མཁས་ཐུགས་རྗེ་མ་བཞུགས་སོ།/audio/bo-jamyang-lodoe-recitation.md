@@ -1,5 +1,5 @@
 ---
-title: ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: "Praise of the Buddha — recitation by Jamyang Lodoe"
 file_type: audio

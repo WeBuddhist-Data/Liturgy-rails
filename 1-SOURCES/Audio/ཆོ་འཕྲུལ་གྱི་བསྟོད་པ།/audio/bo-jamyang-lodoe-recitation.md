@@ -1,5 +1,5 @@
 ---
-title: ཆོ་འཕྲུལ་གྱི་བསྟོད་པ། — Recitation by Jamyang Lodoe
+title: ཆོ་འཕྲུལ་གྱི་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: In Praise of the Miracles — recitation by Jamyang Lodoe
 file_type: audio

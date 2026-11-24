@@ -1,5 +1,5 @@
 ---
-title: དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe
+title: དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: "A Daily Practice of the Meditation and Recitation of Glorious Guhyasamāja — recitation by Jamyang Lodoe"
 file_type: audio

@@ -1,5 +1,5 @@
 ---
-title: "སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི། — Recitation by Jamyang Lodoe"
+title: "སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Secret Vajra Knot — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

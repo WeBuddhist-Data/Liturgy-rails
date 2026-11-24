@@ -1,5 +1,5 @@
 ---
-title: "པདྨ་མཁའ་འགྲོའི་རིགས་བྱེད་རྩལ་གྱི་བསང་མཆོད་པདྨའི་དྲྭ་བ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "པདྨ་མཁའ་འགྲོའི་རིགས་བྱེད་རྩལ་གྱི་བསང་མཆོད་པདྨའི་དྲྭ་བ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Sang Offering to Kurukullā — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

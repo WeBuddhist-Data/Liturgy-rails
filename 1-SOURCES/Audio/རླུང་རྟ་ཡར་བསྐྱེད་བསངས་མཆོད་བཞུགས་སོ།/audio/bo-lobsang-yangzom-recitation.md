@@ -1,5 +1,5 @@
 ---
-title: "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ། — Recitation by Lobsang Yangzom"
+title: "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ། — སྐྱོར་མཁན་བློ་བཟང་གཡང་འཛོམས།"
 title_en: "Smoke Offering for Raising Windhorse — recitation by Lobsang Yangzom"
 file_type: audio
 language: Tibetan

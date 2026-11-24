@@ -1,5 +1,5 @@
 ---
-title: "ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས། — Recitation by Jamyang Lodoe"
+title: "ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "A Prayer Invoking the Benefits of the Festival of the Tenth Day — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

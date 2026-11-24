@@ -1,5 +1,5 @@
 ---
-title: "འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས། — Recitation by Jamyang Lodoe"
+title: "འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Name Mantra of Noble Avalokiteshvara — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

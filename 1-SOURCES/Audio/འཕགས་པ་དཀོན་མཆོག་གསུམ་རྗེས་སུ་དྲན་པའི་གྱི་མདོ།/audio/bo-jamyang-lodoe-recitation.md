@@ -1,5 +1,5 @@
 ---
-title: "འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ། — Recitation by Jamyang Lodoe"
+title: "འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Noble Sūtra of Recalling the Three Jewels — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

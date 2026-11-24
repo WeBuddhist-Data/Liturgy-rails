@@ -1,5 +1,5 @@
 ---
-title: "ཡན་ལག་བདུན་པ། — Recitation by Jamyang Lodoe"
+title: "ཡན་ལག་བདུན་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Seven Branches — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

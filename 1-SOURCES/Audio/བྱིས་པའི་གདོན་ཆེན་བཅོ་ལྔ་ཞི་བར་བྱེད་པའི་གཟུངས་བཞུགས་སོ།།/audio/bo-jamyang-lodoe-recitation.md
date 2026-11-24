@@ -1,5 +1,5 @@
 ---
-title: "བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།། — Recitation by Jamyang Lodoe"
+title: "བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Dhāraṇī that Pacifies the Fifteen Great Grahas that Harm Children — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

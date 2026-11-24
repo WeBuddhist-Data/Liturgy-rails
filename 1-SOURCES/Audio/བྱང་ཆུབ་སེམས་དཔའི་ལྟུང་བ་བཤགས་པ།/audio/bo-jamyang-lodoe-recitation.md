@@ -1,5 +1,5 @@
 ---
-title: བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ། — Recitation by Jamyang Lodoe
+title: བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: The Bodhisattva's Confession of Downfalls — recitation by Jamyang Lodoe
 file_type: audio

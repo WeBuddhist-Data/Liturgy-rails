@@ -1,5 +1,5 @@
 ---
-title: "འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ — Recitation by Jamyang Lodoe"
+title: "འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "A Shower of Benefit and Happiness: Praise and Supplication to Noble Avalokiteśvara — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

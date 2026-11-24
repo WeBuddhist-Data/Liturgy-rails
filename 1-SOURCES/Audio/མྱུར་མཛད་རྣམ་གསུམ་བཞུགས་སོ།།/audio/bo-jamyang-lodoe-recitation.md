@@ -1,5 +1,5 @@
 ---
-title: "མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe"
+title: "མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Three Praises to the Swift-Acting Protector — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

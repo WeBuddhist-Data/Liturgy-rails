@@ -1,5 +1,5 @@
 ---
-title: "བཀའ་ཐང་བསྡུས་པ། — Recitation by Jamyang Lodoe"
+title: "བཀའ་ཐང་བསྡུས་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Abridged Chronicle — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

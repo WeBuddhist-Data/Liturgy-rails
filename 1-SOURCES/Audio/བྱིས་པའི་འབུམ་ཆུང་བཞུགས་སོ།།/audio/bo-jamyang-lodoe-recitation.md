@@ -1,5 +1,5 @@
 ---
-title: "བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།། — Recitation by Jamyang Lodoe"
+title: "བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Little Hundred Thousand for Children — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

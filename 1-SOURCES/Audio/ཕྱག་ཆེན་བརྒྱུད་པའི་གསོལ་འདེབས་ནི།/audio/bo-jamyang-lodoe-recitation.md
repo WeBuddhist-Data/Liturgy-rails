@@ -1,5 +1,5 @@
 ---
-title: "ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི། — Recitation by Jamyang Lodoe"
+title: "ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Prayer to the Mahāmudrā Lineage — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

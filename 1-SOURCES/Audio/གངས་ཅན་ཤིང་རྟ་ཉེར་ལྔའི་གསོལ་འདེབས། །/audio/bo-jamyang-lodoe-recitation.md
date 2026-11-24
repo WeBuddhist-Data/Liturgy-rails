@@ -1,5 +1,5 @@
 ---
-title: གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །— Recitation by Jamyang Lodoe
+title: གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །— སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: Prayer of the Twenty-Five Chariots of the Land of Snows — recitation by Jamyang Lodoe
 file_type: audio

@@ -1,5 +1,5 @@
 ---
-title: "རྟེན་འབྲེལ་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "རྟེན་འབྲེལ་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "In Praise of Dependent Origination — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

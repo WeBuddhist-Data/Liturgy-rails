@@ -1,5 +1,5 @@
 ---
-title: "བདེ་སྨོན་བསྡུས་པ།། — Recitation by Jamyang Lodoe"
+title: "བདེ་སྨོན་བསྡུས་པ།། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Brief Sukhāvatī Aspiration — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

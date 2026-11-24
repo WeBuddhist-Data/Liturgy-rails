@@ -1,5 +1,5 @@
 ---
-title: "འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།། — Recitation by Jamyang Lodoe"
+title: "འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Essence of Practice: Advice That Benefits at the Time of Death — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

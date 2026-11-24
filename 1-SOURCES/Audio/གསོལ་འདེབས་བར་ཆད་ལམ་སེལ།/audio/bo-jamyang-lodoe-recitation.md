@@ -1,5 +1,5 @@
 ---
-title: གསོལ་འདེབས་བར་ཆད་ལམ་སེལ། — Recitation by Jamyang Lodoe
+title: གསོལ་འདེབས་བར་ཆད་ལམ་སེལ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: The Prayer Which Removes All Obstacles from the Path — recitation by Jamyang Lodoe
 file_type: audio

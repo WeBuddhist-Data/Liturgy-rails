@@ -1,5 +1,5 @@
 ---
-title: "མར་མེའི་སྨོན་ལམ། — Recitation by Jamyang Lodoe"
+title: "མར་མེའི་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Light Offering Prayer — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

@@ -1,5 +1,5 @@
 ---
-title: ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ། — Recitation by Jamyang Lodoe
+title: ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: In Praise of the Twelve Deeds of the Buddha — recitation by Jamyang Lodoe
 file_type: audio

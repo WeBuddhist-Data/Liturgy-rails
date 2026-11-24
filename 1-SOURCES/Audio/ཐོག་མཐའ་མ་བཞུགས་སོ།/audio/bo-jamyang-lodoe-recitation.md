@@ -1,5 +1,5 @@
 ---
-title: ཐོག་མཐའ་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: ཐོག་མཐའ་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: A Prayer for the Beginning, Middle, and End of Practice — recitation by Jamyang Lodoe
 file_type: audio

@@ -1,5 +1,5 @@
 ---
-title: "སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Aspiration Prayer from the Bodhicharyāvatāra — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

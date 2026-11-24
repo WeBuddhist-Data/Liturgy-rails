@@ -1,5 +1,5 @@
 ---
-title: "རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "A Praise to Longchen Rabjam, Lord of the Victorious Ones — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

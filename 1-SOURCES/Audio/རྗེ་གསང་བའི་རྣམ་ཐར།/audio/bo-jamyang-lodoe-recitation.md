@@ -1,5 +1,5 @@
 ---
-title: "རྗེ་གསང་བའི་རྣམ་ཐར། — Recitation by Jamyang Lodoe"
+title: "རྗེ་གསང་བའི་རྣམ་ཐར། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Lama Tsongkhapa's Secret Biography — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
