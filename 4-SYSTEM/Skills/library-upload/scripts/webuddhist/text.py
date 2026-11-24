@@ -19,6 +19,8 @@ the root. States (a note can have several):
   toc|yigchungs|durchens|footnotes-missing   none on the environment         -> push --only <kind>
   toc|yigchungs|durchens|footnotes-differs   not the note's                  -> update --only <kind>
   toc|yigchungs|durchens|footnotes-extra     on the environment, none in the note -> delete --only <kind>
+  tags-extra           tags on the environment the note's tag_ids do not list -> delete --only tags
+                       (update only ever adds tags; removing one is this separate, named step)
   alignment-missing / alignment-differs      -> push --only alignment
   alignment-reversed   aligned root -> this text; the library wants this text (source edition)
                        -> root (target edition)  -> push --only alignment (deletes it, sends it the right way)
@@ -70,6 +72,7 @@ FIX = {
     "link-differs": "cannot be patched (set only at creation): ask a developer",
     "edition-mismatch": "check by hand (verify)", "gone": "check by hand (verify)", "blocked": "fix the note",
     "ids-stale": "update --only ids",
+    "tags-extra": "delete --only tags (ask first: a tag may have been attached outside the vault on purpose)",
 }
 for _a in ANNOTATIONS:
     FIX[f"{_a}-missing"] = f"push --only {_a}"
@@ -437,6 +440,15 @@ def _norm_alts(alts):
     return sorted(json.dumps(a, ensure_ascii=False, sort_keys=True) for a in alts or [])
 
 
+def _extra_tags(it: Item) -> list:
+    """Tags on the environment that the note's tag_ids do not list. Empty when the note lists no
+    tags at all (a translation inherits its root's tags and carries none of its own to compare)."""
+    want = (it.p.get("text") or {}).get("tag_ids") or []
+    if not want or not it.live_text:
+        return []
+    return [t for t in it.live_text.get("tag_ids") or [] if t not in want]
+
+
 def _details_diff(it: Item) -> dict:
     live, want = it.live_text or {}, it.p.get("text") or {}
     out = {}
@@ -576,6 +588,9 @@ def _classify(it: Item, ctx: Ctx):
     diff = _details_diff(it)
     if diff:
         f["details-changed"] = "differs: " + ", ".join(diff)
+    extra = _extra_tags(it)
+    if extra:
+        f["tags-extra"] = "on the environment, not in the note's tag_ids: " + ", ".join(extra)
     state, detail = _compare_edition(it)
     if state != "ok":
         f[state] = detail
@@ -847,6 +862,22 @@ def _delete_ann(it, ctx, a):
     return f"{a} deleted"
 
 
+def _delete_tags(it, ctx, extra):
+    """PATCH tag_ids to the live list minus `extra`; read back. The server passes a root's tags on
+    to its translations, so removing one from a root removes it from them too."""
+    c = ctx.client
+    live = c.get(f"/v2/texts/{it.text_id}").get("tag_ids") or []
+    keep = [t for t in live if t not in extra]
+    c.patch(f"/v2/texts/{it.text_id}", {"tag_ids": keep})
+    back = c.get(f"/v2/texts/{it.text_id}").get("tag_ids") or []
+    if set(back) != set(keep):
+        raise ApiError(f"tags read back {back}, expected {keep}")
+    e = ctx.ledger.entry(it.key)
+    e.setdefault("deleted", []).append({"what": "tags", "tag_ids": list(extra), "date": time.strftime("%Y-%m-%d")})
+    ctx.ledger.save()
+    return f"removed {', '.join(extra)}; {len(back)} tag(s) left"
+
+
 def _delete_alignment(it, ctx):
     src, tgt = it.live_ends()                   # whichever direction the environment holds
     ctx.client.delete(f"/v2/editions/{src}/alignments/{tgt}")
@@ -1022,14 +1053,21 @@ def plan_replace(states, ctx):
 
 def plan_delete(states, ctx, only):
     plans = []
-    allowed = set(ANNOTATIONS) | {"alignment"}
+    allowed = set(ANNOTATIONS) | {"alignment", "tags"}
     for it in states:
         p = NotePlan(title=it.title, link=it.link)
         if only - allowed:
-            p.problem = "only alignment, toc, yigchungs, durchens or footnotes can be deleted (texts never)"
+            p.problem = "only alignment, toc, yigchungs, durchens, footnotes or tags can be deleted (texts never)"
         elif not it.edition_id or it.live_text is None:
             p.problem = f"nothing from this note on {ctx.env.name}"
         else:
+            if "tags" in only:
+                extra = _extra_tags(it)
+                if extra:
+                    tr = len(it.live_text.get("translations") or [])
+                    cascade = f"; the server also removes them from its {tr} translation(s)" if tr else ""
+                    p.steps.append(Step(f"PATCH /v2/texts/{it.text_id}  (remove tag(s) {', '.join(extra)}{cascade})",
+                                        lambda it=it, extra=extra: _delete_tags(it, ctx, extra)))
             for a in ANNOTATIONS:
                 live = (it.live_ann or {}).get(a)
                 if a in only and live:

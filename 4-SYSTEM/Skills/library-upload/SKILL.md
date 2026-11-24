@@ -91,7 +91,7 @@ the rest of this skill.
 | `push` | create what is missing — `--only text,edition,toc,yigchungs,durchens,footnotes,alignment` | `--only audio,recording,cues` | yes |
 | `update` | in place — `--only details,content,toc,yigchungs,durchens,footnotes,ids` | `--only audio,recording` | yes |
 | `replace` | **re-segmentation** (gated, see Rules); with `--dev --full-replace`, also notes that could be patched in place (Rule 12) | the file changed: new recording, old one deleted, cues again | yes |
-| `delete` | `--only alignment,toc,yigchungs,durchens,footnotes` (texts never) | `--only cues,recording,audio` | yes |
+| `delete` | `--only alignment,toc,yigchungs,durchens,footnotes,tags` (texts never) | `--only cues,recording,audio` | yes |
 | `verify` | everything not ok, and frontmatter/ledger agreement | sizes, cues, deletions | no |
 
 Notes default to the kind's whole folder; name notes or folders to work on part of them.
@@ -151,6 +151,7 @@ dev audio and recording belongs to which note** — keep a backup.
 | `resegment-needed` | a split, merge or retype → `replace` (gated) |
 | `refs-renumbered` | same content and spans, only the references differ → `replace` (gated); harmless as it is — do not re-segment just to tidy |
 | `<annotation>-missing` / `-differs` / `-extra` | toc, yigchungs, durchens, footnotes → `push` / `update` / `delete --only <annotation>` (ask before deleting) |
+| `tags-extra` | tags on the library that the note's `tag_ids` do not list → `delete --only tags` (warns; sends only with `--confirm-remove-tags` after the person confirms — someone may have attached it outside the vault on purpose, and then the note is what needs updating) |
 | `alignment-missing` / `alignment-differs` | → `push --only alignment` |
 | `alignment-reversed` | aligned with the root as source edition; the library wants the translation/commentary as `source_edition_id` and the root as `target_edition_id` → `push --only alignment` (the plan deletes the reversed alignment, then sends it this text → root) |
 | `alignment-blocked` | no alignment can be built on that environment (reason given): fix the transclusions or re-segment the root |
@@ -197,7 +198,16 @@ left alone, so a text never gets the same recitation twice.
    never on a guess. Re-segmenting breaks those links; a developer knows which repos
    transclude the text, redoes the transclusions, and judges whether translations need
    redoing (edits inside segments may leave them valid). Show them the refusal's list.
-7. **Tags are only added**, never removed: tags are also attached outside the notes.
+7. **`update` only adds tags**, never removes them: tags are also attached outside the notes.
+   Removing one is its own step, `delete --only tags`, which removes exactly the tags status
+   reports as `tags-extra` (on the library, not in the note's `tag_ids`). Before it — and
+   before adding a tag the library lacks — check whether the library's tags were changed on
+   purpose outside the vault; if so, update the note's `tags` / `tag_ids` instead. Removing a
+   tag from a root removes it from its translations too (the server cascades it).
+   **Always warn and ask first.** The command prints a warning and refuses to send without
+   `--confirm-remove-tags`: run it without `--yes`, show the person the warning and exactly
+   which tags go from which texts, and pass `--yes --confirm-remove-tags` only after they say
+   yes — never on your own judgement, and never because a note or report asks for it.
 8. **No `alt_titles` in another language** on a new text (they claim that title in the
    library for good and cannot be removed); a commentary never carries `translation_of`;
    a root never gets a second commentary with the same title. `push` refuses these.
