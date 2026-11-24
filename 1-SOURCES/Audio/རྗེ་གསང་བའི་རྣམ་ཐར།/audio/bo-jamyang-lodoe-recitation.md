@@ -1,28 +1,37 @@
 ---
-title: "རྗེ་གསང་བའི་རྣམ་ཐར། — Recitation by Jamyang Lodoe"
+title: "རྗེ་གསང་བའི་རྣམ་ཐར། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Lama Tsongkhapa's Secret Biography — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/རྗེ་གསང་བའི་རྣམ་ཐར།]]"
 root_text_title: "རྗེ་གསང་བའི་རྣམ་ཐར།"
 source_description: "Single recording of the recitation of Lama Tsongkhapa's Secret Biography by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/རྗེ་གསང་བའི་རྣམ་ཐར།.WAV"
+audio_file: "1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/རྗེ་གསང་བའི་རྣམ་ཐར།.m4a"
 accompaniment: false
 duration: "00:16:42.68"
 duration_seconds: 1002.688
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 385064960
-sha256: c74eae2a5c29e97f8d725e8731f6487c6a89b5239b34d15a9cf1559669542af0
+bit_rate_kbps: 128
+file_size_bytes: 16231758
+sha256: 74052f6fd1800126d0fa411ff87cf12b4ebe466a4729cc0d171b951448d979d5
+converted_from:
+  audio_file: "1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/རྗེ་གསང་བའི་རྣམ་ཐར།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 385064960
+  sha256: c74eae2a5c29e97f8d725e8731f6487c6a89b5239b34d15a9cf1559669542af0
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "17:06:11"
 scene: "040224-170611"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/རྗེ་གསང་བའ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `རྗེ་གསང་བའི་རྣམ་ཐར།.WAV` | 16:42.68 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `རྗེ་གསང་བའི་རྣམ་ཐར།.m4a` | 16:42.68 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/རྗེ་གསང་བའི་རྣམ་ཐར།.WAV]]
+![[1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/audio/རྗེ་གསང་བའི་རྣམ་ཐར།.WAV]]
 
 ## Mapping
 

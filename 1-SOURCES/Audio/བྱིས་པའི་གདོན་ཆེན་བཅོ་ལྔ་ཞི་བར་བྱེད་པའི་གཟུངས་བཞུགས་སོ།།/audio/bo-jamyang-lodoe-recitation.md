@@ -1,28 +1,37 @@
 ---
-title: "བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།། — Recitation by Jamyang Lodoe"
+title: "བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Dhāraṇī that Pacifies the Fifteen Great Grahas that Harm Children — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།]]"
 root_text_title: "བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།།"
 source_description: "Single recording of the recitation of The Dhāraṇī that Pacifies the Fifteen Great Grahas that Harm Children by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-26 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-26
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.WAV"
+audio_file: "1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:17:47.79"
 duration_seconds: 1067.795
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 410065920
-sha256: d937a6360f728b96f64cb827360561739890917134a67b541e67c845166736d7
+bit_rate_kbps: 128
+file_size_bytes: 17285976
+sha256: ae53b6400fa730fffbbf50cc108c18f0804008d4d2c9d56783b452743314165c
+converted_from:
+  audio_file: "1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 410065920
+  sha256: d937a6360f728b96f64cb827360561739890917134a67b541e67c845166736d7
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "19:27:31"
 scene: "260124-192731"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/བྱིས་པའི་ག�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.WAV` | 17:47.79 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.m4a` | 17:47.79 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།/audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།།/audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།།.WAV]]
 
 ## Mapping
 

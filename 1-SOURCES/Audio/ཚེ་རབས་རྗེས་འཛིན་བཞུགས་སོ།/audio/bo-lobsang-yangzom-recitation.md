@@ -1,11 +1,12 @@
 ---
-title: "ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ། — Recitation by Lobsang Yangzom"
+title: "ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ། — སྐྱོར་མཁན་བློ་བཟང་གཡང་འཛོམས།"
 title_en: "A Prayer to Be Cared For Throughout All My Lives — recitation by Lobsang Yangzom"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Lobsang Yangzom
+artist: Lobsang Yangzom [op:CwoM8wdlQcinlwNg7Cx1b]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།]]"
 root_text_title: "ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of A Prayer to Be Cared For Throughout All My Lives by Lobsang Yangzom."
@@ -21,11 +22,16 @@ bit_rate_kbps: 1058
 file_size_bytes: 8168898
 sha256: 223d0907e64c4f0b2f083b2c19a5e612fb1a3029261c2900bdab327a633e30e6
 file_creation_time: "2026-02-04T16:30:32.000000Z"
+testing_audio_id: WOE6I5PW4L0ADJ4i0OLBw
+testing_recording_id: UDFoznYpGp8llyP8sU1nZ
+testing_uploaded: 2026-11-23
 ---
 
 # ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ། — Lobsang Yangzom
 
 One recording of the root text [[1-SOURCES/Text/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།|ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།]], recited by **Lobsang Yangzom**.
+
+Uploaded to **testing** (testing.library.webuddhist.com) on 2026-11-23, not to prod: audio `WOE6I5PW4L0ADJ4i0OLBw`, recording `UDFoznYpGp8llyP8sU1nZ` (follows edition `oPDcRBAc1r939AqjdyKeJ`).
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |

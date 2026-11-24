@@ -199,8 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02bf6569a50fd7a4",
+  "active": "cbf0e09142ce0e65",
   "lastOpenFiles": [
+    "4-SYSTEM/scripts/otr_to_mapping.py",
+    "1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/otr/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.otr",
+    "1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/otr",
+    "1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/otr/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། །.otr",
+    "1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/otr",
     "0-INBOX/Text 1/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོ།.md",
     "0-INBOX/Text 2/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོའི་དཔུང་རྒྱན།.md",
     "0-INBOX/Text 1/འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པ་བཞུགས།.md",
@@ -231,11 +236,6 @@
     "4-SYSTEM/Skills/library-upload/scripts/webuddhist/vault.py",
     "4-SYSTEM/Skills/library-upload/scripts/webuddhist/text.py",
     "4-SYSTEM/Skills/library-upload/scripts/webuddhist/spans.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/plan.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/payloads.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/ledger.py",
-    "4-SYSTEM/Skills/library-upload/scripts/webuddhist/frontmatter.py",
-    "4-SYSTEM/Skills/library-upload/scripts/linter-audio/README.md",
-    "4-SYSTEM/Skills/library-upload/SKILL.md"
+    "4-SYSTEM/Skills/library-upload/scripts/linter-audio/README.md"
   ]
 }

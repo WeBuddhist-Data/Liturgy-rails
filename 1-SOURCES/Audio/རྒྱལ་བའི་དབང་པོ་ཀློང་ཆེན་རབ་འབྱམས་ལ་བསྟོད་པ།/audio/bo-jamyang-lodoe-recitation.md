@@ -1,28 +1,37 @@
 ---
-title: "རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "A Praise to Longchen Rabjam, Lord of the Victorious Ones — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།]]"
 root_text_title: "རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།"
 source_description: "Single recording of the recitation of A Praise to Longchen Rabjam, Lord of the Victorious Ones by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།/རྒྱལ་བའི་དབང་པ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.WAV"
+audio_file: "1-SOURCES/Audio/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།/རྒྱལ་བའི་དབང་པ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.m4a"
 accompaniment: false
 duration: "00:02:03.82"
 duration_seconds: 123.829
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3074
-file_size_bytes: 47583232
-sha256: 82f5d8140aa05cb8ded952223c444729265bfabfe7705db375edf21d8abb608d
+bit_rate_kbps: 128
+file_size_bytes: 2005406
+sha256: 55ee69505949c975fe2f7250a9aca41b774dad5950d4fa2122e4fb3863558807
+converted_from:
+  audio_file: "1-SOURCES/Audio/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།/རྒྱལ་བའི་དབང་པ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3074
+  file_size_bytes: 47583232
+  sha256: 82f5d8140aa05cb8ded952223c444729265bfabfe7705db375edf21d8abb608d
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "05:21:49"
 scene: "040224-052149"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/རྒྱལ་བའི་ད�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `རྒྱལ་བའི་དབང་པ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.WAV` | 2:03.82 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `རྒྱལ་བའི་དབང་པ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.m4a` | 2:03.82 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།/རྒྱལ་བའི་དབང་པ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.WAV]]
+![[1-SOURCES/Audio/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།/audio/རྒྱལ་བའི་དབང་པ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.WAV]]
 
 ## Mapping
 

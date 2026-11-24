@@ -1,28 +1,37 @@
 ---
-title: "རྟེན་འབྲེལ་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "རྟེན་འབྲེལ་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "In Praise of Dependent Origination — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/རྟེན་འབྲེལ་བསྟོད་པ།]]"
 root_text_title: "རྟེན་འབྲེལ་བསྟོད་པ།"
 source_description: "Single recording of the recitation of In Praise of Dependent Origination by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/རྟེན་འབྲེལ་བསྟོད་པ།.WAV"
+audio_file: "1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/རྟེན་འབྲེལ་བསྟོད་པ།.m4a"
 accompaniment: false
 duration: "00:20:21.93"
 duration_seconds: 1221.939
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 469257216
-sha256: 18a97f72e6e8fba83e04e2a3575c2ac52159a565c9c89b01d0a6793e05afdd2a
+bit_rate_kbps: 128
+file_size_bytes: 19781323
+sha256: dc7521efb5db87cdaa0aaa8ff4f84d074d087732cdf65c6bb6dc7acfafa74d42
+converted_from:
+  audio_file: "1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/རྟེན་འབྲེལ་བསྟོད་པ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 469257216
+  sha256: 18a97f72e6e8fba83e04e2a3575c2ac52159a565c9c89b01d0a6793e05afdd2a
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "16:38:16"
 scene: "040224-163816"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/རྟེན་འབྲེལ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `རྟེན་འབྲེལ་བསྟོད་པ།.WAV` | 20:21.93 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `རྟེན་འབྲེལ་བསྟོད་པ།.m4a` | 20:21.93 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/རྟེན་འབྲེལ་བསྟོད་པ།.WAV]]
+![[1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/audio/རྟེན་འབྲེལ་བསྟོད་པ།.WAV]]
 
 ## Mapping
 

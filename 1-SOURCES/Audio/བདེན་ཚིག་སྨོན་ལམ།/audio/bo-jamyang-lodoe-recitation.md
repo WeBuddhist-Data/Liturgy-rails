@@ -1,28 +1,37 @@
 ---
-title: "བདེན་ཚིག་སྨོན་ལམ། — Recitation by Jamyang Lodoe"
+title: "བདེན་ཚིག་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Prayer of the Words of Truth — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/བདེན་ཚིག་སྨོན་ལམ།]]"
 root_text_title: "བདེན་ཚིག་སྨོན་ལམ།"
 source_description: "Single recording of the recitation of The Prayer of the Words of Truth by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-26 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-26
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བདེན་ཚིག་སྨོན་ལམ།/བདེན་ཚིག་སྨོན་ལམ།.WAV"
+audio_file: "1-SOURCES/Audio/བདེན་ཚིག་སྨོན་ལམ།/བདེན་ཚིག་སྨོན་ལམ།.m4a"
 accompaniment: false
 duration: "00:04:03.57"
 duration_seconds: 243.575
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 93565440
-sha256: 3ba4e741939b28f5ab7750178bfc754ed77e5530bc3ea14aa664f0a38ac4a60b
+bit_rate_kbps: 128
+file_size_bytes: 3943988
+sha256: f548fc2c8682da7a47816bc07be447c5f6f2e745d5a974b4cb3daae2c6a682f0
+converted_from:
+  audio_file: "1-SOURCES/Audio/བདེན་ཚིག་སྨོན་ལམ།/བདེན་ཚིག་སྨོན་ལམ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 93565440
+  sha256: 3ba4e741939b28f5ab7750178bfc754ed77e5530bc3ea14aa664f0a38ac4a60b
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "19:11:25"
 scene: "260124-191125"
 ---
@@ -33,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/བདེན་ཚིག་ས�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `བདེན་ཚིག་སྨོན་ལམ།.WAV` | 4:03.57 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `བདེན་ཚིག་སྨོན་ལམ།.m4a` | 4:03.57 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

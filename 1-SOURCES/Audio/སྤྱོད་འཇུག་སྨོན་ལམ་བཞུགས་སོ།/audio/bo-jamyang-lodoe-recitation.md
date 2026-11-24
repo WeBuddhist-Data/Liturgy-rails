@@ -1,28 +1,37 @@
 ---
-title: "སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ། — Recitation by Jamyang Lodoe"
+title: "སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Aspiration Prayer from the Bodhicharyāvatāra — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།]]"
 root_text_title: "སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of Aspiration Prayer from the Bodhicharyāvatāra by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-08 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-08
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.WAV"
+audio_file: "1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:18:06.55"
 duration_seconds: 1086.551
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 417268224
-sha256: 27c15af0677fa051ce1f6df186465658f1a82543ae7f1ed81db2ce19cff6e43c
+bit_rate_kbps: 128
+file_size_bytes: 17589609
+sha256: b6e8e8027943bf15fb0ca2c61c283fbc4f2d9408cddf767251e9adb627081a9e
+converted_from:
+  audio_file: "1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 417268224
+  sha256: 27c15af0677fa051ce1f6df186465658f1a82543ae7f1ed81db2ce19cff6e43c
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "16:43:07"
 scene: "080224-164307"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/སྤྱོད་འཇུག�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.WAV` | 18:06.55 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.m4a` | 18:06.55 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.WAV]]
 
 ## Mapping
 

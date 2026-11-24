@@ -1,11 +1,11 @@
 ---
-title: ཐོག་མཐའ་མ་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: ཐོག་མཐའ་མ་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: A Prayer for the Beginning, Middle, and End of Practice — recitation by Jamyang Lodoe
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/ཐོག་མཐའ་མ་བཞུགས་སོ།]]"
 root_text_title: ཐོག་མཐའ་མ་བཞུགས་སོ།
@@ -14,19 +14,27 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of A Prayer for the Beginning, Middle, and End of Practice by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/audio/ཐོག་མཐའ་མ་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/audio/ཐོག་མཐའ་མ་བཞུགས་སོ།.m4a
     version: recitation
     accompaniment: false
     duration: 00:10:01.54
     duration_seconds: 601.541
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 231024640
-    sha256: 93ff382ea3abe6e264de9069d2020c1b462c8e360b45a7652f4443d2f93b60e0
+    bit_rate_kbps: 128
+    file_size_bytes: 9738652
+    sha256: f775c37f7190b46ca063b538b9b90d96a23117ccf10d980bcf5e2e17a1353e02
+    converted_from:
+      file: 1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/audio/ཐོག་མཐའ་མ་བཞུགས་སོ།.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 231024640
+      sha256: 93ff382ea3abe6e264de9069d2020c1b462c8e360b45a7652f4443d2f93b60e0
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-22
@@ -35,7 +43,7 @@ recordings:
       tracks: TrMicL, TrMicR
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: TOC added
 ---
 
@@ -45,7 +53,7 @@ One recording of the root text [[1-SOURCES/Text/ཐོག་མཐའ་མ་�
 
 | Version    | File                    | Duration | Format                             |
 | ---------- | ----------------------- | -------- | ---------------------------------- |
-| Recitation | `ཐོག་མཐའ་མ་བཞུགས་སོ།.WAV` | 10:01.54 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཐོག་མཐའ་མ་བཞུགས་སོ།.m4a` | 10:01.54 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

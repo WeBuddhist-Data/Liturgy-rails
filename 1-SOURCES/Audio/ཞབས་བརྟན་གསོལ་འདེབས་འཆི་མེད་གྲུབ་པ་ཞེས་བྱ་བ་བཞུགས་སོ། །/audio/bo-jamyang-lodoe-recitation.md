@@ -1,28 +1,37 @@
 ---
-title: "ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། ། — Recitation by Jamyang Lodoe"
+title: "ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Accomplishing Immortality: A Prayer for Long Life — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།]]"
 root_text_title: "ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །"
 source_description: "Single recording of the recitation of Accomplishing Immortality: A Prayer for Long Life by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-29 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-29
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV"
+audio_file: "1-SOURCES/Audio/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །.m4a"
 accompaniment: false
 duration: "00:05:40.75"
 duration_seconds: 340.755
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 130882560
-sha256: a1641e76e4ff0180b85d7f8cd2120443e30b43c2df5e0ac370d98c52f5d53939
+bit_rate_kbps: 128
+file_size_bytes: 5516983
+sha256: f148addf73ff41b6166c1abc3608475c89a52bc9deec57a70897b5cae6ffe98c
+converted_from:
+  audio_file: "1-SOURCES/Audio/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 130882560
+  sha256: a1641e76e4ff0180b85d7f8cd2120443e30b43c2df5e0ac370d98c52f5d53939
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "19:49:24"
 scene: "290124-194924"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/ཞབས་བརྟན་ག�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV` | 5:40.75 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །.m4a` | 5:40.75 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །/༄༅། །ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV]]
+![[1-SOURCES/Audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV]]
 
 ## Mapping
 

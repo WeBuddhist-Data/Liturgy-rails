@@ -1,11 +1,11 @@
 ---
-title: བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ། — Recitation by Jamyang Lodoe
+title: བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: The Bodhisattva's Confession of Downfalls — recitation by Jamyang Lodoe
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།]]"
 root_text_title: བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།
@@ -14,26 +14,34 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Bodhisattva's Confession of Downfalls by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-18 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.WAV
+    file: 1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.m4a
     version: recitation
     accompaniment: false
     duration: 00:07:27.09
     duration_seconds: 447.087
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 171714048
-    sha256: dd9ce8086f3fc18bda3b2a342529981ab37bb2fe8e4f972506b26c95d8469b53
+    bit_rate_kbps: 128
+    file_size_bytes: 7238366
+    sha256: cc2cf6cc627655ad0fe55f89699d1fc3d39191010e5d0f725eb54ed55eae22e2
+    converted_from:
+      file: 1-SOURCES/Audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།/audio/བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 171714048
+      sha256: dd9ce8086f3fc18bda3b2a342529981ab37bb2fe8e4f972506b26c95d8469b53
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-18
       creation_time: 05:35:18
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: draft
 ---
 
@@ -43,7 +51,7 @@ One recording of the root text [[1-SOURCES/Text/བྱང་ཆུབ་སེ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.WAV` | 7:27.09 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།.m4a` | 7:27.09 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

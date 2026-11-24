@@ -1,5 +1,5 @@
 ---
-title: "ཡན་ལག་བདུན་པ། — Recitation by Jamyang Lodoe"
+title: "ཡན་ལག་བདུན་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Seven Branches — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
@@ -37,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/ཡན་ལག་བདུན�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཡན་ལག་བདུན་པ།/ཡན་ལག་བདུན་པ།.WAV]]
+![[1-SOURCES/Audio/ཡན་ལག་བདུན་པ།/audio/ཡན་ལག་བདུན་པ།.WAV]]
 
 ## Mapping
 

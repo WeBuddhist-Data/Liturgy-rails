@@ -1,28 +1,37 @@
 ---
-title: "དབང་སྡུད་གསོལ་འདེབས། — Recitation by Jamyang Lodoe"
+title: "དབང་སྡུད་གསོལ་འདེབས། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Great Cloud of Blessings: The Prayer which Magnetizes All that Appears and Exists — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/དབང་སྡུད་གསོལ་འདེབས།]]"
 root_text_title: "དབང་སྡུད་གསོལ་འདེབས།"
 source_description: "Single recording of the recitation of The Great Cloud of Blessings: The Prayer which Magnetizes All that Appears and Exists by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-25 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-25
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/དབང་སྡུད་གསོལ་འདེབས།/དབང་སྡུད་གསོལ་འདེབས།.WAV"
+audio_file: "1-SOURCES/Audio/དབང་སྡུད་གསོལ་འདེབས།/དབང་སྡུད་གསོལ་འདེབས།.m4a"
 accompaniment: false
 duration: "00:02:19.36"
 duration_seconds: 139.363
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3074
-file_size_bytes: 53548032
-sha256: f2b5c9918727b646207a6a6937b524e6fa0fac977924841b81ee6e5d08438f37
+bit_rate_kbps: 128
+file_size_bytes: 2256809
+sha256: f6c77e892c7e4a2e135b29f3a6d78f146e97a2858ddf3896832ebd2af5687f9b
+converted_from:
+  audio_file: "1-SOURCES/Audio/དབང་སྡུད་གསོལ་འདེབས།/དབང་སྡུད་གསོལ་འདེབས།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3074
+  file_size_bytes: 53548032
+  sha256: f2b5c9918727b646207a6a6937b524e6fa0fac977924841b81ee6e5d08438f37
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "03:21:07"
 scene: "250124-032107"
 ---
@@ -33,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/དབང་སྡུད་ག�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `དབང་སྡུད་གསོལ་འདེབས།.WAV` | 2:19.36 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `དབང་སྡུད་གསོལ་འདེབས།.m4a` | 2:19.36 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

@@ -1,9 +1,10 @@
 # Linter — Audio
 
 Checks audio notes (`1-SOURCES/Audio/<text>/audio/<lang>-<artist>-recitation.md`)
-against the v2 audio API and builds their upload payloads. `../library.py`
-(skill Library-Upload) runs it on every note and refuses to write for a note
-with any **error**; **warnings** do not block.
+against the v2 audio API and builds their upload payloads. A vault script, like
+the text linters and parsers next to it: it depends on nothing outside this
+vault. The skill `library-upload` runs it on every note and refuses to write for
+a note with any **error**; **warnings** do not block.
 
 | File | Role |
 |------|------|
@@ -11,7 +12,8 @@ with any **error**; **warnings** do not block.
 | `lint_audio.py` | Linter: the rules below, the payloads, the report |
 
 Related: `../otr_to_mapping.py` fills the Mapping table from an .otr file
-(skill `4-SYSTEM/Skills/OTR-To-Mapping`), `../library.py audio …` uploads.
+(skill `otr-to-mapping`), `../audio_notes_to_m4a.py` points notes at their
+converted .m4a (skill `convert-audio`); the skill `library-upload` uploads.
 
 ## How to run
 
@@ -19,13 +21,13 @@ From the vault root:
 
 ```bash
 python 4-SYSTEM/scripts/linter-audio/lint_audio.py                  # every note in 1-SOURCES/Audio
-python 4-SYSTEM/scripts/linter-audio/lint_audio.py "1-SOURCES/Audio/<text>" --live
+python 4-SYSTEM/scripts/linter-audio/lint_audio.py "1-SOURCES/Audio/<text>" --live --host testing
 python 4-SYSTEM/scripts/linter-audio/lint_audio.py -q               # only notes with errors
 ```
 
 | Option | |
 |--------|--|
-| `--live` | read the root text's edition on the API (`--host dev`, default, or any environment in `../webuddhist/envs.py`) and place every timed Mapping row in it: this gives the cue spans |
+| `--live` | read the root text's edition on the API (`--host dev` (default), `testing` or `prod`, with that environment's key from `dev_api_key` / `testing_api_key` / `prod_api_key` in the vault's git-ignored `.env`) and place every timed Mapping row in it: this gives the cue spans |
 | `--hash` | sha256 every audio file and compare with the note (slow: ~12 GB of WAV) |
 | `--audio-dir DIR` | where the audio files are (see below) |
 | `--require-file` | a recording whose file is missing is an error, not a warning (upload mode) |
@@ -39,7 +41,9 @@ adding each note's state, the plan or what was sent, and API failures.
 Exit code 1 when any note has an error. Output, per note:
 `output/<root text> — <note>.lint.json` (no errors) or `….lint.errors.json`,
 holding `audio_input`, `recordings` (metadata, file, content type),
-`cue_sources`, `cues` (with `--live`), `errors`, `warnings`, `notes`.
+`cue_sources`, `cues` (with `--live`), `errors`, `warnings`, `notes`. The output
+is a few KB per note: a recording's audio is never copied in, only referenced by
+its vault-relative path (`file`), size and sha256.
 
 ## Audio files are not in the repository
 

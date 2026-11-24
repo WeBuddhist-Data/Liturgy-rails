@@ -1,28 +1,37 @@
 ---
-title: "འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ། — Recitation by Jamyang Lodoe"
+title: "འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Verses of the Eight Noble Auspicious Ones — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།]]"
 root_text_title: "འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།"
 source_description: "Single recording of the recitation of Verses of the Eight Noble Auspicious Ones by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.WAV"
+audio_file: "1-SOURCES/Audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.m4a"
 accompaniment: false
 duration: "00:03:06.39"
 duration_seconds: 186.391
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 71606784
-sha256: e3fa3a8de1f250e21be9325589c54d38b33b80f65fcb07c13cfbac5fe4d1c38a
+bit_rate_kbps: 128
+file_size_bytes: 3018269
+sha256: 57bfca227ea8cb2c2fcc3e871ebcfe96f631cd9220208a47b1a321f5be10b23a
+converted_from:
+  audio_file: "1-SOURCES/Audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 71606784
+  sha256: e3fa3a8de1f250e21be9325589c54d38b33b80f65fcb07c13cfbac5fe4d1c38a
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "04:21:00"
 scene: "010224-042100"
 ---
@@ -33,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/འཕགས་པ་བཀྲ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.WAV` | 3:06.39 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.m4a` | 3:06.39 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

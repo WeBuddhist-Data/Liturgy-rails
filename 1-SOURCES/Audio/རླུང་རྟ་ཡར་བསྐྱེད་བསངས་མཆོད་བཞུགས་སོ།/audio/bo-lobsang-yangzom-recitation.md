@@ -1,11 +1,12 @@
 ---
-title: "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ། — Recitation by Lobsang Yangzom"
+title: "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ། — སྐྱོར་མཁན་བློ་བཟང་གཡང་འཛོམས།"
 title_en: "Smoke Offering for Raising Windhorse — recitation by Lobsang Yangzom"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Lobsang Yangzom
+artist: Lobsang Yangzom [op:CwoM8wdlQcinlwNg7Cx1b]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།]]"
 root_text_title: "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of Smoke Offering for Raising Windhorse by Lobsang Yangzom."
@@ -21,11 +22,16 @@ bit_rate_kbps: 1074
 file_size_bytes: 15560412
 sha256: 1170958b4ec839f410273bfb44dfb9fb117b5e225ad20759a70adf7fe04afbb7
 file_creation_time: "2026-02-04T16:30:22.000000Z"
+testing_audio_id: nTMF6GuBEDGCTMNAJiXN7
+testing_recording_id: MQVhObnOIUqin5UVPWlyi
+testing_uploaded: 2026-11-23
 ---
 
 # རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ། — Lobsang Yangzom
 
 One recording of the root text [[1-SOURCES/Text/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།|རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།]], recited by **Lobsang Yangzom**.
+
+Uploaded to **testing** (testing.library.webuddhist.com) on 2026-11-23, not to prod: audio `nTMF6GuBEDGCTMNAJiXN7`, recording `MQVhObnOIUqin5UVPWlyi` (follows edition `dRvCnOEGrZe3A0ltC7vpd`).
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |

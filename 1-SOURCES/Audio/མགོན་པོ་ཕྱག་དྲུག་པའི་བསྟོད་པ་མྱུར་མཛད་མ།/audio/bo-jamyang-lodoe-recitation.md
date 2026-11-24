@@ -1,28 +1,37 @@
 ---
-title: "མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ། — Recitation by Jamyang Lodoe"
+title: "མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Praise to the Six-Armed Mahākāla — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།]]"
 root_text_title: "མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།"
 source_description: "Single recording of the recitation of Praise to the Six-Armed Mahākāla by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.WAV"
+audio_file: "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.m4a"
 accompaniment: false
 duration: "00:02:30.11"
 duration_seconds: 150.113
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3074
-file_size_bytes: 57676288
-sha256: 968d2e2d1326c8a3f46b55a069437ea3b6ae7defa94d8b69d74cbaa28afb2df3
+bit_rate_kbps: 128
+file_size_bytes: 2431148
+sha256: 0e146a91debf036f2b2087208d2d16724473bde272d8a80a94e058867bf7a8ec
+converted_from:
+  audio_file: "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3074
+  file_size_bytes: 57676288
+  sha256: 968d2e2d1326c8a3f46b55a069437ea3b6ae7defa94d8b69d74cbaa28afb2df3
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "20:16:09"
 scene: "280124-201609"
 ---
@@ -33,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/མགོན་པོ་ཕྱ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.WAV` | 2:30.11 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.m4a` | 2:30.11 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

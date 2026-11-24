@@ -1,11 +1,11 @@
 ---
-title: ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ། — Recitation by Jamyang Lodoe
+title: ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: "The Sage's Harmonious Song of Truth: A Prayer for the Flourishing of the Non-Sectarian Teachings of the Buddha — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།]]"
 root_text_title: ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།
@@ -14,19 +14,27 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of The Sage's Harmonious Song of Truth: A Prayer for the Flourishing of the Non-Sectarian Teachings of the Buddha by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།/audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.WAV
+    file: 1-SOURCES/Audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།/audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.m4a
     version: recitation
     accompaniment: false
     duration: 00:08:03.23
     duration_seconds: 483.229
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 185592832
-    sha256: dd74a186f07137d00b454188c05436721e6b794ecac2153facc36aedca09a47c
+    bit_rate_kbps: 128
+    file_size_bytes: 7823526
+    sha256: 7deb59b762c4f5e6da1255c44fc5aa2ad70d9e82811c69e2d14941fe87433980
+    converted_from:
+      file: 1-SOURCES/Audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།/audio/ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 185592832
+      sha256: dd74a186f07137d00b454188c05436721e6b794ecac2153facc36aedca09a47c
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-22
@@ -35,7 +43,7 @@ recordings:
       tracks: TrMicL, TrMicR
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: TOC added
 ---
 
@@ -45,7 +53,7 @@ One recording of the root text [[1-SOURCES/Text/ཐུབ་བསྟན་ར�
 
 | Version    | File | Duration | Format                             |
 | ---------- | ---- | -------- | ---------------------------------- |
-| Recitation | `ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.WAV` | 8:03.23  | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།.m4a` | 8:03.23  | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

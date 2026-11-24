@@ -1,28 +1,37 @@
 ---
-title: "དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ། — Recitation by Jamyang Lodoe"
+title: "དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Supplication to the Life of the First Karmapa, Dusum Khyenpa — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།]]"
 root_text_title: "དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།"
 source_description: "Single recording of the recitation of Supplication to the Life of the First Karmapa, Dusum Khyenpa by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-25 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-25
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.WAV"
+audio_file: "1-SOURCES/Audio/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.m4a"
 accompaniment: false
 duration: "00:05:05.42"
 duration_seconds: 305.429
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 117317632
-sha256: 9b698e72b12245370840b2d9530f7d394ca55b15254ba4b6e09f5989ce147ec2
+bit_rate_kbps: 128
+file_size_bytes: 4945097
+sha256: 1d5e12cbcc30c22a7a0ba9ef511bbf6e8824937e5aa832f2edea14bf2155ca0c
+converted_from:
+  audio_file: "1-SOURCES/Audio/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 117317632
+  sha256: 9b698e72b12245370840b2d9530f7d394ca55b15254ba4b6e09f5989ce147ec2
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "19:14:58"
 scene: "250124-191458"
 ---
@@ -33,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/དུས་མཁྱེན་�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.WAV` | 5:05.42 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.m4a` | 5:05.42 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

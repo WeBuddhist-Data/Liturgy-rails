@@ -1,5 +1,5 @@
 ---
-title: "དཔལ་ལྡན་ས་གསུམ་མ། — Recitation by Jamyang Lodoe"
+title: "དཔལ་ལྡན་ས་གསུམ་མ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Glorious Three Realms: A Supplication to Je Tsongkhapa — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan

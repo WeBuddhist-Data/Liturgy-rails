@@ -1,28 +1,37 @@
 ---
-title: "ལམ་གཙོ་རྣམ་གསུམ། — Recitation by Jamyang Lodoe"
+title: "ལམ་གཙོ་རྣམ་གསུམ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Three Principal Aspects of the Path — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/ལམ་གཙོ་རྣམ་གསུམ།]]"
 root_text_title: "ལམ་གཙོ་རྣམ་གསུམ།"
 source_description: "Single recording of the recitation of The Three Principal Aspects of the Path by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ལམ་གཙོ་རྣམ་གསུམ།/ལམ་གཙོ་རྣམ་གསུམ།.WAV"
+audio_file: "1-SOURCES/Audio/ལམ་གཙོ་རྣམ་གསུམ།/ལམ་གཙོ་རྣམ་གསུམ།.m4a"
 accompaniment: false
 duration: "00:07:19.82"
 duration_seconds: 439.824
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 168925184
-sha256: ced86b0356ff81134e7875f99e21bf6b6e1b0eb5dcf8f5105e3e1d983efdfada
+bit_rate_kbps: 128
+file_size_bytes: 7120723
+sha256: 99663af52df3ff694297c4a44b1721152e6b360c329cb2360fff042391b26626
+converted_from:
+  audio_file: "1-SOURCES/Audio/ལམ་གཙོ་རྣམ་གསུམ།/ལམ་གཙོ་རྣམ་གསུམ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 168925184
+  sha256: ced86b0356ff81134e7875f99e21bf6b6e1b0eb5dcf8f5105e3e1d983efdfada
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "16:59:56"
 scene: "050224-165956"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/ལམ་གཙོ་རྣམ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `ལམ་གཙོ་རྣམ་གསུམ།.WAV` | 7:19.82 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ལམ་གཙོ་རྣམ་གསུམ།.m4a` | 7:19.82 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/ལམ་གཙོ་རྣམ་གསུམ།/ལམ་གཙོ་རྣམ་གསུམ།.WAV]]
+![[1-SOURCES/Audio/ལམ་གཙོ་རྣམ་གསུམ།/audio/ལམ་གཙོ་རྣམ་གསུམ།.WAV]]
 
 ## Mapping
 

@@ -1,28 +1,37 @@
 ---
-title: "མི་ཁའི་བཟློག་བསྒྱུར། — Recitation by Jamyang Lodoe"
+title: "མི་ཁའི་བཟློག་བསྒྱུར། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "Averting and Reversing Gossip — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/མི་ཁའི་བཟློག་བསྒྱུར།]]"
 root_text_title: "མི་ཁའི་བཟློག་བསྒྱུར།"
 source_description: "Single recording of the recitation of Averting and Reversing Gossip by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/མི་ཁའི་བཟློག་བསྒྱུར།.WAV"
+audio_file: "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/མི་ཁའི་བཟློག་བསྒྱུར།.m4a"
 accompaniment: false
 duration: "00:17:07.86"
 duration_seconds: 1027.865
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 394733056
-sha256: 96baac77c0b7ab445b707d255a59a0c4d8c8c94e557ca7837ec3103a0eca22ca
+bit_rate_kbps: 128
+file_size_bytes: 16639701
+sha256: 4210cff4ea2d0dc27bc5b4fc05f154f4a91a10a974a22d815c506eb0bfed4f60
+converted_from:
+  audio_file: "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/མི་ཁའི་བཟློག་བསྒྱུར།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 394733056
+  sha256: 96baac77c0b7ab445b707d255a59a0c4d8c8c94e557ca7837ec3103a0eca22ca
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "20:35:58"
 scene: "280124-203558"
 ---
@@ -33,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/མི་ཁའི་བཟླ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `མི་ཁའི་བཟློག་བསྒྱུར།.WAV` | 17:07.86 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `མི་ཁའི་བཟློག་བསྒྱུར།.m4a` | 17:07.86 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

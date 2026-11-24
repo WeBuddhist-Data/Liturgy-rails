@@ -1,11 +1,11 @@
 ---
-title: དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། — Recitation by Jamyang Lodoe
+title: དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།
 alt_titles:
   - en: The Supplement to the Single Intention — recitation by Jamyang Lodoe
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།]]"
 root_text_title: དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།
@@ -14,19 +14,27 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Supplement to the Single Intention by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.WAV
+    file: 1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.m4a
     version: recitation
     accompaniment: false
     duration: 00:04:30.35
     duration_seconds: 270.352
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 103847936
-    sha256: b78da4f196216278a617efbd790835d8b1e2bb96306b01242d6a7c963add6492
+    bit_rate_kbps: 128
+    file_size_bytes: 4377393
+    sha256: de7060bcc8a5faa7a65efe785083c54b69b1b58ae4869670f77f6f5e65b1a5f8
+    converted_from:
+      file: 1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 103847936
+      sha256: b78da4f196216278a617efbd790835d8b1e2bb96306b01242d6a7c963add6492
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-22
@@ -35,7 +43,7 @@ recordings:
       tracks: TrMicL, TrMicR
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: TOC added
 ---
 
@@ -45,7 +53,7 @@ One recording of the root text [[1-SOURCES/Text/དགོངས་གཅིག�
 
 | Version    | File                                   | Duration | Format                             |
 | ---------- | -------------------------------------- | -------- | ---------------------------------- |
-| Recitation | `དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.WAV` | 4:30.35  | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.m4a` | 4:30.35  | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

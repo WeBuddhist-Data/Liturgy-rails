@@ -1,28 +1,37 @@
 ---
-title: "བདུད་བཟློག་གསང་བའི་མན་ངག — Recitation by Jamyang Lodoe"
+title: "བདུད་བཟློག་གསང་བའི་མན་ངག — སྐྱོར་མཁན་འཇམ་དབྱངས་བློ་གྲོས།"
 title_en: "The Secret Pith Instruction for Averting Maras — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/བདུད་བཟློག་གསང་བའི་མན་ངག]]"
 root_text_title: "བདུད་བཟློག་གསང་བའི་མན་ངག"
 source_description: "Single recording of the recitation of The Secret Pith Instruction for Averting Maras by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-26 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-26
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བདུད་བཟློག་གསང་བའི་མན་ངག/བདུད་བཟློག་གསང་བའི་མན་ངག.WAV"
+audio_file: "1-SOURCES/Audio/བདུད་བཟློག་གསང་བའི་མན་ངག/བདུད་བཟློག་གསང་བའི་མན་ངག.m4a"
 accompaniment: false
 duration: "00:01:52.73"
 duration_seconds: 112.732
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3074
-file_size_bytes: 43321856
-sha256: 3bfce87e7b160cd60e17dd0774eab2f2a524e5954a80b29dbc5060b2388b5b18
+bit_rate_kbps: 128
+file_size_bytes: 1825833
+sha256: 559467b445009f7e32619e9970fb774e64c9add9758e7dabdd3e1d19a717542c
+converted_from:
+  audio_file: "1-SOURCES/Audio/བདུད་བཟློག་གསང་བའི་མན་ངག/བདུད་བཟློག་གསང་བའི་མན་ངག.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3074
+  file_size_bytes: 43321856
+  sha256: 3bfce87e7b160cd60e17dd0774eab2f2a524e5954a80b29dbc5060b2388b5b18
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "19:00:23"
 scene: "260124-190023"
 ---
@@ -33,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/བདུད་བཟློག�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `བདུད་བཟློག་གསང་བའི་མན་ངག.WAV` | 1:52.73 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `བདུད་བཟློག་གསང་བའི་མན་ངག.m4a` | 1:52.73 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
