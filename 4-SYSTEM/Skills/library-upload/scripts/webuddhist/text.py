@@ -40,6 +40,7 @@ is refused unless --dev. Texts and editions are never deleted.
 """
 from __future__ import annotations
 
+import json
 import re
 import sys
 import time
@@ -416,6 +417,10 @@ def _norm_contrib(cs):
     return sorted((c.get("type"), c.get("id") or c.get("bdrc_id") or c.get("bdrc"), c.get("role")) for c in cs or [])
 
 
+def _norm_alts(alts):
+    return sorted(json.dumps(a, ensure_ascii=False, sort_keys=True) for a in alts or [])
+
+
 def _details_diff(it: Item) -> dict:
     live, want = it.live_text or {}, it.p.get("text") or {}
     out = {}
@@ -432,6 +437,10 @@ def _details_diff(it: Item) -> dict:
             missing = [t for t in v if t not in (lv or [])]
             if missing:
                 out[k] = list(lv or []) + missing
+        elif k == "alt_titles":
+            # The server stores alt titles in its own order; only the set of entries matters.
+            if _norm_alts(v) != _norm_alts(lv):
+                out[k] = v
         elif v != lv:
             out[k] = v
     return out

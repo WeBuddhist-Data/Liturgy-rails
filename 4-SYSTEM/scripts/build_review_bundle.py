@@ -155,9 +155,29 @@ def main():
     print(f"  retired (not included)         {len(retired)} texts")
 
 
+def english_alt_title(path):
+    """The first `- en: …` entry of the note's `alt_titles` list, or ""."""
+    import yaml
+    try:
+        with open(path, encoding="utf-8") as fh:
+            text = fh.read()
+    except OSError:
+        return ""
+    m = re.match(r"---\r?\n(.*?)\r?\n---", text, re.S)
+    try:
+        alts = (yaml.safe_load(m.group(1)) or {}).get("alt_titles") or [] if m else []
+    except yaml.YAMLError:
+        return ""
+    for e in alts if isinstance(alts, list) else []:
+        if isinstance(e, dict) and e.get("en"):
+            return str(e["en"])
+    return ""
+
+
 def titles(stem):
-    fm = read_frontmatter(os.path.join(SRC_DIR, f"{stem}.md"))
-    return fm.get("title", stem), fm.get("title_en", "")
+    path = os.path.join(SRC_DIR, f"{stem}.md")
+    fm = read_frontmatter(path)
+    return fm.get("title", stem), english_alt_title(path)
 
 
 def write_docs(done, incomplete, unprocessed, retired):

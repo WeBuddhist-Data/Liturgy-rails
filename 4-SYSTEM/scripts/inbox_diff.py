@@ -64,7 +64,9 @@ import block_ids as B  # noqa: E402  (the stamping script; strip/parse/assign ar
 
 # Frontmatter keys the pipeline writes; never an expert edit.
 PIPELINE_KEYS = {
-    "title_en", "title_zh", "title_hi", "title_ne", "title_mn", "title_vi",
+    # the translated titles, written by `stamp_metadata.py --source-titles` as
+    # `alt_titles` entries (formerly title_en … title_vi); the inbox notes carry none
+    "alt_titles",
     "contributor_status", "text_id", "edition_id", "status",
 }
 # Where an edited key would have to go on the backend.
