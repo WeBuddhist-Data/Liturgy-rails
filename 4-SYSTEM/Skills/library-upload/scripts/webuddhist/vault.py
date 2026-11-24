@@ -21,7 +21,7 @@ stays the same in every vault:
   LEDGERS          4-SYSTEM/ledgers/<env>/ — git-ignored, outside the skill folder
                    (a re-install replaces the skill folder; the ledgers must survive)
   TOOLS            the vault's shared linters and parsers (linter-root-text,
-                   parser-root-text, linter-commentary, parser-commentary)
+                   parser-root-text, linter-commentary, parser-commentary, linter-audio)
 """
 from __future__ import annotations
 

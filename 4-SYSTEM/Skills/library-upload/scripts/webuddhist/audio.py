@@ -31,9 +31,14 @@ from pathlib import Path
 
 from .api import ApiError, items
 from .plan import NotePlan, Step
-from .vault import LEDGERS, VAULT
+from .vault import LEDGERS, TOOLS, VAULT
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "linter-audio"))
+# The vault's own audio linter (4-SYSTEM/scripts/linter-audio), like the text linters and
+# parsers: the skill runs it, it does not carry a copy.
+_LINTER = TOOLS / "linter-audio"
+if not (_LINTER / "lint_audio.py").is_file():
+    raise SystemExit(f"no audio linter at {_LINTER}: copy 4-SYSTEM/scripts/linter-audio/ from rails-template")
+sys.path.insert(0, str(_LINTER))
 import audio_note as an  # noqa: E402
 import lint_audio as la  # noqa: E402
 
@@ -129,7 +134,8 @@ def _rec_diff(live: dict, meta: dict) -> dict:
 
 def assess(n, ctx: Ctx) -> State:
     rel = n.path.relative_to(VAULT)
-    res = la.lint(n, live_host=ctx.env.name, do_hash=True, require_file=False, seen_files=ctx.seen)
+    res = la.lint(n, live_host=ctx.env.name, fetch=ctx.client.get, do_hash=True, require_file=False,
+                  seen_files=ctx.seen)
     if len(res["recordings"]) > 1:
         res["errors"].append({"code": "recordings", "message": f"{len(res['recordings'])} recordings: "
                               "one recording per note is supported"})

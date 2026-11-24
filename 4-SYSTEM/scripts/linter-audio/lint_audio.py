@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Lint audio notes against the v2 audio API and build their upload payloads.
 
-usage: lint_audio.py [NOTE_OR_FOLDER ...] [--live] [--host dev|prod] [--hash]
+usage: lint_audio.py [NOTE_OR_FOLDER ...] [--live] [--host dev|testing|prod] [--hash]
                      [--audio-dir DIR] [--require-file] [--no-output] [-q]
 
 With no path, lints every note under 1-SOURCES/Audio. Errors block the upload
@@ -38,11 +38,15 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import audio_note as an  # noqa: E402
 
 HERE = Path(__file__).resolve().parent
-OUTPUT_DIR = HERE / "output"
-sys.path.insert(0, str(HERE.parent))
-from webuddhist import envs as _envs  # noqa: E402  (environments: one list for every tool)
+OUTPUT_DIR = an.VAULT / "0-INBOX" / "temp" / "linter-audio"     # generated output goes to the inbox
 
-HOSTS = {name: e.url for name, e in _envs.ENVIRONMENTS.items()}
+# --live on its own (CLI, otr_to_mapping.py): the library's environments and the .env variable
+# holding each one's key. library-upload passes its own client instead (lint(..., fetch=…)).
+HOSTS = {
+    "dev": ("https://dev.library.webuddhist.com/api", "dev_api_key"),
+    "testing": ("https://testing.library.webuddhist.com/api", "testing_api_key"),
+    "prod": ("https://library-prod.webuddhist.com", "prod_api_key"),
+}
 
 # v2 API enums (openapi: LicenseType, ContributorRole, AudioFormat)
 LICENSES = {"cc0", "public", "cc-by", "cc-by-sa", "cc-by-nd", "cc-by-nc", "cc-by-nc-sa",
@@ -53,7 +57,7 @@ DURATION_SLACK_MS = 500          # a cue may end this much after the recorded du
 SHORT_CUE_MS = 1000              # a cue shorter than this is suspicious
 
 try:                              # the language list the root-text linter keeps fresh
-    sys.path.insert(0, str(HERE.parent / "linter-root-text"))
+    sys.path.insert(0, str(an.VAULT / "4-SYSTEM" / "scripts" / "linter-root-text"))   # the vault's shared linter
     from languages import LANGUAGE_VALUES  # type: ignore
 except Exception:                 # noqa: BLE001
     LANGUAGE_VALUES = frozenset({"bo", "en", "zh", "sa", "pi", "lzh", "mn", "ja", "fr", "hi", "ne", "ru", "th", "vi"})
@@ -81,26 +85,52 @@ class Report:
 
 # ------------------------------------------------------------------- API
 
-def api_get(host, path):
-    env = _envs.get(host)
-    req = urllib.request.Request(env.url + path)
-    for k, v in env.headers().items():
-        req.add_header(k, v)
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read().decode("utf-8"))
+def _api_key(host):
+    """The environment's key: $WEBUDDHIST_API_KEY_<ENV>, $<ENV>_API_KEY, else `<env>_api_key=` in the
+    vault's git-ignored .env (vault root or 4-SYSTEM/scripts/). Never printed."""
+    names = [f"WEBUDDHIST_API_KEY_{host.upper()}", f"{host.upper()}_API_KEY", HOSTS[host][1]]
+    for n in names:
+        if os.environ.get(n):
+            return os.environ[n]
+    for dotenv in (an.VAULT / ".env", an.VAULT / "4-SYSTEM" / "scripts" / ".env"):
+        if dotenv.is_file():
+            values = {}
+            for line in dotenv.read_text(encoding="utf-8").splitlines():
+                k, _, v = line.strip().removeprefix("export ").partition("=")
+                values[k.strip()] = v.strip().strip("\"'")
+            for n in names:
+                if values.get(n):
+                    return values[n]
+    return None
+
+
+def http_fetch(host):
+    """-> fetch(path) -> parsed JSON, for one of HOSTS."""
+    url = HOSTS[host][0]
+    key = _api_key(host)
+
+    def fetch(path):
+        req = urllib.request.Request(url + path)
+        if key:
+            req.add_header("X-API-Key", key)
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.loads(r.read().decode("utf-8"))
+    return fetch
 
 
 _EDITIONS = {}
 
 
-def live_segments(host, edition_id):
-    """-> (content, {reference: (start, end)}) for the edition, cached."""
+def live_segments(host, edition_id, fetch=None):
+    """-> (content, {reference: (start, end)}) for the edition, cached. `fetch(path)` reads the
+    API (library-upload passes its client's); without it, `host` is one of HOSTS."""
     key = (host, edition_id)
     if key not in _EDITIONS:
-        content = api_get(host, f"/v2/editions/{edition_id}/content")
+        fetch = fetch or http_fetch(host)
+        content = fetch(f"/v2/editions/{edition_id}/content")
         segs, off = {}, 0
         while True:
-            page = api_get(host, f"/v2/editions/{edition_id}/segmentation/segments?limit=200&offset={off}")
+            page = fetch(f"/v2/editions/{edition_id}/segmentation/segments?limit=200&offset={off}")
             for s in page["items"]:
                 if s.get("lines"):
                     segs[str(s.get("reference"))] = (s["lines"][0]["start"], s["lines"][-1]["end"])
@@ -258,7 +288,7 @@ def check_recordings(n: an.AudioNote, r: Report, *, do_hash, require_file, seen_
     return out
 
 
-def check_mapping(n: an.AudioNote, r: Report, *, live_host):
+def check_mapping(n: an.AudioNote, r: Report, *, live_host, fetch=None):
     """Check the Mapping table; -> list of cue sources {ref, start_ms, end_ms[, span]}."""
     otr = sorted((n.text_folder / "otr").glob("*.otr")) if (n.text_folder / "otr").is_dir() else []
     if n.mapping is None:
@@ -345,7 +375,7 @@ def check_mapping(n: an.AudioNote, r: Report, *, live_host):
 
     if cues and live_host and n.edition_id:
         try:
-            content, segs = live_segments(live_host, n.edition_id)
+            content, segs = live_segments(live_host, n.edition_id, fetch)
         except Exception as exc:          # noqa: BLE001
             r.error("live", f"cannot read edition {n.edition_id} on {live_host}: {exc}")
             return cues
@@ -391,7 +421,9 @@ def place_cues(n, r, cues, content, segs, host):
 
 # ------------------------------------------------------------------ main
 
-def lint(n: an.AudioNote, *, live_host=None, do_hash=False, require_file=False, seen_files=None):
+def lint(n: an.AudioNote, *, live_host=None, fetch=None, do_hash=False, require_file=False, seen_files=None):
+    """Lint one note. live_host: the environment whose edition places the cues (None: no live
+    check); fetch: path -> JSON for that environment (library-upload passes its client's)."""
     r = Report()
     for p in n.problems:
         if not p.startswith("Mapping"):
@@ -401,7 +433,7 @@ def lint(n: an.AudioNote, *, live_host=None, do_hash=False, require_file=False, 
     check_root(n, r)
     recs = check_recordings(n, r, do_hash=do_hash, require_file=require_file,
                             seen_files=seen_files if seen_files is not None else {})
-    cue_src = check_mapping(n, r, live_host=live_host)
+    cue_src = check_mapping(n, r, live_host=live_host, fetch=fetch)
     if n.dev_ids.get("dev_audio_id"):
         r.note("uploaded", f"already on dev: audio {n.dev_ids['dev_audio_id']}, "
                f"recording {n.dev_ids.get('dev_recording_id')}")
