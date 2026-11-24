@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96dbd2288dd62391",
+        "id": "4b63a86b1450219a",
         "type": "tabs",
         "children": [
           {
-            "id": "a7a6c3e3982df5c5",
+            "id": "bb142080751bc038",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec047b4d4b36409",
+  "active": "bb142080751bc038",
   "lastOpenFiles": [
     "1-SOURCES/text-without-audio.md",
     "1-SOURCES/Text/པོ་བསྟོད།.md",
