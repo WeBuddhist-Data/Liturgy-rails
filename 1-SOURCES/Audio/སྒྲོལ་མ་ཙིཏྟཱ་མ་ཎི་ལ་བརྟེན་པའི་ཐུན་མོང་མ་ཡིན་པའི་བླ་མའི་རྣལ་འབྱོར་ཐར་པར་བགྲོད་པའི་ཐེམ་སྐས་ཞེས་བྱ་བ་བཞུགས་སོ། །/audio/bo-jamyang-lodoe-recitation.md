@@ -4,7 +4,7 @@ title_en: "Stairway to Liberation: The Uncommon Guru Yoga in Reliance on Cittama
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །]]"
 root_text_title: "སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །"
@@ -25,6 +25,7 @@ file_size_bytes: 92632064
 sha256: d3207b303c246d43c81173c3cc366968c50d5ff719a9456e95f18125fe36489d
 recording_time: "17:58:04"
 scene: "050224-175804"
+license: cc-by
 ---
 
 # སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། ། — Jamyang Lodoe

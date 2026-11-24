@@ -3,7 +3,7 @@ title: "དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅ
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/དཔལ་རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།]]"
 root_text_title: "དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།"
@@ -24,6 +24,7 @@ file_size_bytes: 19088896
 sha256: 49f1d933bbd71b016abb53ce43097c01f467b635c9f16e848385c51926546ea3
 recording_time: "18:23:24"
 scene: "100224-182324"
+license: cc-by
 ---
 
 # དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ། — Jamyang Lodoe

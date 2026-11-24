@@ -4,7 +4,7 @@ title_en: "The Glorious Three Realms: A Supplication to Je Tsongkhapa — recita
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/དཔལ་ལྡན་ས་གསུམ་མ།]]"
 root_text_title: "དཔལ་ལྡན་ས་གསུམ་མ།"
@@ -25,6 +25,7 @@ file_size_bytes: 613347328
 sha256: 8e6ae2d0c79a57ff85fb3c2f1bc2c63f5fa3621291cf2dc17f9e15b91cca7ee3
 recording_time: "16:21:31"
 scene: "140224-162131"
+license: cc-by
 ---
 
 # དཔལ་ལྡན་ས་གསུམ་མ། — Jamyang Lodoe

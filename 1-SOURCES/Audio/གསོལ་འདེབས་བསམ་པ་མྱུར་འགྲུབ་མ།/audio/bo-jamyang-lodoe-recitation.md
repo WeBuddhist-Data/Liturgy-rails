@@ -4,7 +4,7 @@ title_en: "The Prayer that Swiftly Fulfils All Wishes — recitation by Jamyang 
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།]]"
 root_text_title: "གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།"
@@ -25,6 +25,7 @@ file_size_bytes: 59315200
 sha256: 920bd7848b99c163d7bbe80250e7fe3798f883606b1c39454560a624e8e41cf1
 recording_time: "17:30:40"
 scene: "100224-173040"
+license: cc-by
 ---
 
 # གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ། — Jamyang Lodoe
