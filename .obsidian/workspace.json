@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1811da4307d1d7b",
+        "id": "7b9cf3426160b90d",
         "type": "tabs",
         "children": [
           {
-            "id": "adb63d4d5c03f63f",
+            "id": "beef2c36c5ae5a66",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,12 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec047b4d4b36409",
+  "active": "beef2c36c5ae5a66",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "4-SYSTEM/scripts/otr_to_mapping.py",
-    "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།/audio/sed99wnS5",
     "1-SOURCES/Audio/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།/audio/sedF1duyR",
     "1-SOURCES/Audio/འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ། །/audio/sedK4nfRi",
