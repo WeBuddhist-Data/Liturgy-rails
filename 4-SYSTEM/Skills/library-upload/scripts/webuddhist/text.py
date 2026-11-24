@@ -413,8 +413,24 @@ def b_spans_equal_types_differ(b_spans, l_spans, b_types, l_types):
     return len(b_types) == len(l_types) and b_types != l_types
 
 
-def _norm_contrib(cs):
-    return sorted((c.get("type"), c.get("id") or c.get("bdrc_id") or c.get("bdrc"), c.get("role")) for c in cs or [])
+def _contrib_ids(c):
+    return {v for v in (c.get("id"), c.get("bdrc_id"), c.get("bdrc"), c.get("ai_id")) if v}
+
+
+def _same_contribs(want, live):
+    """True when every contribution in the note matches one on the server: same type and role,
+    and the same person by any id they share. A note names a person by BDRC id (`bdrc_id: P4956`)
+    while the server returns its own person id plus that bdrc_id, so ids are matched as sets."""
+    want, rest = list(want or []), list(live or [])
+    if len(want) != len(rest):
+        return False
+    for w in want:
+        hit = next((l for l in rest if l.get("type") == w.get("type") and l.get("role") == w.get("role")
+                    and _contrib_ids(w) & _contrib_ids(l)), None)
+        if hit is None:
+            return False
+        rest.remove(hit)
+    return True
 
 
 def _norm_alts(alts):
@@ -429,7 +445,7 @@ def _details_diff(it: Item) -> dict:
             continue
         lv = live.get(k)
         if k == "contributions":
-            if _norm_contrib(v) != _norm_contrib(lv):
+            if not _same_contribs(v, lv):
                 out[k] = v
         elif k == "tag_ids":
             # Additive only: tags are also attached outside the notes (a tagging pass, the
