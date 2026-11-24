@@ -31,6 +31,7 @@ generated: 2026-08-28
 blocks_translated: 16
 blocks_total: 16
 status: draft
+toc_id: W6R1r1Dsyk8GAlpz4qJ17
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
