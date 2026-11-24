@@ -4,25 +4,34 @@ title_en: "The King of Aspiration Prayers: Samantabhadra's Aspiration to Good Ac
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།]]"
 root_text_title: "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།"
 source_description: "Single recording of the recitation of The King of Aspiration Prayers: Samantabhadra's Aspiration to Good Actions by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-02 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-02
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.WAV"
+audio_file: "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.m4a"
 accompaniment: false
 duration: "00:21:14.08"
 duration_seconds: 1274.083
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 489280512
-sha256: d0eb431019cc9af55f21e7acfe92fb6d9327cbdca99a51212e96365182c0de5c
+bit_rate_kbps: 128
+file_size_bytes: 20625171
+sha256: 886920331848fe8b7ce7e93f321aa703841ea75703348157f521164b5e02618d
+converted_from:
+  audio_file: "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 489280512
+  sha256: d0eb431019cc9af55f21e7acfe92fb6d9327cbdca99a51212e96365182c0de5c
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "03:20:45"
 scene: "020224-032045"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/འཕགས་པ་བཟང�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.WAV` | 21:14.08 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.m4a` | 21:14.08 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.WAV]]
+![[1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.m4a]]
 
 ## Mapping
 

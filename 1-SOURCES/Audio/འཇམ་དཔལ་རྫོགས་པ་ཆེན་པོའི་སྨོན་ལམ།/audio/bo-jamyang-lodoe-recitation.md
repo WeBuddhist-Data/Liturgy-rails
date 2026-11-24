@@ -4,25 +4,34 @@ title_en: "Great Perfection Mañjuśrī — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།]]"
 root_text_title: "འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།"
 source_description: "Single recording of the recitation of Great Perfection Mañjuśrī by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.WAV"
+audio_file: "1-SOURCES/Audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.m4a"
 accompaniment: false
 duration: "00:08:08.18"
 duration_seconds: 488.187
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 187496448
-sha256: ff289568dce5d59179aad12f6c3d0af5808a6ac8200cdc73a62f40634ca45381
+bit_rate_kbps: 128
+file_size_bytes: 7903618
+sha256: c2b4e35f6fe79af587be6ed6ca715a49927d2e6e83b898f1254387f01ef8e543
+converted_from:
+  audio_file: "1-SOURCES/Audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 187496448
+  sha256: ff289568dce5d59179aad12f6c3d0af5808a6ac8200cdc73a62f40634ca45381
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "03:32:23"
 scene: "010224-033223"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/འཇམ་དཔལ་རྫ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.WAV` | 8:08.18 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.m4a` | 8:08.18 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།/audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.WAV]]
+![[1-SOURCES/Audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།/audio/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.m4a]]
 
 ## Mapping
 

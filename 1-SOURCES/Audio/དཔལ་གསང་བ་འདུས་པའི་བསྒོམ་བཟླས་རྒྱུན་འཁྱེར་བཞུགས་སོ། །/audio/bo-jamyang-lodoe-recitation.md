@@ -5,7 +5,7 @@ alt_titles:
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །]]"
 root_text_title: དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །
@@ -14,19 +14,27 @@ production_software: ZOOM H1essential (field recorder)
 source_description: "Single recording of the recitation of A Daily Practice of the Meditation and Recitation of Glorious Guhyasamāja by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file)."
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV
+    file: 1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.m4a
     version: recitation
     accompaniment: false
     duration: 00:11:18.54
     duration_seconds: 678.540
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 260592128
-    sha256: bd85ef634a0b6471e8089b56a3568e4fca8981f1c2283e5997983faa674f579b
+    bit_rate_kbps: 128
+    file_size_bytes: 10984764
+    sha256: 32a3889c19268bc9ed1db0e1d63c7d773ca26d74af12a2296d2ea57ef1ae9b2e
+    converted_from:
+      file: 1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 260592128
+      sha256: bd85ef634a0b6471e8089b56a3568e4fca8981f1c2283e5997983faa674f579b
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-23
@@ -35,7 +43,7 @@ recordings:
       tracks: TrMicL, TrMicR
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: TOC added
 ---
 
@@ -45,11 +53,11 @@ One recording of the root text [[1-SOURCES/Text/དཔལ་གསང་བ་�
 
 | Version    | File | Duration | Format                             |
 | ---------- | ---- | -------- | ---------------------------------- |
-| Recitation | `དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV` | 11:18.54 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.m4a` | 11:18.54 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.WAV]]
+![[1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.m4a]]
 
 
 

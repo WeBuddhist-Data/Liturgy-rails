@@ -4,8 +4,9 @@ title_en: "Migtsema: A Prayer to Jé Tsongkhapa — recitation by Lobsang Yangzo
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Lobsang Yangzom
+artist: Lobsang Yangzom [op:CwoM8wdlQcinlwNg7Cx1b]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/དམིགས་བརྩེ་མ།]]"
 root_text_title: "དམིགས་བརྩེ་མ།"
 source_description: "Single recording of the recitation of Migtsema: A Prayer to Jé Tsongkhapa by Lobsang Yangzom."

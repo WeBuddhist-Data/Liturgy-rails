@@ -4,25 +4,34 @@ title_en: "The Little Hundred Thousand for Children — recitation by Jamyang Lo
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།]]"
 root_text_title: "བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།"
 source_description: "Single recording of the recitation of The Little Hundred Thousand for Children by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-03 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-03
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.WAV"
+audio_file: "1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:09:46.67"
 duration_seconds: 586.675
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 225315840
-sha256: 7395b65dd99e2ff1ab58a8f58e95f9203c62452b23433b20b0be7933a9c8cc98
+bit_rate_kbps: 128
+file_size_bytes: 9497988
+sha256: 7c4636417f4585f2e5e2d55fa8a3d39727646ccae30dbcea449b306c0f1342d7
+converted_from:
+  audio_file: "1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 225315840
+  sha256: 7395b65dd99e2ff1ab58a8f58e95f9203c62452b23433b20b0be7933a9c8cc98
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "18:16:45"
 scene: "030224-181645"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/བྱིས་པའི་འ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.WAV` | 9:46.67 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.m4a` | 9:46.67 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.WAV]]
+![[1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.m4a]]
 
 ## Mapping
 

@@ -5,7 +5,7 @@ alt_titles:
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།]]"
 root_text_title: ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།
@@ -14,26 +14,34 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Praise of the Twelve Deeds of the Buddha by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-22 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/audio/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV
+    file: 1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/audio/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.m4a
     version: recitation
     accompaniment: false
     duration: 00:04:31.21
     duration_seconds: 271.215
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 104179200
-    sha256: cd456fa941e431f8381a6bda6b8d56fa05719829c21d16a2ad8d3d384e0b0412
+    bit_rate_kbps: 128
+    file_size_bytes: 4391376
+    sha256: 96ff9c2950c7ec952997ed96935f1260ae1c8e4f888180c49b38d6b84067e42e
+    converted_from:
+      file: 1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/audio/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 104179200
+      sha256: cd456fa941e431f8381a6bda6b8d56fa05719829c21d16a2ad8d3d384e0b0412
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-22
       creation_time: 00:25:42
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: draft
 ---
 
@@ -43,11 +51,11 @@ One recording of the root text [[1-SOURCES/Text/ཐུབ་པའི་མཛ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV` | 4:31.21 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.m4a` | 4:31.21 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/audio/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.WAV]]
+![[1-SOURCES/Audio/ཐུབ་པའི་མཛད་པ་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།/audio/ཐུབ་པའི་མཛད་བཅུ་གཉིས་ལ་བསྟོད་པ་ཞེས་བྱ་བ།.m4a]]
 
 ## Mapping
 
