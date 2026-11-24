@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9cf3426160b90d",
+        "id": "0cde4b2865c2108f",
         "type": "tabs",
         "children": [
           {
-            "id": "beef2c36c5ae5a66",
+            "id": "68cb3c2dfebefd8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །"
             }
           }
         ]
@@ -192,8 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beef2c36c5ae5a66",
+  "active": "68cb3c2dfebefd8e",
   "lastOpenFiles": [
+    "1-SOURCES/Text/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས།.md",
+    "1-SOURCES/Text/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.md",
+    "4-SYSTEM/Skills/convert-audio/SKILL.md",
+    "1-SOURCES/text-list.md",
+    "4-SYSTEM/Skills/library-upload/SKILL.md",
+    "1-SOURCES/Audio/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
@@ -208,8 +218,6 @@
     "1-SOURCES/Audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།/audio/sed1ksezK",
     "1-SOURCES/Audio/བསྟན་འབར་མ་བཞུགས་སོ།/audio/sedKBzX7F",
     "4-SYSTEM/Skills/library-upload/scripts/linter-audio/README.md",
-    "4-SYSTEM/Skills/library-upload/SKILL.md",
-    "4-SYSTEM/Skills/convert-audio/SKILL.md",
     "0-INBOX/Text 1/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོ།.md",
     "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྩེགས་པ།.md",
     "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ་བཞུགས་སོ། །.md",
@@ -226,10 +234,6 @@
     "0-INBOX/Text 3/ཧེ་རུ་ཀའི་ཡིག་བརྒྱ།.md",
     "0-INBOX/Text 3/སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱིས་གསུངས་པའི་གསོལ་འདེབས་ལེའུ་བདུན་མ་བཞུགས་སོ།།.md",
     "0-INBOX/Text 3/སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱིས་གསུངས་པའི་གསོལ་འདེབས་ལེའུ་བདུན་མ་བཞུགས་སོ།། ཁ་སྐད།.md",
-    "0-INBOX/Text 3/སློབ་དཔོན་ཆེན་པོའི་བསྟོད་པ་སྐུ་གསུམ་མ།_.md",
-    "0-INBOX/Text 3/སྲི་ཟློག་འཁོར་ལོ་འབར་བའི་སྒོམ་བཟླས་བདུད་ལས་རྣམ་རྒྱལ།.md",
-    "0-INBOX/Text 3/སྨོན་ལམ་སྟོབས་བཅུ།.md",
-    "0-INBOX/Text 3/སྨྱུང་གནས་ཀྱི་ཆོ་ག་མདོར་བསྡུས་བྱ་ཚུལ།.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
