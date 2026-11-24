@@ -1,6 +1,6 @@
 """The library's environments. Add one here and every tool can use it.
 
-  dev      https://dev.library.webuddhist.com/api       no key
+  dev      https://dev.library.webuddhist.com/api       key: dev_api_key
   testing  https://testing.library.webuddhist.com/api   key: testing_api_key
   prod     https://library-prod.webuddhist.com          key: prod_api_key   (protected)
 
@@ -13,9 +13,10 @@ audio exists only on dev for now. Ids are therefore always read per environment
 A `protected` environment needs `--confirm <name>` on top of `--yes` for any write.
 The API key (sent as X-API-Key) is read, in order, from the environment variables
 WEBUDDHIST_API_KEY_<ENV> and <ENV>_API_KEY, then from the vault's git-ignored `.env`
-(`testing_api_key=…`, `prod_api_key=…`; the older single `api_key=` line still counts
-for prod). Each environment reads only its own names, so a prod key is never sent to
-dev or testing. Keys are never printed.
+(`dev_api_key=…`, `testing_api_key=…`, `prod_api_key=…`; the older single `api_key=` line
+still counts for prod). Each environment reads only its own names, so a prod key is never
+sent to dev or testing. Keys are never printed. Every environment needs its key, for
+reads too (dev since 2026-11-23).
 """
 from __future__ import annotations
 
@@ -57,7 +58,7 @@ class Env:
 
 
 ENVIRONMENTS = {
-    "dev": Env("dev", "https://dev.library.webuddhist.com/api"),
+    "dev": Env("dev", "https://dev.library.webuddhist.com/api", key_dotenv=("dev_api_key",)),
     "testing": Env("testing", "https://testing.library.webuddhist.com/api", key_dotenv=("testing_api_key",)),
     "prod": Env("prod", "https://library-prod.webuddhist.com", protected=True,
                 key_dotenv=("prod_api_key", "api_key")),
