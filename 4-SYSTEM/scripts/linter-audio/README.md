@@ -41,7 +41,9 @@ adding each note's state, the plan or what was sent, and API failures.
 Exit code 1 when any note has an error. Output, per note:
 `output/<root text> — <note>.lint.json` (no errors) or `….lint.errors.json`,
 holding `audio_input`, `recordings` (metadata, file, content type),
-`cue_sources`, `cues` (with `--live`), `errors`, `warnings`, `notes`.
+`cue_sources`, `cues` (with `--live`), `errors`, `warnings`, `notes`. The output
+is a few KB per note: a recording's audio is never copied in, only referenced by
+its vault-relative path (`file`), size and sha256.
 
 ## Audio files are not in the repository
 

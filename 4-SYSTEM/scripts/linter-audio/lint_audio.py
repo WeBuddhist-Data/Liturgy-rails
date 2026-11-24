@@ -38,7 +38,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import audio_note as an  # noqa: E402
 
 HERE = Path(__file__).resolve().parent
-OUTPUT_DIR = an.VAULT / "0-INBOX" / "temp" / "linter-audio"     # generated output goes to the inbox
+OUTPUT_DIR = HERE / "output"      # next to the tool, like the text linters' and parsers' output
 
 # --live on its own (CLI, otr_to_mapping.py): the library's environments and the .env variable
 # holding each one's key. library-upload passes its own client instead (lint(..., fetch=…)).
@@ -472,7 +472,18 @@ def write_output(res):
     target, stale = (bad, ok) if res["errors"] else (ok, bad)
     if stale.exists():
         stale.unlink()
-    res = dict(res, linted_at=datetime.now(timezone.utc).isoformat())
+    # the audio file is referenced, never copied in; written vault-relative so the output
+    # does not carry one computer's paths (it is committed once the audio is on prod)
+    recs = []
+    for rec in res.get("recordings") or []:
+        rec = dict(rec)
+        if rec.get("file"):
+            try:
+                rec["file"] = Path(rec["file"]).resolve().relative_to(an.VAULT).as_posix()
+            except ValueError:
+                pass
+        recs.append(rec)
+    res = dict(res, recordings=recs, linted_at=datetime.now(timezone.utc).isoformat())
     target.write_text(json.dumps(res, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
