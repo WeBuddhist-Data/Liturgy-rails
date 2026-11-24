@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/རི་བོ་བསངས་མཆོད་བཞུགས་སོ༔.md",
+  "validated_at": "2026-11-24T18:03:35.535741+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL1EF82241A335",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རི་བོ་བསངས་མཆོད་བཞུགས་སོ༔"
+    },
+    "alt_titles": [
+      {
+        "en": "Mountain Smoke Offering"
+      },
+      {
+        "zh": "山淨煙供"
+      },
+      {
+        "hi": "पर्वतीय संग पूजा"
+      },
+      {
+        "ne": "रिबो साङछो (पर्वत साङ पूजा)"
+      },
+      {
+        "mn": "Уулын сан"
+      },
+      {
+        "vi": "Sơn Tịnh Yên Cúng (Riwo Sangchö)"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P1691"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

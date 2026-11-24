@@ -1,0 +1,39 @@
+{
+  "title": {
+    "bo": "དབང་སྡུད་གསོལ་འདེབས།"
+  },
+  "alt_titles": [
+    {
+      "en": "The Great Cloud of Blessings: The Prayer which Magnetizes All that Appears and Exists"
+    },
+    {
+      "zh": "懷業祈禱文"
+    },
+    {
+      "hi": "वांगदू: वशीकरण प्रार्थना"
+    },
+    {
+      "ne": "वाङ्दु प्रार्थना"
+    },
+    {
+      "mn": "Эрхэнд хураах залбирал"
+    },
+    {
+      "vi": "Bài Nguyện Kính Ái Wangdu"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P252"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

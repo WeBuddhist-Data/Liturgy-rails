@@ -1,0 +1,54 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།.md",
+  "validated_at": "2026-11-24T18:03:34.922936+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "2 no-break space U+00A0 in the source (body line 5, 8) — the parser normalises it; clean the source with clean-whitespace/clean_whitespace.py"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Name Mantra of Noble Avalokiteshvara"
+      },
+      {
+        "zh": "聖觀自在名咒"
+      },
+      {
+        "hi": "आर्य अवलोकितेश्वर नाम मंत्र"
+      },
+      {
+        "ne": "आर्य अवलोकितेश्वरको नाम मन्त्र"
+      },
+      {
+        "mn": "Жанрайсиг бурхны алдар, зүрхэн тарни"
+      },
+      {
+        "vi": "Danh Chú Quán Thế Âm"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །.md",
+  "validated_at": "2026-11-24T18:03:25.840189+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLF29BCF567A01",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཐུགས་རྗེ་ཆེན་པོའི་བསྒོམ་བཟླས་འགྲོ་དོན་མཁའ་ཁྱབ་མ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Benefiting Beings Pervading Space: The Meditation and Recitation of the Great Compassionate One"
+      },
+      {
+        "zh": "利生遍空大悲觀世音菩薩修誦儀軌"
+      },
+      {
+        "hi": "महाकरुणा अवलोकितेश्वर साधना"
+      },
+      {
+        "ne": "महाकरुणावानको ध्यान र जप"
+      },
+      {
+        "mn": "Жанрайсиг бурхны бясалгал, тарни"
+      },
+      {
+        "vi": "Nghi Quỹ Quán Thế Âm: Lợi Ích Chúng Sinh Khắp Hư Không"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P2778"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

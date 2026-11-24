@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL03E7156CE101",
+  "title": {
+    "bo": "ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ། །"
+  },
+  "alt_titles": [
+    {
+      "en": "Praise of the Buddha"
+    },
+    {
+      "zh": "釋迦牟尼佛禮讚文"
+    },
+    {
+      "hi": "भगवान बुद्ध की स्तुति"
+    },
+    {
+      "ne": "बुद्धका बाह्र लिलाहरूको स्तुति"
+    },
+    {
+      "mn": "Бурхан багшийн магтаал"
+    },
+    {
+      "vi": "Lời Tán Thán Mười Hai Hạnh Nguyện Đức Phật"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P16"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

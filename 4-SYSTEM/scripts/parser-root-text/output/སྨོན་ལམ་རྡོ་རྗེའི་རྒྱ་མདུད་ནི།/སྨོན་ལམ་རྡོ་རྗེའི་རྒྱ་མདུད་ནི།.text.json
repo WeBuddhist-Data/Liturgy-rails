@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XLED3D9085B7BC",
+  "title": {
+    "bo": "སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།"
+  },
+  "alt_titles": [
+    {
+      "en": "The Secret Vajra Knot"
+    },
+    {
+      "zh": "金剛結祈願文"
+    },
+    {
+      "hi": "गुह्य वज्र ग्रंथि प्रार्थना"
+    },
+    {
+      "ne": "गुह्य वज्रग्रन्थि प्रणिधान"
+    },
+    {
+      "mn": "Очир зангилаа ерөөл"
+    },
+    {
+      "vi": "Bài Cầu Nguyện Nút Thắt Kim Cang"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P7"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

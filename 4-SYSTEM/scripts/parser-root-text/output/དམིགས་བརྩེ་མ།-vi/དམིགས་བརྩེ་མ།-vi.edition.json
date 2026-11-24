@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Quán Thế Âm, kho tàng vô duyên đại bi,Văn Thù, đấng chúa tể trí tuệ vô cấu,Bí Mật Chủ, đấng tồi phá vô dư ma quân,Tsongkhapa, đảnh khôi hàng trí giả xứ Tuyết,Lobsang Drakpa, dưới gót sen Ngài con chí tâm cầu nguyện.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 38
+          },
+          {
+            "start": 38,
+            "end": 75
+          },
+          {
+            "start": 75,
+            "end": 114
+          },
+          {
+            "start": 114,
+            "end": 158
+          },
+          {
+            "start": 158,
+            "end": 215
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

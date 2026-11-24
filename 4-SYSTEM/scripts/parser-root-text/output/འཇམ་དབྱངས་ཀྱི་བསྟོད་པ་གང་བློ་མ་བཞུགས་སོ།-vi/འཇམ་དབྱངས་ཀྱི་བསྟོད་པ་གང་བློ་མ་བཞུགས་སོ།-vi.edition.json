@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Con xin đảnh lễ Đạo sư và Đấng Hộ chủ Văn Thù.Trí tuệ Ngài lìa mây hai chướng, rạng rỡ thanh tịnh tựa thái dương,Bởi thấu triệt vạn pháp đúng như thật, Ngài ôm giữ cuốn kinh trước ngực.Nhìn chúng sinh trong ngục tù sinh tử, mờ mịt vô minh khổ đau hành hạ,Ngài xót thương tất thảy như con một, cất diệu âm sáu mươi chi phần.Như sấm vang rền đánh thức giấc ngủ phiền não, tháo tung gông cùm nghiệp chướng,Ngài cầm gươm báu xua tan bóng tối vô minh, chặt đứt mọi mầm mống khổ đau.Thanh tịnh từ vô thủy, đạt rốt ráo Thập địa, hiện thân Bồ-tát Trưởng tử viên mãn công đức,Trang nghiêm với một trăm mười hai tướng hảo, xua tan bóng tối tâm con, xin đảnh lễ Đấng Văn Thù.Om A Ra Pa Tsa Na DhihHỡi Đấng Đại Bi, xin bằng những tia sáng trí tuệ tối thắng,Xua tan hoàn toàn bóng tối u mê vô minh trong tâm con,Giúp con thấu tỏ diệu nghĩa của chư Kinh cùng các Luận giải,Cúi xin Ngài ban ánh sáng rạng ngời của trí tuệ và biện tài.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 46
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 46,
+            "end": 113
+          },
+          {
+            "start": 113,
+            "end": 185
+          },
+          {
+            "start": 185,
+            "end": 255
+          },
+          {
+            "start": 255,
+            "end": 323
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 323,
+            "end": 403
+          },
+          {
+            "start": 403,
+            "end": 477
+          },
+          {
+            "start": 477,
+            "end": 567
+          },
+          {
+            "start": 567,
+            "end": 664
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 664,
+            "end": 686
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 686,
+            "end": 745
+          },
+          {
+            "start": 745,
+            "end": 799
+          },
+          {
+            "start": 799,
+            "end": 859
+          },
+          {
+            "start": 859,
+            "end": 919
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      }
+    ]
+  }
+}

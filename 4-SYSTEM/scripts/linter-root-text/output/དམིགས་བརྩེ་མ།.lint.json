@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/དམིགས་བརྩེ་མ།.md",
+  "validated_at": "2026-11-24T18:03:28.317084+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "author 'རེ་མདའ་བ་གཞོན་ནུ་དཔལ།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དམིགས་བརྩེ་མ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Migtsema: A Prayer to Jé Tsongkhapa"
+      },
+      {
+        "zh": "密集嘛"
+      },
+      {
+        "hi": "मिगचेमा: जे चोंगखापा की प्रार्थना"
+      },
+      {
+        "ne": "मिग्चेमा"
+      },
+      {
+        "mn": "Мэгзэм"
+      },
+      {
+        "vi": "Bài Tán Migtsema"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

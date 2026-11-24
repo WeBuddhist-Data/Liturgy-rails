@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Chí tâm đỉnh lễ đấng Toàn Tri.Như vầy, Đức Phật Thế Tôn là đấng Như Lai, Ứng Cúng, Chính Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Đấng Như Lai là sự kết tinh của vô lượng công đức, là thiện căn không bao giờ hư hoại, được trang nghiêm hoàn hảo bởi đức nhẫn nhục, là nền tảng của các kho tàng công đức, được điểm tô bởi các vẻ đẹp, và nở rộ những đóa hoa diệu tướng. Hành vi của Ngài luôn thích ứng hoàn hảo, chiêm ngưỡng Ngài không bao giờ nhàm chán, mang niềm hoan hỷ tột cùng đến cho những ai có tịnh tín. Trí tuệ của Ngài không thể bị che lấp, mười lực không thể bị khuất phục. Ngài là bậc Đạo sư của nhất thiết chúng sinh, là vị Cha lành của các bậc Bồ-tát, là Đức Vua của các bậc Thánh, là Vị Thuyền Trưởng dẫn dắt chúng sinh đến thành trì Niết-bàn. Trí tuệ của Ngài vô lượng vô biên, biện tài bất khả tư nghì, kim ngôn hoàn toàn thanh tịnh, âm thanh vô cùng vi diệu, ngắm nhìn sắc thân Ngài không bao giờ thỏa mãn, thân thể Ngài không ai sánh bằng. Ngài không bị ô nhiễm bởi dục vọng, không bị vướng mắc bởi sắc pháp, không bị pha lẫn với vô sắc pháp. Ngài hoàn toàn giải thoát khỏi khổ đau, hoàn toàn giải thoát khỏi các uẩn, không còn ràng buộc với các giới, đã nhiếp phục các xứ, đã cắt đứt vĩnh viễn mọi nút thắt phiền não, hoàn toàn giải thoát khỏi mọi thiêu đốt trần lao, giải thoát khỏi tam hữu, đã vượt qua dòng thác lũ. Trí tuệ của Ngài đã hoàn toàn viên mãn; Ngài an trú trong trí tuệ của chư Phật Thế Tôn ba đời quá khứ, hiện tại và vị lai; Ngài không trụ nơi Niết-bàn; Ngài an trú trong chân lý cứu cánh; Ngài an tọa trên cảnh giới quán chiếu nhất thiết chúng sinh. Đó chính là những công đức chân thật và vĩ đại của Đức Phật Thế Tôn.Chánh Pháp là sơ thiện, trung thiện, hậu thiện; ý nghĩa toàn hảo, văn từ tinh diệu; thuần nhất, viên mãn, hoàn toàn thanh tịnh và hoàn toàn trong sáng. Chánh Pháp được Đức Thế Tôn khéo léo tuyên thuyết, mang lại tri kiến chân thật, vô bệnh bạt trần, vượt ngoài thời gian, hướng đến sự giải thoát, thấu đạt sẽ mang lại ý nghĩa thù thắng, các bậc trí giả có thể tự mình chứng ngộ. Pháp và Luật do Đức Thế Tôn thuyết giảng khéo léo chỉ bày con đường xuất ly, đưa đến đạo quả Bồ-đề viên mãn, không có sự mâu thuẫn và hội tụ mọi điểm lành, là nơi nương tựa vững chắc, dập tắt mọi luân chuyển luân hồi.Tăng đoàn Đại thừa là những vị khéo tu hành, chân chính tu hành, ngay thẳng tu hành, hòa hợp tu hành;xứng đáng được chắp tay cung kính, xứng đáng được kính lễ, là thửa ruộng công đức vô thượng, là nơi thanh tịnh hóa mọi cúng dường, là bậc xứng đáng để thọ nhận bố thí, là ruộng phước vĩ đại cho khắp thảy cúng dường.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 30
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 30,
+            "end": 1727
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 1727,
+            "end": 2323
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 2323,
+            "end": 2424
+          },
+          {
+            "start": 2424,
+            "end": 2639
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      }
+    ]
+  }
+}

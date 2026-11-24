@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.md",
+  "validated_at": "2026-11-24T18:03:22.901234+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 4 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "author 'གནས་མདོ་ཀརྨ་ཆགས་མེད།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL07A21B71B3AB",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

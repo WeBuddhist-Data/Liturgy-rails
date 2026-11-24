@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL6D9D4B48C2F1",
+  "title": {
+    "bo": "ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།"
+  },
+  "alt_titles": [
+    {
+      "en": "In Praise of the Buddha: Though All Sages Are Equal in Abandonment and Realization"
+    },
+    {
+      "zh": "釋迦牟尼佛讚"
+    },
+    {
+      "hi": "शाक्यमुनि बुद्ध की स्तुति"
+    },
+    {
+      "ne": "बुद्धको स्तुति: त्याग र प्राप्ति"
+    },
+    {
+      "mn": "Бурхан багшийн магтаал: Тэвчилт, онолт тэгш"
+    },
+    {
+      "vi": "Lời Tán Thán Đức Phật Thích Ca Mâu Ni"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P37"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

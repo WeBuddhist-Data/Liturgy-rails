@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Hrih! Đấng Hộ chủ cõi Tây phương Cực Lạc,Cùng Tôn Thắng Phật Mẫu, Như Ý Luân v.v...,Từ vầng mây đại bi của hải hội Bản tôn Vô tử,Xin tuôn trận mưa lớn ban thành tựu tinh tủy thọ mạng xuống nơi đây!Khởi lòng bi mẫn vô tư ban kho báu phước lạc cho muôn loài,Hóa thân tối thượng, Đạo sư chiêm ngưỡng liền được lợi ích,Nguyện đôi gót sen ngài, nguồn sống của giáo pháp và chúng sinh xứ Tuyết,An trụ vững vàng bất động qua hàng trăm kiếp thời gian!Lạy Đấng Hộ chủ, ngoài việc đem lại lợi lạc cho giáo pháp và chúng sinh,Ngài không còn hạnh nguyện nào khác; do vậy, vì muôn loài thời mạt pháp,Để dẫn dắt chúng sinh đến bến bờ phước lạc, con khẩn cầu thân tướng vạn hảo của ngàiAn trụ vững vàng bất biến như chày kim cương!Tại trung tâm xứ Tuyết, trên ngai vàng sư tử,Gót sen ngài an tọa bất động qua hàng trăm kiếp,Đưa mọi chúng sinh và người dân Tây Tạng đến cảnh giới an lạc,Nguyện những đại nguyện của ngài đều được viên thành tự nhiên!Palden Lhamo, Ngũ Đại Vương v.v...,Nhờ ánh dương oai lực của đại hải Hộ pháp,Nhổ tận gốc rễ bóng tối của các thế lực hung tà,Xin thực hành Phật sự làm nở rộ đóa sen ngàn cánh của muôn sở nguyện!Bài cầu nguyện trường thọ này được Đại Hộ pháp (Hóa thân Hộ pháp Nechung) ban truyền qua lời kim cương dụ, dâng lên Đấng Hộ chủ xứ Tuyết, Bậc Toàn tri Vĩ đại, đấng đã và đang giáng sinh thành các đời hóa thân vì lợi ích của giáo pháp và chúng sinh cho đến khi luân hồi trống rỗng.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 41
+          },
+          {
+            "start": 41,
+            "end": 84
+          },
+          {
+            "start": 84,
+            "end": 129
+          },
+          {
+            "start": 129,
+            "end": 197
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 197,
+            "end": 256
+          },
+          {
+            "start": 256,
+            "end": 315
+          },
+          {
+            "start": 315,
+            "end": 388
+          },
+          {
+            "start": 388,
+            "end": 443
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 443,
+            "end": 515
+          },
+          {
+            "start": 515,
+            "end": 587
+          },
+          {
+            "start": 587,
+            "end": 671
+          },
+          {
+            "start": 671,
+            "end": 716
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 716,
+            "end": 761
+          },
+          {
+            "start": 761,
+            "end": 809
+          },
+          {
+            "start": 809,
+            "end": 871
+          },
+          {
+            "start": 871,
+            "end": 933
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 933,
+            "end": 968
+          },
+          {
+            "start": 968,
+            "end": 1010
+          },
+          {
+            "start": 1010,
+            "end": 1058
+          },
+          {
+            "start": 1058,
+            "end": 1127
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 1127,
+            "end": 1407
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      }
+    ]
+  }
+}

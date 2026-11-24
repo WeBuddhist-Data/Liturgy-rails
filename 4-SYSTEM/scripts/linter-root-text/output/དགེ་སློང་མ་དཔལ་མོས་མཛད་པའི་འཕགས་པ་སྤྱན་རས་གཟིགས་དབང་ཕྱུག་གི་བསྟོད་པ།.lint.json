@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.md",
+  "validated_at": "2026-11-24T18:03:26.558985+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "MW1PD95844_1645",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Gelongma Palmo's Praise of Avalokiteshvara"
+      },
+      {
+        "zh": "聖觀自在讚"
+      },
+      {
+        "hi": "भिक्षुणी पाल्मो कृत अवलोकितेश्वर स्तुति"
+      },
+      {
+        "ne": "भिक्षुणी पाल्मोको आर्यावलोकितेश्वर स्तुति"
+      },
+      {
+        "mn": "Гэлэнмаа Балмаагийн Жанрайсиг бурхны магтаал"
+      },
+      {
+        "vi": "Lời Tán Thán Quán Thế Âm Của Tỳ Kheo Ni Palmo"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P4CZ10542"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

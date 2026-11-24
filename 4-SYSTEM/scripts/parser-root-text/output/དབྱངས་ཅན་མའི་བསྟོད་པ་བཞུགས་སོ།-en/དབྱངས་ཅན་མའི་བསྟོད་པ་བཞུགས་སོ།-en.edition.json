@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Oṃ. May all be auspicious!Like a mass of white clouds interlaced with garlands of lightning,You are the captivating one who beautifies the sky.You who display graceful charms in the midst of youthful gandharva maidens,Goddess who has loved me from long ago, come here now!With eyes like restless bees upon your lotus-like face,And the white-light moon atop your crown of deep blue locks,O Sarasvatī, you who carry yourself with the poise of a captivating dance,Grant me even now the mastery of speech!Possessing the graceful charms of a playful dance, with eyes like a deer,You are the captivating one whom one never tires of beholding.You who love me like a mother, please make my speechIdentical to your own, O Goddess of Eloquence.More beautiful than the full splendor of the autumn moon,Your voice even outshines the melody of Brahma’s sweet song.Your mind is as difficult to fathom as the depths of the vast and profound ocean—To the body, speech, and mind of the goddess Sarasvatī, I bow.This was composed by Je Lobzang Drakpa.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 26
+          },
+          {
+            "start": 26,
+            "end": 92
+          },
+          {
+            "start": 92,
+            "end": 143
+          },
+          {
+            "start": 143,
+            "end": 218
+          },
+          {
+            "start": 218,
+            "end": 272
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 272,
+            "end": 327
+          },
+          {
+            "start": 327,
+            "end": 387
+          },
+          {
+            "start": 387,
+            "end": 461
+          },
+          {
+            "start": 461,
+            "end": 501
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 501,
+            "end": 574
+          },
+          {
+            "start": 574,
+            "end": 636
+          },
+          {
+            "start": 636,
+            "end": 688
+          },
+          {
+            "start": 688,
+            "end": 734
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 734,
+            "end": 791
+          },
+          {
+            "start": 791,
+            "end": 851
+          },
+          {
+            "start": 851,
+            "end": 932
+          },
+          {
+            "start": 932,
+            "end": 994
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 994,
+            "end": 1033
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      }
+    ]
+  }
+}

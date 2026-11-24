@@ -153,4 +153,4 @@ Sẽ thành tựu mọi sở cầu thế gian và xuất thế gian. ^10
 
 > ཞེས་པའི་བསྟོད་པ་བྱིན་འདི་འདོན་ཐུབ་ན་བྱིན་རླབས་ཀྱི་ཚན་ཁ་གཞན་དང་མི་འདྲ་བར་གསུངས།
 
-Tương truyền rằng nếu có thể trì tụng bài tán thán ân phúc này, năng lực gia trì sẽ thù thắng không gì sánh bằng. ^11
+<small>Tương truyền rằng nếu có thể trì tụng bài tán thán ân phúc này, năng lực gia trì sẽ thù thắng không gì sánh bằng.</small> ^11

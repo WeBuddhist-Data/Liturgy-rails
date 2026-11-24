@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Avalokiteśvara, great treasure of non-referential compassion,Mañjughoṣa, lord of stainless wisdom,Guhyapati, who subdues the entire host of Māras,Tsongkhapa, crown jewel of the scholars of the Land of Snows,At the feet of Lobsang Drakpa, I offer my prayer.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "end": 98
+          },
+          {
+            "start": 98,
+            "end": 146
+          },
+          {
+            "start": 146,
+            "end": 207
+          },
+          {
+            "start": 207,
+            "end": 256
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

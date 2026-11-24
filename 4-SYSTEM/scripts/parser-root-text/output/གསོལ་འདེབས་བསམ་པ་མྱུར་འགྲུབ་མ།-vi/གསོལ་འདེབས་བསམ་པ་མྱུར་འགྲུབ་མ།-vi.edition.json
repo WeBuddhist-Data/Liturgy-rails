@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Emaho!Trên thân nhụy hoa sen giữa lòng hồ,Bổn tôn tự nhiên thành tựu Ngũ thân và Trí tuệ,Bậc đại tự sinh Liên Hoa Phụ Mẫu,Giữa tầng mây Không Hành Nữ hội tụ, con khẩn cầu:Xin ban gia trì cho ước nguyện mau chóng viên thành!Sinh ra bởi mãnh lực quả báo của các ác nghiệp đã tạo,Các loại bệnh tật, ma quỷ, chướng ngại, chiến tranh, nạn đói,Đều bị tiêu trừ ngay khoảnh khắc nhớ nghĩ đến tôn nhan Ngài;Con từ tâm khẩn thỉnh lời thệ nguyện của Ngài, hỡi Đạo sư Oḍḍiyāna!Xin ban gia trì cho mọi ước nguyện mau chóng viên thành!Tín tâm, giới luật, bố thí luôn thực hành,Nghe Pháp giải thoát tâm, biết tàm quý,Và trí tuệ viên mãn là bảy bậc thánh tài,Nguyện thấm nhuần sâu sắc vào tâm thức mọi chúng sinh,Xin mang đến niềm an ủi và hạnh phúc cho thế gian,Xin ban gia trì cho mọi ước nguyện mau chóng viên thành!Khi gặp phải bệnh tật, khổ đau và các nghịch duyên,Sự hãm hại của tinh linh, hình phạt của vương quyền,Lửa, nước, ác thú, hiểm lộ và những nỗi sợ hãi,Trong mọi hoàn cảnh cho đến lúc mạng chung,Bởi con không có nơi quy y và hy vọng nào khác,Xin rủ lòng bi mẫn nhiếp thọ con, hỡi Guru, Đạo sư Oḍḍiyāna!Xin ban gia trì cho mọi ước nguyện mau chóng viên thành!Con khẩn cầu Oḍḍiyāna Rinpoche,Nguyện các nghịch duyên và chướng ngại không phát sinh,Mọi thuận duyên cùng ước nguyện đều thành tựu,Xin ban cho con những thành tựu chung và tối thắng!",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 6
+          },
+          {
+            "start": 6,
+            "end": 42
+          },
+          {
+            "start": 42,
+            "end": 89
+          },
+          {
+            "start": 89,
+            "end": 122
+          },
+          {
+            "start": 122,
+            "end": 171
+          },
+          {
+            "start": 171,
+            "end": 223
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 223,
+            "end": 277
+          },
+          {
+            "start": 277,
+            "end": 338
+          },
+          {
+            "start": 338,
+            "end": 398
+          },
+          {
+            "start": 398,
+            "end": 465
+          },
+          {
+            "start": 465,
+            "end": 521
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 521,
+            "end": 563
+          },
+          {
+            "start": 563,
+            "end": 602
+          },
+          {
+            "start": 602,
+            "end": 643
+          },
+          {
+            "start": 643,
+            "end": 697
+          },
+          {
+            "start": 697,
+            "end": 747
+          },
+          {
+            "start": 747,
+            "end": 803
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 803,
+            "end": 854
+          },
+          {
+            "start": 854,
+            "end": 906
+          },
+          {
+            "start": 906,
+            "end": 953
+          },
+          {
+            "start": 953,
+            "end": 996
+          },
+          {
+            "start": 996,
+            "end": 1043
+          },
+          {
+            "start": 1043,
+            "end": 1103
+          },
+          {
+            "start": 1103,
+            "end": 1159
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 1159,
+            "end": 1190
+          },
+          {
+            "start": 1190,
+            "end": 1245
+          },
+          {
+            "start": 1245,
+            "end": 1291
+          },
+          {
+            "start": 1291,
+            "end": 1342
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      }
+    ]
+  }
+}

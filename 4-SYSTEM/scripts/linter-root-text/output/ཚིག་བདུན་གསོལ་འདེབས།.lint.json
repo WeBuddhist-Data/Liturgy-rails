@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཚིག་བདུན་གསོལ་འདེབས།.md",
+  "validated_at": "2026-11-24T18:03:32.596033+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL40085092536D",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཚིག་བདུན་གསོལ་འདེབས།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Seven-Line Prayer"
+      },
+      {
+        "zh": "蓮師七句祈請文"
+      },
+      {
+        "hi": "सात पंक्तियों वाली प्रार्थना"
+      },
+      {
+        "ne": "गुरु रिन्पोछेको सात-हरफे प्रार्थना"
+      },
+      {
+        "mn": "Бадамжунай багшийн долоон мөрт залбирал"
+      },
+      {
+        "vi": "Bài Cầu Nguyện Bảy Câu"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P4956"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

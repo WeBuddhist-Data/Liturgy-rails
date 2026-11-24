@@ -841,4 +841,4 @@ Ta sẽ đưa toàn thể dân chúng và chúng sinh Tây Tạng an lập vào 
 
 > ཞེས་གསུངས་ཞལ་ལྷ་ནུབ་ཏུ་གཟིགས་སོ༔ ས་མ་ཡ༔ རྒྱ་རྒྱ་རྒྱ༔ གཏེར་སྟོན་ཨོ་རྒྱན་གླིང་པས་བསམ་ཡས་མཆིམས་ཕུ་ནས་གཏེར་ནས་སྤྱན་དྲངས་པའོ༔
 
-Phán như vậy xong, ngài hướng thánh nhan về phía Tây Nam. Samaya. Ấn! Ấn! Ấn! Phục tàng sư Orgyen Lingpa đã thỉnh xuất phục tàng này từ Samye Chimphu. ^25
+<small>Phán như vậy xong, ngài hướng thánh nhan về phía Tây Nam. Samaya. Ấn! Ấn! Ấn! Phục tàng sư Orgyen Lingpa đã thỉnh xuất phục tàng này từ Samye Chimphu.</small> ^25

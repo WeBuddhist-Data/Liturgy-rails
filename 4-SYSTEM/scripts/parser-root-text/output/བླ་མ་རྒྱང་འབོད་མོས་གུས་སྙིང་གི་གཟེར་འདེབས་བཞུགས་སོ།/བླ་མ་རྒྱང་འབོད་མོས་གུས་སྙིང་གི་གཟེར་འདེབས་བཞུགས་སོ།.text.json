@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL508EAD8ACC73",
+  "title": {
+    "bo": "བླ་མ་རྒྱང་འབོད་མོས་གུས་སྙིང་གི་གཟེར་འདེབས་བཞུགས་སོ། །"
+  },
+  "alt_titles": [
+    {
+      "en": "Calling the Guru from Afar"
+    },
+    {
+      "zh": "遙呼上師祈請文"
+    },
+    {
+      "hi": "गुरु को दूर से पुकारना"
+    },
+    {
+      "ne": "टाढाबाट गुरुलाई आह्वान"
+    },
+    {
+      "mn": "Ламыг холоос дуудах залбирал"
+    },
+    {
+      "vi": "Tiếng Gọi Đạo Sư Từ Phương Xa"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P264"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Nguyện tất cả chúng sinh có được an lạc và nhân của an lạc.Nguyện tất cả chúng sinh thoát khỏi khổ đau và nhân của khổ đau.Nguyện tất cả chúng sinh không bao giờ xa lìa niềm an lạc vắng bóng khổ đau.Nguyện tất cả chúng sinh an trú trong tâm xả bình đẳng, lìa xa tham sân và sự phân biệt thân sơ.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 59
+          },
+          {
+            "start": 59,
+            "end": 123
+          },
+          {
+            "start": 123,
+            "end": 199
+          },
+          {
+            "start": 199,
+            "end": 295
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

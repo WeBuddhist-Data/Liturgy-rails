@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཆགས་མེད་བདེ་སྨོན།.md",
+  "validated_at": "2026-11-24T18:03:24.676342+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLB807836DFF96",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་རཱ་ག་ཨ་སྲས་མཛད་པ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Aspiration to be Reborn in the Pure Realm of Sukhāvatī"
+      },
+      {
+        "zh": "極樂願文"
+      },
+      {
+        "hi": "सुखावती प्रणिधान"
+      },
+      {
+        "ne": "सुखावती प्रणिधान"
+      },
+      {
+        "mn": "Диваажингийн ерөөл"
+      },
+      {
+        "vi": "Bài Khấn Nguyện Vãng Sanh Cực Lạc"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P649"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL54767FB51BE6",
+  "title": {
+    "bo": "བློ་སྦྱོང་ཚིག་བརྒྱད་མ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Eight Verses of Training the Mind"
+    },
+    {
+      "zh": "修心八頌"
+    },
+    {
+      "hi": "चित्त शोधन के आठ श्लोक"
+    },
+    {
+      "ne": "चित्त अभ्यासका आठ श्लोक"
+    },
+    {
+      "mn": "Оюун судлахуйн найман шад шүлэг"
+    },
+    {
+      "vi": "Tám Bài Kệ Luyện Tâm"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P3445"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

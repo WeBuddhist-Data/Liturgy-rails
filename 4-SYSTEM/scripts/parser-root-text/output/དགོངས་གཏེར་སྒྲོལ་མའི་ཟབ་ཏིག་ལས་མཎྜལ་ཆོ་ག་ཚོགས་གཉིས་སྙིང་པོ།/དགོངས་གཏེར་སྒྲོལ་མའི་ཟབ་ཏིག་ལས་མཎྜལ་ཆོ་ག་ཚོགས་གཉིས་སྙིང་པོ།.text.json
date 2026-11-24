@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL44387AB56B59",
+  "title": {
+    "bo": "དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས་མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Essence of the Two Accumulations"
+    },
+    {
+      "zh": "供獻曼達集積二資糧之心要儀軌"
+    },
+    {
+      "hi": "तारा मण्डल विधि: दो संभारों का सार"
+    },
+    {
+      "ne": "दुई सम्भारको सार"
+    },
+    {
+      "mn": "Дарь эхийн мандалын зан үйл: Хоёр чуулганы зүрхэн"
+    },
+    {
+      "vi": "Nghi Quỹ Mạn-đà-la: Tinh Yếu Nhị Tư Lương"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P314"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

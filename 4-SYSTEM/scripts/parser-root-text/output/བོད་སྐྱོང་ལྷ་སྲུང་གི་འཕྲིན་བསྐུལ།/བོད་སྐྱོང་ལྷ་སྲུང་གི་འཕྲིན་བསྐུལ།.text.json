@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL4CAEAE3A3484",
+  "title": {
+    "bo": "བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Exhorting the Protectors of Tibet"
+    },
+    {
+      "zh": "護藏神祇策勵文"
+    },
+    {
+      "hi": "तिब्बत के रक्षक देवों का आह्वान"
+    },
+    {
+      "ne": "भोट देशका रक्षक देवताहरूको आह्वान"
+    },
+    {
+      "mn": "Төвөдийг сахигч сахиусны үйлсийн даатгал"
+    },
+    {
+      "vi": "Lời Khẩn Cầu Các Vị Hộ Pháp Tây Tạng"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1649"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

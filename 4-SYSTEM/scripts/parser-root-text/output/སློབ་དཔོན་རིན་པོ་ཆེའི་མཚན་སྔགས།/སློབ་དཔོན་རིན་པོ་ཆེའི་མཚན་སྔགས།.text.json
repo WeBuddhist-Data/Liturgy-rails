@@ -1,0 +1,39 @@
+{
+  "title": {
+    "bo": "སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།"
+  },
+  "alt_titles": [
+    {
+      "en": "The Name Mantra of the Precious Master"
+    },
+    {
+      "zh": "蓮師名號心咒"
+    },
+    {
+      "hi": "गुरु रिनपोछे का नाम-मंत्र"
+    },
+    {
+      "ne": "गुरु रिन्पोछेको नाम मन्त्र"
+    },
+    {
+      "mn": "Эрдэнэт Ловон багшийн алдрын тарни"
+    },
+    {
+      "vi": "Tâm Chú Đạo Sư Liên Hoa Sanh"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P4956"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

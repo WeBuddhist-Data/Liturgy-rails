@@ -1,0 +1,40 @@
+{
+  "bdrc": "MW1KG2118_3795EA",
+  "title": {
+    "bo": "འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Verses of the Eight Noble Auspicious Ones"
+    },
+    {
+      "zh": "八吉祥頌"
+    },
+    {
+      "hi": "अष्ट मंगल स्तोत्र"
+    },
+    {
+      "ne": "अष्टमङ्गल प्रार्थना (टाशी ग्येपा)"
+    },
+    {
+      "mn": "Найман гэгээн"
+    },
+    {
+      "vi": "Bát Thánh Cát Tường Tụng"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P0AT0029"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:30.827400+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL6D5D3DB61520",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Dhāraṇī that Pacifies the Fifteen Great Grahas that Harm Children"
+      },
+      {
+        "zh": "佛說護諸童子陀羅尼經"
+      },
+      {
+        "hi": "बच्चों की पंद्रह बाधाओं को शांत करने वाली धारणी"
+      },
+      {
+        "ne": "बालबालिकालाई सताउने पन्ध्र ग्रह शान्त पार्ने धारणी"
+      },
+      {
+        "mn": "Хүүхдийн арван таван донг амирлуулагч тарни"
+      },
+      {
+        "vi": "Thần Chú Tiêu Trừ Mười Lăm Ác Thần Hại Trẻ Em"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

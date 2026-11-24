@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Kính đỉnh lễ Đức Quán Thế Âm Tốc Hành!Chân đeo vòng ngọc giẫm đạp Tỳ-na-dạ-ca,Đại Hắc Thiên oai phong khoác xiêm y da hổ,Sáu cánh tay trang nghiêm bằng chuỗi ngọc linh xà.Tay phải vung nguyệt đao, tay giữa cầm tràng hạt,Tay dưới gõ vang dội tiếng trống damaru,Tay trái cầm bát sọ và ngọn giáo ba chĩa,Cũng như vung thòng lọng trói buộc mọi oán thù.Khuôn mặt hung phẫn nhe hàm nanh sắc nhọn,Ba mắt oai nộ, mái tóc rực lửa dựng ngược,Giữa trán điểm tô vệt phấn sindura thiêng liêng,Đỉnh đầu được ấn chứng kiên cố bởi Đức Phật A Súc Bệ.Cổ đeo chuỗi vòng năm mươi thủ cấp rỏ máu,Đầu trang nghiêm vương miện năm chiếc sọ khô báu,Ngài hiện ra từ cội cây thọ nhận phẩm vật torma,Con xin kính đỉnh lễ và tán thán Đức Lục Tý vinh quang!Xin Ngài bảo hộ giáo pháp thiêng liêng của Đức Phật,Cùng tán dương uy đức cao tột của ngôi Tam Bảo,Xin cho chúng con gồm đạo sư, đệ tử và quyến thuộc,Được tiêu trừ tất cả mọi ác duyên cùng chướng ngại,Cúi xin Ngài mau chóng ban mọi thành tựu như ý nguyện!Lời nguyện này được Đại sư Shavaripa vinh quang soạn khi ngài chiêm kiến dung nhan Đấng Hộ Pháp.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 38
+          },
+          {
+            "start": 38,
+            "end": 78
+          },
+          {
+            "start": 78,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "end": 171
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 171,
+            "end": 220
+          },
+          {
+            "start": 220,
+            "end": 260
+          },
+          {
+            "start": 260,
+            "end": 301
+          },
+          {
+            "start": 301,
+            "end": 348
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 348,
+            "end": 390
+          },
+          {
+            "start": 390,
+            "end": 432
+          },
+          {
+            "start": 432,
+            "end": 480
+          },
+          {
+            "start": 480,
+            "end": 533
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 533,
+            "end": 575
+          },
+          {
+            "start": 575,
+            "end": 624
+          },
+          {
+            "start": 624,
+            "end": 672
+          },
+          {
+            "start": 672,
+            "end": 727
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 727,
+            "end": 779
+          },
+          {
+            "start": 779,
+            "end": 826
+          },
+          {
+            "start": 826,
+            "end": 877
+          },
+          {
+            "start": 877,
+            "end": 928
+          },
+          {
+            "start": 928,
+            "end": 982
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 982,
+            "end": 1078
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      }
+    ]
+  }
+}

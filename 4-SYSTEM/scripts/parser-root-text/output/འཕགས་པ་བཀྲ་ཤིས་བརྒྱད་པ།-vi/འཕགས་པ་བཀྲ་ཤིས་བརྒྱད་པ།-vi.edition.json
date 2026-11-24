@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Om!Vạn pháp thanh tịnh bản nhiên vốn viên thành,An toạ trong các cõi cát tường mười phương,Phật, Pháp cùng Thánh chúng Tăng già tối thắng,Con xin đảnh lễ, nguyện chúng con cát tường!Nhiên Đăng Vương, Kiên Cố Thành Tựu Ý,Di Lặc Trang Nghiêm Cát Tường, Thiện Danh Cát Tường Tối Thắng,Nhất Thiết Biến Quán Quảng Đại Danh Xưng,Và Như Tu Di Tối Thắng Dũng Danh Cát Tường,Mẫn Niệm Hữu Tình Danh Xưng Cát Tường Phật,Mãn Nguyện Tối Thắng Danh Xưng Cát Tường Phật,Chỉ mới nghe danh đã tăng trưởng cát tường,Con xin đảnh lễ Tám Đấng Đại Thiện Thệ.Văn Thù Đồng Tử, Cát Tường Kim Cang Thủ,Quán Thế Âm Tự Tại, Di Lặc Cát Tường,Địa Tạng Vương Bồ Tát, Trừ Cái Chướng Bồ Tát,Hư Không Tạng cùng Thánh Tôn Phổ Hiền,Hoa Utpala, kim cang, bạch liên, cây long thọ,Bảo châu, nguyệt luân, bảo kiếm cùng nhật luân,Tay trì pháp khí tối thắng ban cát tường,Con xin đảnh lễ Tám Vị Đại Bồ Tát.Bảo cái tối thắng, song ngư vàng cát tường,Bảo bình như ý, hoa sen thật trang nghiêm,Pháp loa truyền danh cùng nút thắt cát tường,Tôn thắng trướng và pháp luân đầy uy quyền,Tay trì tám biểu tượng vi diệu cát tường,Cúng dường chư Phật mười phương sinh hoan hỉ,Tưởng nhớ chư thiên hý nữ tăng cát tường,Con xin đảnh lễ Tám Nữ Thần Cát Tường.Đại Phạm Thiên, Đại Tự Tại, Na La Diên,Đế Thích Thiên cùng Thiên Vương Trì Quốc,Thiên Vương Tăng Trưởng, Long Vương Quảng Mục,Thiên Vương Đa Văn, cùng bảo luân chư thiên,Tam xoa kích, đoản thương cùng kim cang,Tay trì tỳ bà, bảo kiếm, tháp, thắng trướng,Tăng trưởng an lành cát tường khắp tam giới,Con xin đảnh lễ Tám Vị Đại Hộ Thế.Giờ đây khi chúng con khởi sự công việc,Nguyện mọi chướng ngại tổn hại đều tiêu trừ,Mong cầu tăng trưởng, ước nguyện thành như ý,Nguyện thảy đều cát tường an lành viên mãn.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 3
+          },
+          {
+            "start": 3,
+            "end": 48
+          },
+          {
+            "start": 48,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "end": 138
+          },
+          {
+            "start": 138,
+            "end": 182
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 182,
+            "end": 220
+          },
+          {
+            "start": 220,
+            "end": 282
+          },
+          {
+            "start": 282,
+            "end": 323
+          },
+          {
+            "start": 323,
+            "end": 366
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 366,
+            "end": 409
+          },
+          {
+            "start": 409,
+            "end": 455
+          },
+          {
+            "start": 455,
+            "end": 498
+          },
+          {
+            "start": 498,
+            "end": 537
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 537,
+            "end": 577
+          },
+          {
+            "start": 577,
+            "end": 614
+          },
+          {
+            "start": 614,
+            "end": 659
+          },
+          {
+            "start": 659,
+            "end": 697
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 697,
+            "end": 743
+          },
+          {
+            "start": 743,
+            "end": 790
+          },
+          {
+            "start": 790,
+            "end": 831
+          },
+          {
+            "start": 831,
+            "end": 865
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 865,
+            "end": 908
+          },
+          {
+            "start": 908,
+            "end": 950
+          },
+          {
+            "start": 950,
+            "end": 995
+          },
+          {
+            "start": 995,
+            "end": 1038
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1038,
+            "end": 1079
+          },
+          {
+            "start": 1079,
+            "end": 1124
+          },
+          {
+            "start": 1124,
+            "end": 1165
+          },
+          {
+            "start": 1165,
+            "end": 1203
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1203,
+            "end": 1242
+          },
+          {
+            "start": 1242,
+            "end": 1283
+          },
+          {
+            "start": 1283,
+            "end": 1329
+          },
+          {
+            "start": 1329,
+            "end": 1373
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      },
+      {
+        "lines": [
+          {
+            "start": 1373,
+            "end": 1413
+          },
+          {
+            "start": 1413,
+            "end": 1457
+          },
+          {
+            "start": 1457,
+            "end": 1501
+          },
+          {
+            "start": 1501,
+            "end": 1535
+          }
+        ],
+        "type": "verse",
+        "reference": "9"
+      },
+      {
+        "lines": [
+          {
+            "start": 1535,
+            "end": 1575
+          },
+          {
+            "start": 1575,
+            "end": 1619
+          },
+          {
+            "start": 1619,
+            "end": 1664
+          },
+          {
+            "start": 1664,
+            "end": 1707
+          }
+        ],
+        "type": "verse",
+        "reference": "10"
+      }
+    ]
+  }
+}

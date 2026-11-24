@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:25.366363+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL9DAEBC6BA92B",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཇོ་བོ་རྗེའི་བསྟོད་པ་ཕུན་སུམ་ཚོགས་པ་མ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Praise to Lord Atisha"
+      },
+      {
+        "zh": "阿底峽尊者讚"
+      },
+      {
+        "hi": "आचार्य अतीश की स्तुति"
+      },
+      {
+        "ne": "जोवो अतीशको स्तुति"
+      },
+      {
+        "mn": "Атиша багшийн магтаал"
+      },
+      {
+        "vi": "Lời Tán Thán Tôn Giả Atisha"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

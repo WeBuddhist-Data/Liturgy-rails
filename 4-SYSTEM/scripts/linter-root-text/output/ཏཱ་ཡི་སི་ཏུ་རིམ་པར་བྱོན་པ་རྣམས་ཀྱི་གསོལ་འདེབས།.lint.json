@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།.md",
+  "validated_at": "2026-11-24T18:03:25.327690+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [
+    "author 'སི་ཏུ་ལྔ་པ་ཆོས་ཀྱི་རྒྱལ་མཚན་དགེ་ལེགས་དཔལ་བཟང།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0XLC621E3FACADF",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཏཱ་ཡི་སི་ཏུ་རིམ་པར་བྱོན་པ་རྣམས་ཀྱི་གསོལ་འདེབས།"
+    },
+    "alt_titles": [
+      {
+        "en": "Prayer to the Successive Incarnations of the Tai Situ"
+      },
+      {
+        "zh": "歷代大司徒祈請文"
+      },
+      {
+        "hi": "ताई सितुपा अवतार परंपरा की प्रार्थना"
+      },
+      {
+        "ne": "ताई सितुपाको अवतार परम्पराको प्रार्थना"
+      },
+      {
+        "mn": "Үе үеийн Тай Ситу багшид өргөх залбирал"
+      },
+      {
+        "vi": "Bài Cầu Nguyện Các Đời Hóa Thân Tai Situ"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

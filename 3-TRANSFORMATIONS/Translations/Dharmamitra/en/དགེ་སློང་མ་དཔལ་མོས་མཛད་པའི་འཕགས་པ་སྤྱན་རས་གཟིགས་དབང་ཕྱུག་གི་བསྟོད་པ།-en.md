@@ -146,4 +146,4 @@ All worldly and transcendent needs will be fulfilled. ^10
 
 > ཞེས་པའི་བསྟོད་པ་བྱིན་འདི་འདོན་ཐུབ་ན་བྱིན་རླབས་ཀྱི་ཚན་ཁ་གཞན་དང་མི་འདྲ་བར་གསུངས།
 
-It is said that if one is able to recite this praise, its potency of blessing is unlike any other. ^11
+<small>It is said that if one is able to recite this praise, its potency of blessing is unlike any other.</small> ^11

@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/མཎྜལ།.md",
+  "validated_at": "2026-11-24T18:03:31.927512+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "མཎྜལ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Thirty-Seven Point Maṇḍala Offering"
+      },
+      {
+        "zh": "三十七供曼達"
+      },
+      {
+        "hi": "सैंतीस अंगों वाला मंडल अर्पण"
+      },
+      {
+        "ne": "मण्डल अर्पण"
+      },
+      {
+        "mn": "Мандал өргөхүй"
+      },
+      {
+        "vi": "Cúng Dường Mandala Ba Mươi Bảy Cúng Phẩm"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

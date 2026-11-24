@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL7CB514CCF6F0",
+  "title": {
+    "bo": "རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།"
+  },
+  "alt_titles": [
+    {
+      "en": "A Praise to Longchen Rabjam, Lord of the Victorious Ones"
+    },
+    {
+      "zh": "勝王自在龍欽饒絳讚"
+    },
+    {
+      "hi": "जिनपति लोंगचेन रब्जम स्तुति"
+    },
+    {
+      "ne": "जिनराज लोङ्चेन रब्जामको स्तुति"
+    },
+    {
+      "mn": "Ялгуусан эрхт Лончэн Равжамын магтаал"
+    },
+    {
+      "vi": "Tán Xưng Bậc Tối Thắng Longchen Rabjam"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P248"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

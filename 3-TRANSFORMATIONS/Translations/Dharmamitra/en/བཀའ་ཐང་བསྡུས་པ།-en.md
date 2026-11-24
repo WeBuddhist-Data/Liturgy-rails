@@ -835,4 +835,4 @@ Having established the people of Tibet in happiness, I shall now depart." ^24
 
 > ཞེས་གསུངས་ཞལ་ལྷ་ནུབ་ཏུ་གཟིགས་སོ༔ ས་མ་ཡ༔ རྒྱ་རྒྱ་རྒྱ༔ གཏེར་སྟོན་ཨོ་རྒྱན་གླིང་པས་བསམ་ཡས་མཆིམས་ཕུ་ནས་གཏེར་ནས་སྤྱན་དྲངས་པའོ༔
 
-Having spoken thus, he turned his face to look toward the west. Samaya. Gya Gya Gya. This was retrieved as a treasure from Samyé Chimphu by the tertön Orgyen Lingpa. ^25
+<small>Having spoken thus, he turned his face to look toward the west. Samaya. Gya Gya Gya. This was retrieved as a treasure from Samyé Chimphu by the tertön Orgyen Lingpa.</small> ^25

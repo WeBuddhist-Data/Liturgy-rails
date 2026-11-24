@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL1A5D314AA8D3",
+  "title": {
+    "bo": "ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ། །"
+  },
+  "alt_titles": [
+    {
+      "en": "The Hundred Verses of Advice to the People of Tingri"
+    },
+    {
+      "zh": "定日百法"
+    },
+    {
+      "hi": "दिंगरी के लोगों को सौ उपदेश"
+    },
+    {
+      "ne": "दिङ्ग्रीवासीलाई सय उपदेश"
+    },
+    {
+      "mn": "Динригийн зуун сургаал"
+    },
+    {
+      "vi": "Một Trăm Lời Khuyên Dân Làng Tingri"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1243"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །.md",
+  "validated_at": "2026-11-24T18:03:38.594807+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [
+    "4 no-break space U+00A0 in the source (body line 9, 14, 19, 29) — the parser normalises it; clean the source with clean-whitespace/clean_whitespace.py"
+  ],
+  "text_input": {
+    "bdrc": "WA1KG4594",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Stairway to Liberation: The Uncommon Guru Yoga in Reliance on Cittamaṇi Tārā"
+      },
+      {
+        "zh": "依止心寶度母之不共上師瑜伽——趨向解脫之階梯"
+      },
+      {
+        "hi": "मुक्ति की सीढ़ी: चिंतामणि तारा असाधारण गुरु योग"
+      },
+      {
+        "ne": "चिन्तामणि ताराको असाधारण गुरुयोग"
+      },
+      {
+        "mn": "Цидтамани Дарь эхийн нийтийн бус багшийн бясалгал: Тонилоход хүрэх шат"
+      },
+      {
+        "vi": "Nấc Thang Giải Thoát: Pháp Đạo Sư Du Già Độ Mẫu Cittamani"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P295"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

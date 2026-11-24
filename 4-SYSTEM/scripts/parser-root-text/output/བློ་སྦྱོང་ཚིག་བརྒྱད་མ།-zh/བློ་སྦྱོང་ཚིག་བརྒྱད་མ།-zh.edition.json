@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "修心八頌愿我于一切众生，胜过如意宝珠者，为成办彼最胜义，恒常视之为珍宝。无论与何人相处，皆视己为最卑下，并从内心深处处，视他人为最尊贵。于一切威仪之中，恒常观察自心续，一旦烦恼念生起，即刻强力遮止之。见性情恶劣众生，为重罪苦所逼迫，如遇珍宝矿藏般，难得而当珍爱之。若有他人因嫉妒，施以辱骂等非理，愿我甘受此亏损，将胜果奉献于人。若我曾所利益，寄予厚望之人，反以非理相害，愿视其为善知。总之直接间接，愿献利乐于众，愿将母之诸苦，暗中取受于己。愿这一切修持，不为八法垢染，以知诸法如幻，离执解脱系缚。此乃噶当派格西朗日塘巴多杰僧格所造。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 4
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 4,
+            "end": 12
+          },
+          {
+            "start": 12,
+            "end": 20
+          },
+          {
+            "start": 20,
+            "end": 28
+          },
+          {
+            "start": 28,
+            "end": 36
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 36,
+            "end": 44
+          },
+          {
+            "start": 44,
+            "end": 52
+          },
+          {
+            "start": 52,
+            "end": 60
+          },
+          {
+            "start": 60,
+            "end": 68
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 68,
+            "end": 76
+          },
+          {
+            "start": 76,
+            "end": 84
+          },
+          {
+            "start": 84,
+            "end": 92
+          },
+          {
+            "start": 92,
+            "end": 100
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 100,
+            "end": 108
+          },
+          {
+            "start": 108,
+            "end": 116
+          },
+          {
+            "start": 116,
+            "end": 124
+          },
+          {
+            "start": 124,
+            "end": 132
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 132,
+            "end": 140
+          },
+          {
+            "start": 140,
+            "end": 148
+          },
+          {
+            "start": 148,
+            "end": 156
+          },
+          {
+            "start": 156,
+            "end": 164
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 164,
+            "end": 171
+          },
+          {
+            "start": 171,
+            "end": 178
+          },
+          {
+            "start": 178,
+            "end": 185
+          },
+          {
+            "start": 185,
+            "end": 192
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 192,
+            "end": 199
+          },
+          {
+            "start": 199,
+            "end": 206
+          },
+          {
+            "start": 206,
+            "end": 213
+          },
+          {
+            "start": 213,
+            "end": 220
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      },
+      {
+        "lines": [
+          {
+            "start": 220,
+            "end": 227
+          },
+          {
+            "start": 227,
+            "end": 234
+          },
+          {
+            "start": 234,
+            "end": 241
+          },
+          {
+            "start": 241,
+            "end": 248
+          }
+        ],
+        "type": "verse",
+        "reference": "9"
+      },
+      {
+        "lines": [
+          {
+            "start": 248,
+            "end": 266
+          }
+        ],
+        "type": "verse",
+        "reference": "10"
+      }
+    ]
+  }
+}

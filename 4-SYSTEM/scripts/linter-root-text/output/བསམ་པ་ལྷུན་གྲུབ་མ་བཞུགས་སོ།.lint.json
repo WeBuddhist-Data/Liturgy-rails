@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:29.630965+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLEECE2B469A32",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes"
+      },
+      {
+        "zh": "願望任運自然成就祈請頌"
+      },
+      {
+        "hi": "साम्पा ल्हुनद्रुपमा: मनोकामना पूर्ण करने वाली प्रार्थना"
+      },
+      {
+        "ne": "सम्पा ल्हुन्ड्रुपमा"
+      },
+      {
+        "mn": "Хүсэл бүхнийг аяндаа бүтээгч залбирал"
+      },
+      {
+        "vi": "Bài Nguyện Tự Nhiên Thành Tựu Mọi Ước Nguyện"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P4956"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

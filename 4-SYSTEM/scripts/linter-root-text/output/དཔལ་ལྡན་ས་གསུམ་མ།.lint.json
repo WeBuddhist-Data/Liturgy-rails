@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/དཔལ་ལྡན་ས་གསུམ་མ།.md",
+  "validated_at": "2026-11-24T18:03:27.714168+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLF855CC152C65",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དཔལ་ལྡན་ས་གསུམ་མ།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Glorious Three Realms: A Supplication to Je Tsongkhapa"
+      },
+      {
+        "zh": "吉祥三界頌"
+      },
+      {
+        "hi": "त्रिलोक स्तुति: जे चोंगखापा की प्रार्थना"
+      },
+      {
+        "ne": "पाल्देन सासुममा"
+      },
+      {
+        "mn": "Цогт гурван ертөнц"
+      },
+      {
+        "vi": "Bài Tán Quán Tông Khách Ba: Cát Tường Tam Giới"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P55"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

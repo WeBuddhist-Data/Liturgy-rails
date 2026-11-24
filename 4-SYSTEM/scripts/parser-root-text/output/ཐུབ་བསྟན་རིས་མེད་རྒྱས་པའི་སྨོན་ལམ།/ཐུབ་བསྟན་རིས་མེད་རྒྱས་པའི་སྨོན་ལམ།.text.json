@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL2A9FF4F79133",
+  "title": {
+    "bo": "ཐུབ་བསྟན་རིས་མེད་རྒྱས་པའི་སྨོན་ལམ།"
+  },
+  "alt_titles": [
+    {
+      "en": "The Sage's Harmonious Song of Truth: A Prayer for the Flourishing of the Non-Sectarian Teachings of the Buddha"
+    },
+    {
+      "zh": "佛陀聖教無偏興盛祈願文"
+    },
+    {
+      "hi": "निष्पक्ष बुद्ध-शिक्षा के प्रसार की प्रार्थना"
+    },
+    {
+      "ne": "गैर-साम्प्रदायिक बुद्ध-शासन वृद्धिको प्रणिधान"
+    },
+    {
+      "mn": "Бурханы шашин ялгаваргүй дэлгэрэхийн ерөөл"
+    },
+    {
+      "vi": "Lời Nguyện Phật Pháp Bất Phân Tông Phái Hưng Thịnh"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1649"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

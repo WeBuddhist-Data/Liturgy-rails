@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Bhyo! Nữ Thần Cát Tường đấng khôn lường thay,Hóa hiện thiện xảo hoạt dụng khắp hư không,Ngài chính là hiện thân của bậc Bồ-tát,Thân khẩu ý con chí thành cung kính đảnh lễ.Dẫu sự cúng dường của con chẳng vướng bận Ngài,Nhưng để đắc thành tựu cát tường tối thắng,Cầu mưa xuống công đức diệu dục khắp hư không,Nguyện khối cúng dường này làm viên mãn các căn.Hỡi Đấng Cát Tường chứng minh cho thiện ác,Mọi tội lỗi do thân khẩu ý của con,Thành tâm ăn năn sám hối trước tôn nhan,Bằng uy lực đại bi xin tịnh hóa mọi che chướng.Sự siêu việt thù thắng đặc biệt của Ngài,Làm lợi chúng sinh và viên mãn lợi tự thân,Niềm vui hân hoan không một chút tật đố,Con xin dâng tâm tùy hỷ lên tương tục của Ngài.Sắc thân tối thắng trọn vẹn diệu công đức,Nữ thần uy hùng mang dáng vẻ phẫn nộ,Vì lợi ích chúng sinh khắp mười phương ba đời,Xin hãy hiển bày lưới huyễn hóa thiêng liêng.Với sắc thân tối thắng thanh tịnh như thế,Để làm lợi chúng sinh và hộ trì giáo pháp,Cho đến chừng nào hư không kia tận diệt,Cầu thỉnh Ngài chớ nhập diệt mà luôn thường trụ.Nhờ công năng đảnh lễ, cúng dường và sám hối,Tùy hỷ, thỉnh chuyển pháp luân và thỉnh trụ thế,Nguyện thiện căn này dập tắt mọi ác đạo,Con xin hồi hướng tất thảy vì quả vị Bồ-đề.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 45
+          },
+          {
+            "start": 45,
+            "end": 88
+          },
+          {
+            "start": 88,
+            "end": 127
+          },
+          {
+            "start": 127,
+            "end": 171
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 171,
+            "end": 218
+          },
+          {
+            "start": 218,
+            "end": 261
+          },
+          {
+            "start": 261,
+            "end": 307
+          },
+          {
+            "start": 307,
+            "end": 355
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 355,
+            "end": 398
+          },
+          {
+            "start": 398,
+            "end": 433
+          },
+          {
+            "start": 433,
+            "end": 473
+          },
+          {
+            "start": 473,
+            "end": 520
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 520,
+            "end": 561
+          },
+          {
+            "start": 561,
+            "end": 604
+          },
+          {
+            "start": 604,
+            "end": 644
+          },
+          {
+            "start": 644,
+            "end": 691
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 691,
+            "end": 733
+          },
+          {
+            "start": 733,
+            "end": 770
+          },
+          {
+            "start": 770,
+            "end": 816
+          },
+          {
+            "start": 816,
+            "end": 861
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 861,
+            "end": 903
+          },
+          {
+            "start": 903,
+            "end": 945
+          },
+          {
+            "start": 945,
+            "end": 985
+          },
+          {
+            "start": 985,
+            "end": 1033
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1033,
+            "end": 1078
+          },
+          {
+            "start": 1078,
+            "end": 1126
+          },
+          {
+            "start": 1126,
+            "end": 1166
+          },
+          {
+            "start": 1166,
+            "end": 1209
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      }
+    ]
+  }
+}

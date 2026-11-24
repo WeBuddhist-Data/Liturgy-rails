@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Hūṃ!In the northwest of the land of Oḍḍiyāna,Upon the stem and filaments of a lotus,You attained the supreme, wondrous siddhi,Renowned as the Lotus-Born.Surrounded by a vast retinue of ḍākinīs,I shall practice, following in your footsteps;Please come in order to bestow your blessings.Guru Padma Siddhi Hūṃ",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 4
+          },
+          {
+            "start": 4,
+            "end": 45
+          },
+          {
+            "start": 45,
+            "end": 84
+          },
+          {
+            "start": 84,
+            "end": 126
+          },
+          {
+            "start": 126,
+            "end": 153
+          },
+          {
+            "start": 153,
+            "end": 193
+          },
+          {
+            "start": 193,
+            "end": 239
+          },
+          {
+            "start": 239,
+            "end": 285
+          },
+          {
+            "start": 285,
+            "end": 306
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

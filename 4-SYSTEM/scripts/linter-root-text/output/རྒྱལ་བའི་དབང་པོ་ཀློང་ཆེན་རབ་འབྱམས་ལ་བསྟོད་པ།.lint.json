@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.md",
+  "validated_at": "2026-11-24T18:03:36.704900+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL7CB514CCF6F0",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།"
+    },
+    "alt_titles": [
+      {
+        "en": "A Praise to Longchen Rabjam, Lord of the Victorious Ones"
+      },
+      {
+        "zh": "勝王自在龍欽饒絳讚"
+      },
+      {
+        "hi": "जिनपति लोंगचेन रब्जम स्तुति"
+      },
+      {
+        "ne": "जिनराज लोङ्चेन रब्जामको स्तुति"
+      },
+      {
+        "mn": "Ялгуусан эрхт Лончэн Равжамын магтаал"
+      },
+      {
+        "vi": "Tán Xưng Bậc Tối Thắng Longchen Rabjam"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P248"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

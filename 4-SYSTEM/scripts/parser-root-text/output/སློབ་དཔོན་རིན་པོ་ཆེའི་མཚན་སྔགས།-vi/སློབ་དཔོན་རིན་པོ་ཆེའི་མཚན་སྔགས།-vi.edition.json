@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Đại Pandita Ấn Độ, ân đức lớn lao với Tây Tạng,Thân Đức Liên Hoa Sanh vốn vô sinh vô diệt,Hiện đang trấn phục loài La-sát phương Tây Nam,Con xin đảnh lễ Đạo sư Oḍḍiyāna Tôn quý.Om Ah Hum Vajra Guru Padma Siddhi HumĐức Guru Rinpoche, chư Phật ba đời,Bậc Đại Lạc, chủ tể của mọi thành tựu,Bậc phẫn nộ hàng ma, tận trừ mọi chướng ngại,Con khẩn cầu Ngài, xin ban rải ân gia trì,Xin tịnh hóa các chướng ngại ngoại, nội, mật,Và gia trì cho mọi tâm nguyện tự nhiên viên thành.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 47
+          },
+          {
+            "start": 47,
+            "end": 90
+          },
+          {
+            "start": 90,
+            "end": 137
+          },
+          {
+            "start": 137,
+            "end": 177
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 177,
+            "end": 214
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 214,
+            "end": 249
+          },
+          {
+            "start": 249,
+            "end": 287
+          },
+          {
+            "start": 287,
+            "end": 332
+          },
+          {
+            "start": 332,
+            "end": 374
+          },
+          {
+            "start": 374,
+            "end": 419
+          },
+          {
+            "start": 419,
+            "end": 469
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

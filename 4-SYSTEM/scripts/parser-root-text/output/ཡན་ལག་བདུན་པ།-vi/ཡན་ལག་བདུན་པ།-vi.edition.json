@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Bao nhiêu thế giới trong mười phương,Tất cả Sư Tử Tôn ba đời,Con nay kính lễ không dư sót,Bằng cả thân ngữ ý thanh tịnh.Nhờ sức nguyện Phổ Hiền Hạnh Nguyện,Hiện lượng trong tâm khắp chư Phật,Biến thân nhiều như vi trần cõi,Cúi đầu đảnh lễ chư Thắng Tôn.Trên một vi trần vô lượng Phật,Ngự giữa hội chúng chư Bồ Tát,Khắp trọn Pháp giới cũng như thế,Quán tưởng ngập tràn chư Thắng Tôn.Với những biển tán thán vô tận,Cùng mọi âm thanh biển diệu âm,Tuyên dương công đức chư Thắng Tôn,Con xin ca ngợi khắp Thiện Thệ.Với những hoa tươi, tràng hoa quý,Âm nhạc, hương xoa cùng lọng báu,Đèn sáng thù thắng và hương trầm,Con xin cúng dường chư Thắng Tôn.Với những y báu và hương quý,Hương bột chất cao tựa Tu Di,Cùng vạn món trang nghiêm tuyệt hảo,Con xin cúng dường chư Thắng Tôn.Bao nhiêu cúng dường vô thượng nhất,Đều thành tâm dâng lên chư Phật,Bằng sức tin sâu Phổ Hiền hạnh,Đảnh lễ cúng dường chư Thắng Tôn.Bị chi phối bởi tham, sân, si,Từ nơi thân, ngữ cùng với ý,Bất cứ ác nghiệp nào đã tạo,Con xin nhất tâm đều sám hối.Mười phương chư Phật cùng Bồ Tát,Độc Giác, Hữu học và Vô học,Bao nhiêu công đức mọi chúng sinh,Con xin hết lòng đều tùy hỷ.Đèn sáng thế gian khắp mười phương,Đã chứng Bồ đề không chướng ngại,Con xin hướng về chư Đạo sư,Cầu chuyển bánh xe Pháp vô thượng.Chư tôn muốn thị hiện Niết Bàn,Vì an vui lợi ích chúng sinh,Xin trụ vô lượng kiếp vi trần,Con xin chắp tay thành tâm thỉnh.Lễ lạy, cúng dường cùng sám hối,Tùy hỷ, thỉnh Pháp và trụ thế,Chút ít công đức con tích tập,Thảy đều hồi hướng đạo Bồ đề.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 37
+          },
+          {
+            "start": 37,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "end": 90
+          },
+          {
+            "start": 90,
+            "end": 120
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 120,
+            "end": 156
+          },
+          {
+            "start": 156,
+            "end": 191
+          },
+          {
+            "start": 191,
+            "end": 223
+          },
+          {
+            "start": 223,
+            "end": 253
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 253,
+            "end": 284
+          },
+          {
+            "start": 284,
+            "end": 314
+          },
+          {
+            "start": 314,
+            "end": 347
+          },
+          {
+            "start": 347,
+            "end": 382
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 382,
+            "end": 413
+          },
+          {
+            "start": 413,
+            "end": 444
+          },
+          {
+            "start": 444,
+            "end": 479
+          },
+          {
+            "start": 479,
+            "end": 510
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 510,
+            "end": 544
+          },
+          {
+            "start": 544,
+            "end": 577
+          },
+          {
+            "start": 577,
+            "end": 610
+          },
+          {
+            "start": 610,
+            "end": 643
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 643,
+            "end": 672
+          },
+          {
+            "start": 672,
+            "end": 701
+          },
+          {
+            "start": 701,
+            "end": 737
+          },
+          {
+            "start": 737,
+            "end": 770
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 770,
+            "end": 806
+          },
+          {
+            "start": 806,
+            "end": 838
+          },
+          {
+            "start": 838,
+            "end": 869
+          },
+          {
+            "start": 869,
+            "end": 902
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 902,
+            "end": 932
+          },
+          {
+            "start": 932,
+            "end": 960
+          },
+          {
+            "start": 960,
+            "end": 988
+          },
+          {
+            "start": 988,
+            "end": 1017
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      },
+      {
+        "lines": [
+          {
+            "start": 1017,
+            "end": 1050
+          },
+          {
+            "start": 1050,
+            "end": 1078
+          },
+          {
+            "start": 1078,
+            "end": 1112
+          },
+          {
+            "start": 1112,
+            "end": 1140
+          }
+        ],
+        "type": "verse",
+        "reference": "9"
+      },
+      {
+        "lines": [
+          {
+            "start": 1140,
+            "end": 1175
+          },
+          {
+            "start": 1175,
+            "end": 1208
+          },
+          {
+            "start": 1208,
+            "end": 1236
+          },
+          {
+            "start": 1236,
+            "end": 1270
+          }
+        ],
+        "type": "verse",
+        "reference": "10"
+      },
+      {
+        "lines": [
+          {
+            "start": 1270,
+            "end": 1301
+          },
+          {
+            "start": 1301,
+            "end": 1330
+          },
+          {
+            "start": 1330,
+            "end": 1360
+          },
+          {
+            "start": 1360,
+            "end": 1393
+          }
+        ],
+        "type": "verse",
+        "reference": "11"
+      },
+      {
+        "lines": [
+          {
+            "start": 1393,
+            "end": 1425
+          },
+          {
+            "start": 1425,
+            "end": 1455
+          },
+          {
+            "start": 1455,
+            "end": 1485
+          },
+          {
+            "start": 1485,
+            "end": 1514
+          }
+        ],
+        "type": "verse",
+        "reference": "12"
+      }
+    ]
+  }
+}

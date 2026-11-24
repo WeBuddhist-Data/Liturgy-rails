@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/བཀའ་ཐང་བསྡུས་པ།.md",
+  "validated_at": "2026-11-24T18:03:28.987204+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLF680B690C37D",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བཀའ་ཐང་བསྡུས་པ།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Abridged Chronicle"
+      },
+      {
+        "zh": "蓮師傳略"
+      },
+      {
+        "hi": "संक्षिप्त कथांग: पद्मसंभव का जीवन चरित्र"
+      },
+      {
+        "ne": "संक्षिप्त काथाङ"
+      },
+      {
+        "mn": "Ловон Бадамжунайн товч намтар"
+      },
+      {
+        "vi": "Tiểu Sử Liên Hoa Sanh Rút Gọn"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P4956"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}
