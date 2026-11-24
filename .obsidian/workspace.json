@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/Text 1/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོ།.md",
+                "file": "0-INBOX/Text 2/@འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་ཆོ་ག་ཞེས་བྱ་བའི་གཟུངས།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོ།"
+              "title": "@འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་ཆོ་ག་ཞེས་བྱ་བའི་གཟུངས།"
             }
           }
         ]
@@ -199,13 +199,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c7ec04c4e7073cc",
+  "active": "02bf6569a50fd7a4",
   "lastOpenFiles": [
-    "0-INBOX/Text 1/ཀྱེ་རྡོར་ལམ་དུས་མ་ནོར་དོན་གསལ།.md",
     "0-INBOX/Text 1/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོ།.md",
+    "0-INBOX/Text 2/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོའི་དཔུང་རྒྱན།.md",
+    "0-INBOX/Text 1/འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པ་བཞུགས།.md",
+    "0-INBOX/Text 1/འཕགས་པ་ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།.md",
+    "0-INBOX/Text 1/འཕགས་པ་བྱམས་མགོན་གྱི་བསྟོད་པ།.md",
+    "0-INBOX/Text 1/འཕགས་པ་བྱམས་པའི་སྨོན་ལམ།.md",
+    "0-INBOX/Text 1/ཀྱེ་རྡོར་ལམ་དུས་མ་ནོར་དོན་གསལ།.md",
+    "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.md",
+    "0-INBOX/Text 2/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ།.md",
+    "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ་བཞུགས་སོ། །.md",
     "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྩེགས་པ།.md",
     "0-INBOX/Text 1/@འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.md",
-    "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ་བཞུགས་སོ། །.md",
     "0-INBOX/Text 2/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ། ཁ་སྐད།.md",
     "0-INBOX/Text 2/འཕགས་པ་ཕུང་པོ་གསུམ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།_.md",
     "0-INBOX/Text 1/འཕགས་པ་ཕུང་བོ་གསུམ་པ་ཞེས་བྱ་བའི་མདོ།.md",
@@ -229,13 +236,6 @@
     "4-SYSTEM/Skills/library-upload/scripts/webuddhist/ledger.py",
     "4-SYSTEM/Skills/library-upload/scripts/webuddhist/frontmatter.py",
     "4-SYSTEM/Skills/library-upload/scripts/linter-audio/README.md",
-    "4-SYSTEM/Skills/library-upload/SKILL.md",
-    "4-SYSTEM/Skills/convert-audio/SKILL.md",
-    "0-INBOX/Text 2/འདོད་གསོལ་སྨོན་ཚིག་ཕུན་ཚོགས་ཡོན་ཏན་མ། (འདོད་གསོལ་སྨོན་ཚིག་ཕུན་ཚོགས་ཡོན་ཏན་མ།).md",
-    "0-INBOX/Text 2/འཁྲུངས་རབ་གསོལ་འདེབས།.md",
-    "0-INBOX/Text 1/འཇམ་མགོན་ས་སྐྱ་པཎྜཱི་ཏའི་བླ་མའི་རྣལ་འབྱོར་ཉམས་སུ་ལེན་ཚུལ་མཁྱེན་བརྩེ་ནུས་མཐུའི་ཆར་འབེབས།.md",
-    "0-INBOX/Text 1/འཇིགས་བྱེད་སྨོན་ལམ།.md",
-    "0-INBOX/Text 1/འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པའི་བླ་བརྒྱུད་གསོལ་འདེབས།.md",
-    "0-INBOX/Text 1/འཇིགས་བྱེད་ཀྱི་ཆོ་ག་བསྡུས་པ།.md"
+    "4-SYSTEM/Skills/library-upload/SKILL.md"
   ]
 }
