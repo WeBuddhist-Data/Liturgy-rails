@@ -671,10 +671,21 @@ def links(it: Item, ctx: Ctx) -> list:
         if al:
             out.append(f"{len(al)} alignment(s) with other editions")
         recs = items(ctx.client.get(f"/v2/editions/{it.edition_id}/recordings"))
-        with_cues = [r["id"] for r in recs if items(ctx.client.get(f"/v2/recordings/{r['id']}/cues"))]
+        with_cues, unknown = [], []
+        for r in recs:
+            try:
+                if items(ctx.client.get(f"/v2/recordings/{r['id']}/cues")):
+                    with_cues.append(r["id"])
+            except ApiError as exc:
+                if exc.status not in (404, 405):
+                    raise
+                unknown.append(r["id"])        # this environment's API cannot list cues (yet)
         if with_cues:
             out.append(f"{len(with_cues)} recording(s) with cues: {', '.join(with_cues)}")
-        elif recs:
+        if unknown:
+            out.append(f"{len(unknown)} recording(s) whose cues cannot be read on {ctx.env.name}: "
+                       f"{', '.join(unknown)} (treat as linked)")
+        if recs and not with_cues and not unknown:
             out.append(f"{len(recs)} recording(s) follow this edition (no cues)")
     if it.kind == "text":
         dep = _vault_dependents(it.key)
