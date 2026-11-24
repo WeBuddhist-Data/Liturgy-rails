@@ -3,25 +3,34 @@ title: "རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བ
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།]]"
 root_text_title: "རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།"
 source_description: "Single recording of the recitation of རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ། by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.WAV"
+audio_file: "1-SOURCES/Audio/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.m4a"
 accompaniment: false
 duration: "00:08:48.45"
 duration_seconds: 528.456
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 202959872
-sha256: 55e5ab743ad207b0e33859ec0a27ac33b3c4377f58e9fc65ad0b3e1bf7d04d07
+bit_rate_kbps: 128
+file_size_bytes: 8555609
+sha256: 088a61d4c672c46858931a8dc1d1fc6210988193c9e96c6de5dfac3a2cf0507b
+converted_from:
+  audio_file: "1-SOURCES/Audio/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 202959872
+  sha256: 55e5ab743ad207b0e33859ec0a27ac33b3c4377f58e9fc65ad0b3e1bf7d04d07
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "17:32:44"
 scene: "040224-173244"
 ---
@@ -32,11 +41,11 @@ One recording of the root text [[1-SOURCES/Text/རྗེ་བཙུན་ས�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.WAV` | 8:48.45 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.m4a` | 8:48.45 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.WAV]]
+![[1-SOURCES/Audio/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།/རྗེ་བཙུན་སྒྲོལ་དཀར་གྱི་བསྟོད་པ་མཁྱེན་བརྩེ་དྲི་མེད་མ།.m4a]]
 
 ## Mapping
 

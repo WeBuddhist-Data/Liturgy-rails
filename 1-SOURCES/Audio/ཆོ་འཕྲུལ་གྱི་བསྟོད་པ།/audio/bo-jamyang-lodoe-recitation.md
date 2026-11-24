@@ -5,7 +5,7 @@ alt_titles:
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།]]"
 root_text_title: ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།
@@ -14,19 +14,27 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of In Praise of the Miracles by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-20 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV
+    file: 1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.m4a
     version: recitation
     accompaniment: false
     duration: 00:04:58.07
     duration_seconds: 298.075
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 114493440
-    sha256: 32cc4d3383e5b115845fd9baa8fa39fb09e98d66fda2c2756f36d91d3751d7ab
+    bit_rate_kbps: 128
+    file_size_bytes: 4826105
+    sha256: 962a80aaef6f39b29b4e9f031e6af4f2754af32bb85e49252f3a46bf0edf11da
+    converted_from:
+      file: 1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 114493440
+      sha256: 32cc4d3383e5b115845fd9baa8fa39fb09e98d66fda2c2756f36d91d3751d7ab
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-20
@@ -35,7 +43,7 @@ recordings:
       tracks: TrMicL, TrMicR
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: TOC added
 ---
 
@@ -45,11 +53,11 @@ One recording of the root text [[1-SOURCES/Text/ཆོ་འཕྲུལ་ག�
 
 | Version    | File                   | Duration | Format                             |
 | ---------- | ---------------------- | -------- | ---------------------------------- |
-| Recitation | `ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV` | 4:58.07  | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.m4a` | 4:58.07  | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV]]
+![[1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.m4a]]
 
 
 

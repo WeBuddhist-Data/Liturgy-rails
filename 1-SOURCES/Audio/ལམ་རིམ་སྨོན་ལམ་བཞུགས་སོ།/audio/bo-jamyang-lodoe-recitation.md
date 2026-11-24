@@ -4,25 +4,34 @@ title_en: "Aspiration for the Stages of the Path — recitation by Jamyang Lodoe
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།]]"
 root_text_title: "ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of Aspiration for the Stages of the Path by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.WAV"
+audio_file: "1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:03:53.75"
 duration_seconds: 233.759
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 89796096
-sha256: 58a1c52562ff7308e86dd179e29997cef62ac70b928d3455cbfefb305dc67840
+bit_rate_kbps: 128
+file_size_bytes: 3785129
+sha256: b78cf04469cec4b62b8a0f8e19f91216c1f78d315d89940ca2b51fd9e9ae3425
+converted_from:
+  audio_file: "1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 89796096
+  sha256: 58a1c52562ff7308e86dd179e29997cef62ac70b928d3455cbfefb305dc67840
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "17:11:28"
 scene: "050224-171128"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/ལམ་རིམ་སྨོ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.WAV` | 3:53.75 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.m4a` | 3:53.75 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.m4a]]
 
 ## Mapping
 

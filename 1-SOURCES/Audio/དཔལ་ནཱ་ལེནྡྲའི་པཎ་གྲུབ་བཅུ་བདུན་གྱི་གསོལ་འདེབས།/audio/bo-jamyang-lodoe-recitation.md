@@ -5,7 +5,7 @@ alt_titles:
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།]]"
 root_text_title: དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།
@@ -14,19 +14,27 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Prayer to the Seventeen Great Paṇḍitas of Glorious Nālandā by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-23 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV
+    file: 1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.m4a
     version: recitation
     accompaniment: false
     duration: 00:09:15.52
     duration_seconds: 555.521
-    format: WAV (BWF)
-    codec: PCM 32-bit float little-endian
+    format: M4A (AAC)
+    codec: AAC-LC
     sample_rate_hz: 48000
-    bit_depth: 32
     channels: 2
-    bit_rate_kbps: 3072
-    file_size_bytes: 213352960
-    sha256: 6f386ffcd18801722bd17ee56a7878a6741414ec2d84a0e6659d1ec8aab12046
+    bit_rate_kbps: 128
+    file_size_bytes: 8993572
+    sha256: 7881f66f32b8c692249ef4a813f270d981684bb4515ea014d54f27fbf629a5ff
+    converted_from:
+      file: 1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV
+      format: WAV (BWF)
+      codec: PCM 32-bit float little-endian
+      bit_depth: 32
+      bit_rate_kbps: 3072
+      file_size_bytes: 213352960
+      sha256: 6f386ffcd18801722bd17ee56a7878a6741414ec2d84a0e6659d1ec8aab12046
+      converted: 2026-11-19, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-23
@@ -35,7 +43,7 @@ recordings:
       tracks: TrMicL, TrMicR
       coding_history: A=PCM,F=48000,W=32,M=stereo,T=ZOOM H1essential;VERSION=1.10;
 Timestamp: pending
-license: unknown
+license: cc-by
 status: TOC added
 ---
 
@@ -45,11 +53,11 @@ One recording of the root text [[1-SOURCES/Text/དཔལ་ནཱ་ལེན�
 
 | Version    | File                                                      | Duration | Format                             |
 | ---------- | --------------------------------------------------------- | -------- | ---------------------------------- |
-| Recitation | `དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV` | 9:15.52  | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.m4a` | 9:15.52  | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.WAV]]
+![[1-SOURCES/Audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།/audio/དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།.m4a]]
 
 
 

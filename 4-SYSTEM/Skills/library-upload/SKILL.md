@@ -22,9 +22,10 @@ One tool for everything the vault sends to the library, and for checking what is
 python 4-SYSTEM/Skills/library-upload/scripts/library.py <text|translation|commentary|audio> <command> --env <dev|testing|prod> [notes or folders] [options]
 ```
 
-Run it from the vault root. It builds every text payload with the vault's **own** shared
-linter and parser (`4-SYSTEM/scripts/linter-root-text`, `parser-root-text`,
-`linter-commentary`, `parser-commentary` — kept in step with rails-template), compares the
+Run it from the vault root. It builds every payload with the vault's **own** shared
+linters and parsers (`4-SYSTEM/scripts/linter-root-text`, `parser-root-text`,
+`linter-commentary`, `parser-commentary`, and `linter-audio` for audio — vault scripts kept
+in step with rails-template; the skill runs them and carries no copy), compares the
 result with what the chosen environment actually holds, and gives every note a state.
 Every write is printed as a plan first and sent only with `--yes`.
 
@@ -59,7 +60,9 @@ the rest of this skill.
   (`audio` commands stop on an environment without `/v2/audios`), and footnotes on prod
   are reported as unsupported, not sent (Rule 9). Text, translation and commentary uploads
   send the same requests on all three (checked against each environment's OpenAPI).
-- The vault's shared linter and parser in `4-SYSTEM/scripts/` (text kinds).
+- The vault's shared linters and parsers in `4-SYSTEM/scripts/`: `linter-root-text` +
+  `parser-root-text` and `linter-commentary` + `parser-commentary` (text kinds),
+  `linter-audio` (audio). Missing ones come from rails-template's `4-SYSTEM/scripts/`.
 - For audio: the audio files (not in the repo; `Audio/` at the vault root, `--audio-dir` or `$AUDIO_FILES_DIR`).
 - Credentials: every environment needs its own API key, even to read. They go in the git-ignored `.env` (vault root or `4-SYSTEM/scripts/`), one line each, with exactly these variable names:
 
@@ -230,7 +233,7 @@ left alone, so a text never gets the same recitation twice.
 `resegment-needed` / `refs-renumbered` → `replace` (Rule 6); `ids-stale` → `update --only ids`.
 
 **New recordings (audio)** — skill `convert-audio` (WAV → AAC .m4a, exact length) →
-`python 4-SYSTEM/Skills/library-upload/scripts/audio_notes_to_m4a.py --write` (points the notes at the .m4a) →
+`python 4-SYSTEM/scripts/audio_notes_to_m4a.py --write` (points the notes at the .m4a) →
 `audio status --env dev` → `audio push --env dev`.
 
 **An .otr arrives** — skill `otr-to-mapping` (fills the Mapping table) → `audio push --env dev --only cues <text>`.

@@ -4,8 +4,9 @@ title_en: "Praise of Sarasvatī — recitation by Lobsang Yangzom"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Lobsang Yangzom
+artist: Lobsang Yangzom [op:CwoM8wdlQcinlwNg7Cx1b]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།]]"
 root_text_title: "དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of Praise of Sarasvatī by Lobsang Yangzom."
@@ -20,11 +21,16 @@ channels: 2
 bit_rate_kbps: 64
 file_size_bytes: 266026
 sha256: 5a0b9b7cefb60aaa50e175ef20b6f434d4748bc0d1536bd288eb9e57659513b1
+testing_audio_id: TPTCqKTa2wB9h5EOeP4ds
+testing_recording_id: PKRqJyikkjWS2Tt0lWnIs
+testing_uploaded: 2026-11-23
 ---
 
 # དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ། — Lobsang Yangzom
 
 One recording of the root text [[1-SOURCES/Text/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།|དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།]], recited by **Lobsang Yangzom**.
+
+Uploaded to **testing** (testing.library.webuddhist.com) on 2026-11-23, not to prod: audio `TPTCqKTa2wB9h5EOeP4ds`, recording `PKRqJyikkjWS2Tt0lWnIs` (follows edition `kGVsGhXdvGwRw9uaJnPvQ`).
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |

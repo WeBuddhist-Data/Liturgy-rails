@@ -3,8 +3,9 @@ title: "སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།]]"
 root_text_title: "སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།"
 source_description: "Single recording of the recitation of སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ། by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."

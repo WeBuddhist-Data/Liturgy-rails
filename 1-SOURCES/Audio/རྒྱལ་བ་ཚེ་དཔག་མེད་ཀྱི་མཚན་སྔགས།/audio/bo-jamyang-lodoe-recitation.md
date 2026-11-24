@@ -4,25 +4,34 @@ title_en: "The Name Mantra of Buddha Amitāyus — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།]]"
 root_text_title: "རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།"
 source_description: "Single recording of the recitation of The Name Mantra of Buddha Amitāyus by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.WAV"
+audio_file: "1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.m4a"
 accompaniment: false
 duration: "00:01:12.13"
 duration_seconds: 72.135
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3076
-file_size_bytes: 27732480
-sha256: 5c5f7fa1c739afd93eb493f28435a1fc9c2078fb7d1294132f6e129fa501d1cc
+bit_rate_kbps: 128
+file_size_bytes: 1168664
+sha256: 420d5ec7f1438b9386d3ba68a9712c05d6bfacfa10be4d8ec6831ca6dc7c8327
+converted_from:
+  audio_file: "1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3076
+  file_size_bytes: 27732480
+  sha256: 5c5f7fa1c739afd93eb493f28435a1fc9c2078fb7d1294132f6e129fa501d1cc
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "05:17:59"
 scene: "040224-051759"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/རྒྱལ་བ་ཚེ་�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.WAV` | 1:12.13 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.m4a` | 1:12.13 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.WAV]]
+![[1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.m4a]]
 
 ## Mapping
 

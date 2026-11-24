@@ -4,25 +4,34 @@ title_en: "A Prayer Invoking the Benefits of the Festival of the Tenth Day — r
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
+license: cc-by
 root_text: "[[1-SOURCES/Text/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།]]"
 root_text_title: "ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།"
 source_description: "Single recording of the recitation of A Prayer Invoking the Benefits of the Festival of the Tenth Day by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-29 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-29
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.WAV"
+audio_file: "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.m4a"
 accompaniment: false
 duration: "00:06:17.41"
 duration_seconds: 377.416
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 144960512
-sha256: 9eb1b4ff48fbf2bde2312675b096b4afb6e9da1edf993028b607d1e4d2114ad3
+bit_rate_kbps: 128
+file_size_bytes: 6110614
+sha256: b0b45ab538d30f76df64f27de691eeaaa8a0a07cca34856153cb527e5ea0759d
+converted_from:
+  audio_file: "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 144960512
+  sha256: 9eb1b4ff48fbf2bde2312675b096b4afb6e9da1edf993028b607d1e4d2114ad3
+  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
 recording_time: "19:41:53"
 scene: "290124-194153"
 ---
@@ -33,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/ཚེས་བཅུའི་�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.WAV` | 6:17.41 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.m4a` | 6:17.41 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.WAV]]
+![[1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.m4a]]
 
 ## Mapping
 
