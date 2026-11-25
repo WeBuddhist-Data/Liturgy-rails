@@ -11,15 +11,14 @@
             "id": "02bf6569a50fd7a4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "0-INBOX/Text 2/༄༅། །གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "༄༅། །གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།"
             }
           }
         ]
@@ -84,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.16668701171875,
-    "collapsed": true
+    "width": 366.16668701171875
   },
   "right": {
     "id": "735dbc7de09aa087",
