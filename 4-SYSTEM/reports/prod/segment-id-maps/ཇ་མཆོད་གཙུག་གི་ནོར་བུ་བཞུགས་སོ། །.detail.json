@@ -1,0 +1,89 @@
+{
+ "edition_id": "DhUFSsdCD1QpSFiBYw9nv",
+ "segment": [
+  {
+   "old_segment_id": "ZH9y4pYzMR0hWR31SZ5jh",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "aH98uPpgJjKL48WVfvf80",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "slm6wHKziEXQl4PQUr8Vy",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "0GVEf7no0D6fTvyNzX6fg",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "ziszBqznI1Q5aq7EF9jvz",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "F6xh0yRnLAwIgdDAd4Agq",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "Jp2aEMdK1fzD0ideEykAV",
+   "old_reference": "4",
+   "old_type": "verse",
+   "new_segment_id": "0CEMnovuoyC40sLibiUOp",
+   "new_reference": "0-4"
+  },
+  {
+   "old_segment_id": "i3Ye8bavxcSWWnMRBqj7b",
+   "old_reference": "5",
+   "old_type": "verse",
+   "new_segment_id": "sIlDBjPQG30E5y5plXOMn",
+   "new_reference": "0-5"
+  },
+  {
+   "old_segment_id": "s3g9Ou8Z0Nr3RmF8Kl4YR",
+   "old_reference": "6",
+   "old_type": "verse",
+   "new_segment_id": "JL865L1yuwreYsI5McJLX",
+   "new_reference": "0-6"
+  },
+  {
+   "old_segment_id": "36LPxEofFfqjd4S8XyiTH",
+   "old_reference": "7",
+   "old_type": "verse",
+   "new_segment_id": "WOFflEeXYaeb2Op0KliBD",
+   "new_reference": "0-7"
+  },
+  {
+   "old_segment_id": "hx8lCGs3YsEUIw6V4gTg5",
+   "old_reference": "8",
+   "old_type": "verse",
+   "new_segment_id": "V7h5YKDk0caLahp0pPftA",
+   "new_reference": "0-8"
+  },
+  {
+   "old_segment_id": "L38PQzHXGtnYb6AlFF4qw",
+   "old_reference": "9",
+   "old_type": "verse",
+   "new_segment_id": "THaFfa96Vj9U7FERvhyA1",
+   "new_reference": "0-9"
+  },
+  {
+   "old_segment_id": "3F14aBoGryawHbOSwQKmo",
+   "old_reference": "10",
+   "old_type": "verse",
+   "new_segment_id": "jFJYVos1BtAtfLBkoOSEb",
+   "new_reference": "0-10"
+  },
+  {
+   "old_segment_id": "ChCZHWKPfFUW17g8L2LsG",
+   "old_reference": "11",
+   "old_type": "verse",
+   "new_segment_id": "POG9hBcMhYV0B1I3WtRKn",
+   "new_reference": "0-11"
+  },
+  {
+   "old_segment_id": "15M7cMfRgHVQX6xKC7uoe",
+   "old_reference": "12",
+   "old_type": "back_matter",
+   "new_segment_id": "sgkGg66ZkhVQhfnRrOpxi",
+   "new_reference": "1-1-1"
+  }
+ ]
+}
