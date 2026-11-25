@@ -34,14 +34,28 @@ the root. States (a note can have several):
 Annotations (toc, yigchungs, durchens, footnotes) are only compared when the content
 matches: their offsets mean nothing against other content.
 
-Re-segmentation (`replace`) is one fixed sequence on the edition: DELETE segmentation ->
-PATCH content (one REPLACE of the whole content, only if it changed) -> POST segmentation,
-each step read back before the next; then the annotations are sent again. A linked text
-(translations, commentaries, alignments, recordings, or itself a translation/commentary)
-is refused unless --dev. Texts and editions are never deleted.
+Re-segmentation (`replace`) is one fixed sequence on the edition: snapshot + segment map ->
+DELETE segmentation -> PATCH content (one REPLACE of the whole content, only if it changed) ->
+POST segmentation -> record the new segment ids -> re-send the alignments the DELETE dropped,
+moved through the map -> annotations sent again -> recordings' cues checked. Each step is read
+back before the next. The text id and edition id never change; every segment id does.
+
+The segment map (segmap.py) is judged from the data: `renumber` (same content and spans, only
+references differ: 1:1 by span) or `resegment` (by content). Each old segment maps to at most
+ONE new segment (a split maps to its first part; the other parts stay unmapped). It is
+written before anything is deleted, to 4-SYSTEM/ledgers/<env>/segment-maps/<edition>.json
+(git-ignored: the only record of the old segment ids), and — unless the person said the map is
+not needed (--no-map) — as the segment id map 4-SYSTEM/reports/<env>/segment-id-maps/<note>.json
+({"segment": [{"old_segment_id", "new_segment_id" | "deleted"}]}) + <note>.detail.json, and a
+readable report in 4-SYSTEM/reports/<env>/segment-maps/.
+A send (--yes) needs --map or --no-map: ask the person first.
+
+A linked text (translations, commentaries, alignments, recordings, or itself a
+translation/commentary) is refused unless --dev. Texts and editions are never deleted.
 """
 from __future__ import annotations
 
+import csv
 import json
 import re
 import sys
@@ -51,10 +65,10 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 from . import frontmatter as FM
-from . import payloads, spans
+from . import payloads, segmap, spans
 from .api import ApiError, items
 from .plan import NotePlan, Step
-from .vault import FOLDERS, FRONTMATTER_ENV, VAULT, rel
+from .vault import FOLDERS, FRONTMATTER_ENV, LEDGERS, REPORTS, VAULT, rel
 
 LINKED_KINDS = ("translation", "commentary")
 ANNOTATIONS = ("toc", "yigchungs", "durchens", "footnotes")
@@ -215,6 +229,7 @@ class Ctx:
     ledger: object
     dev: bool = False
     full_replace: bool = False   # developer: re-segment every named note, even when in-place patching would do
+    seg_map: bool | None = None  # replace: the person said the old -> new segment id map is needed (True) or not
     unsupported: set = field(default_factory=set)   # annotation kinds this environment's API lacks
 
 
@@ -857,6 +872,199 @@ def _reseg_post(it, ctx):
     return f"{len(seg['segments'])} segments read back"
 
 
+# ------------------------------------------------------------------ segment map (re-segmentation)
+
+def segment_map(it: Item) -> dict:
+    """The judged map from the live segmentation to the note's (see segmap.py)."""
+    new = it.p["edition"]
+    return segmap.judge(it.live_content or "", segmap.segs(it.live_segs),
+                        new["content"], segmap.segs(new["segmentation"]["segments"]))
+
+
+def _map_path(ctx, it):
+    return LEDGERS / ctx.env.name / "segment-maps" / f"{it.edition_id}.json"
+
+
+def _save_map(ctx, it, doc):
+    p = _map_path(ctx, it)
+    p.parent.mkdir(parents=True, exist_ok=True)
+    tmp = p.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
+    tmp.replace(p)
+
+
+def _load_map(ctx, it):
+    p = _map_path(ctx, it)
+    return json.loads(p.read_text(encoding="utf-8")) if p.is_file() else None
+
+
+def _live_alignments(client, eid):
+    """Every alignment this edition takes part in: [{source, target, side, pairs}]."""
+    out, seen = [], set()
+    for a in items(client.get(f"/v2/editions/{eid}/alignments")):
+        x, y = a.get("aligned_edition_id"), a.get("target_edition_id")
+        for src, tgt in ((x, y), (y, x)):
+            if not src or not tgt or (src, tgt) in seen:
+                continue
+            pairs = _pairs(client, src, tgt)
+            if pairs:
+                seen.add((src, tgt))
+                out.append({"source": src, "target": tgt, "side": "target" if tgt == eid else "source",
+                            "pairs": [list(p) for p in pairs]})
+                break
+    return out
+
+
+def _live_cues(client, eid):
+    """{recording id: cue count, or None when this environment cannot list cues}."""
+    out = {}
+    for r in items(client.get(f"/v2/editions/{eid}/recordings")):
+        try:
+            out[r["id"]] = len(items(client.get(f"/v2/recordings/{r['id']}/cues")))
+        except ApiError as exc:
+            if exc.status not in (404, 405):
+                raise
+            out[r["id"]] = None
+    return out
+
+
+def _map_snapshot(it, ctx):
+    """Before the DELETE: judge the map and snapshot what the DELETE takes away (old segment ids,
+    alignments) to the git-ignored ledger. An unfinished earlier snapshot is kept, never replaced:
+    after a DELETE the server no longer has the old ids, so that file is their only record."""
+    old = _load_map(ctx, it)
+    if old and old.get("status") != "done":
+        return (f"kept the unfinished snapshot of {old.get('date')} ({old.get('summary')}, status {old.get('status')}): "
+                f"resuming")
+    m = segment_map(it)
+    doc = {"note": it.key, "env": ctx.env.name, "text_id": it.text_id, "edition_id": it.edition_id,
+           "date": time.strftime("%Y-%m-%d %H:%M"), "status": "snapshot",
+           **segmap.serialise(m),
+           "alignments_before": _live_alignments(ctx.client, it.edition_id),
+           "cues_before": _live_cues(ctx.client, it.edition_id)}
+    if old:
+        doc["earlier"] = [{k: old.get(k) for k in ("date", "summary")}] + old.get("earlier", [])
+    _save_map(ctx, it, doc)
+    n_al = len(doc["alignments_before"])
+    n_pairs = sum(len(a["pairs"]) for a in doc["alignments_before"])
+    return f"{m['summary']}; {n_al} alignment(s), {n_pairs} pairs saved -> {rel(_map_path(ctx, it))}"
+
+
+def _map_new_ids(it, ctx):
+    """After the POST: put the server's new segment ids into the map and write the report."""
+    doc = _load_map(ctx, it)
+    m = segmap.deserialise(doc)
+    got = segmap.fill_new_ids(m, _segments(ctx.client, it.edition_id))
+    if got != len(m["new"]):
+        raise ApiError(f"only {got} of {len(m['new'])} new segments matched by span")
+    keep = {k: doc[k] for k in doc if k not in ("old_segments", "new_segments", "groups", "overlaps", "rows")}
+    doc = {**keep, **segmap.serialise(m), "status": "segments posted"}
+    _save_map(ctx, it, doc)
+    return f"{got} new segment ids recorded" + _write_map_report(ctx, it, doc)
+
+
+def _map_alignments(it, ctx):
+    """Re-send every alignment the DELETE dropped, its references on this edition moved through the map."""
+    doc = _load_map(ctx, it)
+    rmap = segmap.ref_map(segmap.deserialise(doc))
+    after, dropped, msgs = [], [], []
+    for a in doc.get("alignments_before", []):
+        pairs, lost = segmap.remap_pairs([tuple(p) for p in a["pairs"]], rmap, a["side"])
+        body = [{"source_segment_reference": s, "target_segment_reference": t} for s, t in pairs]
+        if body:
+            ctx.client.put(f"/v2/editions/{a['source']}/alignments/{a['target']}", {"alignments": body}, timeout=300)
+            back = set(_pairs(ctx.client, a["source"], a["target"]))
+            if back != set(pairs):
+                raise ApiError(f"alignment {a['source']} -> {a['target']}: {len(back)} pairs read back, "
+                               f"{len(pairs)} sent")
+        after.append({"source": a["source"], "target": a["target"], "side": a["side"],
+                      "pairs": [list(p) for p in pairs]})
+        dropped += [{"source": a["source"], "target": a["target"], "pair": list(p)} for p in lost]
+        msgs.append(f"{len(pairs)}" + (f" (-{len(lost)})" if lost else ""))
+    doc.update(status="done", alignments_after=after, dropped_pairs=dropped)
+    _save_map(ctx, it, doc)
+    _write_map_report(ctx, it, doc)
+    if not after:
+        return "no alignments to re-send"
+    return (f"{len(after)} alignment(s) re-sent, pairs read back equal: {', '.join(msgs)}"
+            + (f"; {len(dropped)} pair(s) dropped (their segment was deleted, listed in the map)" if dropped else ""))
+
+
+def _check_cues(it, ctx):
+    doc = _load_map(ctx, it) or {}
+    before, now = doc.get("cues_before") or {}, _live_cues(ctx.client, it.edition_id)
+    lost = [r for r, n in before.items() if n and (now.get(r) or 0) < n]
+    if lost:
+        return (f"CUES LOST on {', '.join(lost)}: run `library.py audio push --only cues` for their notes "
+                f"(before {[before[r] for r in lost]}, now {[now.get(r) for r in lost]})")
+    unknown = [r for r, n in now.items() if n is None]
+    return (f"{len(now)} recording(s); cues unchanged" if not unknown
+            else f"{len(now)} recording(s); cues cannot be read on {ctx.env.name}, checked nothing")
+
+
+def write_segment_id_map(env_name, stem, doc) -> Path:
+    """The segment id map, in the shape other teams consume (as in abhidhamma-rails'
+    0-INBOX/<x>-segment-id-map/): 4-SYSTEM/reports/<env>/segment-id-maps/
+      <note>.json         {"segment": [{"old_segment_id", "new_segment_id"}]}   ("deleted" when gone)
+      <note>.detail.json  {"edition_id", "segment": [{"old_segment_id", "old_reference", "old_type",
+                                                      "new_segment_id", "new_reference"}]}
+    One entry per old segment, in text order."""
+    folder = REPORTS / env_name / "segment-id-maps"
+    folder.mkdir(parents=True, exist_ok=True)
+    types = {s["ref"]: s.get("type") for s in doc["old_segments"]}
+    olds = [r for r in doc["rows"] if r["old_ref"] is not None]
+    plain = {"segment": [{"old_segment_id": r["old_id"], "new_segment_id": r["new_id"] or "deleted"} for r in olds]}
+    detail = {"edition_id": doc["edition_id"],
+              "segment": [{"old_segment_id": r["old_id"], "old_reference": r["old_ref"],
+                           "old_type": types.get(r["old_ref"]), "new_segment_id": r["new_id"] or "deleted",
+                           "new_reference": r["new_ref"]} for r in olds]}
+    if any(not r["old_id"] or (r["new_ref"] and not r["new_id"]) for r in olds):
+        raise ApiError("segment id map incomplete: a segment has no id")
+    (folder / f"{stem}.json").write_text(json.dumps(plain, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    (folder / f"{stem}.detail.json").write_text(json.dumps(detail, ensure_ascii=False, indent=1) + "\n",
+                                                encoding="utf-8")
+    return folder / f"{stem}.json"
+
+
+def _write_map_report(ctx, it, doc) -> str:
+    if ctx.seg_map is False:
+        return " (no report: --no-map; the ledger copy has the ids)"
+    idmap = write_segment_id_map(ctx.env.name, it.path.stem, doc) if doc.get("status") != "snapshot" else None
+    folder = REPORTS / ctx.env.name / "segment-maps"
+    folder.mkdir(parents=True, exist_ok=True)
+    stem = it.path.stem
+    with open(folder / f"{stem}.csv", "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["kind", "old_ref", "old_segment_id", "new_ref", "new_segment_id", "chars"])
+        for r in doc["rows"]:
+            w.writerow([r["kind"], r["old_ref"] or "", r["old_id"] or "", r["new_ref"] or "", r["new_id"] or "",
+                        r["chars"]])
+    lines = [f"# Segment map: {stem}", "",
+             f"- environment: `{ctx.env.name}`, text `{doc['text_id']}`, edition `{doc['edition_id']}` (unchanged)",
+             f"- {doc['date']}, status **{doc['status']}**",
+             f"- method **{doc['summary']}**", "",
+             "| kind | old ref | old segment id | new ref | new segment id |", "|---|---|---|---|---|"]
+    for r in doc["rows"]:
+        lines.append(f"| {r['kind']} | {r['old_ref'] or '—'} | {r['old_id'] or '—'} | {r['new_ref'] or '—'} | "
+                     f"{r['new_id'] or '—'} |")
+    other = [x for x in doc.get("overlaps", []) if not x["mapped"]]
+    if other:
+        lines += ["", "Overlaps not used (each old segment maps to the first new segment it overlaps; "
+                  "`minor` = a boundary moved a little):", ""]
+        lines += [f"- {x['old']} → {x['new']} ({x['chars']} chars{', minor' if x['minor'] else ''})" for x in other]
+    if "alignments_after" in doc:
+        lines += ["", "## Alignments re-sent", ""]
+        for b, a in zip(doc["alignments_before"], doc["alignments_after"]):
+            lines.append(f"- `{a['source']}` → `{a['target']}`: {len(b['pairs'])} pairs before, "
+                         f"{len(a['pairs'])} after")
+        if doc.get("dropped_pairs"):
+            lines += ["", "Dropped pairs (their segment was deleted):", ""]
+            lines += [f"- `{d['source']}` → `{d['target']}`: {d['pair'][0]} → {d['pair'][1]}"
+                      for d in doc["dropped_pairs"]]
+    (folder / f"{stem}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return (f"; segment id map {rel(idmap)}" if idmap else "") + f"; report {rel(folder / (stem + '.md'))}"
+
+
 def _delete_ann(it, ctx, a):
     eid, c = it.edition_id, ctx.client
     if a == "toc":
@@ -1039,14 +1247,19 @@ def plan_replace(states, ctx):
         if not p.problem:
             linked = links(it, ctx)
             if linked and not ctx.dev:
-                p.problem = ("linked, so only a developer may re-segment it (--dev). Re-segmenting breaks: "
-                             + "; ".join(linked) + ". Transclusions in other repos must be redone; translations "
-                             "may or may not need redoing (unchanged if the edits stayed inside segments).")
+                p.problem = ("linked, so only a developer may re-segment it (--dev). Re-segmenting gives every "
+                             "segment a new id and drops: " + "; ".join(linked) + ". The alignments are re-sent "
+                             "through the segment map; anything else that stores segment ids or references "
+                             "(transclusions in other repos, bookmarks) must be moved with the map's report.")
             else:
                 why = (f.get("resegment-needed") or f.get("refs-renumbered") or f.get("types-differ")
                        or "full replace requested by a developer (--full-replace)")
                 warn = ("  [--dev: breaks " + "; ".join(linked) + "]") if linked else ""
                 eid = it.edition_id
+                m = segment_map(it) if it.live_segs else None
+                summary = m["summary"] if m else "no live segmentation (resuming: the saved map is used)"
+                p.steps.append(Step(f"segment map + snapshot  ({summary}; old ids and alignments saved before "
+                                    f"anything is deleted)", lambda it=it: _map_snapshot(it, ctx)))
                 p.steps.append(Step(f"DELETE /v2/editions/{eid}/segmentation  ({why}){warn}",
                                     lambda it=it: _reseg_delete(it, ctx)))
                 p.steps.append(Step(f"PATCH /v2/editions/{eid}/content  (one REPLACE of the whole content, if it differs)",
@@ -1054,10 +1267,17 @@ def plan_replace(states, ctx):
                 p.steps.append(Step(f"POST /v2/editions/{eid}/segmentation  "
                                     f"({len(it.p['edition']['segmentation']['segments'])} segments)",
                                     lambda it=it: _reseg_post(it, ctx)))
+                p.steps.append(Step("record the new segment ids in the map (old id -> new id)"
+                                    + (" + report" if ctx.seg_map is not False else
+                                       ", ledger only: no report (--no-map)"),
+                                    lambda it=it: _map_new_ids(it, ctx)))
+                p.steps.append(Step("PUT every dropped alignment again, moved through the map",
+                                    lambda it=it: _map_alignments(it, ctx)))
                 for a in ANNOTATIONS:
                     if a not in ctx.unsupported and (it.p.get(a) or it.live_ann.get(a)):
                         p.steps.append(Step(f"sync {a} on {eid}  (offsets are against the new content)",
                                             lambda it=it, a=a: _sync_annotations(it, ctx, a)))
+                p.steps.append(Step("check the recordings' cues", lambda it=it: _check_cues(it, ctx)))
         plans.append(p)
     return plans
 
