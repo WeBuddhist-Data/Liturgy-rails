@@ -10,18 +10,26 @@ root_text_title: "ཀླུ་བསངས་ནོར་བུ་དགོས�
 source_description: "Single recording of the recitation of ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ།། by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-12 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-12
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV"
+audio_file: "1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.m4a"
 accompaniment: false
 duration: "00:04:00.56"
 duration_seconds: 240.569
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 92411392
-sha256: 232fd8faa756f1ce6d696851a474d08ecd94f31ccfd148f3d4ec07dd543b728e
+bit_rate_kbps: 128
+file_size_bytes: 3895136
+sha256: 422e563f98c1b44424429e8fa15fb9ebc10aaa6c0e2ccdca26fb41eb9703da52
+converted_from:
+  audio_file: "1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 92411392
+  sha256: 232fd8faa756f1ce6d696851a474d08ecd94f31ccfd148f3d4ec07dd543b728e
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "13:20:49"
 scene: "120224-132049"
 license: cc-by
@@ -33,7 +41,7 @@ One recording of the root text [[1-SOURCES/Text/ཀླུ་བསངས་ན�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.WAV` | 4:00.56 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.m4a` | 4:00.56 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

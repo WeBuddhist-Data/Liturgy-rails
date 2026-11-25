@@ -12,7 +12,7 @@ root_text_title: "ལམ་རིམ་སྨོན་ལམ་བཞུགས�
 source_description: "Single recording of the recitation of Aspiration for the Stages of the Path by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:03:53.75"
 duration_seconds: 233.759
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 3785129
-sha256: b78cf04469cec4b62b8a0f8e19f91216c1f78d315d89940ca2b51fd9e9ae3425
+sha256: e361aae909485f3c565d8f308a3ea2e30657d943248459f971c24b243787e338
 converted_from:
   audio_file: "1-SOURCES/Audio/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 89796096
   sha256: 58a1c52562ff7308e86dd179e29997cef62ac70b928d3455cbfefb305dc67840
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "17:11:28"
 scene: "050224-171128"
 ---

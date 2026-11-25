@@ -12,7 +12,7 @@ root_text_title: "དབང་སྡུད་གསོལ་འདེབས།"
 source_description: "Single recording of the recitation of The Great Cloud of Blessings: The Prayer which Magnetizes All that Appears and Exists by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-25 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-25
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/དབང་སྡུད་གསོལ་འདེབས།/དབང་སྡུད་གསོལ་འདེབས།.m4a"
+audio_file: "1-SOURCES/Audio/དབང་སྡུད་གསོལ་འདེབས།/audio/དབང་སྡུད་གསོལ་འདེབས།.m4a"
 accompaniment: false
 duration: "00:02:19.36"
 duration_seconds: 139.363
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 2256809
-sha256: f6c77e892c7e4a2e135b29f3a6d78f146e97a2858ddf3896832ebd2af5687f9b
+sha256: fffd0a377f31f7def442a2426436f4ea749d2340f243100a401a3c0d9f1e11ba
 converted_from:
   audio_file: "1-SOURCES/Audio/དབང་སྡུད་གསོལ་འདེབས།/དབང་སྡུད་གསོལ་འདེབས།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3074
   file_size_bytes: 53548032
   sha256: f2b5c9918727b646207a6a6937b524e6fa0fac977924841b81ee6e5d08438f37
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "03:21:07"
 scene: "250124-032107"
 ---

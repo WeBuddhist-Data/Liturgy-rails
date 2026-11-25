@@ -11,18 +11,26 @@ root_text_title: "གསོལ་འདེབས་བསམ་པ་མྱུ�
 source_description: "Single recording of the recitation of The Prayer that Swiftly Fulfils All Wishes by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-10 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-10
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.WAV"
+audio_file: "1-SOURCES/Audio/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།/audio/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.m4a"
 accompaniment: false
 duration: "00:02:34.38"
 duration_seconds: 154.381
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3074
-file_size_bytes: 59315200
-sha256: 920bd7848b99c163d7bbe80250e7fe3798f883606b1c39454560a624e8e41cf1
+bit_rate_kbps: 128
+file_size_bytes: 2500149
+sha256: 594ffe5e6c4199c04dd6a0944af95c0d1d25f90c42943695f3659a6e17a5c431
+converted_from:
+  audio_file: "1-SOURCES/Audio/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3074
+  file_size_bytes: 59315200
+  sha256: 920bd7848b99c163d7bbe80250e7fe3798f883606b1c39454560a624e8e41cf1
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "17:30:40"
 scene: "100224-173040"
 license: cc-by
@@ -34,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/གསོལ་འདེབས�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.WAV` | 2:34.38 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.m4a` | 2:34.38 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

@@ -12,7 +12,7 @@ root_text_title: "རྗེ་གསང་བའི་རྣམ་ཐར།"
 source_description: "Single recording of the recitation of Lama Tsongkhapa's Secret Biography by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/རྗེ་གསང་བའི་རྣམ་ཐར།.m4a"
+audio_file: "1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/audio/རྗེ་གསང་བའི་རྣམ་ཐར།.m4a"
 accompaniment: false
 duration: "00:16:42.68"
 duration_seconds: 1002.688
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 16231758
-sha256: 74052f6fd1800126d0fa411ff87cf12b4ebe466a4729cc0d171b951448d979d5
+sha256: 9cdd95553cf990b92566e4a9bbac1badda064d4edbdda8fe1c8140c4f673b70a
 converted_from:
   audio_file: "1-SOURCES/Audio/རྗེ་གསང་བའི་རྣམ་ཐར།/རྗེ་གསང་བའི་རྣམ་ཐར།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 385064960
   sha256: c74eae2a5c29e97f8d725e8731f6487c6a89b5239b34d15a9cf1559669542af0
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "17:06:11"
 scene: "040224-170611"
 ---

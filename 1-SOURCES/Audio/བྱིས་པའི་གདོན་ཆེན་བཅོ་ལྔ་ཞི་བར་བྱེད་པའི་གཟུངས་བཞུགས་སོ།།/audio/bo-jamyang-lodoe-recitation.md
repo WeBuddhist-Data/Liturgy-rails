@@ -12,7 +12,7 @@ root_text_title: "བྱིས་པའི་གདོན་ཆེན་བཅ�
 source_description: "Single recording of the recitation of The Dhāraṇī that Pacifies the Fifteen Great Grahas that Harm Children by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-26 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-26
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།།/audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:17:47.79"
 duration_seconds: 1067.795
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 17285976
-sha256: ae53b6400fa730fffbbf50cc108c18f0804008d4d2c9d56783b452743314165c
+sha256: dd919bb62dfd0ef3c599498be636aaedf3736a2ec70db262b14227e1a2e5e777
 converted_from:
   audio_file: "1-SOURCES/Audio/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།/བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་བཞུགས་སོ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 410065920
   sha256: d937a6360f728b96f64cb827360561739890917134a67b541e67c845166736d7
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:27:31"
 scene: "260124-192731"
 ---

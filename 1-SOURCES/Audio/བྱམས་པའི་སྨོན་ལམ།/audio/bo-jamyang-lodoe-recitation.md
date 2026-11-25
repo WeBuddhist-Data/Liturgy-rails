@@ -12,7 +12,7 @@ root_text_title: "བྱམས་པའི་སྨོན་ལམ།"
 source_description: "Single recording of the recitation of The Noble Maitreya's King of Aspirations by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བྱམས་པའི་སྨོན་ལམ།/བྱམས་པའི་སྨོན་ལམ།.m4a"
+audio_file: "1-SOURCES/Audio/བྱམས་པའི་སྨོན་ལམ།/audio/བྱམས་པའི་སྨོན་ལམ།.m4a"
 accompaniment: false
 duration: "00:06:58.82"
 duration_seconds: 418.827
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 6780676
-sha256: d9d1cab40f2270caa1d45066481c8d970279d8bc3e8d07e5559292e5a8b76b49
+sha256: a28e7eca9af4c288d331b7be402f7a619b58bf0deff84950c6d7b77ebd3d8c67
 converted_from:
   audio_file: "1-SOURCES/Audio/བྱམས་པའི་སྨོན་ལམ།/བྱམས་པའི་སྨོན་ལམ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 160862208
   sha256: ba1423a6df94e9e8c14cd1c85340360397f7a006e9af17ac8c2284580686d93a
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "02:50:47"
 scene: "280124-025047"
 ---

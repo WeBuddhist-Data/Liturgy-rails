@@ -12,7 +12,7 @@ root_text_title: "བོད་ཡུལ་བདེ་བའི་སྨོན�
 source_description: "Single recording of the recitation of Prayer for Peace and Stability in Tibet by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-27 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-27
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།.m4a"
+audio_file: "1-SOURCES/Audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།/audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།.m4a"
 accompaniment: false
 duration: "00:02:31.98"
 duration_seconds: 151.984
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 2461246
-sha256: d8f48d7cef3e4e88fe624b379ffdebee0f53589570d137fa93a8c336ba82598d
+sha256: 29eb7d32fc028a3b7b07c32718aa024a24a4c8b2c80deaf7b1b1b0f129e89739
 converted_from:
   audio_file: "1-SOURCES/Audio/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།/བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3074
   file_size_bytes: 58394624
   sha256: 68f6a003e67829cf5c3c014d1bc502d8432d1c6ac6c115a02057aa3739cee987
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:14:13"
 scene: "270124-191413"
 ---

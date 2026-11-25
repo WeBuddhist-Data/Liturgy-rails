@@ -12,7 +12,7 @@ root_text_title: "སྟོན་པ་ཐུབ་པའི་དབང་པ�
 source_description: "Single recording of the recitation of Praise to the Teacher, the Lord of Sages by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།/སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།.m4a"
+audio_file: "1-SOURCES/Audio/སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།/audio/སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།.m4a"
 accompaniment: false
 duration: "00:07:27.60"
 duration_seconds: 447.601
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 7246748
-sha256: 3b68d3e9729ef92288ec55e24c065e3d7f4b5058109552396fdb8d7dce1baadc
+sha256: cf969fae6d638f3b6e12ce1ce69705d735dfae739836206c86c427a2a2214940
 converted_from:
   audio_file: "1-SOURCES/Audio/སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།/སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 171911680
   sha256: 729565ac55ed1168135c0079d16bb06a3f2af74722a1d18071bbc2a639805c8c
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "18:08:04"
 scene: "050224-180804"
 ---

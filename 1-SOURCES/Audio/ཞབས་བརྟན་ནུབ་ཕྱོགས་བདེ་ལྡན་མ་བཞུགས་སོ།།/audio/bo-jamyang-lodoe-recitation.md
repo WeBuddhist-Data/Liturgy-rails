@@ -12,7 +12,7 @@ root_text_title: "ཞབས་བརྟན་ནུབ་ཕྱོགས་བ�
 source_description: "Single recording of the recitation of The Long-Life Prayer 'In the Blissful Realm of the West by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།.m4a"
+audio_file: "1-SOURCES/Audio/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།/audio/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:01:49.40"
 duration_seconds: 109.404
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1771961
-sha256: 15bb79ecace23e6812b350545a1a8b0d2bdb26f1ba9d55ea7f3756dab69ba17d
+sha256: 7c6cf0bb1be1011804058f7bf8e611f324db07b831210022a11ee81cbdb95956
 converted_from:
   audio_file: "1-SOURCES/Audio/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3074
   file_size_bytes: 42043904
   sha256: 83f4bb69637808633b50ae1563a1604a62ddabb48269bdd3ad2429181fdeb5f5
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "03:27:05"
 scene: "010224-032705"
 ---

@@ -12,7 +12,7 @@ root_text_title: "སྤྱོད་འཇུག་སྨོན་ལམ་བ�
 source_description: "Single recording of the recitation of Aspiration Prayer from the Bodhicharyāvatāra by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-08 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-08
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:18:06.55"
 duration_seconds: 1086.551
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 17589609
-sha256: b6e8e8027943bf15fb0ca2c61c283fbc4f2d9408cddf767251e9adb627081a9e
+sha256: 5698f0f2fff2f66c60e91cf38d6e7bac108a2727e79c78bdae2348980d1a7b64
 converted_from:
   audio_file: "1-SOURCES/Audio/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 417268224
   sha256: 27c15af0677fa051ce1f6df186465658f1a82543ae7f1ed81db2ce19cff6e43c
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "16:43:07"
 scene: "080224-164307"
 ---

@@ -12,7 +12,7 @@ root_text_title: "ཕྱག་ཆེན་བརྒྱུད་པའི་ག�
 source_description: "Single recording of the recitation of Prayer to the Mahāmudrā Lineage by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-25 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-25
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།/ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།.m4a"
+audio_file: "1-SOURCES/Audio/ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།/audio/ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།.m4a"
 accompaniment: false
 duration: "00:04:30.49"
 duration_seconds: 270.492
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 4379687
-sha256: c3a79514630b14961dba022419e3459d66256510030dccacc1a65bbf9cc30e7d
+sha256: 833db47916d78ebafcea288d905699a4965d8c860b78f2ba62ccea54ec638c8a
 converted_from:
   audio_file: "1-SOURCES/Audio/ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།/ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 103901696
   sha256: 6bcc2f14b57ee23d2f45f8f8e1ce7a821569d2d78e4a46dccef978e68765e095
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:31:13"
 scene: "250124-193113"
 ---

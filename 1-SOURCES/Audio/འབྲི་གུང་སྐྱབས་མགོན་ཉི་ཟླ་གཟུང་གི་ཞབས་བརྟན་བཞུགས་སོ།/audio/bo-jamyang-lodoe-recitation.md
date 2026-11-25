@@ -10,18 +10,26 @@ root_text_title: "འབྲི་གུང་༧སྐྱབས་མགོན�
 source_description: "Single recording of the recitation of འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ། by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-11 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-11
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.WAV"
+audio_file: "1-SOURCES/Audio/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།/audio/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:00:39.45"
 duration_seconds: 39.457
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3079
-file_size_bytes: 15184384
-sha256: 87972e6d2247dc47276a5de51a670bf7f00926e5900a5ba047b86f006d8a13da
+bit_rate_kbps: 128
+file_size_bytes: 639613
+sha256: ed456e5091e8367a72eafe055c9a91c0514383c4dfb0cd75345768bc8ae76022
+converted_from:
+  audio_file: "1-SOURCES/Audio/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།/འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3079
+  file_size_bytes: 15184384
+  sha256: 87972e6d2247dc47276a5de51a670bf7f00926e5900a5ba047b86f006d8a13da
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "05:24:13"
 scene: "110224-052413"
 license: cc-by
@@ -33,7 +41,7 @@ One recording of the root text [[1-SOURCES/Text/འབྲི་གུང་ས�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.WAV` | 0:39.45 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `འབྲི་གུང་སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.m4a` | 0:39.45 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

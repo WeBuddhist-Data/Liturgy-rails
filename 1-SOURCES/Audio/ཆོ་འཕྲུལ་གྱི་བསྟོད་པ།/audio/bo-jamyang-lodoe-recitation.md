@@ -25,7 +25,7 @@ recordings:
     channels: 2
     bit_rate_kbps: 128
     file_size_bytes: 4826105
-    sha256: 962a80aaef6f39b29b4e9f031e6af4f2754af32bb85e49252f3a46bf0edf11da
+    sha256: fd5465d0a4bf202786d9b894e25ddbbde18f3b265ad9d16baf7c69463ea2294f
     converted_from:
       file: 1-SOURCES/Audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།/audio/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.WAV
       format: WAV (BWF)
@@ -34,7 +34,7 @@ recordings:
       bit_rate_kbps: 3072
       file_size_bytes: 114493440
       sha256: 32cc4d3383e5b115845fd9baa8fa39fb09e98d66fda2c2756f36d91d3751d7ab
-      converted: 2026-11-19, AAC 128 kbps, same length to the sample
+      converted: 2026-11-25, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-20

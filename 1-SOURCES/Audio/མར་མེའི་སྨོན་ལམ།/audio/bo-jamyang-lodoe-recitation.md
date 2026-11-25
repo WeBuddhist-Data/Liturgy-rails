@@ -12,7 +12,7 @@ root_text_title: "མར་མེའི་སྨོན་ལམ།"
 source_description: "Single recording of the recitation of Light Offering Prayer by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/མར་མེའི་སྨོན་ལམ།/མར་མེའི་སྨོན་ལམ།.m4a"
+audio_file: "1-SOURCES/Audio/མར་མེའི་སྨོན་ལམ།/audio/མར་མེའི་སྨོན་ལམ།.m4a"
 accompaniment: false
 duration: "00:01:45.10"
 duration_seconds: 105.108
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1702407
-sha256: 60dde75d0e9344c9ce0637e37f364b737b14d1e019e9d855232db3c4858fc13f
+sha256: 48dfa59a7f04888302247063652312fbd870cd6d4179615291f0b1ad58b47308
 converted_from:
   audio_file: "1-SOURCES/Audio/མར་མེའི་སྨོན་ལམ།/མར་མེའི་སྨོན་ལམ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3074
   file_size_bytes: 40394240
   sha256: 1c03cb9b1304ebb8385124413f0d8bfb3499b82c0064d93a8760eeb16dbc8057
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "20:32:36"
 scene: "280124-203236"
 ---

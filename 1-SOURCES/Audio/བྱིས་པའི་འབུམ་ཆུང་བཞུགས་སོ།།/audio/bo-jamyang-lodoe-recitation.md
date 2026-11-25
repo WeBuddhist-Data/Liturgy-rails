@@ -12,7 +12,7 @@ root_text_title: "བྱིས་པའི་འབུམ་ཆུང་བཞ�
 source_description: "Single recording of the recitation of The Little Hundred Thousand for Children by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-03 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-03
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.m4a"
+audio_file: "1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:09:46.67"
 duration_seconds: 586.675
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 9497988
-sha256: 7c4636417f4585f2e5e2d55fa8a3d39727646ccae30dbcea449b306c0f1342d7
+sha256: 3eccfa67a4a2d39bcc51fe234069db7e42cbac778b115e8f53a77ebc6c2e3cac
 converted_from:
   audio_file: "1-SOURCES/Audio/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 225315840
   sha256: 7395b65dd99e2ff1ab58a8f58e95f9203c62452b23433b20b0be7933a9c8cc98
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "18:16:45"
 scene: "030224-181645"
 ---

@@ -11,18 +11,26 @@ root_text_title: "བསམ་པ་ལྷུན་གྲུབ་མ་བཞ�
 source_description: "Single recording of the recitation of The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-10 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-10
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །.WAV"
+audio_file: "1-SOURCES/Audio/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །/audio/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །.m4a"
 accompaniment: false
 duration: "00:10:34.63"
 duration_seconds: 634.631
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 243730944
-sha256: 24931c5e07e726bbb8ec92ff62240b43560e242a6c3a4724e118a48e730f392b
+bit_rate_kbps: 128
+file_size_bytes: 10274204
+sha256: bf748898d1c666e6794add7f3c30874d59742da3b5841ef77acb3ca26fa09312
+converted_from:
+  audio_file: "1-SOURCES/Audio/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 243730944
+  sha256: 24931c5e07e726bbb8ec92ff62240b43560e242a6c3a4724e118a48e730f392b
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "18:26:55"
 scene: "100224-182655"
 license: cc-by
@@ -34,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/བསམ་པ་ལྷུན�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །.WAV` | 10:34.63 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། །.m4a` | 10:34.63 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

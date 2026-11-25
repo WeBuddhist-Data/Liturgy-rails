@@ -12,7 +12,7 @@ root_text_title: "འཕགས་པ་བཀྲ་ཤིས་བརྒྱད�
 source_description: "Single recording of the recitation of Verses of the Eight Noble Auspicious Ones by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.m4a"
+audio_file: "1-SOURCES/Audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།/audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.m4a"
 accompaniment: false
 duration: "00:03:06.39"
 duration_seconds: 186.391
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 3018269
-sha256: 57bfca227ea8cb2c2fcc3e871ebcfe96f631cd9220208a47b1a321f5be10b23a
+sha256: cc1455102f75a20a5789c0ce3aac386d41f0fafb7fc52c9ec72e0922c0ad814c
 converted_from:
   audio_file: "1-SOURCES/Audio/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 71606784
   sha256: e3fa3a8de1f250e21be9325589c54d38b33b80f65fcb07c13cfbac5fe4d1c38a
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "04:21:00"
 scene: "010224-042100"
 ---

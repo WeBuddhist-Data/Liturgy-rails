@@ -12,7 +12,7 @@ root_text_title: "འཕགས་པ་བཟང་པོ་སྤྱོད་�
 source_description: "Single recording of the recitation of The King of Aspiration Prayers: Samantabhadra's Aspiration to Good Actions by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-02 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-02
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.m4a"
+audio_file: "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.m4a"
 accompaniment: false
 duration: "00:21:14.08"
 duration_seconds: 1274.083
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 20625171
-sha256: 886920331848fe8b7ce7e93f321aa703841ea75703348157f521164b5e02618d
+sha256: afc0c1c93bc3d75fe7a1f52887d514920c0c620df959f0c688298e426fa5372e
 converted_from:
   audio_file: "1-SOURCES/Audio/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 489280512
   sha256: d0eb431019cc9af55f21e7acfe92fb6d9327cbdca99a51212e96365182c0de5c
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "03:20:45"
 scene: "020224-032045"
 ---

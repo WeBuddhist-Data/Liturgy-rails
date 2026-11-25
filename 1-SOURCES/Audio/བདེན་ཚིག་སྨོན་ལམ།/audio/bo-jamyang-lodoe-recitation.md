@@ -12,7 +12,7 @@ root_text_title: "བདེན་ཚིག་སྨོན་ལམ།"
 source_description: "Single recording of the recitation of The Prayer of the Words of Truth by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-26 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-26
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བདེན་ཚིག་སྨོན་ལམ།/བདེན་ཚིག་སྨོན་ལམ།.m4a"
+audio_file: "1-SOURCES/Audio/བདེན་ཚིག་སྨོན་ལམ།/audio/བདེན་ཚིག་སྨོན་ལམ།.m4a"
 accompaniment: false
 duration: "00:04:03.57"
 duration_seconds: 243.575
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 3943988
-sha256: f548fc2c8682da7a47816bc07be447c5f6f2e745d5a974b4cb3daae2c6a682f0
+sha256: 25c8dc9ccea2ec1060a93b62ee919ad263d1992397af330e420f2462e2d38b2d
 converted_from:
   audio_file: "1-SOURCES/Audio/བདེན་ཚིག་སྨོན་ལམ།/བདེན་ཚིག་སྨོན་ལམ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 93565440
   sha256: 3ba4e741939b28f5ab7750178bfc754ed77e5530bc3ea14aa664f0a38ac4a60b
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:11:25"
 scene: "260124-191125"
 ---

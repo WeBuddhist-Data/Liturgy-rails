@@ -12,7 +12,7 @@ root_text_title: "ཚེས་བཅུའི་ཕན་ཡོན་གསོ�
 source_description: "Single recording of the recitation of A Prayer Invoking the Benefits of the Festival of the Tenth Day by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-29 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-29
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.m4a"
+audio_file: "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.m4a"
 accompaniment: false
 duration: "00:06:17.41"
 duration_seconds: 377.416
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 6110614
-sha256: b0b45ab538d30f76df64f27de691eeaaa8a0a07cca34856153cb527e5ea0759d
+sha256: 74d9df3f712fbaf5c98d68407d0f74dcc61fa983b8db1098db2ba68e4de3b266
 converted_from:
   audio_file: "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 144960512
   sha256: 9eb1b4ff48fbf2bde2312675b096b4afb6e9da1edf993028b607d1e4d2114ad3
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:41:53"
 scene: "290124-194153"
 ---

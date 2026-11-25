@@ -11,18 +11,26 @@ root_text_title: "ཐུབ་པའི་བསྟོད་པ་ཐུབ་�
 source_description: "Single recording of the recitation of In Praise of the Buddha: Though All Sages Are Equal in Abandonment and Realization by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-17 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-17
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།/audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།.WAV"
+audio_file: "1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།/audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།.m4a"
 accompaniment: false
 duration: "00:08:15.01"
 duration_seconds: 495.019
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 190119936
-sha256: e58d67a8af873538b8f9acb0424e8346f59bc8aa234aa7801ab29eb566f94032
+bit_rate_kbps: 128
+file_size_bytes: 8014079
+sha256: 74bdf9aa8e4cac7f12185f1c023cbee1d4acc96887dd55f7b1d7e32ac0045621
+converted_from:
+  audio_file: "1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།/audio/ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 190119936
+  sha256: e58d67a8af873538b8f9acb0424e8346f59bc8aa234aa7801ab29eb566f94032
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "16:42:21"
 scene: "170224-164221"
 license: cc-by
@@ -34,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/ཐུབ་པའི་བས�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།.WAV` | 8:15.01 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཐུབ་པའི་བསྟོད་པ་ཐུབ་རྣམས་སྤངས་རྟོགས།.m4a` | 8:15.01 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

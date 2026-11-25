@@ -12,7 +12,7 @@ root_text_title: "རྒྱལ་ཁམས་བདེ་བའི་སྨོ�
 source_description: "Single recording of the recitation of Aspiration for the Country's Welfare by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།.m4a"
+audio_file: "1-SOURCES/Audio/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།/audio/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།.m4a"
 accompaniment: false
 duration: "00:01:27.32"
 duration_seconds: 87.325
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1414541
-sha256: d75110b601e2b56ed8114eaf917ca3519624fb19071b3119a5f35c3f80b060b1
+sha256: 946a6339c1188e8461f2ab33ec71bb57419e45dc83a73c7e28725aaf042010ed
 converted_from:
   audio_file: "1-SOURCES/Audio/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3075
   file_size_bytes: 33565696
   sha256: 05c1b878273689a7e3255a5418da11542bf23d4865d8552b3915393f363521ab
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "05:15:48"
 scene: "040224-051548"
 ---

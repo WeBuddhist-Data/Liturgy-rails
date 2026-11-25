@@ -12,7 +12,7 @@ root_text_title: "བསྟན་འབར་མ་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of Prayer for the Future of the Dharma by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-27 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-27
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བསྟན་འབར་མ་བཞུགས་སོ།/བསྟན་འབར་མ་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/བསྟན་འབར་མ་བཞུགས་སོ།/audio/བསྟན་འབར་མ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:07:38.50"
 duration_seconds: 458.507
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 7423247
-sha256: dd35f2986a89ec4379c0a74bfff9d96ca28456537f99f4626dcb0ee59245c42b
+sha256: 971699e323f7f149772342660416f5e23050b2ac9c8614decbe554f9ebb80f6b
 converted_from:
   audio_file: "1-SOURCES/Audio/བསྟན་འབར་མ་བཞུགས་སོ།/བསྟན་འབར་མ་བཞུགས་སོ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 176099328
   sha256: 7a5a1f9af9d7853a736fac4020a5a2d5b16d30aaf825d73fb247e9d8a06caeca
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:17:39"
 scene: "270124-191739"
 ---

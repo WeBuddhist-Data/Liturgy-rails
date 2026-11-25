@@ -12,7 +12,7 @@ root_text_title: "བདུད་བཟློག་གསང་བའི་མ�
 source_description: "Single recording of the recitation of The Secret Pith Instruction for Averting Maras by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-26 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-26
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བདུད་བཟློག་གསང་བའི་མན་ངག/བདུད་བཟློག་གསང་བའི་མན་ངག.m4a"
+audio_file: "1-SOURCES/Audio/བདུད་བཟློག་གསང་བའི་མན་ངག/audio/བདུད་བཟློག་གསང་བའི་མན་ངག.m4a"
 accompaniment: false
 duration: "00:01:52.73"
 duration_seconds: 112.732
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1825833
-sha256: 559467b445009f7e32619e9970fb774e64c9add9758e7dabdd3e1d19a717542c
+sha256: fbb0584e322ac4d02b600f5000009bed265068ed5395ffe4ad5b6287d71dd998
 converted_from:
   audio_file: "1-SOURCES/Audio/བདུད་བཟློག་གསང་བའི་མན་ངག/བདུད་བཟློག་གསང་བའི་མན་ངག.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3074
   file_size_bytes: 43321856
   sha256: 3bfce87e7b160cd60e17dd0774eab2f2a524e5954a80b29dbc5060b2388b5b18
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:00:23"
 scene: "260124-190023"
 ---

@@ -12,7 +12,7 @@ root_text_title: "རྟེན་འབྲེལ་བསྟོད་པ།"
 source_description: "Single recording of the recitation of In Praise of Dependent Origination by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/རྟེན་འབྲེལ་བསྟོད་པ།.m4a"
+audio_file: "1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/audio/རྟེན་འབྲེལ་བསྟོད་པ།.m4a"
 accompaniment: false
 duration: "00:20:21.93"
 duration_seconds: 1221.939
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 19781323
-sha256: dc7521efb5db87cdaa0aaa8ff4f84d074d087732cdf65c6bb6dc7acfafa74d42
+sha256: f07718d2d982e3786ef3bf217faf47ecddc35302fecd171d0b7a10c0664e9f90
 converted_from:
   audio_file: "1-SOURCES/Audio/རྟེན་འབྲེལ་བསྟོད་པ།/རྟེན་འབྲེལ་བསྟོད་པ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 469257216
   sha256: 18a97f72e6e8fba83e04e2a3575c2ac52159a565c9c89b01d0a6793e05afdd2a
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "16:38:16"
 scene: "040224-163816"
 ---

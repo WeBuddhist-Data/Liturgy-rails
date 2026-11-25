@@ -11,7 +11,7 @@ root_text_title: "སངས་རྒྱས་སྨན་བླའི་གཟ�
 source_description: "Single recording of the recitation of སངས་རྒྱས་སྨན་བླའི་གཟུངས། by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སངས་རྒྱས་སྨན་བླའི་གཟུངས།/སངས་རྒྱས་སྨན་བླའི་གཟུངས།.m4a"
+audio_file: "1-SOURCES/Audio/སངས་རྒྱས་སྨན་བླའི་གཟུངས།/audio/སངས་རྒྱས་སྨན་བླའི་གཟུངས།.m4a"
 accompaniment: false
 duration: "00:01:21.01"
 duration_seconds: 81.017
@@ -21,7 +21,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1312575
-sha256: 90afc3b576a39b8050de3925fb5266018cabc8f376ed41ad0abc70c1a37c529c
+sha256: 048f481031ff721c5e8624d5f199132757289b8d3caf4890f75c2b75671993ae
 converted_from:
   audio_file: "1-SOURCES/Audio/སངས་རྒྱས་སྨན་བླའི་གཟུངས།/སངས་རྒྱས་སྨན་བླའི་གཟུངས།.WAV"
   format: "WAV (BWF)"
@@ -30,7 +30,7 @@ converted_from:
   bit_rate_kbps: 3075
   file_size_bytes: 31143424
   sha256: 1b3206a13465efd9bb4642f04b32904a10acd128add399137bb2e99315b3829c
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "18:05:09"
 scene: "050224-180509"
 ---

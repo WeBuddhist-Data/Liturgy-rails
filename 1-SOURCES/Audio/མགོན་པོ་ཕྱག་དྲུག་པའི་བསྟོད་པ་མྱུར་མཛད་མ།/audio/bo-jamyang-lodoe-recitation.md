@@ -12,7 +12,7 @@ root_text_title: "མགོན་པོ་ཕྱག་དྲུག་པའི�
 source_description: "Single recording of the recitation of Praise to the Six-Armed Mahākāla by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.m4a"
+audio_file: "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.m4a"
 accompaniment: false
 duration: "00:02:30.11"
 duration_seconds: 150.113
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 2431148
-sha256: 0e146a91debf036f2b2087208d2d16724473bde272d8a80a94e058867bf7a8ec
+sha256: b1bf7ab6d7db5531ad43cc7be9714b6c92292d746d3ba90303ca2b8649dbf7cd
 converted_from:
   audio_file: "1-SOURCES/Audio/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3074
   file_size_bytes: 57676288
   sha256: 968d2e2d1326c8a3f46b55a069437ea3b6ae7defa94d8b69d74cbaa28afb2df3
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "20:16:09"
 scene: "280124-201609"
 ---

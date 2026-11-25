@@ -12,7 +12,7 @@ root_text_title: "ཞབས་བརྟན་གསོལ་འདེབས་�
 source_description: "Single recording of the recitation of Accomplishing Immortality: A Prayer for Long Life by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-29 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-29
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a"
+audio_file: "1-SOURCES/Audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:05:40.75"
 duration_seconds: 340.755
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 5516983
-sha256: 2dd1cf68209d1425590fff6823ac088490fc448b7a159392df9a326bc3bbd2a1
+sha256: a17c0289201ffca0a418f12249280961146cc002fa4b2033daf6b65969b89a85
 converted_from:
   audio_file: "1-SOURCES/Audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 130882560
   sha256: a1641e76e4ff0180b85d7f8cd2120443e30b43c2df5e0ac370d98c52f5d53939
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:49:24"
 scene: "290124-194924"
 ---

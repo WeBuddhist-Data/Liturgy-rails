@@ -12,7 +12,7 @@ root_text_title: "ཨོ་རྒྱན་རིན་པོ་ཆེའི་�
 source_description: "Single recording of the recitation of The Testament Prayer to Orgyen Rinpoche by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-08 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-08
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།.m4a"
+audio_file: "1-SOURCES/Audio/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།/audio/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།.m4a"
 accompaniment: false
 duration: "00:03:13.62"
 duration_seconds: 193.625
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 3135337
-sha256: 01b4114f2f7bc70996501de577ba275fb6c6606f115ff72bb1afe09e885e56ad
+sha256: e766f96921033148a64881773031291bca7c331b4fc1aee78f4f49fa7b8257df
 converted_from:
   audio_file: "1-SOURCES/Audio/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 74384896
   sha256: 42c23c3c53fafd84d43ce62fe2882466bb38f09c5ef52517f5ab2210de3d3d60
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "17:38:23"
 scene: "080224-173823"
 ---

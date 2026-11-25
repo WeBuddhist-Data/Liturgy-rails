@@ -11,18 +11,26 @@ root_text_title: "ཡན་ལག་བདུན་པ།"
 source_description: "Single recording of the recitation of The Seven Branches by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-11 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-11
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཡན་ལག་བདུན་པ།/ཡན་ལག་བདུན་པ།.WAV"
+audio_file: "1-SOURCES/Audio/ཡན་ལག་བདུན་པ།/audio/ཡན་ལག་བདུན་པ།.m4a"
 accompaniment: false
 duration: "00:07:14.02"
 duration_seconds: 434.023
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 166697472
-sha256: 74fcbd8a394adb24a9b745d2e7d0843437cbd5185917425d48283d954d9e026c
+bit_rate_kbps: 128
+file_size_bytes: 7026553
+sha256: 4df907239a8922b73ac9ea8cc698454142cfe13a704409122e613551d5880dc6
+converted_from:
+  audio_file: "1-SOURCES/Audio/ཡན་ལག་བདུན་པ།/ཡན་ལག་བདུན་པ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3073
+  file_size_bytes: 166697472
+  sha256: 74fcbd8a394adb24a9b745d2e7d0843437cbd5185917425d48283d954d9e026c
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "05:30:55"
 scene: "110224-053055"
 license: cc-by
@@ -34,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/ཡན་ལག་བདུན�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `ཡན་ལག་བདུན་པ།.WAV` | 7:14.02 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `ཡན་ལག་བདུན་པ།.m4a` | 7:14.02 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

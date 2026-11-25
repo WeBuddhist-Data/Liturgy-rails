@@ -11,18 +11,26 @@ root_text_title: "དཔལ་ལྡན་ས་གསུམ་མ།"
 source_description: "Single recording of the recitation of The Glorious Three Realms: A Supplication to Je Tsongkhapa by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-14 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-14
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV"
+audio_file: "1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.m4a"
 accompaniment: false
 duration: "00:26:37.17"
 duration_seconds: 1597.173
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3072
-file_size_bytes: 613347328
-sha256: 8e6ae2d0c79a57ff85fb3c2f1bc2c63f5fa3621291cf2dc17f9e15b91cca7ee3
+bit_rate_kbps: 128
+file_size_bytes: 25855376
+sha256: e89783e33ba2eb811538c87c385a68b5130d0d5a75f9587047f480081dce1640
+converted_from:
+  audio_file: "1-SOURCES/Audio/དཔལ་ལྡན་ས་གསུམ་མ།/audio/དཔལ་ལྡན་ས་གསུམ་མ།.WAV"
+  format: "WAV (BWF)"
+  codec: "PCM 32-bit float little-endian"
+  bit_depth: 32
+  bit_rate_kbps: 3072
+  file_size_bytes: 613347328
+  sha256: 8e6ae2d0c79a57ff85fb3c2f1bc2c63f5fa3621291cf2dc17f9e15b91cca7ee3
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "16:21:31"
 scene: "140224-162131"
 license: cc-by
@@ -34,7 +42,7 @@ One recording of the root text [[1-SOURCES/Text/དཔལ་ལྡན་ས་�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `དཔལ་ལྡན་ས་གསུམ་མ།.WAV` | 26:37.17 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `དཔལ་ལྡན་ས་གསུམ་མ།.m4a` | 26:37.17 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 

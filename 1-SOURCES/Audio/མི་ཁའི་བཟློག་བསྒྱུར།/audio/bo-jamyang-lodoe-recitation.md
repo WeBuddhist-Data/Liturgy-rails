@@ -12,7 +12,7 @@ root_text_title: "མི་ཁའི་བཟློག་བསྒྱུར།"
 source_description: "Single recording of the recitation of Averting and Reversing Gossip by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/མི་ཁའི་བཟློག་བསྒྱུར།.m4a"
+audio_file: "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/audio/མི་ཁའི་བཟློག་བསྒྱུར།.m4a"
 accompaniment: false
 duration: "00:17:07.86"
 duration_seconds: 1027.865
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 16639701
-sha256: 4210cff4ea2d0dc27bc5b4fc05f154f4a91a10a974a22d815c506eb0bfed4f60
+sha256: 101b3c711c9cf54641a9009179338439caf243dca826adb646b5064d46478135
 converted_from:
   audio_file: "1-SOURCES/Audio/མི་ཁའི་བཟློག་བསྒྱུར།/མི་ཁའི་བཟློག་བསྒྱུར།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 394733056
   sha256: 96baac77c0b7ab445b707d255a59a0c4d8c8c94e557ca7837ec3103a0eca22ca
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "20:35:58"
 scene: "280124-203558"
 ---

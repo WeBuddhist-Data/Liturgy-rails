@@ -10,7 +10,7 @@ license: cc-by
 root_text: "[[1-SOURCES/Text/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།]]"
 root_text_title: "ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of A Prayer to Be Cared For Throughout All My Lives by Lobsang Yangzom."
-audio_file: "1-SOURCES/Audio/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།/audio/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:01:01.78"
 duration_seconds: 61.781

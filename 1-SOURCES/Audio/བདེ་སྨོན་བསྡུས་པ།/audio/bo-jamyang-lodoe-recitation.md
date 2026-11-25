@@ -12,7 +12,7 @@ root_text_title: "བདེ་སྨོན་བསྡུས་པ།།"
 source_description: "Single recording of the recitation of Brief Sukhāvatī Aspiration by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/བདེ་སྨོན་བསྡུས་པ།.m4a"
+audio_file: "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/audio/བདེ་སྨོན་བསྡུས་པ།.m4a"
 accompaniment: false
 duration: "00:01:13.70"
 duration_seconds: 73.701
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1194089
-sha256: 0c4164f714ab8a1336ebf14d8e1ef0e6520755d79cdc0de06082357cb424aed1
+sha256: c65428933ef9f60957da44a1450761d90526981ff82cde8a27805ef4593e3235
 converted_from:
   audio_file: "1-SOURCES/Audio/བདེ་སྨོན་བསྡུས་པ།/བདེ་སྨོན་བསྡུས་པ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3076
   file_size_bytes: 28334080
   sha256: 37afeb7239119e7ccc1f28829d07b30c2b5236de9efd92503609cfcb7feca5ca
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "04:25:06"
 scene: "010224-042506"
 ---

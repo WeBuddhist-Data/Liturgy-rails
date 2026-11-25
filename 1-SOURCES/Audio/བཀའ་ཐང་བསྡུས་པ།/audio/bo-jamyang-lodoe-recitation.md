@@ -12,7 +12,7 @@ root_text_title: "བཀའ་ཐང་བསྡུས་པ།"
 source_description: "Single recording of the recitation of The Abridged Chronicle by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-25 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-25
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བཀའ་ཐང་བསྡུས་པ།/བཀའ་ཐང་བསྡུས་པ།.m4a"
+audio_file: "1-SOURCES/Audio/བཀའ་ཐང་བསྡུས་པ།/audio/བཀའ་ཐང་བསྡུས་པ།.m4a"
 accompaniment: false
 duration: "00:22:27.22"
 duration_seconds: 1347.225
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 21809237
-sha256: a0087e4679dd44fdfc146341dd36462b809f4edda27ec3f85cc20f62e7537c4f
+sha256: bf69f270361596869b90f0fdbdeba5db8a6ebc21366ce546673b8e378831c6fc
 converted_from:
   audio_file: "1-SOURCES/Audio/བཀའ་ཐང་བསྡུས་པ།/བཀའ་ཐང་བསྡུས་པ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3072
   file_size_bytes: 517367296
   sha256: 97049e2cc87f3e35a35e762a78211b32e760938c4ec529c30c0b0ff98e961305
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:36:57"
 scene: "250124-193657"
 ---

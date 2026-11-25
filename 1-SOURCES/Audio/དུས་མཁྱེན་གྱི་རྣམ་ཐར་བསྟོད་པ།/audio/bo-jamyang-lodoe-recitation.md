@@ -12,7 +12,7 @@ root_text_title: "དུས་མཁྱེན་གྱི་རྣམ་ཐར�
 source_description: "Single recording of the recitation of Supplication to the Life of the First Karmapa, Dusum Khyenpa by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-25 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-25
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.m4a"
+audio_file: "1-SOURCES/Audio/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།/audio/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.m4a"
 accompaniment: false
 duration: "00:05:05.42"
 duration_seconds: 305.429
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 4945097
-sha256: 1d5e12cbcc30c22a7a0ba9ef511bbf6e8824937e5aa832f2edea14bf2155ca0c
+sha256: 36a5da16e47b126e5dee64bcadd9ea1c9e319614d842432b92bc40a312d3e11e
 converted_from:
   audio_file: "1-SOURCES/Audio/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།/དུས་མཁྱེན་གྱི་རྣམ་ཐར་བསྟོད་པ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 117317632
   sha256: 9b698e72b12245370840b2d9530f7d394ca55b15254ba4b6e09f5989ce147ec2
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:14:58"
 scene: "250124-191458"
 ---

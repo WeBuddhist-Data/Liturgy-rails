@@ -12,7 +12,7 @@ root_text_title: "བསྔོ་བ་དང་སྨོན་ལམ་བས�
 source_description: "Single recording of the recitation of A Concise Dedication and Aspiration by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-27 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-27
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ།/བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ།/audio/བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:04:06.26"
 duration_seconds: 246.26
@@ -22,7 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 3987551
-sha256: 79cf935525ca8c0fc32ef9837778109f484d477971834b92757cb2ae19f67f20
+sha256: dd62fe4a10be165cf02893b6f0327221734dd0cc6e08df9873e104f0939ffc2a
 converted_from:
   audio_file: "1-SOURCES/Audio/བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ།/བསྔོ་བ་དང་སྨོན་ལམ་བསྡུས་པ་བཞུགས་སོ།.WAV"
   format: "WAV (BWF)"
@@ -31,7 +31,7 @@ converted_from:
   bit_rate_kbps: 3073
   file_size_bytes: 94596608
   sha256: d4cfb32dc696994eebc302c570c27c4648d172a3aac9ed06826004ce2799f4fc
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "19:26:34"
 scene: "270124-192634"
 ---

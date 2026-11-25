@@ -10,11 +10,11 @@ license: cc-by
 root_text: "[[1-SOURCES/Text/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།]]"
 root_text_title: "དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of Praise of Sarasvatī by Lobsang Yangzom."
-audio_file: "1-SOURCES/Audio/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།.mp4"
+audio_file: "1-SOURCES/Audio/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།/audio/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:00:33.34"
 duration_seconds: 33.344
-format: "MP4 (AAC, audio only)"
+format: "M4A (AAC)"
 codec: "AAC"
 sample_rate_hz: 44100
 channels: 2
@@ -34,11 +34,11 @@ Uploaded to **testing** (testing.library.webuddhist.com) on 2026-11-23, not to p
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།.mp4` | 0:33.34 | MP4 / AAC, 44100 Hz, stereo |
+| Recitation | `དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།.m4a` | 0:33.34 | M4A / AAC, 44100 Hz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།/audio/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།.mp4]]
+![[1-SOURCES/Audio/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།/audio/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།.m4a]]
 
 ## Mapping
 
