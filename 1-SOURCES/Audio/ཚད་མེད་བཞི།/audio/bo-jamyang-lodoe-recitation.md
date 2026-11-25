@@ -12,7 +12,7 @@ root_text_title: "ཚད་མེད་བཞི།"
 source_description: "Single recording of the recitation of The Four Immeasurables by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ཚད་མེད་བཞི།/ཚད་མེད་བཞི།.m4a"
+audio_file: "1-SOURCES/Audio/ཚད་མེད་བཞི།/audio/ཚད་མེད་བཞི།.m4a"
 accompaniment: false
 duration: "00:00:40.81"
 duration_seconds: 40.812
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 661714
-sha256: 74fce19e3ea745fc511f0579afc0723c920ace838b4ad9f8f96e6b8398de4661
-converted_from:
-  audio_file: "1-SOURCES/Audio/ཚད་མེད་བཞི།/ཚད་མེད་བཞི།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3078
-  file_size_bytes: 15704576
-  sha256: 8d8f5584e67f5cbaae35bece587320f4db51ba5b7ed5ad9183366735bb6d4106
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 40aaec19e48496975b63d666201c9d0569c44ef4d438c46bcbed091302790573
 recording_time: "20:55:58"
 scene: "280124-205558"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/ཚད་མེད་བཞི�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཚད་མེད་བཞི།/audio/ཚད་མེད་བཞི།.WAV]]
+![[1-SOURCES/Audio/ཚད་མེད་བཞི།/audio/ཚད་མེད་བཞི།.m4a]]
 
 ## Mapping
 

@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 5
 blocks_total: 5
 status: draft
+toc_id: PFIWeioAVxZ6RWnm8ObOP
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -50,7 +51,7 @@ Emaho!
 Wondrous Buddha Amitābha,
 To the right, the Lord of Great Compassion,
 And to the left, the Bodhisattva of Great Might,
-Surrounded by an assembly of countless Buddhas and Bodhisattvas. ^1
+Surrounded by an assembly of countless Buddhas and Bodhisattvas. ^0-1
 
 > བདེ་སྐྱིད་ངོ་མཚར་དཔག་ཏུ་མེད་པ་ཡི༔
 > བདེ་བ་ཅན་ཞེས་བྱ་བའི་ཞིང་ཁམས་དེར༔
@@ -60,7 +61,7 @@ Surrounded by an assembly of countless Buddhas and Bodhisattvas. ^1
 In that realm known as Sukhāvatī,
 A land of immeasurable, wondrous bliss and happiness,
 As soon as I and others pass away from this life,
-Without being interrupted by any other birth, ^2
+Without being interrupted by any other birth, ^0-2
 
 > དེ་རུ་སྐྱེས་ནས་སྣང་མཐའི་ཞལ་མཐོང་ཤོག༔
 > དེ་སྐད་བདག་གིས་སྨོན་ལམ་བཏབ་པ་འདི༔
@@ -70,12 +71,12 @@ Without being interrupted by any other birth, ^2
 May I be born there and behold the face of Amitābha!
 This aspiration prayer that I have offered in this way—
 May all the Buddhas and Bodhisattvas of the ten directions
-Grant their blessings so that this may be accomplished without hindrance. ^3
+Grant their blessings so that this may be accomplished without hindrance. ^0-3
 
 > ཏདྱ་ཐཱ༔ པཉྩ་དྲི་ཡ་ཨ་ཝ་བོ་དྷ་ནི་སྭཱ་ཧཱ།
 
-Tadyathā pañcendriyāvabodhani svāhā. ^4
+Tadyathā pañcendriyāvabodhani svāhā. ^0-4
 
 > ཞེས་པ་འདི་ནི་སྤྲུལ་སྐུ་མི་འགྱུར་རྡོ་རྗེ་དགུང་ལོ་བཅུ་གསུམ་གསེར་འཕྱང་གི་ལོ་ས་ག་ཟླ་བའི་ཚེས་བདུན་ལ་གཙོ་འཁོར་རྣམས་ཀྱིས་ཞལ་གཟིགས་པའི་ཚེ་སངས་རྒྱས་སྣང་བ་མཐའ་ཡས་ཀྱིས་དངོས་སུ་གསུངས་པའོ། །
 
-This was spoken directly by the Buddha Amitābha when the Tulku Mingyur Dorje, at the age of thirteen, in the Fire Bird year, on the seventh day of the Saga Dawa month, had a vision of the central deity and his retinue. ^5
+This was spoken directly by the Buddha Amitābha when the Tulku Mingyur Dorje, at the age of thirteen, in the Fire Bird year, on the seventh day of the Saga Dawa month, had a vision of the central deity and his retinue. ^1-1

@@ -31,6 +31,7 @@ generated: 2026-08-28
 blocks_translated: 11
 blocks_total: 11
 status: draft
+toc_id: gynKFFjf4VJtuSwhFNP1Y
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -146,4 +147,4 @@ status: draft
 
 > ཞེས་པའི་བསྟོད་པ་བྱིན་འདི་འདོན་ཐུབ་ན་བྱིན་རླབས་ཀྱི་ཚན་ཁ་གཞན་དང་མི་འདྲ་བར་གསུངས།
 
-据云，若能持诵此赞颂，其加持之威力与众不同。 ^11
+<small>据云，若能持诵此赞颂，其加持之威力与众不同。</small> ^11

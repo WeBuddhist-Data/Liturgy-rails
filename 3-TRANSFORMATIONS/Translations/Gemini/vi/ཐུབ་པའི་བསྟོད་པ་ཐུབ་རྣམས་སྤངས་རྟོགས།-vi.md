@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 18
 blocks_total: 18
 status: draft
+toc_id: zDbLx0fiZN4aWnFuJPZGp
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -56,7 +57,7 @@ Swasti Siddham!
 Dẫu chư Phật đồng đẳng công đức đoạn trừ và chứng ngộ,
 Nhưng với tâm dũng mãnh đại bi thương xót chúng sinh khó điều phục,
 Ngài là bậc được chư Phật mười phương đồng thanh tán thán,
-Đầu thành đảnh lễ Thế Tôn Thích Ca Sư Tử. ^1
+Đầu thành đảnh lễ Thế Tôn Thích Ca Sư Tử. ^0-1
 
 > བདེ་གཤེགས་ཀྱིས་བསྐུལ་ཅོད་པན་མ་ཕམ་དབུར། །
 > བཅིངས་ཏེ་གཟིགས་པ་ལྔ་ཡིས་འཛམ་གླིང་འགྲོ། །
@@ -66,7 +67,7 @@ Ngài là bậc được chư Phật mười phương đồng thanh tán thán,
 Được chư Thiện Thệ thỉnh cầu, Ngài trao bảo quan lên đỉnh đầu Di Lặc,
 Buộc vương miện và dùng năm quán sát hướng về chúng sinh cõi Diêm Phù Đề,
 Để dẫn dắt họ vào chính đạo, từ cung trời Đâu Suất,
-Bồ-tát Togkar giáng trần, con xin kính đảnh lễ. ^2
+Bồ-tát Togkar giáng trần, con xin kính đảnh lễ. ^0-2
 
 > ས་ག་ཟླ་བའི་ཡར་ཚེས་བཅོ་ལྔའི་མཚན། །
 > སྒྱུ་འཕྲུལ་ལྷ་མོ་གསོ་སྦྱོང་ལ་གནས་དུས། །
@@ -76,7 +77,7 @@ Bồ-tát Togkar giáng trần, con xin kính đảnh lễ. ^2
 Vào đêm rằm trăng sáng tháng Saga,
 Khi hoàng hậu Gyutrul Lhamo đang giữ gìn tịnh giới,
 Ngài hiện thân voi trắng sáu ngà,
-Giáng thần vào thai mẹ, con xin kính đảnh lễ. ^3
+Giáng thần vào thai mẹ, con xin kính đảnh lễ. ^0-3
 
 > དབོ་ཟླའི་ཚེས་བཅུར་གློ་གཡས་ནས་བལྟམ་ཚེ། །
 > ངོ་མཚར་ལྟས་བཟང་ལྷ་ཀླུས་སྲི་ཞུ་མཛད། །
@@ -86,7 +87,7 @@ Giáng thần vào thai mẹ, con xin kính đảnh lễ. ^3
 Ngày mùng mười tháng Dwo, đản sinh từ sườn phải,
 Với điềm lành vi diệu, chư thiên và long vương cúng dường,
 Tuyên thuyết đây là kiếp chót, bằng năng lực an vui của chúng hữu tình,
-Được ban danh hiệu Don Kun Drub, con xin kính đảnh lễ. ^4
+Được ban danh hiệu Don Kun Drub, con xin kính đảnh lễ. ^0-4
 
 > ཡི་གེ་རྐྱལ་དང་གླང་ཆེན་འདུལ་ལ་སོགས། །
 > དྲུག་ཅུ་རྩ་བཞི་ལས་བརྒལ་རྒྱུ་རྩལ་གྱིས། །
@@ -96,7 +97,7 @@ Tuyên thuyết đây là kiếp chót, bằng năng lực an vui của chúng h
 Văn tự, bơi lội, điều phục voi dữ cùng bao môn khác,
 Với tài năng xuất chúng vượt xa sáu mươi tư nghệ thuật,
 Ngay từ thời niên thiếu, trước những kẻ cậy sức kiêu căng,
-Ngài nhiếp phục mọi tâm ngạo mạn, con xin kính đảnh lễ. ^5
+Ngài nhiếp phục mọi tâm ngạo mạn, con xin kính đảnh lễ. ^0-5
 
 > རང་ལོ་ཉེར་དགུའི་བར་དུ་རྒྱལ་པོའི་སྲིད། །
 > བསྐྱངས་ཚེ་འཇིག་རྟེན་མཐུན་དང་ལོག་རྟོག་རྣམས། །
@@ -106,7 +107,7 @@ Ngài nhiếp phục mọi tâm ngạo mạn, con xin kính đảnh lễ. ^5
 Cho đến năm hai mươi chín tuổi, khi trị vì vương quốc,
 Để thuận theo thế gian và tịnh trừ mọi tà kiến,
 Cùng với Sa Tsho và Drak Dzin làm đại diện,
-Ngài nạp thọ các cung phi, con xin kính đảnh lễ. ^6
+Ngài nạp thọ các cung phi, con xin kính đảnh lễ. ^0-6
 
 > རྒྱལ་གསུང་སིལ་སྙན་སྒྲར་དྲངས་ཉེར་བསྐུལ་ཞིང་། །
 > རྒ་ན་འཆི་དང་དགེ་སློང་གཟིགས་རྐྱེན་གྱིས། །
@@ -116,7 +117,7 @@ Ngài nạp thọ các cung phi, con xin kính đảnh lễ. ^6
 Được thanh âm kèn trống dẫn truyền lời chư Phật thỉnh cầu,
 Cùng nhân duyên chứng kiến cảnh già, bệnh, chết và vị sa-môn,
 Ngài xuất gia trước bảo tháp Namdak,
-Được Đế Thích dâng y vàng, con xin kính đảnh lễ. ^7
+Được Đế Thích dâng y vàng, con xin kính đảnh lễ. ^0-7
 
 > ནཻ་ར་ཉྫ་ནར་མཁའ་ཁྱབ་ཏིང་འཛིན་ལ། །
 > ལོ་དྲུག་དཀའ་བ་སྤྱད་ཚེ་ཟས་གཙང་སོགས། །
@@ -126,7 +127,7 @@ Ngài xuất gia trước bảo tháp Namdak,
 Bên dòng Nairanjana, trong thiền định bao trùm hư không,
 Ngài tu khổ hạnh sáu năm, nhờ Ze Tsang cùng đồ chúng
 An ủi, và bằng năng lực của sữa ngon do Legkye cúng dường,
-Thân vàng trẻ trung sung mãn trở lại, con xin kính đảnh lễ. ^8
+Thân vàng trẻ trung sung mãn trở lại, con xin kính đảnh lễ. ^0-8
 
 > སྐྱིལ་ཀྲུང་གཅིག་ལ་བྱང་ཆུབ་མཆོག་བརྙེས་ཕྱིར། །
 > རྡོ་རྗེ་གདན་ལ་རྩཱ་ཚོང་བཀྲ་ཤིས་ལས། །
@@ -136,7 +137,7 @@ Thân vàng trẻ trung sung mãn trở lại, con xin kính đảnh lễ. ^8
 Để đạt Vô thượng Bồ-đề trong tư thế kiết già,
 Tại Bồ-đề Đạo Tràng, từ người bán cỏ Tashi,
 Nhận lấy bó cỏ kusha trải ra làm toạ cụ,
-Ngài phát nguyện kiên cố bất động, con xin kính đảnh lễ. ^9
+Ngài phát nguyện kiên cố bất động, con xin kính đảnh lễ. ^0-9
 
 > བདུད་སྡེའི་མཚོན་ཆར་མཛེས་མའི་སླུ་བྲིད་ཀྱིས། །
 > མ་ཚུགས་གྲངས་མེད་མཆོད་སྦྱིན་དཔང་པོ་རུ། །
@@ -146,7 +147,7 @@ Ngài phát nguyện kiên cố bất động, con xin kính đảnh lễ. ^9
 Trước cơn mưa binh khí ma quân và huyễn hoặc của ma nữ,
 Ngài bất động, lấy vô lượng công đức bố thí làm nhân chứng,
 Khiến Địa Thiên chắp tay chứng minh, chư thiên cõi dục
-Vui mừng cất lời tán thán, con xin kính đảnh lễ. ^10
+Vui mừng cất lời tán thán, con xin kính đảnh lễ. ^0-10
 
 > སུམ་ཅུ་རྩ་ལྔའི་དགུང་ལོར་ཉེར་བབས་ནས། །
 > ས་ག་ཟླ་བའི་བཅོ་ལྔའི་ཐུན་དྲུག་གི །
@@ -156,7 +157,7 @@ Vui mừng cất lời tán thán, con xin kính đảnh lễ. ^10
 Khi bước vào độ tuổi ba mươi lăm,
 Vào ngày rằm tháng Saga, canh sáu cuối đêm,
 Ngài thọ nhận tinh tuý cam lồ Vô thượng Bồ-đề,
-Lấp đầy tâm vinh quang, con xin kính đảnh lễ. ^11
+Lấp đầy tâm vinh quang, con xin kính đảnh lễ. ^0-11
 
 > བདུན་ཕྲག་བདུན་མཐར་བཀྲ་ཤིས་ཚིགས་བཅད་གསུངས། །
 > ཚངས་དབང་གིས་བསྐུལ་ཝ་ར་ནཱ་སི་རུ། །
@@ -166,7 +167,7 @@ Lấp đầy tâm vinh quang, con xin kính đảnh lễ. ^11
 Cuối bảy tuần thất, Ngài tuyên thuyết kệ ngôn cát tường,
 Nhờ Phạm Thiên thỉnh cầu, tại thành Varanasi,
 Vào mùng bốn tháng Chu-to, về Tứ Diệu Đế,
-Ngài chuyển bánh xe Chánh Pháp, con xin kính đảnh lễ. ^12
+Ngài chuyển bánh xe Chánh Pháp, con xin kính đảnh lễ. ^0-12
 
 > བརྒྱད་ཅུའི་ལོ་ལ་སླེབས་པའི་དཔྱིད་ཐ་ཡི། །
 > བཅོ་ལྔའི་ཚེས་གྱི་ནང་པར་དེ་བཞིན་གཤེགས། །
@@ -176,7 +177,7 @@ Ngài chuyển bánh xe Chánh Pháp, con xin kính đảnh lễ. ^12
 Khi thọ lượng đạt tám mươi tuổi, vào cuối mùa xuân,
 Buổi sáng ngày rằm, đức Như Lai,
 Thị hiện không còn trụ ở cõi thế gian này,
-Thị tịch nhập Niết-bàn, con xin kính đảnh lễ. ^13
+Thị tịch nhập Niết-bàn, con xin kính đảnh lễ. ^0-13
 
 > ཐུན་མོང་གདུལ་བྱར་བསྟན་ཀྱང་ངེས་པའི་དོན། །
 > སྐྱེ་འཆི་སྤངས་པའི་སྐུ་ལ་ཕྱག་འཚལ་ལོ། །
@@ -186,7 +187,7 @@ Thị tịch nhập Niết-bàn, con xin kính đảnh lễ. ^13
 Dẫu thị hiện cho người cần điều phục, nhưng trong liễu nghĩa,
 Thân Ngài đã siêu việt sinh tử, con xin kính đảnh lễ.
 Mở toang cánh cửa kho tàng hư không vô tận,
-Con dâng cúng dường thực bày và tâm hóa hiện không dứt. ^14
+Con dâng cúng dường thực bày và tâm hóa hiện không dứt. ^0-14
 
 > ཐོག་མེད་བསགས་པའི་སྡིག་ལྟུང་མ་ལུས་པ། །
 > གཉེན་པོ་སྟོབས་བཞིའི་སྒོ་ནས་བཤགས་པར་བགྱི། །
@@ -196,7 +197,7 @@ Con dâng cúng dường thực bày và tâm hóa hiện không dứt. ^14
 Mọi ác nghiệp và đọa lỗi tích lũy từ vô thủy,
 Con xin sám hối nhờ Tứ Lực đối trị.
 Đối với muôn thiện căn do tự tha cùng tích tập,
-Bằng tâm chí thành, con luôn luôn tuỳ hỷ. ^15
+Bằng tâm chí thành, con luôn luôn tuỳ hỷ. ^0-15
 
 > རྒྱལ་སྲས་སློབ་མར་བཅས་པ་འཁོར་བའི་མཐའ། །
 > སྟོངས་མིན་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བར་བསྐུལ། །
@@ -206,7 +207,7 @@ Bằng tâm chí thành, con luôn luôn tuỳ hỷ. ^15
 Cùng chư Bồ tát và đệ tử, cho đến khi luân hồi
 Trống rỗng, con xin thỉnh cầu Ngài chuyển bánh xe Chánh Pháp.
 Chừng nào mọi chúng sinh chưa an trú trên đạo lộ giải thoát,
-Xin sắc thân Ngài đừng nhập Niết-bàn mà kiên cố trụ thế. ^16
+Xin sắc thân Ngài đừng nhập Niết-bàn mà kiên cố trụ thế. ^0-16
 
 > ཉེར་བསགས་བསོད་ནམས་ཕུང་པོ་སྐྱེ་དགུ་རྣམས། །
 > རྣམ་མཁྱེན་ཡེ་ཤེས་འཐོབ་པའི་རྒྱུ་རུ་བསྔོ། །
@@ -216,8 +217,8 @@ Xin sắc thân Ngài đừng nhập Niết-bàn mà kiên cố trụ thế. ^16
 Khối công đức đã tích lũy này, nguyện cho tất cả chúng sinh,
 Con xin hồi hướng làm nhân để chứng đắc Trí tuệ Toàn tri.
 Nguyện quả lành của các thiện pháp này, khắp các cõi thế gian,
-Đều được bao trùm bởi sự cát tường và an lạc lớn lao! ^17
+Đều được bao trùm bởi sự cát tường và an lạc lớn lao! ^0-17
 
 > འོ་སྐོལ་གྱི་སྟོན་པ་ལྷ་དང་བཅས་པའི་མ་འདྲིས་པའི་མཛའ་བཤེས་ཆེན་པོ་ཉི་མའི་གཉེན་གྱི་མཛད་པ་བཅུ་གཉིས་ལས་བརྩམས་པའི་བསྟོད་པ་མཆོག་དམན་ཀུན་གྱིས་གོ་བདེ་ཕྱིར་སྙན་ངག་གི་ལམ་ནས་མ་དྲངས་ཤིང་བརྡ་དང་མངོན་བརྗོད་ཀྱིས་མ་བཅིངས་པ་ཞིག་དགོས་ཞེས་གྲོང་སྨད་པ་སངས་རྒྱས་རྒྱ་མཚོས་བསྐུལ་བ་ལ་བརྟེན་ནས་ཀླུ་སྒྲུབ་ཀྱི་གསུང་དུ་གྲགས་པའི་སྟེང་རྙེད་དོན་ལ་གནས་ཚེ་དགོངས་པ་འགྲེལ་རྒྱུ་ཁྱད་པར་ཅན་ཡོད་པ་ལས་འོས་མ་མཆིས་མོད། གལ་ཏེ་འབྲི་གུང་སྐྱོབ་པས་མཛད་པ་ལྟ་བུ་མིང་བཏགས་ཀྱིས་འདྲེས་ན་དོན་གྱི་ཆར་སོམ་ཉི་འགའ་ཞིག་སྣང་ཞིང་། །ཐམས་ཅད་མཁྱེན་པ་དགེ་འདུན་རྒྱ་མཚོའི་ཐུགས་རྩོམ་དེ་ཚིག་སྦྱོར་ལེགས་ཀྱང་གོ་དཀའ་ལ་མཛད་པ་གཅིག་ལ་ཚིགས་བཅད་གཉིས་ཙམ་ཡོད་པའི་ཅུང་མི་གསལ་བ་ནས་འདུལ་བའི་རྣམ་བཤད་འཁྲུལ་པ་དང་བྲལ་བ་ལུང་རིགས་གཏེར་མཛོད་ཀྱི་དགོངས་དོན་སོར་བཞག་པའི་བསྟོད་པ་ལེགས་བྱས་ཡོངས་འདུའི་སྙེ་མ་ཞེས་བྱ་བ་འདི་ནི་ཟ་ཧོར་གྱི་བནྡེ་ངག་དབང་བློ་བཟང་རྒྱ་མཚོས་མེ་སྦྲུལ་ཧོར་ཟླ་ལྔ་པའི་ཡར་ངོའི་དགའ་བ་གཉིས་པར་ཕོ་བྲང་པོ་ཏ་ལར་སྦྱར་བའི་ཡི་གེ་པ་ཡང་བསྐུལ་བ་པོ་ཉིད་ཀྱིས་བགྱིས་པ་ཛ་ཡནྟུ། །
 
-Nhằm giúp mọi căn cơ thấu hiểu bài tán thán mười hai thiện hạnh của Bậc Đạo sư chúng ta - người bạn lớn không thỉnh mà đến của chư thiên và nhân loại, Thái Dương Thân Hữu - Drongmepa Sangye Gyatso đã thỉnh cầu: "Cần một tác phẩm không mượn lối thi ca, không bị ràng buộc bởi những thuật ngữ hay ẩn dụ". Mặc dù không gì thích hợp hơn việc sử dụng tác phẩm được cho là của ngài Long Thọ và đưa ra giải thích đặc thù bám sát ý nghĩa cốt tủy; tuy nhiên, nếu bị pha trộn các danh hiệu như trong tác phẩm của ngài Drikung Kyobpa, thì sẽ nảy sinh một vài nghi ngờ về ý nghĩa. Mặt khác, sáng tác của Đấng Toàn tri Gendun Gyatso dẫu ngôn từ hoa mỹ nhưng lại khó hiểu, và mỗi thiện hạnh dùng đến hai đoạn kệ nên có phần không rõ ràng. Bởi vậy, bài tán thán mang tên "Nhành Hoa Viên Mãn Của Những Việc Khéo Lành" này - giữ trọn ý nghĩa kho tàng Kinh giáo và Luận lý, thoát khỏi mọi sai lệch trong các luận giải về Luật tạng - đã được tu sĩ vùng Zahor là Ngawang Lobsang Gyatso trước tác tại cung điện Potala vào ngày Hỷ lạc thứ hai của tuần trăng khuyết, tháng năm lịch Hor, năm Đinh Tỵ. Người chép bản thảo này cũng chính là vị đã thỉnh cầu. Jayantu! ^18
+Nhằm giúp mọi căn cơ thấu hiểu bài tán thán mười hai thiện hạnh của Bậc Đạo sư chúng ta - người bạn lớn không thỉnh mà đến của chư thiên và nhân loại, Thái Dương Thân Hữu - Drongmepa Sangye Gyatso đã thỉnh cầu: "Cần một tác phẩm không mượn lối thi ca, không bị ràng buộc bởi những thuật ngữ hay ẩn dụ". Mặc dù không gì thích hợp hơn việc sử dụng tác phẩm được cho là của ngài Long Thọ và đưa ra giải thích đặc thù bám sát ý nghĩa cốt tủy; tuy nhiên, nếu bị pha trộn các danh hiệu như trong tác phẩm của ngài Drikung Kyobpa, thì sẽ nảy sinh một vài nghi ngờ về ý nghĩa. Mặt khác, sáng tác của Đấng Toàn tri Gendun Gyatso dẫu ngôn từ hoa mỹ nhưng lại khó hiểu, và mỗi thiện hạnh dùng đến hai đoạn kệ nên có phần không rõ ràng. Bởi vậy, bài tán thán mang tên "Nhành Hoa Viên Mãn Của Những Việc Khéo Lành" này - giữ trọn ý nghĩa kho tàng Kinh giáo và Luận lý, thoát khỏi mọi sai lệch trong các luận giải về Luật tạng - đã được tu sĩ vùng Zahor là Ngawang Lobsang Gyatso trước tác tại cung điện Potala vào ngày Hỷ lạc thứ hai của tuần trăng khuyết, tháng năm lịch Hor, năm Đinh Tỵ. Người chép bản thảo này cũng chính là vị đã thỉnh cầu. Jayantu! ^1-1-1

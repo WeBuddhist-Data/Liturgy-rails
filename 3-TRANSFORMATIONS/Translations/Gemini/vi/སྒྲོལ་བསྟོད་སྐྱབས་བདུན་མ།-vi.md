@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: VrFBJAGKSt6VvXTiTszgA
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Nơi Pháp giới vô sinh,
 Đức Từ Mẫu Chí Tôn Độ Mẫu an ngự,
 Bậc ban an lạc cho mọi chúng sinh,
-Xin che chở con khỏi mọi nỗi sợ hãi. ^1
+Xin che chở con khỏi mọi nỗi sợ hãi. ^0-1
 
 > རང་ཆོས་སྐུ་ཡིན་པར་མ་ཤེས་པར། །
 > སེམས་ཉོན་མོངས་དབང་དུ་གྱུར་པ་ཡི། །
@@ -64,7 +65,7 @@ Xin che chở con khỏi mọi nỗi sợ hãi. ^1
 Chẳng biết tự tính vốn là Pháp thân,
 Tâm thức lại bị phiền não chi phối,
 Chúng sinh mẹ lang thang trong luân hồi,
-Cúi xin Thánh Mẫu rủ lòng chở che. ^2
+Cúi xin Thánh Mẫu rủ lòng chở che. ^0-2
 
 > ཆོས་སྙིང་ནས་རྒྱུད་ལ་མ་སྐྱེས་པར། །
 > ཐ་སྙད་ཚིག་གི་རྗེས་འབྲངས་ནས། །
@@ -74,7 +75,7 @@ Cúi xin Thánh Mẫu rủ lòng chở che. ^2
 Pháp chưa chân thực sinh khởi trong tâm,
 Mà chỉ chạy theo ngôn từ giả lập,
 Bị những triết lý tà vạy lừa phỉnh,
-Cúi xin Thánh Mẫu chân thực chở che. ^3
+Cúi xin Thánh Mẫu chân thực chở che. ^0-3
 
 > རྟོགས་པར་དཀའ་བ་རང་གི་སེམས། །
 > མཐོང་ནས་གོམས་པར་མི་བྱེད་པར། །
@@ -84,7 +85,7 @@ Cúi xin Thánh Mẫu chân thực chở che. ^3
 Tâm của chính mình thật khó tỏ ngộ,
 Dù đã thấy nhưng chẳng chịu huân tu,
 Lại bị ác nghiệp làm cho tán loạn,
-Cúi xin Thánh Mẫu chánh niệm chở che. ^4
+Cúi xin Thánh Mẫu chánh niệm chở che. ^0-4
 
 > སེམས་རང་བྱུང་གཉིས་མེད་ཡེ་ཤེས་ལ། །
 > གཉིས་སུ་འཛིན་པའི་བག་ཆགས་ཀྱིས། །
@@ -94,7 +95,7 @@ Cúi xin Thánh Mẫu chánh niệm chở che. ^4
 Tâm vốn trí tuệ vô nhị tự sinh,
 Do bởi tập khí bám chấp nhị nguyên,
 Dẫu làm gì cũng vẫn bị trói buộc,
-Cúi xin Thánh Mẫu vô nhị chở che. ^5
+Cúi xin Thánh Mẫu vô nhị chở che. ^0-5
 
 > ཡང་དག་གི་དོན་ལ་གནས་བྱས་ཀྱང༌། །
 > རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་མི་ཤེས་པས། །
@@ -104,7 +105,7 @@ Cúi xin Thánh Mẫu vô nhị chở che. ^5
 Dù đã an trú trong nghĩa chân thực,
 Chẳng hiểu lý duyên khởi của nhân quả,
 Nên u mê trước những điều cần biết,
-Cúi xin Thánh Mẫu toàn tri chở che. ^6
+Cúi xin Thánh Mẫu toàn tri chở che. ^0-6
 
 > སྤྲོས་བྲལ་ནམ་མཁའི་མཚན་ཉིད་ཅན། །
 > ཐམས་ཅད་དེ་དང་དབྱེར་མེད་ཀྱིས། །
@@ -114,8 +115,8 @@ Cúi xin Thánh Mẫu toàn tri chở che. ^6
 Bản tính hư không vượt ngoài hý luận,
 Vạn pháp thảy đều bất phân với đó,
 Đối với những hành giả còn tu học,
-Cúi xin Phật Mẫu viên giác chở che. ^7
+Cúi xin Phật Mẫu viên giác chở che. ^0-7
 
 > ཞེས་པ་ཨེ་ཆུང་ཕུག་ཏུ་ཁམས་གསུམ་ཆོས་ཀྱི་རྒྱལ་པོ་རྒྱལ་བ་འབྲི་གུང་པ་སྐྱོབ་པ་རྗེ་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོས་འཕགས་མ་སྒྲོལ་མ་བདུན་ཞལ་གཟིགས་དུས་གསོལ་བ་བཏབ་པ་སྐྱབས་བདུན་མར་གྲགས་པ་བྱིན་རླབས་ཤིན་ཏུ་ཆེ་བར་གྲགས་སོ།། །།
 
-Lời cầu nguyện này được Đức Pháp Vương ba cõi, Đấng Chiến Thắng Drikungpa Kyobpa Jigten Sumgön xướng lên tại hang Echung khi Ngài linh kiến bảy tôn nhan Đức Thánh Độ Mẫu; bản văn này được biết đến với tên gọi Bảy Lời Khẩn Cầu Che Chở và nổi tiếng là mang năng lực gia trì vô cùng to lớn. ^8
+Lời cầu nguyện này được Đức Pháp Vương ba cõi, Đấng Chiến Thắng Drikungpa Kyobpa Jigten Sumgön xướng lên tại hang Echung khi Ngài linh kiến bảy tôn nhan Đức Thánh Độ Mẫu; bản văn này được biết đến với tên gọi Bảy Lời Khẩn Cầu Che Chở và nổi tiếng là mang năng lực gia trì vô cùng to lớn. ^1-1-1

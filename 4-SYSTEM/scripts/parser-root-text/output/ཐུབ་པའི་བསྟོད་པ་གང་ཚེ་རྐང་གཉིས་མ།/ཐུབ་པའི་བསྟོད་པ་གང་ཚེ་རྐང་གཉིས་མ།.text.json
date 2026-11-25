@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XLC18DEFA2330E",
+  "title": {
+    "bo": "ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Short Praise of the Buddha's Deeds"
+    },
+    {
+      "zh": "佛陀十二事業讚"
+    },
+    {
+      "hi": "बुद्ध की लीलाओं की संक्षिप्त स्तुति"
+    },
+    {
+      "ne": "बुद्धका कार्यहरूको संक्षिप्त स्तुति"
+    },
+    {
+      "mn": "Бурхан багшийн хураангуй магтаал"
+    },
+    {
+      "vi": "Lời Tán Thán Tóm Lược 12 Hạnh Nguyện Đức Phật"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P7588"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

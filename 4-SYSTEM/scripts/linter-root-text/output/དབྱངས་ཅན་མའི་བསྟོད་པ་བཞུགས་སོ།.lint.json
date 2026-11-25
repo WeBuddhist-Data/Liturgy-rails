@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:28.283031+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL965A69E947F7",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དབྱངས་ཅན་མའི་བསྟོད་པ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Praise of Sarasvatī"
+      },
+      {
+        "zh": "妙音天女讚"
+      },
+      {
+        "hi": "सरस्वती स्तुति"
+      },
+      {
+        "ne": "सरस्वती स्तुति"
+      },
+      {
+        "mn": "Янжинлхамын магтаал"
+      },
+      {
+        "vi": "Xưng Tán Diệu Âm Thiên Nữ"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P64"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

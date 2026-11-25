@@ -28,9 +28,10 @@ batching: <=5 blocks/call, <=900 src chars, <=6000 payload chars
 style_instruction: "Translate this Tibetan liturgical text line by line into modern standard Chinese: render each Tibetan line as one line of Chinese, in the same order, and keep the same number of lines as the source. Use the established Chinese Buddhist vocabulary of the Tibetan tradition where one exists. Devotional but clear register. Keep mantra syllables in transliteration, and render proper names with their conventional Chinese forms where established, otherwise transliterate. Do not add commentary, notes, or explanation."
 rails_used: none
 generated: 2026-08-28
-blocks_translated: 24
-blocks_total: 24
+blocks_translated: 25
+blocks_total: 25
 status: draft
+toc_id: Tdt4EWBPGnnf9ObGc9GtL
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -514,8 +515,6 @@ status: draft
 > ནང་གི་བར་ཆད་ནང་དུ་སོལ༔
 > གསང་བའི་བར་ཆད་དབྱིངས་སུ་སོལ༔
 > གུས་པས་ཕྱག་འཚལ་སྐྱབས་སུ་མཆི༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
 
 祈以大悲加持于我，
 祈以慈爱引导我等趣向解脱道，
@@ -524,6 +523,10 @@ status: draft
 遣除外在障碍于外，
 遣除内在障碍于内，
 遣除秘密障碍于法界之中，
-我以恭敬心顶礼并皈依。
+我以恭敬心顶礼并皈依。 ^24
+
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
+
 嗡 阿 吽 班扎 咕噜 贝玛 悉地 吽
-嗡 阿 吽 班扎 咕噜 贝玛 托创匝 班扎 萨玛雅 扎 悉地 帕拉 吽 阿 ^24
+嗡 阿 吽 班扎 咕噜 贝玛 托创匝 班扎 萨玛雅 扎 悉地 帕拉 吽 阿 ^25

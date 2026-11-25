@@ -12,7 +12,7 @@ root_text_title: "བློ་སྦྱོང་ཚིག་བརྒྱད་�
 source_description: "Single recording of the recitation of Eight Verses of Training the Mind by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-27 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-27
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།.m4a"
+audio_file: "1-SOURCES/Audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།/audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།.m4a"
 accompaniment: false
 duration: "00:02:28.94"
 duration_seconds: 148.945
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 2412082
-sha256: 1018809db7913c0ca8c2a9425941c1efb7e4bb7867f26d45839061d95911e780
-converted_from:
-  audio_file: "1-SOURCES/Audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3074
-  file_size_bytes: 57227776
-  sha256: 71f436cdcc13d31a74e92509c8af34a5272bb140828b5ed276d6476ae676ac1b
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: eb8b3c61c703b6cb8b23de3b639ca89ef485c8f73b14da3d8fc68ccb5d20638c
 recording_time: "19:31:25"
 scene: "270124-193125"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/བློ་སྦྱོང་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།/audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།.WAV]]
+![[1-SOURCES/Audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།/audio/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།.m4a]]
 
 ## Mapping
 

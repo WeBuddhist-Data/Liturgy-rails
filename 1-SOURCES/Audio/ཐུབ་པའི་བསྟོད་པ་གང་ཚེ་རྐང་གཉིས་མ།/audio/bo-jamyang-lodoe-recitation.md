@@ -25,16 +25,7 @@ recordings:
     channels: 2
     bit_rate_kbps: 128
     file_size_bytes: 2094740
-    sha256: a6fe270b735525153a67714b72d1de519377f0783a99f6a5f6e93dfd0ce3c8f8
-    converted_from:
-      file: 1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།/audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།.WAV
-      format: WAV (BWF)
-      codec: PCM 32-bit float little-endian
-      bit_depth: 32
-      bit_rate_kbps: 3072
-      file_size_bytes: 49698304
-      sha256: f2404d7494518297e8efb40b58630a4d09d25b3dc711e5187e35433a27724d6a
-      converted: 2026-11-19, AAC 128 kbps, same length to the sample
+    sha256: 32f998814e935ab6e2c8e183c3b76f9a599b1d1a6ac251c95c411efcf1a811dd
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-22
@@ -55,7 +46,7 @@ One recording of the root text [[1-SOURCES/Text/ཐུབ་པའི་བས�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།/audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།.WAV]]
+![[1-SOURCES/Audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།/audio/ཐུབ་པའི་བསྟོད་པ་གང་ཚེ་རྐང་གཉིས་མ།.m4a]]
 
 ## Mapping
 

@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0RT3711",
+  "title": {
+    "bo": "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།"
+  },
+  "alt_titles": [
+    {
+      "en": "The King of Aspiration Prayers: Samantabhadra's Aspiration to Good Actions"
+    },
+    {
+      "zh": "普賢行願品"
+    },
+    {
+      "hi": "भद्रचर्या प्रणिधान राज"
+    },
+    {
+      "ne": "भद्रचर्या प्राणिधान"
+    },
+    {
+      "mn": "Сайн явдалт ерөөлийн хаан"
+    },
+    {
+      "vi": "Phổ Hiền Hạnh Nguyện Phẩm"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P0AT0029"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

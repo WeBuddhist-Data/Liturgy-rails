@@ -36,8 +36,9 @@ silently reverts all of them. This script restores them and is safe to repeat.
     is replaced by the researched title.
 
 --source-titles
-    Writes ``title_en`` / ``title_zh`` onto the source notes, so a text's names
-    live with the text.
+    Writes the registry's titles onto the source notes as ``alt_titles``
+    entries (``- en: …``, ``- zh: …``), so a text's names live with the text.
+    Only adds a language the note has no alt title for; never overwrites.
 
 --tags
     Reads every text's live ``tag_ids`` from the WeBuddhist library (one
@@ -381,15 +382,17 @@ def pass_titles():
 def pass_source_titles():
     """Put the researched titles on the source notes themselves.
 
-    The keys are `title_en` / `title_zh` and NOT `title_in_english`: the
-    dharmamitra-translate script reads `title_in_english` to build its output
-    filename and its context header, so writing that key would silently rename
-    every translation file on the next run.
+    They go into `alt_titles` (one `- <lang>: <title>` entry per language),
+    the field the linter sends to the library; the old `title_<lang>` keys
+    were never uploaded and are removed. Never `title_in_english`: the
+    dharmamitra-translate script reads that key to build its output filename
+    and its context header, so writing it would silently rename every
+    translation file on the next run.
     """
     if not os.path.exists(REGISTRY):
         print(f"source-titles: {REGISTRY} not found — build the registry first", file=sys.stderr)
         return 1
-    with open(REGISTRY) as fh:
+    with open(REGISTRY, encoding="utf-8") as fh:
         reg = {r["stem"]: r for r in json.load(fh)["texts"]}
 
     n = 0
@@ -400,24 +403,82 @@ def pass_source_titles():
         if not rec:
             continue
 
-        def apply(fm, body, rec=rec):
-            # Every `<tag>_title` the registry holds becomes `title_<tag>` on
-            # the note, each inserted after the previous one so the block of
-            # titles stays together directly under `title`.
-            changed = False
-            anchors = ["title"]
+        def apply(fm, body, rec=rec, name=name):
+            # Every `<tag>_title` the registry holds becomes an `alt_titles`
+            # entry `- <tag>: …` (the note's `title` is the bo title itself).
+            # alt_titles may hold several titles per language, also added by
+            # hand, so this only ADDS the registry title for a language the
+            # note has no entry for; a language that already has a different
+            # entry is reported, never overwritten.
+            want = []
             for key in rec:
                 m = re.fullmatch(r"([a-z]{2,3})_title", key)
-                if not m or not rec.get(key) or m.group(1) == "bo":
-                    continue        # bo_title IS the note's own title
-                note_key = f"title_{m.group(1)}"
-                changed |= set_key(fm, note_key, rec[key], after=list(reversed(anchors)))
-                anchors.append(note_key)
+                if m and rec.get(key) and m.group(1) != "bo":
+                    want.append((m.group(1), rec[key]))
+            have = get_alt_titles(fm)
+            add = []
+            for lang, title in want:
+                mine = [v for e in have for k, v in e.items() if k == lang]
+                if not mine:
+                    add.append((lang, title))
+                elif title not in mine:
+                    print(f"source-titles: {name}: alt_titles has a different {lang} title, "
+                          f"registry {title!r} not added", file=sys.stderr)
+            changed = drop_legacy_titles(fm)
+            if add:
+                set_alt_titles(fm, have + [{k: v} for k, v in add], after="title")
+                changed = True
             return changed
 
         n += bool(edit(os.path.join(SRC_DIR, name), apply))
     print(f"source-titles: {n} source notes updated")
     return 0
+
+
+LEGACY_TITLE_KEY = re.compile(r"title_[a-z]{2,3}")
+
+
+def drop_legacy_titles(fm_lines):
+    """Remove old `title_<lang>:` keys (now `alt_titles` entries)."""
+    before = len(fm_lines)
+    fm_lines[:] = [l for l in fm_lines if not LEGACY_TITLE_KEY.fullmatch(key_of(l) or "")]
+    return len(fm_lines) != before
+
+
+def _alt_block(fm_lines):
+    """-> (start, end) line range of the `alt_titles:` key and its `  - …` items, or None."""
+    i = find_key(fm_lines, "alt_titles")
+    if i < 0:
+        return None
+    j = i + 1
+    while j < len(fm_lines) and (fm_lines[j].startswith((" ", "\t", "-")) or not fm_lines[j].strip()):
+        j += 1
+    return i, j
+
+
+def get_alt_titles(fm_lines):
+    """The note's alt_titles as a list of {lang: title} dicts ([] when absent)."""
+    import yaml
+    r = _alt_block(fm_lines)
+    if not r:
+        return []
+    val = (yaml.safe_load("\n".join(fm_lines[r[0]:r[1]])) or {}).get("alt_titles") or []
+    return [e for e in val if isinstance(e, dict)]
+
+
+def set_alt_titles(fm_lines, entries, after=None):
+    """Write `alt_titles:` as a block list of `- <lang>: <title>` lines."""
+    rendered = ["alt_titles:"] + [f"  - {k}: {yaml_value(str(v))}" for e in entries for k, v in e.items()]
+    r = _alt_block(fm_lines)
+    if r:
+        fm_lines[r[0]:r[1]] = rendered
+        return
+    pos = len(fm_lines)
+    if after:
+        j = find_key(fm_lines, after)
+        if j >= 0:
+            pos = j + 1
+    fm_lines[pos:pos] = rendered
 
 
 def _strip_bo(s):

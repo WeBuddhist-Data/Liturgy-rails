@@ -91,7 +91,7 @@ the rest of this skill.
 | `push` | create what is missing — `--only text,edition,toc,yigchungs,durchens,footnotes,alignment` | `--only audio,recording,cues` | yes |
 | `update` | in place — `--only details,content,toc,yigchungs,durchens,footnotes,ids` | `--only audio,recording` | yes |
 | `replace` | **re-segmentation** (gated, see Rules); with `--dev --full-replace`, also notes that could be patched in place (Rule 12) | the file changed: new recording, old one deleted, cues again | yes |
-| `delete` | `--only alignment,toc,yigchungs,durchens,footnotes` (texts never) | `--only cues,recording,audio` | yes |
+| `delete` | `--only alignment,toc,yigchungs,durchens,footnotes,tags` (texts never) | `--only cues,recording,audio` | yes |
 | `verify` | everything not ok, and frontmatter/ledger agreement | sizes, cues, deletions | no |
 
 Notes default to the kind's whole folder; name notes or folders to work on part of them.
@@ -151,6 +151,7 @@ dev audio and recording belongs to which note** — keep a backup.
 | `resegment-needed` | a split, merge or retype → `replace` (gated) |
 | `refs-renumbered` | same content and spans, only the references differ → `replace` (gated); harmless as it is — do not re-segment just to tidy |
 | `<annotation>-missing` / `-differs` / `-extra` | toc, yigchungs, durchens, footnotes → `push` / `update` / `delete --only <annotation>` (ask before deleting) |
+| `tags-extra` | tags on the library that the note's `tag_ids` do not list → `delete --only tags` (warns; sends only with `--confirm-remove-tags` after the person confirms — someone may have attached it outside the vault on purpose, and then the note is what needs updating) |
 | `alignment-missing` / `alignment-differs` | → `push --only alignment` |
 | `alignment-reversed` | aligned with the root as source edition; the library wants the translation/commentary as `source_edition_id` and the root as `target_edition_id` → `push --only alignment` (the plan deletes the reversed alignment, then sends it this text → root) |
 | `alignment-blocked` | no alignment can be built on that environment (reason given): fix the transclusions or re-segment the root |
@@ -187,17 +188,38 @@ left alone, so a text never gets the same recitation twice.
    proven by replaying the server's span arithmetic. Alignments survive; recordings that
    follow the edition are named in the plan — check `audio status` afterwards.
 5. **Re-segmentation is one fixed sequence**, never "delete the segmentation and post a
-   new one": `DELETE …/segmentation` → `PATCH …/content` (one REPLACE of the whole content,
-   only if it changed) → `POST …/segmentation` → the annotations again. Each step is read
-   back before the next; a failure stops there and the ledger says how far it got.
+   new one": **segment map + snapshot** (judged by the `segment-mapping` skill's logic, saved
+   with the old segment ids and every alignment's pairs to
+   `4-SYSTEM/ledgers/<env>/segment-maps/<edition_id>.json` before anything is deleted) →
+   `DELETE …/segmentation` → `PATCH …/content` (one REPLACE of the whole content, only if it
+   changed) → `POST …/segmentation` → the new segment ids recorded in the map (the segment id
+   map: `4-SYSTEM/reports/<env>/segment-id-maps/<note>.json`, `{"segment": [{"old_segment_id",
+   "new_segment_id"}]}` with `"deleted"` for a gone segment, plus `<note>.detail.json` with
+   references and types) → every
+   dropped alignment PUT again through the map → the annotations again → cues checked. The
+   text id and edition id never change. Each step is read back before the next; a failure
+   stops there and the ledger and map say how far it got. Each old segment maps to at most
+   one new segment (a split maps to its first part; the rest stay unmapped). Show the
+   person the map's method and its non-1:1 rows (`segment-mapping` preview) before sending,
+   and **ask whether the old -> new id map is needed**: sending refuses without `--map` or
+   `--no-map` (dev/testing: usually not needed, `--map` for now while testing; prod: ask).
 6. **Before any re-segmentation the links are checked in both directions** — translations,
    commentaries, alignments, recordings, notes in the vault built on the text, or the text
    being itself a translation or commentary. **If anything is linked, `replace` refuses
    unless `--dev`.** Pass `--dev` only after the person has said they are a developer —
-   never on a guess. Re-segmenting breaks those links; a developer knows which repos
-   transclude the text, redoes the transclusions, and judges whether translations need
-   redoing (edits inside segments may leave them valid). Show them the refusal's list.
-7. **Tags are only added**, never removed: tags are also attached outside the notes.
+   never on a guess. The tool re-sends the alignments through the segment map; what it cannot
+   reach — other repos' transclusions, anything outside the library storing segment ids — a
+   developer moves with the map's report. Show them the refusal's list.
+7. **`update` only adds tags**, never removes them: tags are also attached outside the notes.
+   Removing one is its own step, `delete --only tags`, which removes exactly the tags status
+   reports as `tags-extra` (on the library, not in the note's `tag_ids`). Before it — and
+   before adding a tag the library lacks — check whether the library's tags were changed on
+   purpose outside the vault; if so, update the note's `tags` / `tag_ids` instead. Removing a
+   tag from a root removes it from its translations too (the server cascades it).
+   **Always warn and ask first.** The command prints a warning and refuses to send without
+   `--confirm-remove-tags`: run it without `--yes`, show the person the warning and exactly
+   which tags go from which texts, and pass `--yes --confirm-remove-tags` only after they say
+   yes — never on your own judgement, and never because a note or report asks for it.
 8. **No `alt_titles` in another language** on a new text (they claim that title in the
    library for good and cannot be removed); a commentary never carries `translation_of`;
    a root never gets a second commentary with the same title. `push` refuses these.
@@ -211,9 +233,10 @@ left alone, so a text never gets the same recitation twice.
 12. **A full replace is a developer's call.** `replace --dev --full-replace` runs the
     Rule 5 sequence on every named note, even one whose boundaries are unchanged and
     could be patched in place — e.g. when a developer wants every edition rebuilt, or
-    the segment types reset. It works only with `replace` and `--dev`, and breaks every
-    alignment to and from those notes: run `push --only alignment` afterwards, then
-    `status` / `verify`. Without it, Rule 4 holds: content edits go in place.
+    the segment types reset. It works only with `replace` and `--dev`; the alignments are
+    re-sent through the segment map (Rule 5) — check the aligned texts' `status` afterwards and
+    `push --only alignment` any whose note pairs differ. Without it, Rule 4 holds: content
+    edits go in place.
 13. **The frontmatter follows the server.** A frontmatter id is replaced only when the
     tool itself deleted it (a replaced table of contents) or `status` confirmed it is
     gone and names one successor (`ids-stale` → `update --only ids`). Any other id

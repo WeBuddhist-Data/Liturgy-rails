@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 21
 blocks_total: 21
 status: draft
+toc_id: DpW3oL9DXYWkTOXpkIvUn
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Chư Thiện Thệ mười phương bốn thời cùng chư Phật tử,
 Hóa hiện Trí tuệ thân trì giữ đạo bất nhị,
 Trong trạng thái bình đẳng của Đồng tử Văn Thù,
-Nguyện chân lý vô tác được nhậm vận thành tựu. ^1
+Nguyện chân lý vô tác được nhậm vận thành tựu. ^0-1
 
 > གདོད་མའི་མགོན་པོ་དཔལ་ལྡན་བླ་མ་ལ། །
 > མཉམ་ཉིད་ཆོས་སྐུར་ལྟ་བའི་མོས་གུས་ཀྱིས། །
@@ -64,7 +65,7 @@ Nguyện chân lý vô tác được nhậm vận thành tựu. ^1
 Hướng về Đạo sư vinh quang là Đấng Hộ chủ vô thủy,
 Bằng lòng sùng mộ coi ngài là Pháp thân bình đẳng,
 Nguyện ân phúc tâm ý truyền thừa chuyển nhập vào tim,
-Và thọ nhận đại quán đảnh của diệu dụng giác tính. ^2
+Và thọ nhận đại quán đảnh của diệu dụng giác tính. ^0-2
 
 > ཡེ་ནས་གནས་ཕྱིར་རྩོལ་བས་བསྒྲུབ་པ་དང་། །
 > དབང་པོའི་ཁྱད་པར་སོགས་ལ་མི་ལྟོས་ཀྱང་། །
@@ -74,7 +75,7 @@ Và thọ nhận đại quán đảnh của diệu dụng giác tính. ^2
 Vì từ thủy chung thường trụ nên không cần nỗ lực tu tập,
 Cũng chẳng phụ thuộc vào sự khác biệt của căn cơ,
 Nhưng vì quá đỗi dễ dàng nên khó tin, bí mật của tự tâm,
-Nguyện thấy được nhờ năng lực khẩu quyết của Đạo sư. ^3
+Nguyện thấy được nhờ năng lực khẩu quyết của Đạo sư. ^0-3
 
 > སྤྲོས་ཤིང་དཔྱད་པ་ཀུན་རྟོག་སྣོན་མ་སྟེ། །
 > བཙལ་ཞིང་སྒྲུབ་པ་རང་ཉིད་ངལ་བའི་རྒྱུ། །
@@ -84,7 +85,7 @@ Nguyện thấy được nhờ năng lực khẩu quyết của Đạo sư. ^3
 Mọi hý luận và phân tích chỉ gia tăng vọng niệm,
 Cố tìm kiếm và tu tập là nguyên nhân chuốc lấy nhọc nhằn,
 Sự tạo duyên và thiền định lại biến thành chiếc lồng trói buộc,
-Nguyện hý luận não phiền được đoạn tận từ bên trong. ^4
+Nguyện hý luận não phiền được đoạn tận từ bên trong. ^0-4
 
 > བསམ་བརྗོད་བྲལ་ལ་མཐོང་བ་གང་མེད་ཀྱང་། །
 > མ་མཐོང་ལྷག་མར་གྱུར་བ་གང་ཡང་མེད། །
@@ -94,7 +95,7 @@ Nguyện hý luận não phiền được đoạn tận từ bên trong. ^4
 Lìa mọi tư duy ngôn từ nên chẳng có điều gì để thấy,
 Nhưng cũng chẳng còn điều gì sót lại mà chưa thấy,
 Ý nghĩa thâm sâu là tự tâm hoàn toàn dứt sạch hoài nghi,
-Nguyện chứng ngộ được chân như thực tại khó bề biểu đạt. ^5
+Nguyện chứng ngộ được chân như thực tại khó bề biểu đạt. ^0-5
 
 > སྤྲོས་ཀུན་ཀ་ནས་དག་ཕྱིར་ཡོད་མཐའ་སྦངས། །
 > རིག་གདངས་ལྷུན་གྱིས་གྲུབ་པས་མེད་མཐའ་བྲལ། །
@@ -104,7 +105,7 @@ Nguyện chứng ngộ được chân như thực tại khó bề biểu đạt.
 Do mọi hý luận vốn dĩ thanh tịnh nên đoạn trừ biên kiến có,
 Quang minh giác tính nhậm vận thành tựu nên thoát ly biên kiến không,
 Dù nói là hai nhưng đó chỉ là cách tiếp cận bằng khái niệm,
-Nguyện thấy được chân lý bình đẳng, bất khả phân và lìa ngôn từ. ^6
+Nguyện thấy được chân lý bình đẳng, bất khả phân và lìa ngôn từ. ^0-6
 
 > འདི་ན་མཛུབ་མོས་ཟླ་བ་ཇི་བཞིན་དུ། །
 > དང་པོར་ཡིད་དཔྱོད་ཚིག་གིས་མཚོན་བྱས་ཀྱང་། །
@@ -114,7 +115,7 @@ Nguyện thấy được chân lý bình đẳng, bất khả phân và lìa ng�
 Ở đây, giống như ngón tay chỉ vào mặt trăng,
 Dẫu thoạt đầu được chỉ ra bằng suy luận và ngôn từ,
 Nhưng trạng thái Pháp tính tự nhiên vượt khỏi cảnh giới suy lường,
-Nguyện thấu tỏ bằng giác tính tự soi chiếu chính mình. ^7
+Nguyện thấu tỏ bằng giác tính tự soi chiếu chính mình. ^0-7
 
 > འདི་ལ་བསལ་བར་བྱ་བ་མ་མཐོང་ཞིང་། །
 > བཞག་སྟེ་སྒྲུབ་པར་བྱ་བ་མ་དམིགས་པས། །
@@ -124,7 +125,7 @@ Nguyện thấu tỏ bằng giác tính tự soi chiếu chính mình. ^7
 Nơi đây chẳng thấy điều gì cần phải loại bỏ,
 Cũng chẳng duyên vào điều gì cần an lập tu hành,
 Trong trạng thái Pháp tính không nhiễm nỗ lực phá lập,
-Nguyện thâm nhập vào chân lý nhậm vận an nhiên. ^8
+Nguyện thâm nhập vào chân lý nhậm vận an nhiên. ^0-8
 
 > ཤེས་བྱའི་གཞི་དང་བགྲོད་པར་བྱེད་པའི་ལམ། །
 > ཐོབ་བྱ་འབྲས་བུའི་ཆོས་སུ་བཏགས་པ་ཡང་། །
@@ -134,7 +135,7 @@ Nguyện thâm nhập vào chân lý nhậm vận an nhiên. ^8
 Nền tảng sở tri cùng đạo lộ tu hành,
 Thậm chí các pháp giả lập là quả vị sở đắc,
 Trong tự tính chân thực giống như thứ lớp hư không,
-Nguyện nhậm vận an trú trong chân lý không tạo tác. ^9
+Nguyện nhậm vận an trú trong chân lý không tạo tác. ^0-9
 
 > འཁྲུལ་བས་སྒྲོ་བཏགས་མ་དག་འཁོར་བའི་ཆོས། །
 > དེ་ལས་ལོག་པ་དག་པའི་སྣང་བ་ཡང་། །
@@ -144,7 +145,7 @@ Nguyện nhậm vận an trú trong chân lý không tạo tác. ^9
 Các pháp luân hồi bất tịnh do mê lầm vọng chấp,
 Ngay cả những hiện tướng thanh tịnh trái ngược lại,
 Cũng chỉ là pháp hý luận do nương tựa giả lập,
-Nguyện thấy được bản tính lìa hý luận chẳng trụ vào đâu. ^10
+Nguyện thấy được bản tính lìa hý luận chẳng trụ vào đâu. ^0-10
 
 > བློ་བྲལ་ཆོས་ཉིད་གཤིས་ཀྱི་བཞུགས་ཚུལ་ལ། །
 > ལྟ་དང་སྒོམ་པས་བསླད་ཀྱིན་རྟོག་པས་སྒྲིབ། །
@@ -154,7 +155,7 @@ Nguyện thấy được bản tính lìa hý luận chẳng trụ vào đâu. ^
 Trong trạng thái Pháp tính vốn vượt ngoài mọi tâm trí,
 Sẽ bị nhiễm ô bởi kiến tu và che mờ bởi vọng niệm,
 Đạt đến trạng thái nguyên sơ vốn dĩ lìa xa kiến tu,
-Nguyện an nhiên tĩnh tại trong chân lý chân thật. ^11
+Nguyện an nhiên tĩnh tại trong chân lý chân thật. ^0-11
 
 > གང་ལ་དམིགས་པར་བྱ་བ་ལྟ་བའི་དུག །
 > གང་ཞིག་རྩོལ་བས་ཟིན་པ་སྒོམ་པའི་སྐྱོན། །
@@ -164,7 +165,7 @@ Nguyện an nhiên tĩnh tại trong chân lý chân thật. ^11
 Hễ duyên vào điều gì đều là chất độc của kiến,
 Hễ nỗ lực bám chấp đều là lỗi lầm của tu,
 Hễ còn sự thủ xả đều là hiểm lộ của hành,
-Nguyện thấy được Pháp tính thoát ly mọi não phiền. ^12
+Nguyện thấy được Pháp tính thoát ly mọi não phiền. ^0-12
 
 > སྤྲོས་པའི་གཟེབ་ཏུ་མ་ཚུད་རིག་པའི་གདངས། །
 > བློ་བྲལ་མངོན་སུམ་མཐོང་ལ་ཡིད་དཔྱོད་ཀྱི། །
@@ -174,7 +175,7 @@ Nguyện thấy được Pháp tính thoát ly mọi não phiền. ^12
 Quang minh giác tính không lọt vào chiếc lồng hý luận,
 Thấy bằng hiện lượng lìa tâm trí, mà không quăng ra
 Chiếc thòng lọng suy lường để thắt nút giữa hư không,
-Nguyện thiện xảo thâm nhập chân lý an nhiên chân thật. ^13
+Nguyện thiện xảo thâm nhập chân lý an nhiên chân thật. ^0-13
 
 > དེ་ཚེ་རང་རིག་གཞོན་ནུ་བུམ་པ་སྐུའི། །
 > མཁྱེན་ཆ་རང་འོད་གསལ་བ་འཇམ་པའི་དབྱངས། །
@@ -184,7 +185,7 @@ Nguyện thiện xảo thâm nhập chân lý an nhiên chân thật. ^13
 Khi ấy, tự giác tính là Đồng tử Bảo bình thân,
 Phần liễu tri rực rỡ tự quang minh chính là Văn Thù,
 Nhờ vào ánh sáng ngọn đèn trí tuệ tự sinh này,
-Nguyện phá tan bóng tối chướng ngại dày đặc che mờ. ^14
+Nguyện phá tan bóng tối chướng ngại dày đặc che mờ. ^0-14
 
 > མ་བཅོས་འདུས་མ་བྱས་པའི་ཆོས་ཉིད་ལ། །
 > བཅོས་མའི་ལམ་གྱིས་གསར་དུ་བསྒྲུབ་མེད་པས། །
@@ -194,7 +195,7 @@ Nguyện phá tan bóng tối chướng ngại dày đặc che mờ. ^14
 Trong Pháp tính vô vi không mảy may tạo tác,
 Chẳng có gì mới được thành tựu bằng đạo lộ tạo tác,
 Ý nghĩa quả vị cứu cánh vốn chẳng sinh ra từ nhân,
-Nguyện thấy được luôn hiện hữu trong ta từ vô thủy. ^15
+Nguyện thấy được luôn hiện hữu trong ta từ vô thủy. ^0-15
 
 > ཡིད་དཔྱོད་ཚིག་གི་སྦུན་པ་འཁྲུལ་བའི་ལམ། །
 > ཇི་ལྟར་བརྗོད་ཀྱང་རྟོག་པའི་དྲྭ་བ་སྟེ། །
@@ -204,7 +205,7 @@ Nguyện thấy được luôn hiện hữu trong ta từ vô thủy. ^15
 Lớp vỏ trấu của ngôn từ suy lường là đạo lộ mê lầm,
 Dẫu diễn đạt thế nào cũng chỉ là mạng lưới vọng niệm,
 Chẳng nảy sinh từ kinh giáo mà phải tự mình chứng ngộ,
-Nguyện thiền định khẩu quyết thâm sâu ngay giữa tự tâm. ^16
+Nguyện thiền định khẩu quyết thâm sâu ngay giữa tự tâm. ^0-16
 
 > གཟུང་འཛིན་སེམས་ནི་ངོ་བོ་ཉིད་ཀྱིས་འཁྲུལ། །
 > གང་ལྟར་དམིགས་པ་དེ་བཞིན་ཉིད་དུ་མིན། །
@@ -214,7 +215,7 @@ Nguyện thiền định khẩu quyết thâm sâu ngay giữa tự tâm. ^16
 Tâm nhị nguyên năng sở vốn dĩ là mê lầm,
 Hễ bám duyên vào điều gì đều không phải là Chân như,
 Thân trí tuệ tự sinh chẳng nảy sinh từ tâm thức,
-Nguyện thành tựu Phật quả liễu nghĩa tối thượng. ^17
+Nguyện thành tựu Phật quả liễu nghĩa tối thượng. ^0-17
 
 > རིག་སྟོང་རིག་པའི་དབྱིངས་སུ་ཆོས་ཐམས་ཅད། །
 > མཉམ་པ་ཉིད་གྱུར་ཐིག་ལེ་ཉག་གཅིག་ལ། །
@@ -224,7 +225,7 @@ Nguyện thành tựu Phật quả liễu nghĩa tối thượng. ^17
 Trong pháp giới giác-không của giác tính quang minh, muôn pháp
 Đồng đẳng dung hợp trong một minh điểm duy nhất,
 Trong trạng thái dứt bặt hy vọng và e sợ luân hồi hay niết bàn,
-Nguyện an lập vững chắc nơi Pháp thân vô trụ. ^18
+Nguyện an lập vững chắc nơi Pháp thân vô trụ. ^0-18
 
 > འདི་ལྟར་ལུས་དང་ཡུལ་དུ་སྣང་བ་ཡང་། །
 > རབ་རིབ་བཞིན་དུ་རྟོག་པའི་དབང་གིས་སྣང་། །
@@ -234,7 +235,7 @@ Nguyện an lập vững chắc nơi Pháp thân vô trụ. ^18
 Mọi hiện tượng về thân và cảnh này đây,
 Đều hiện ra như ảo ảnh do sức mạnh của vọng niệm,
 Nhờ tự quang minh của đại trí tuệ vô phân biệt,
-Nguyện tịnh hóa vào pháp giới nguyên thủy vạn pháp dứt bặt. ^19
+Nguyện tịnh hóa vào pháp giới nguyên thủy vạn pháp dứt bặt. ^0-19
 
 > དེ་ཚེ་མཁའ་དང་མཉམ་པའི་ཡེ་ཤེས་སྐུ། །
 > ཕྱོགས་དུས་མུ་མཐའ་སྲིད་དུ་འགྲོ་ཀུན་གྱི། །
@@ -244,8 +245,8 @@ Nguyện tịnh hóa vào pháp giới nguyên thủy vạn pháp dứt bặt. ^
 Khi ấy, thân trí tuệ rộng lớn vô biên như hư không,
 Vì mọi chúng sinh khắp không gian và thời gian vô tận,
 Như viên ngọc như ý tuôn trào vạn sự lợi lạc,
-Nguyện thành tựu quả vị cứu cánh thoát ly mọi che chướng. ^20
+Nguyện thành tựu quả vị cứu cánh thoát ly mọi che chướng. ^0-20
 
 > ཅེས་པ་འདི་ནི་ཛྙཱ་ན་ཌཱ་ཀི་ནི་ཝཱ་ར་ཧིའི་རྣམ་པར་འཕྲུལ་པར་ཡོངས་སུ་གྲགས་པ་རྗེ་བཙུན་མ་བདེ་སྐྱོང་ཡེ་ཤེས་དབང་མོས་(རྡོ་ཤུལ་མཁའ་འགྲོ་)རབ་ཚེས་མེ་ཁྱི་ (སྤྱི་ལོ་1886 དང་རྗེ་ཉིད་དགུང་ལོ་ 41) ཟླ་ཚེས་ཀྱི་དུས་དགེ་བར་བཀྲ་ཤིས་པའི་ལྷ་རེག་དང་། ཤེལ་དཀར་ཕྲེང་བ་རིན་པོ་ཆེའི་རྒྱན་ལྡན་བཅས་བཀའ་ཡིས་བསྐུལ་བའི་རྐྱེན་བྱས་ནས་ཚེས་དེ་ཉིད་ལ་མི་ཕམ་འཇམ་དཔལ་དགྱེས་པའམ་འོད་གསལ་རྡོ་རྗེ་ཞེས་བྱ་བའི་རྫོགས་པར་བྲིས་པ་སྟེ། རྫོགས་པ་ཆེན་པོའི་གྲུབ་མཐའི་རང་སྐད་ཐུན་མིན་རང་རྐང་ཚུགས་པར་གང་ཤར་སྨྲས་པའི་དགེ་བས་འགྲོ་ཀུན་གདོད་མའི་མགོན་པོ་འཇམ་དཔལ་གཞོན་ནུའི་གོ་འཕང་ཐོབ་པར་གྱུར་ཅིག །ཐོས་པ་ཙམ་གྱིས་ངེས་པར་གྲོལ་འགྱུར་ཞེས། །རྡོ་རྗེ་འཆང་གིས་བསྔགས་པ་ལམ་གྱི་མཆོག །འདི་ཚུལ་སེམས་པར་བྱེད་པ་སྨོས་ཅི་འཚལ། །ཆོས་ཉིད་བདེན་པས་མྱུར་དུ་གྲོལ་བར་འགྱུར། །རྩོལ་བཅས་ཐེག་པས་གདུལ་བར་དཀའ་བའི་ཚེ། །ཀུན་བཟང་ཐུགས་ཀྱི་བསྟན་པ་འབྱུང་ཞེས་སུ། །བསྔགས་པའི་ལུང་བཞིན་སྙིང་པོའི་བསྟན་པ་ཡིས། །འཇིག་རྟེན་ཀུན་ཏུ་ཁྱབ་ཅིང་རྒྱས་གྱུར་ཅིག །སརྦ་མངྒ་ལམ།། །།
 
-Bài nguyện này, với duyên khởi là lời thỉnh cầu của Tôn nữ Dekyong Yeshe Wangmo (Doshul Khandro) - vị được biết đến rộng rãi là hóa thân của Jñāna Ḍākinī Vārāhī - dâng kèm một chiếc khăn khata cát tường và một chuỗi hạt pha lê trắng quý giá vào một thời khắc tốt lành của năm Hỏa Khuyển (năm 1886, khi ngài 41 tuổi), đã được Mipham Jampal Gyepa hay Ösel Dorje viết ra hoàn chỉnh vào chính ngày hôm đó. Bằng công đức của những lời tuôn trào tự nhiên theo ngôn ngữ đặc thù và lập trường độc lập của tông phái Đại Viên Mãn, nguyện cho tất cả chúng sinh đạt được quả vị của Đấng Bảo hộ Nguyên thủy Văn Thù Đồng Tử. Đạo lộ tối thắng này đã được Kim Cang Trì tán thán: "Chỉ nghe qua thôi cũng chắc chắn được giải thoát"; huống hồ những ai ghi tâm tu tập! Nhờ chân lý Pháp tính, họ sẽ mau chóng được giải thoát. Trong thời kỳ khó điều phục bằng các thừa tạo tác, thuận theo lời thọ ký tán dương rằng "Giáo pháp Tâm Phổ Hiền sẽ xuất hiện", nguyện cho giáo pháp tinh túy này lan tỏa và hưng thịnh khắp mọi thế gian! Sarva Mangalam! ^21
+Bài nguyện này, với duyên khởi là lời thỉnh cầu của Tôn nữ Dekyong Yeshe Wangmo (Doshul Khandro) - vị được biết đến rộng rãi là hóa thân của Jñāna Ḍākinī Vārāhī - dâng kèm một chiếc khăn khata cát tường và một chuỗi hạt pha lê trắng quý giá vào một thời khắc tốt lành của năm Hỏa Khuyển (năm 1886, khi ngài 41 tuổi), đã được Mipham Jampal Gyepa hay Ösel Dorje viết ra hoàn chỉnh vào chính ngày hôm đó. Bằng công đức của những lời tuôn trào tự nhiên theo ngôn ngữ đặc thù và lập trường độc lập của tông phái Đại Viên Mãn, nguyện cho tất cả chúng sinh đạt được quả vị của Đấng Bảo hộ Nguyên thủy Văn Thù Đồng Tử. Đạo lộ tối thắng này đã được Kim Cang Trì tán thán: "Chỉ nghe qua thôi cũng chắc chắn được giải thoát"; huống hồ những ai ghi tâm tu tập! Nhờ chân lý Pháp tính, họ sẽ mau chóng được giải thoát. Trong thời kỳ khó điều phục bằng các thừa tạo tác, thuận theo lời thọ ký tán dương rằng "Giáo pháp Tâm Phổ Hiền sẽ xuất hiện", nguyện cho giáo pháp tinh túy này lan tỏa và hưng thịnh khắp mọi thế gian! Sarva Mangalam! ^1-1-1

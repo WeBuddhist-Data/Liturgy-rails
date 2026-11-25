@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 10
 blocks_total: 10
 status: draft
+toc_id: 6IiSaBuBKgD3zKc0uZmuT
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Ngưỡng mong Đạo sư, Bản tôn cùng hải hội chư Tôn chứng giám,
 Những thiện căn công đức tinh tấn tu tập hôm nay,
 Cùng các thiện căn sẵn có và tích luỹ trong ba thời,
-Xin gom lại hồi hướng về Đại Bồ-đề vô thượng. ^1
+Xin gom lại hồi hướng về Đại Bồ-đề vô thượng. ^0-1
 
 > དེང་ནས་བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །
 > རིགས་བཟང་བློ་གསལ་ང་རྒྱལ་མེད་པ་དང་། །
@@ -64,7 +65,7 @@ Xin gom lại hồi hướng về Đại Bồ-đề vô thượng. ^1
 Từ nay cho đến khi đạt tới Bồ-đề tâm yếu,
 Nguyện sinh vào dòng dõi tôn quý, trí tuệ sáng suốt, không kiêu mạn,
 Lòng đại bi rộng lớn và một niềm kính tín Đạo sư,
-Xin kiên cố an trụ trong Kim Cương thừa thù thắng. ^2
+Xin kiên cố an trụ trong Kim Cương thừa thù thắng. ^0-2
 
 > དབང་གིས་སྨིན་ཅིང་དམ་ཚིག་སྡོམ་པར་ལྡན། །
 > རིམ་གཉིས་ལམ་ལ་བསྙེན་སྒྲུབ་མཐར་ཕྱིན་ཏེ། །
@@ -74,7 +75,7 @@ Xin kiên cố an trụ trong Kim Cương thừa thù thắng. ^2
 Nguyện được quán đỉnh thành thục, vẹn toàn thệ nguyện samaya,
 Tu tập trọn vẹn hai giai đoạn tiếp cận và thành tựu,
 Không chút gian nan bước lên quả vị Trì Minh,
-Và dễ dàng viên mãn hai loại thành tựu Tất-địa. ^3
+Và dễ dàng viên mãn hai loại thành tựu Tất-địa. ^0-3
 
 > ཅིར་སྣང་སྒྱུ་འཕྲུལ་དྲྭ་བའི་འཁོར་ལོར་རྫོགས། །
 > གྲགས་པ་ཐམས་ཅད་བརྗོད་བྲལ་སྔགས་ཀྱི་སྒྲ། །
@@ -84,7 +85,7 @@ Và dễ dàng viên mãn hai loại thành tựu Tất-địa. ^3
 Nguyện mọi huyễn tướng hiển lộ đều viên mãn trong mạn-đà-la Huyễn Võng,
 Mọi âm thanh đều biến thành thanh âm chân ngôn ly ngôn thuyết,
 Mọi vọng niệm của tâm nương về tự tính giác ngộ vô vi,
-Và chứng ngộ cảnh giới đại lạc chẳng hội ngộ hay biệt ly. ^4
+Và chứng ngộ cảnh giới đại lạc chẳng hội ngộ hay biệt ly. ^0-4
 
 > ཉམས་ཆགས་རྟོག་སྒྲིབ་མ་སྤངས་གནས་སུ་དག །
 > ཕྱི་ནང་གསང་བ་དབྱེར་མེད་རྟོགས་པས་སྐོངས། །
@@ -94,7 +95,7 @@ Và chứng ngộ cảnh giới đại lạc chẳng hội ngộ hay biệt ly. 
 Nguyện suy thoái, phân biệt và che chướng tự thanh tịnh mà chẳng cần đoạn diệt,
 Phục hồi bằng trí chứng ngộ ngoại, nội, bí mật bất khả phân,
 Mọi hiển lộ tự giải thoát trong không gian Phổ Hiền bao la,
-Tồi phá cõi ác, nguyện luân hồi và niết-bàn thảy đều bình đẳng. ^5
+Tồi phá cõi ác, nguyện luân hồi và niết-bàn thảy đều bình đẳng. ^0-5
 
 > ཐིག་ལེ་ཆེན་པོར་སྐུ་དང་ཞིང་ཁམས་རྫོགས། །
 > དམ་ཚིག་ཆེན་པོར་སྤངས་བླང་མཚན་མ་དག །
@@ -104,7 +105,7 @@ Tồi phá cõi ác, nguyện luân hồi và niết-bàn thảy đều bình đ
 Trong Đại Minh Điểm, Tôn thân và tịnh độ hiện tiền viên mãn,
 Trong Đại Thệ Nguyện, mọi bám chấp thủ xả thảy đều thanh tịnh,
 Trong Đại Biến Mãn, mọi nút thắt của hy vọng và sợ hãi được tháo gỡ,
-Trong cõi Đại Viên Mãn, nguyện Pháp thân hiện tiền chứng ngộ. ^6
+Trong cõi Đại Viên Mãn, nguyện Pháp thân hiện tiền chứng ngộ. ^0-6
 
 > བརྒྱུད་པ་གསུམ་གྱི་བྱིན་བརླབས་སྙིང་ལ་ཞུགས། །
 > སྒྱུ་འཕྲུལ་དྲྭ་བའི་ལམ་གསང་སེམས་ལ་རྫོགས། །
@@ -114,7 +115,7 @@ Trong cõi Đại Viên Mãn, nguyện Pháp thân hiện tiền chứng ngộ. 
 Nguyện ân phúc gia trì của ba dòng truyền thừa thấm đẫm tâm con,
 Nguyện mật đạo mạn-đà-la Huyễn Võng viên mãn trong tâm trí,
 Nương sự thành tựu tự nhiên của bốn hạnh nghiệp diệu dụng,
-Xin nguyện giải thoát vô lượng chúng sinh vô biên vô tận. ^7
+Xin nguyện giải thoát vô lượng chúng sinh vô biên vô tận. ^0-7
 
 > ཞི་ཁྲོ་སྤྲུལ་པའི་འཁོར་ལོས་ལུང་སྟོན་ཞིང་། །
 > མཁའ་འགྲོ་རྣམས་ཀྱི་བུ་བཞིན་སྐྱོང་བ་དང་། །
@@ -124,7 +125,7 @@ Xin nguyện giải thoát vô lượng chúng sinh vô biên vô tận. ^7
 Nguyện hải hội chư Tôn phẫn nộ và an bình hóa hiện thụ ký chỉ giáo,
 Nguyện chư Không Hành Mẫu luôn bảo bọc con như con đỏ,
 Cùng chư Hộ pháp trừ diệt mọi chướng ngại chông gai,
-Ước nguyện mong cầu thảy đều viên mãn tột cùng! ^8
+Ước nguyện mong cầu thảy đều viên mãn tột cùng! ^0-8
 
 > རྒྱལ་བའི་བསྟན་པ་དར་ཞིང་རྒྱས་པ་དང་། །
 > བསྟན་འཛིན་རྣམས་ཀྱིས་བཞེད་པའི་དོན་ཀུན་འགྲུབ། །
@@ -134,8 +135,8 @@ Cùng chư Hộ pháp trừ diệt mọi chướng ngại chông gai,
 Nguyện giáo pháp chư Phật không ngừng lan tỏa và hưng thịnh,
 Nguyện tâm nguyện của các bậc trì giữ giáo pháp thảy đều thành tựu,
 Nguyện mọi nghịch duyên của toàn thể chúng sinh thảy đều tiêu trừ,
-Và mọi phúc lạc vô biên thảy đều thành tựu đúng như ý nguyện! ^9
+Và mọi phúc lạc vô biên thảy đều thành tựu đúng như ý nguyện! ^0-9
 
 > ཅེས་པའང་རིག་པ་འཛིན་པ་འགྱུར་མེད་རྡོ་རྗེས་སོ། །
 
-Lời nguyện này được soạn bởi Trì Minh Gyurme Dorje. ^10
+Lời nguyện này được soạn bởi Trì Minh Gyurme Dorje. ^1-1-1

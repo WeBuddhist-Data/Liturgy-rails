@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "愿以能照亮三千大千世界之光明，及无量无边之神圣灯鬘，供养十方一切刹土中，安住之诸佛、上师及佛子。愿以此善根，消除我所积之罪障，断除烦恼与所知二障之黑暗，获得天眼与神通之殊胜光明，成就利益无量众生之大业。从今往后，乃至生生世世，受持一切诸佛之正法宝藏，以无染之法光，遣除众生愚痴之黑暗。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 15
+          },
+          {
+            "start": 15,
+            "end": 26
+          },
+          {
+            "start": 26,
+            "end": 36
+          },
+          {
+            "start": 36,
+            "end": 48
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 48,
+            "end": 63
+          },
+          {
+            "start": 63,
+            "end": 76
+          },
+          {
+            "start": 76,
+            "end": 89
+          },
+          {
+            "start": 89,
+            "end": 101
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 101,
+            "end": 113
+          },
+          {
+            "start": 113,
+            "end": 125
+          },
+          {
+            "start": 125,
+            "end": 132
+          },
+          {
+            "start": 132,
+            "end": 142
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

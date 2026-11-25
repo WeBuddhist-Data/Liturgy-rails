@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XLFFB9249BE4A5",
+  "title": {
+    "bo": "གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།"
+  },
+  "alt_titles": [
+    {
+      "en": "The Prayer Which Removes All Obstacles from the Path"
+    },
+    {
+      "zh": "蓮師消除道障祈請文"
+    },
+    {
+      "hi": "सर्व विघ्न विनाशक प्रार्थना"
+    },
+    {
+      "ne": "मार्गका विघ्नबाधा हटाउने प्रार्थना"
+    },
+    {
+      "mn": "Замын саадыг арилгагч залбирал"
+    },
+    {
+      "vi": "Bài Cầu Nguyện Trừ Bỏ Chướng Ngại Trên Đạo Lộ"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P4956"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

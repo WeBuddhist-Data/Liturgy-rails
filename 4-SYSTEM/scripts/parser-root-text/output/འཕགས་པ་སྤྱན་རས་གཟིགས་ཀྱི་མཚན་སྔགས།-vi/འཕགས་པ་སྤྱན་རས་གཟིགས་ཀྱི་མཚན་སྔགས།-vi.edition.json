@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Ngàn tay thị hiện ngàn Chuyển Luân Thánh Vương,Ngàn mắt thị hiện ngàn vị Phật Hiền Kiếp,Tùy duyên hóa độ ứng hiện các thân hình,Chí tâm đảnh lễ Đức Tôn Quán Thế Âm.Om Mani Padme HumNguyện đem công đức này,Chóng thành tựu Quán Thế Âm,Đưa hết thảy chúng sinh,Đồng chứng quả vị Ngài.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 47
+          },
+          {
+            "start": 47,
+            "end": 88
+          },
+          {
+            "start": 88,
+            "end": 128
+          },
+          {
+            "start": 128,
+            "end": 164
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 164,
+            "end": 181
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 181,
+            "end": 205
+          },
+          {
+            "start": 205,
+            "end": 233
+          },
+          {
+            "start": 233,
+            "end": 257
+          },
+          {
+            "start": 257,
+            "end": 280
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

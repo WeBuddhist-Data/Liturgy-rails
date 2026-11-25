@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 6
 blocks_total: 6
 status: draft
+toc_id: ff907a2niQyfBE6ugDH5E
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -50,7 +51,7 @@ Unfailing sources of refuge, the Three Jewels and Three Roots,
 Especially Avalokiteśvara, protector of the Land of Snows,
 Jetsun Tārā, and Guru Padmasambhava,
 I pray to you: remember your sacred vows and promises!
-Grant your blessings so that these aspirations may be fully accomplished. ^1
+Grant your blessings so that these aspirations may be fully accomplished. ^0-1
 
 > སྙིགས་དུས་འགྲོ་རྣམས་བསམ་སྦྱོར་ལོག་པ་དང་། །
 > ཕྱི་ནང་འབྱུང་བ་འཁྲུགས་པའི་རྒྱུ་རྐྱེན་གྱིས། །
@@ -62,7 +63,7 @@ In this degenerate age, the thoughts and actions of beings are perverted,
 And through the causes and conditions of disturbed outer and inner elements,
 Epidemics and diseases unknown before afflict both humans and livestock.
 Through the afflictions of planetary spirits, nāgas, gyalpo spirits, and malevolent elementals,
-Blight, frost, and hail occur, along with crop failures, wars, and disputes. ^2
+Blight, frost, and hail occur, along with crop failures, wars, and disputes. ^0-2
 
 > ཆར་ཆུ་མི་སྙོམས་གངས་ཅན་བྲ་བྱའི་ཐན། །
 > ས་གཡོས་མེ་དགྲ་འབྱུང་བཞིའི་འཇིགས་པ་དང་། །
@@ -74,7 +75,7 @@ Irregular rainfall, droughts, and ominous signs in the Land of Snows,
 Earthquakes, fires, and the terrors of the four elements,
 And especially the border armies who harm the teachings and so forth—
 May every single kind of harm and affliction in this Land of Snows
-Be swiftly pacified and utterly destroyed from the very root. ^3
+Be swiftly pacified and utterly destroyed from the very root. ^0-3
 
 > མི་དང་མི་མིན་འགྲོ་བ་མཐའ་དག་གི །
 > རྒྱུད་ལ་བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །
@@ -88,7 +89,7 @@ May the precious and supreme bodhicitta arise naturally;
 Free from harmful thoughts and actions,
 And endowed with a heart of mutual love,
 May all of Tibet, from center to border, be enriched with the glory of happiness and well-being.
-May the Buddha’s teachings flourish and endure for a long time! ^4
+May the Buddha’s teachings flourish and endure for a long time! ^0-4
 
 > རྩ་གསུམ་རྒྱལ་བ་སྲས་བཅས་བདེན་པའི་སྟོབས། །
 > འཁོར་འདས་དགེ་བའི་རྩ་བ་གང་མཆིས་དང་། །
@@ -98,8 +99,8 @@ May the Buddha’s teachings flourish and endure for a long time! ^4
 By the power of the truth of the Three Roots and the Victors with their spiritual heirs,
 By whatever roots of virtue exist throughout samsara and nirvana,
 And by the strength of our own perfectly pure and noble intentions,
-May the fruits of these prayers and aspirations be realized! ^5
+May the fruits of these prayers and aspirations be realized! ^0-5
 
 > ཅེས་༧རྗེ་བླ་མ་འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོའི་ཞལ་སྔ་ནས་དེང་སང་དུས་ཀྱི་འཚུབ་འགྱུར་ཤིན་ཏུ་ཆེ་ཞིང་ཅི་ལྟར་འགྱུར་ཆ་མེད་པས། རྗེ་ཉིད་ནས་བོད་ཡུལ་བདེ་བའི་སྨོན་ལམ་ཉིན་ཞག་རེ་ལན་དྲུག་རེ་མཛད་པ་ཡིན་པས་ཁྱོད་ནས་ཀྱང་དེ་ལྟར་གལ་ཆེ་ཞེས་བཀའ་སྩལ་ཕེབས་པ་ལྟར་རང་གི་བསྙེལ་གསོས་སུ་བྲིས་པ་ཇི་བཞིན་འགྲུབ་པར་གྱུར་ཅིག །
 
-Thus, as the Lord Guru Jamyang Khyentsé Wangpo stated that in these times the turbulence is extreme and the future is uncertain, and since he himself offered prayers for the well-being of Tibet six times every day and night, he instructed that it is of great importance for you to do the same; may this, written as a reminder for myself, be fulfilled exactly as intended. ^6
+Thus, as the Lord Guru Jamyang Khyentsé Wangpo stated that in these times the turbulence is extreme and the future is uncertain, and since he himself offered prayers for the well-being of Tibet six times every day and night, he instructed that it is of great importance for you to do the same; may this, written as a reminder for myself, be fulfilled exactly as intended. ^1-1-1

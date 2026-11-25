@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Prayer of the Twenty-Five Chariots of the Land of Snows by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-18 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །/སྒྲ/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.m4a
+    file: 1-SOURCES/Audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །/audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.m4a
     version: recitation
     accompaniment: false
     duration: 00:01:59.97
@@ -25,16 +25,7 @@ recordings:
     channels: 2
     bit_rate_kbps: 128
     file_size_bytes: 1943124
-    sha256: 93f6058bf11ae6c396ea769729d37df5c9cff4ff8ebf18d45d6f2a745235c70a
-    converted_from:
-      file: 1-SOURCES/Audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །/སྒྲ/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.wav
-      format: WAV (BWF)
-      codec: PCM 32-bit float little-endian
-      bit_depth: 32
-      bit_rate_kbps: 3072
-      file_size_bytes: 46103040
-      sha256: 5f7c61225110359d04981c4e842bf8cef6409af6c69822d979b3c13373d64982
-      converted: 2026-11-19, AAC 128 kbps, same length to the sample
+    sha256: dcc1a2c63fcac2bb017a75932d57c0da74c302da037db8d89dd1f14e8e00f0f0
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-18
@@ -57,7 +48,7 @@ One recording of the root text [[1-SOURCES/Text/bo-གངས་ཅན་ཤི�
 
 ## Recitation
 
-![[1-SOURCES/Audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །/audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.wav]]
+![[1-SOURCES/Audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །/audio/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.m4a]]
 
 
 

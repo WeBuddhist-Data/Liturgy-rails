@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XLDEB6DFF1A465",
+  "title": {
+    "bo": "འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ། །"
+  },
+  "alt_titles": [
+    {
+      "en": "A Shower of Benefit and Happiness: Praise and Supplication to Noble Avalokiteśvara"
+    },
+    {
+      "zh": "聖大悲觀音讚頌祈請文·降澍利樂雨"
+    },
+    {
+      "hi": "आर्य अवलोकितेश्वर स्तुति और प्रार्थना: सुख-लाभ की वर्षा"
+    },
+    {
+      "ne": "आर्य अवलोकितेश्वरको स्तुति र प्रार्थना: सुख-लाभको वर्षा"
+    },
+    {
+      "mn": "Жанрайсиг бурхны магтаал залбирал: Тус амгалангийн хур оруулагч"
+    },
+    {
+      "vi": "Cơn Mưa Lợi Lạc: Tán Xưng và Cầu Nguyện Quán Thế Âm"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P179"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

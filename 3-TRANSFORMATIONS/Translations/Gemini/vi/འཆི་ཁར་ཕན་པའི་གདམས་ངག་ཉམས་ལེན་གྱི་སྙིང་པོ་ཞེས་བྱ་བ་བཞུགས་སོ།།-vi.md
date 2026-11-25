@@ -37,6 +37,7 @@ generated: 2026-09-07
 blocks_translated: 9
 blocks_total: 9
 status: draft
+toc_id: iOb0yC1VxmtIjHfOH1ijH
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Đấng Đạo sư cõi Cực Lạc Phật A Di Đà!
 Xin đoái thương nhìn con bằng tuệ nhãn bi mẫn xanh thẳm,
 Xin tỏ cho con tôn nhan tựa vầng trăng hoan hỷ,
-Xin ban cho con đại tiệc cam lộ gia trì! ^1
+Xin ban cho con đại tiệc cam lộ gia trì! ^0-1
 
 > ཚེ་མཇུག་དབུགས་ཐག་ཆད་པར་ཉེ་བའི་ཚེ།།
 > མཚན་དཔེ་རྒྱན་ལྡན་ཁྱོད་སྐུ་བདག་དྲུང་དུ།།
@@ -64,7 +65,7 @@ Xin ban cho con đại tiệc cam lộ gia trì! ^1
 Khi cuối đời hơi thở sắp sửa đứt đoạn,
 Tôn thân Ngài trang nghiêm trọn vẹn các tướng tốt,
 Xin đích thân quang lâm khuyên đừng luyến ái đời này,
-Và phán truyền rằng: "Hãy vãng sinh về cõi của ta!" ^2
+Và phán truyền rằng: "Hãy vãng sinh về cõi của ta!" ^0-2
 
 > རང་ལུས་རྩ་རྣམས་ལྷོད་ཅིང་སོ་དྲེགས་ཆགས།།
 > སྨིག་རྒྱུ་འདྲ་བའི་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -74,7 +75,7 @@ Và phán truyền rằng: "Hãy vãng sinh về cõi của ta!" ^2
 Hệ mạch rã rời, răng bám đầy bợn nhơ,
 Linh kiến ảo ảnh dương diệm bắt đầu xuất hiện,
 Khi hiện tướng Địa đại tan vào Thủy đại,
-Xin Phật A Di Đà phán: "Đừng kinh hãi sợ sệt!" ^3
+Xin Phật A Di Đà phán: "Đừng kinh hãi sợ sệt!" ^0-3
 
 > ཁ་སྣ་བརྫེས་ཤིང་ལྕེ་ཐུང་ཤེས་པ་ཚུལ།།
 > དུ་བ་ལྟ་བུའི་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -84,7 +85,7 @@ Xin Phật A Di Đà phán: "Đừng kinh hãi sợ sệt!" ^3
 Mũi miệng co nhúm, lưỡi co rúm, thần thức mờ mịt,
 Linh kiến ảo ảnh khói lam bắt đầu xuất hiện,
 Khi hiện tướng Thủy đại tan vào Hỏa đại,
-Xin Phật A Di Đà hiện tôn nhan an ủi tâm con! ^4
+Xin Phật A Di Đà hiện tôn nhan an ủi tâm con! ^0-4
 
 > དྲོད་སྡུད་མདངས་ཤོར་ཤིག་འབྲོས་རླངས་པ་འཕྲོ།།
 > སྲིན་བུ་མེ་ཁྱེར་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -94,7 +95,7 @@ Xin Phật A Di Đà hiện tôn nhan an ủi tâm con! ^4
 Hơi ấm thu lại, sắc nhợt nhạt, trùng rận trốn chạy, hơi sương tỏa ra,
 Linh kiến ảo ảnh đom đóm bắt đầu xuất hiện,
 Khi hiện tướng Hỏa đại tan vào Phong đại,
-Xin Phật A Di Đà cất vang pháp âm rõ rệt! ^5
+Xin Phật A Di Đà cất vang pháp âm rõ rệt! ^0-5
 
 > ལུས་ནི་ཤིགས་སེ་འཐོར་ཞིང་དབུགས་ཐག་ཆད།།
 > མར་མེ་ལྟ་བུའི་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -104,7 +105,7 @@ Xin Phật A Di Đà cất vang pháp âm rõ rệt! ^5
 Thân thể rã tan, hơi thở hoàn toàn đứt đoạn,
 Linh kiến ảo ảnh ngọn đèn bắt đầu xuất hiện,
 Khi hiện tướng Phong đại tan vào Thức đại,
-Xin Phật A Di Đà hoan hỷ quang lâm nghênh đón! ^6
+Xin Phật A Di Đà hoan hỷ quang lâm nghênh đón! ^0-6
 
 > དེ་ཚེ་ཁྱོད་ཐུགས་འོད་ཟེར་ལྕགས་ཀྱུའི་རྩེ།།
 > སྤྱི་གཙུག་ཚངས་བའི་བུ་གར་རབ་ཟུག་སྟེ།།
@@ -114,7 +115,7 @@ Xin Phật A Di Đà hoan hỷ quang lâm nghênh đón! ^6
 Khi ấy mũi móc câu ánh sáng từ tâm Ngài,
 Cắm chặt vào lỗ hổng Phạm Thiên trên đỉnh đầu,
 Kéo thần thức con đi lên thông qua Trung mạch,
-An tọa vững chãi trong búp sen cõi Cực Lạc! ^7
+An tọa vững chãi trong búp sen cõi Cực Lạc! ^0-7
 
 > སྐད་ཅིག་དེ་རུ་ལུས་ཀྱི་སྐྱེ་མཆེད་རྫོགས།།
 > ཐེག་ཆེན་རིགས་ཅན་ལྟ་བུའི་ལུས་བླངས་ཏེ།།
@@ -124,8 +125,8 @@ An tọa vững chãi trong búp sen cõi Cực Lạc! ^7
 Ngay khoảnh khắc ấy các căn thân thể viên mãn,
 Thọ nhận sắc thân của bậc mang căn tánh Đại thừa,
 Được chiêm ngưỡng tôn nhan và thọ trì giáo pháp Ngài,
-Nguyện chứng đắc quả vị Bồ-đề bất thoái chuyển! ^8
+Nguyện chứng đắc quả vị Bồ-đề bất thoái chuyển! ^0-8
 
 > ཅེས་དམིགས་པ་གསལ་བའི་སྒོ་ནས་འོད་དཔག་མེད་པའི་མཚན་ཐུབ་ཚོད་དུ་བཟླ་ཞིང་བཟང་སྤྱོད་སྨོན་ལམ་གྱིས་རྒྱས་གདབ་པོ།།ཞེས་པ་འདི་ནི་འཁོར་ལོ་སྣ་ཁའི་དགེ་བསྙེན་མ་ཤེས་རབ་སྒྲོལ་མས་ནན་ཆེར་བསྐུལ་ངོར།། ཚེ་ཏན་ཞབས་དྲུང་འཇིགས་མེད་རིགས་པའི་བློ་གྲོས་ཀྱིས་མདོར་བསྡུས་ཁ་གསལ་དུ་བྲིས་པའོ། །
 
-Với sự quán tưởng rõ ràng như vậy, hãy trì tụng hồng danh Phật A Di Đà tùy theo khả năng và ấn chứng bằng Phổ Hiền Hạnh Nguyện. Tác phẩm này được Tseten Zhabdrung Jigme Rigpe Lodro viết một cách súc tích và rõ ràng, thể theo lời thỉnh cầu tha thiết của cận sự nữ Sherab Drolma xứ Khorlo Nakha. ^9
+Với sự quán tưởng rõ ràng như vậy, hãy trì tụng hồng danh Phật A Di Đà tùy theo khả năng và ấn chứng bằng Phổ Hiền Hạnh Nguyện. Tác phẩm này được Tseten Zhabdrung Jigme Rigpe Lodro viết một cách súc tích và rõ ràng, thể theo lời thỉnh cầu tha thiết của cận sự nữ Sherab Drolma xứ Khorlo Nakha. ^1-1-1

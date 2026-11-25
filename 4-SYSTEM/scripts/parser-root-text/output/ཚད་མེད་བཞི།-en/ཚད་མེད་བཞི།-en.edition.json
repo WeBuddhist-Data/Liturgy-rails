@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "May all sentient beings be endowed with happiness and the causes of happiness.May all sentient beings be free from suffering and the causes of suffering.May all sentient beings never be separated from the bliss that is free from suffering.May all sentient beings abide in equanimity, free from the attachment and aversion of near and far.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 78
+          },
+          {
+            "start": 78,
+            "end": 153
+          },
+          {
+            "start": 153,
+            "end": 239
+          },
+          {
+            "start": 239,
+            "end": 338
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

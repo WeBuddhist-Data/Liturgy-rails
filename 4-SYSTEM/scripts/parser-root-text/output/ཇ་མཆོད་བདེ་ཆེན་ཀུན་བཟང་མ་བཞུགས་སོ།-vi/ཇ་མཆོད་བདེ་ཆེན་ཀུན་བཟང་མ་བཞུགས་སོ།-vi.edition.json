@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Tự thân hiển minh là Bản Tôn, trên luân xa đại lạc,Giữa hội chúng vô lượng chư Tôn tịch nộ quy tụ,Trên bảo tọa sư tử, đài sen cùng nhật nguyệt luân,Bậc Đạo sư gốc, hiện thân của mọi quy y, an tọa.Om Ah HumBiển trà cúng dường Phổ Hiền đại lạc này,Con xin dâng lên làm hoan hỷ bậc Đạo sư gốc tôn quý,Từ trong tự tánh đại lạc viên mãn rộng lớn,Xin ban gia trì cho tâm Ngài và tâm con hòa quyện làm một.Om Ah HumBiển trà cúng dường Phổ Hiền đại lạc này,Con xin dâng lên làm hoan hỷ hội chúng Đạo sư truyền thừa,Từ trong tự tánh đại lạc viên mãn rộng lớn,Xin ban gia trì cho con thành tựu sự giải thoát vô nhiễm.Om Ah HumBiển trà cúng dường Phổ Hiền đại lạc này,Con xin dâng lên làm hoan hỷ hội chúng Bản Tôn trong mạn-đà-la,Từ trong tự tánh đại lạc viên mãn rộng lớn,Xin ban cho con những thành tựu tối thắng và chung.Om Ah HumBiển trà cúng dường Phổ Hiền đại lạc này,Con xin dâng lên làm hoan hỷ hội chúng Tam Bảo trân quý,Từ trong tự tánh đại lạc viên mãn rộng lớn,Xin giải thoát con khỏi mọi sợ hãi của luân hồi và tịch diệt.Om Ah HumBiển trà cúng dường Phổ Hiền đại lạc này,Con xin dâng lên làm hoan hỷ hội chúng Không Hành và Hộ Pháp,Từ trong tự tánh đại lạc viên mãn rộng lớn,Xin giúp con thành tựu không sót mọi phật sự du-già.Xin hướng về chư bậc Đạo sư gốc đại lạc,Nhờ dâng cúng trà Phổ Hiền đại lạc này,Nguyện đạt được thể kim cang song vận đại lạc bất biến,Và dùng hóa thân đại lạc dẫn dắt mọi chúng sinh.Mangalam",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 51
+          },
+          {
+            "start": 51,
+            "end": 98
+          },
+          {
+            "start": 98,
+            "end": 148
+          },
+          {
+            "start": 148,
+            "end": 196
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 196,
+            "end": 205
+          },
+          {
+            "start": 205,
+            "end": 246
+          },
+          {
+            "start": 246,
+            "end": 298
+          },
+          {
+            "start": 298,
+            "end": 341
+          },
+          {
+            "start": 341,
+            "end": 399
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 399,
+            "end": 408
+          },
+          {
+            "start": 408,
+            "end": 449
+          },
+          {
+            "start": 449,
+            "end": 507
+          },
+          {
+            "start": 507,
+            "end": 550
+          },
+          {
+            "start": 550,
+            "end": 607
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 607,
+            "end": 616
+          },
+          {
+            "start": 616,
+            "end": 657
+          },
+          {
+            "start": 657,
+            "end": 720
+          },
+          {
+            "start": 720,
+            "end": 763
+          },
+          {
+            "start": 763,
+            "end": 814
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 814,
+            "end": 823
+          },
+          {
+            "start": 823,
+            "end": 864
+          },
+          {
+            "start": 864,
+            "end": 920
+          },
+          {
+            "start": 920,
+            "end": 963
+          },
+          {
+            "start": 963,
+            "end": 1024
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 1024,
+            "end": 1033
+          },
+          {
+            "start": 1033,
+            "end": 1074
+          },
+          {
+            "start": 1074,
+            "end": 1135
+          },
+          {
+            "start": 1135,
+            "end": 1178
+          },
+          {
+            "start": 1178,
+            "end": 1230
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1230,
+            "end": 1270
+          },
+          {
+            "start": 1270,
+            "end": 1309
+          },
+          {
+            "start": 1309,
+            "end": 1364
+          },
+          {
+            "start": 1364,
+            "end": 1412
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1412,
+            "end": 1420
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

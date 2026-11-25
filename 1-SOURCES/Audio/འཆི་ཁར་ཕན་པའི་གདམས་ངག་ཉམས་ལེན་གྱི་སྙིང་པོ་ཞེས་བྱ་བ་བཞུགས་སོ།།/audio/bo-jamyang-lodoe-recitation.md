@@ -12,7 +12,7 @@ root_text_title: "འཆི་ཁར་ཕན་པའི་གདམས་ང�
 source_description: "Single recording of the recitation of The Essence of Practice: Advice That Benefits at the Time of Death by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a"
+audio_file: "1-SOURCES/Audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:02:44.87"
 duration_seconds: 164.875
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 2670135
-sha256: c9f6887ea0811d3b1e2be26a1dc7448f5b831850409870ee733d6a9c2e16899a
-converted_from:
-  audio_file: "1-SOURCES/Audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3074
-  file_size_bytes: 63344640
-  sha256: 6dc3fae11a7b14e50ada380c79f8c2f89780d5f5cf536f583cbb07dc6487b812
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 09ddafc74b74365c2d10c956d3ea6c883ba7f6b8f6a9bbd7480db0484345ced4
 recording_time: "03:22:42"
 scene: "010224-032242"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/འཆི་ཁར་ཕན་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.WAV]]
+![[1-SOURCES/Audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a]]
 
 ## Mapping
 

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Nơi Phật, Pháp và Tăng già tôn quý,Con xin quy y đến khi giác ngộ.Nhờ công đức tu bố thí, các hạnh,Nguyện đạt Phật quả lợi ích chúng sinh.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 35
+          },
+          {
+            "start": 35,
+            "end": 66
+          },
+          {
+            "start": 66,
+            "end": 99
+          },
+          {
+            "start": 99,
+            "end": 138
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: Izi3Q72VFPKshueqAaLNy
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Emaho! Pháp thân Phổ Hiền và Kim Cang Trì thứ sáu,
 Đạo sư Kim Cang Tát Đỏa, Thế Tôn Thích Ca Mâu Ni,
 Đức Vô Lượng Thọ cùng Quán Thế Âm,
-Bất khả phân với Liên Hoa Sanh, con thành tâm cầu nguyện. ^1
+Bất khả phân với Liên Hoa Sanh, con thành tâm cầu nguyện. ^0-1
 
 > སྐུ་ཡི་བདག་ཉིད་འཇམ་དཔལ་གཤིན་རྗེའི་གཤེད༔
 > གསུང་གི་བདག་ཉིད་དབང་ཆེན་རྟ་སྐད་འཚེར༔
@@ -64,7 +65,7 @@ Bất khả phân với Liên Hoa Sanh, con thành tâm cầu nguyện. ^1
 Bản tôn của Thân là Văn Thù Yamantaka,
 Bản tôn của Khẩu là Hayagriva với tiếng mã hống,
 Bản tôn của Ý là Yangdak Heruka,
-Đạo sư Như Ý Bảo Châu, con thành tâm cầu nguyện. ^2
+Đạo sư Như Ý Bảo Châu, con thành tâm cầu nguyện. ^0-2
 
 > ཡོན་ཏན་ཟིལ་གནོན་ཆེ་མཆོག་ཧེ་རུ་ཀ༔
 > ཕྲིན་ལས་བདག་ཉིད་རྡོ་རྗེ་གཞོན་ནུའི་སྐུ༔
@@ -74,7 +75,7 @@ Bản tôn của Ý là Yangdak Heruka,
 Bản tôn của Công đức là Tôn thắng Chemchok Heruka,
 Bản tôn của Sự nghiệp là Thân Kim Cang Đồng Tử,
 Bậc chủ tôn của chư Mamo và Không Hành Nữ là Ngondzok Gyal,
-Đại vinh tôn Thötreng Tsal, con thành tâm cầu nguyện. ^3
+Đại vinh tôn Thötreng Tsal, con thành tâm cầu nguyện. ^0-3
 
 > སྐུ་ཡི་དབྱིངས་སུ་སྒྱུ་འཕྲུལ་ཞི་ཁྲོའི་ངང་༔
 > གསུང་གི་གདངས་སྐད་ཡན་ལག་བཅུ་གཉིས་ལྡན༔
@@ -84,7 +85,7 @@ Bậc chủ tôn của chư Mamo và Không Hành Nữ là Ngondzok Gyal,
 Trong không gian của Thân là bản tính Tịch Phẫn huyễn hóa,
 Âm thanh của Khẩu mang mười hai diệu âm,
 Trí tuệ của Ý quang minh xuyên thấu bao trùm tất cả,
-Đạo sư chúa tể của Không Hành Nữ, con thành tâm cầu nguyện. ^4
+Đạo sư chúa tể của Không Hành Nữ, con thành tâm cầu nguyện. ^0-4
 
 > སྐུ་ཚབ་ལུང་བསྟན་གསུང་ཚབ་གཏེར་དུ་སྦས༔
 > ཐུགས་ཀྱི་དགོངས་པ་ལས་ཅན་བུ་ལ་གཏད༔
@@ -94,7 +95,7 @@ Trí tuệ của Ý quang minh xuyên thấu bao trùm tất cả,
 Ngài để lại Thân đại diện và tiên tri, ẩn giấu Khẩu đại diện như phục tạng,
 Trí tuệ của Ý được phó chúc cho những người con có duyên,
 Ngài để lại di huấn đại bi cho toàn bộ người dân Tây Tạng,
-Hóa Thân vô cùng ân trọng, con thành tâm cầu nguyện. ^5
+Hóa Thân vô cùng ân trọng, con thành tâm cầu nguyện. ^0-5
 
 > བཀའ་དྲིན་དྲན་ནོ་གུ་རུ་རིན་པོ་ཆེ༔
 > ཐུགས་དམ་ཞལ་བཞེས་དགོངས་པས་བཟུང་དུ་གསོལ༔
@@ -104,7 +105,7 @@ Hóa Thân vô cùng ân trọng, con thành tâm cầu nguyện. ^5
 Con nhớ tưởng ân đức Ngài, ôi Guru Rinpoche,
 Xin giữ lời thệ nguyện và nhiếp thọ chúng con bằng tuệ tâm,
 Trong thời ác trược này, con không còn chốn tựa nương nào khác,
-Xin đoái thương nhìn bằng tâm đại bi, Hóa thân Oḍḍiyāna. ^6
+Xin đoái thương nhìn bằng tâm đại bi, Hóa thân Oḍḍiyāna. ^0-6
 
 > མཐུ་རྩལ་ནུས་པས་དུས་ངན་གཡོ་འཁྲུགས་ཟློག༔
 > བྱིན་རླབས་ཡེ་ཤེས་དབང་ཆེན་བསྐུར་དུ་གསོལ༔
@@ -116,8 +117,8 @@ Bằng oai lực diệu dụng, xin xua tan những nhiễu nhương thời mạ
 Xin ban đại quán đảnh trí tuệ và sự gia trì,
 Xin làm tăng trưởng năng lực của kinh nghiệm và chứng ngộ,
 Ban oai lực tối thắng để làm lợi ích cho giáo pháp và chúng sinh,
-Xin gia hộ chúng con thành tựu Phật quả ngay trong một đời! ^7
+Xin gia hộ chúng con thành tựu Phật quả ngay trong một đời! ^0-7
 
 > སྤྲུལ་པའི་གཏེར་ཆེན་མཆོག་གྱུར་གླིང་པས་ཀརྨའི་དམ་ཅན་བྲག་ནས་སྤྱན་དྲངས་པའི་ཨོ་རྒྱན་རིན་པོ་ཆེའི་རྣམ་ཐར་ལས་བྱུང་བའི་ཞལ་ཆེམས་གསོལ་འདེབས་བྱིན་རླབས་ཅན་ནོ།། །།
 
-Đây là Bài cầu nguyện Di huấn đầy lực gia trì, được trích từ hành trạng của Oḍḍiyāna Rinpoche, do Đại Khai Tạng Sư Hóa thân Chokgyur Lingpa thỉnh từ vách đá Karma Damchen. ^8
+Đây là Bài cầu nguyện Di huấn đầy lực gia trì, được trích từ hành trạng của Oḍḍiyāna Rinpoche, do Đại Khai Tạng Sư Hóa thân Chokgyur Lingpa thỉnh từ vách đá Karma Damchen. ^1-1

@@ -12,7 +12,7 @@ root_text_title: "འཕགས་པ་ཐུགས་རྗེ་ཆེན་�
 source_description: "Single recording of the recitation of A Shower of Benefit and Happiness: Praise and Supplication to Noble Avalokiteśvara by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a"
+audio_file: "1-SOURCES/Audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:19:37.83"
 duration_seconds: 1177.833
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 19067162
-sha256: 38a8e48f7937d92de97e28e7c49898219eaec2b0b99210412e27e574fb3fd507
-converted_from:
-  audio_file: "1-SOURCES/Audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3072
-  file_size_bytes: 452320768
-  sha256: fb7f239b18fe0bf5ec7dfa07177ded63263cb1ac19847409fd0b7bbd2e718c07
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: bf4eb3d6c228ddc2e4ba72ea3781d5828495e2f984a17b0cb1ce736fac0fac83
 recording_time: "04:00:24"
 scene: "010224-040024"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/འཕགས་པ་ཐུག�
 
 ## Recitation
 
-![[1-SOURCES/Audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།.WAV]]
+![[1-SOURCES/Audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོ་ལ་བསྟོད་ཅིང་གསོལ་བ་འདེབས་པ་ཕན་བདེའི་ཆར་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།.m4a]]
 
 ## Mapping
 

@@ -12,7 +12,7 @@ root_text_title: "སངས་རྒྱས་ཆོས་ཚོགས་མ།"
 source_description: "Single recording of the recitation of The Refuge and Bodhicitta Prayer by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།/སངས་རྒྱས་ཆོས་ཚོགས་མ།.m4a"
+audio_file: "1-SOURCES/Audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།/audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།.m4a"
 accompaniment: false
 duration: "00:00:35.25"
 duration_seconds: 35.255
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 571819
-sha256: 1b4ea1c268f1a2bc0bc433e6a6d02c0bf39bf1571ac9d4ffed19ed0d52192161
-converted_from:
-  audio_file: "1-SOURCES/Audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།/སངས་རྒྱས་ཆོས་ཚོགས་མ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3079
-  file_size_bytes: 13570560
-  sha256: c9072bdf57f5605d7a52e785fb6acea2f88a9529423535f8e54cfd48c607f46d
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 71bc5a8048735f134965c8ec80b8425797347c1f5d129bce0a9ae3d2d9f1c3d7
 recording_time: "18:03:19"
 scene: "050224-180319"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/སངས་རྒྱས་ཆ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།/audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།.WAV]]
+![[1-SOURCES/Audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།/audio/སངས་རྒྱས་ཆོས་ཚོགས་མ།.m4a]]
 
 ## Mapping
 

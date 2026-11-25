@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 14
 blocks_total: 14
 status: draft
+toc_id: QxEu1dOpeH8Rz5xbaOEqY
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -42,7 +43,7 @@ status: draft
 
 > སངས་རྒྱས་གཉིས་པ་སློབ་དཔོན་ཆེན་པོ་ལ་རྣམ་པ་ཀུན་ཏུ་ཕྱག་འཚལ་ཞིང་སྐྱབས་སུ་མཆིའོ། །
 
-I prostrate to and take refuge in the great master, the second Buddha, in all ways and at all times. ^1
+I prostrate to and take refuge in the great master, the second Buddha, in all ways and at all times. ^0-1
 
 > བསྐལ་བཟང་འདིར་བྱོན་སངས་རྒྱས་སྟོང་རྩ་ཀུན། །
 > སྤངས་རྟོགས་མཉམ་ཞིང་འགྲོ་ལ་ཐུགས་བརྩེ་ཡང་། །
@@ -52,7 +53,7 @@ I prostrate to and take refuge in the great master, the second Buddha, in all wa
 Of all the thousand Buddhas who appear in this Fortunate Aeon,
 Equal in their abandonment, realization, and compassion for beings,
 Yet here in this land of snow mountains, there is no one equal to you;
-Contemplating your inexpressible kindness, my faith increases. ^2
+Contemplating your inexpressible kindness, my faith increases. ^0-2
 
 > ཁ་བ་ཅན་འདི་ལག་ན་པདྨ་ཡིས། །
 > གདུལ་བྱར་རྒྱལ་བས་ལུང་བསྟན་མཛད་པའི་དོན། །
@@ -62,7 +63,7 @@ Contemplating your inexpressible kindness, my faith increases. ^2
 In this Land of Snows, the Lotus-Bearer,
 Prophesied by the Victors to tame beings—
 Other than the life-stories enacted by the three Ancestral Kings and the Great One of Orgyen,
-There is nothing else to be found. ^3
+There is nothing else to be found. ^0-3
 
 > གུ་རུ་ང་སྒོམས་ང་སྒྲུབས་ང་རྗེས་སྙོགས། །
 > ང་མཐོང་སངས་རྒྱས་ཀུན་མཐོང་ང་ཉིད་ནི། །
@@ -74,7 +75,7 @@ There is nothing else to be found. ^3
 To see me is to see all the Buddhas; since I myself
 Am the very essence of all the Sugatas gathered as one,"
 You said, "I shall appear in Tibet every time the tenth day comes."
-Therefore, remembering your life story, I pray to you. ^4
+Therefore, remembering your life story, I pray to you. ^0-4
 
 > ཧོར་ཟླ་དྲུག་པའི་ཆོས་བཅུའི་ཉི་ཤར་ལ། །
 > དྷ་ན་ཀོ་ཤར་པདྨའི་སྦུབས་ལ་བྱོན། །
@@ -88,7 +89,7 @@ You appeared within the hollow of a lotus on Lake Dhanakośa.
 In the month of Gyal, invited by King Indrabhūti,
 You were enthroned as prince and attained the supreme Vajra path.
 In the month of Chu, you renounced the kingdom to seek the Cool Grove,
-And through your yogic conduct, you brought the ḍākinīs under your command. ^5
+And through your yogic conduct, you brought the ḍākinīs under your command. ^0-5
 
 > དབོ་ཟླར་བསྟན་ལ་རིམ་བཞིན་བཀྲི་པའི་སླད། །
 > སློབ་དཔོན་པྲ་བྷཧསྟིར་རབ་ཏུ་བྱུང་། །
@@ -98,7 +99,7 @@ And through your yogic conduct, you brought the ḍākinīs under your command. 
 In the month of Phalguna, to lead beings gradually into the teachings,
 You took ordination from the master Prabhahasti.
 In the month of Chaitra, when the King of Zahor attempted to burn you alive,
-You transformed the fire into water and were praised by the gods of the Heaven of the Thirty-Three. ^6
+You transformed the fire into water and were praised by the gods of the Heaven of the Thirty-Three. ^0-6
 
 > ས་ཟླར་ཨོ་རྒྱན་རྒྱལ་པོས་ཡབ་ཡུམ་གཉིས། །
 > ལྷན་ཅིག་མེར་བསྲེགས་ལོག་སྲེད་ཅན་དག་ཀྱང་། །
@@ -106,13 +107,13 @@ You transformed the fire into water and were praised by the gods of the Heaven o
 
 In the month of Vaishakha, when the King of Orgyen sought to burn the Father and Mother,
 Even those with perverted desires, who should have been burned together,
-You placed, beyond their own control, into a state of faith. ^7
+You placed, beyond their own control, into a state of faith. ^0-7
 
 > སྣྲོན་ཟླར་ལྷོ་ཕྱོགས་མཐར་སྐྱེས་རྒྱལ་ཁམས་སུ། །
 > བསྟན་ལ་འཁུ་བའི་མུ་སྟེགས་ཐོག་གིས་བསྒྲལ། །
 
 In the month of Jyeṣṭha, in the kingdoms of the southern frontier,
-You liberated with thunderbolts the heretics who were hostile to the teachings. ^8
+You liberated with thunderbolts the heretics who were hostile to the teachings. ^0-8
 
 > གྲོ་བཞིན་ཟླ་བར་མཐའ་འཁོབ་ཟངས་གླིང་གི །
 > མུ་སྟེགས་རྒྱལ་པོས་ཟངས་ཆེན་ཁ་སྦྱོར་ནང༌། །
@@ -126,7 +127,7 @@ When the heretic king placed you inside a large copper vessel with its lid seale
 And cast you into the river, through your miraculous power,
 You instantly ascended into the sky, and at that very moment, the river
 Flowed backward, threatening the palace of the sinful king,
-Who, overwhelmed with terror, apologized and took refuge in you. ^9
+Who, overwhelmed with terror, apologized and took refuge in you. ^0-9
 
 > ཁྲུམས་ཟླར་མུ་སྟེགས་ངན་བའི་ཟས་དུག་གིས། །
 > བཀྲོངས་པ་སེམས་ཀྱང་གནོད་པ་མེད་ཀྱི་སྟེང་། །
@@ -140,7 +141,7 @@ You were unharmed, and even beyond that,
 You displayed a state of even more radiant and flourishing splendor.
 In the month of Ashvina, you traveled to Yangleshö;
 Although the gods and demons of both Nepal and Tibet challenged you,
-Arising in the form of Vajrakumāra, you bound them under oath. ^10
+Arising in the form of Vajrakumāra, you bound them under oath. ^0-10
 
 > སྨིན་དྲུག་ཟླ་བར་བོད་ཡུལ་དབུས་སུ་བྱོན། །
 > ཧས་པོའི་རི་རྩེར་ལྷ་སྲིན་དམ་ལ་བཞག །
@@ -150,7 +151,7 @@ Arising in the form of Vajrakumāra, you bound them under oath. ^10
 In the month of Smin-drug, you arrived in Central Tibet.
 On the peak of Mount Hepori, you bound the gods and demons under oath.
 That the Buddha's teachings spread in Tibet is due to your kindness alone;
-Reflecting on how this is not dependent on any other, I feel deep faith. ^11
+Reflecting on how this is not dependent on any other, I feel deep faith. ^0-11
 
 > མགོ་ཟླར་སྲིན་ཡུལ་གཤེགས་པ་ལ་དགོངས་ནས། །
 > མཆིམས་ཕུར་ཡོན་མཆོད་བཀའ་བགྲོས་བོད་ཡུལ་ཀུན། །
@@ -184,7 +185,7 @@ Frost, hail, poverty, warfare, loss of livestock, and so forth—
 All the various forms of worldly decline and the degenerations of the age—
 If you offer prayers while maintaining the Tenth Day offerings,
 These will be tangibly pacified through that blessing alone.
-The time to fulfill your promise has come; look upon us with compassion! ^12
+The time to fulfill your promise has come; look upon us with compassion! ^0-12
 
 > བོད་འབངས་བསམ་ཡོད་ཐམས་ཅད་ཁྱོད་ལ་དད། །
 > བསམ་མེད་དྲིན་ཆེན་ཕ་མ་དག་ལ་ཡང༌། །
@@ -200,8 +201,8 @@ Toward their own kind parents, we invoke your compassion,
 Which is free from partiality; we urge you to fulfill your sacred vow.
 Never forsaking the Tibetan people,
 The time to fulfill your promise has come; look upon us with compassion!
-Grant your blessings so that all intentions are fulfilled according to our wishes. ^13
+Grant your blessings so that all intentions are fulfilled according to our wishes. ^0-13
 
 > ཞེས་པའང་བསམ་ཡས་རབ་བྱུང་པ་དབྱངས་ཡིག་དང་པོའི་མིང་ཅན་གྱི་ངོར༌། ༧རིག་འཛིན་འཇིགས་མེད་གླིང་པས་སོ། །
 
-This was written by Rig-’dzin ’Jigs-med gling-pa for the one named Dbyangs-yig dang-po of Samye Rabjung. ^14
+This was written by Rig-’dzin ’Jigs-med gling-pa for the one named Dbyangs-yig dang-po of Samye Rabjung. ^1-1-1

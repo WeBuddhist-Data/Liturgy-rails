@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Your thousand arms are the thousand universal monarchs,Your thousand eyes are the thousand Buddhas of the Fortunate Aeon,Manifesting to each in whatever form is needed to tame them,To the venerable Avalokiteśvara, I prostrate.Oṃ maṇi padme hūṃ.By this merit, may I quicklyAchieve the state of the Lord Avalokiteśvara,And may I establish every single living being, without exception,Upon your level.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 55
+          },
+          {
+            "start": 55,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "end": 226
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 226,
+            "end": 244
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 244,
+            "end": 272
+          },
+          {
+            "start": 272,
+            "end": 317
+          },
+          {
+            "start": 317,
+            "end": 382
+          },
+          {
+            "start": 382,
+            "end": 398
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

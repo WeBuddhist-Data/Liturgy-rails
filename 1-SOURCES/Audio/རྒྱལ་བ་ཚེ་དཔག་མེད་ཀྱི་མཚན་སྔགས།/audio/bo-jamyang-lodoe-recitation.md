@@ -12,7 +12,7 @@ root_text_title: "རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱ�
 source_description: "Single recording of the recitation of The Name Mantra of Buddha Amitāyus by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.m4a"
+audio_file: "1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.m4a"
 accompaniment: false
 duration: "00:01:12.13"
 duration_seconds: 72.135
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1168664
-sha256: 420d5ec7f1438b9386d3ba68a9712c05d6bfacfa10be4d8ec6831ca6dc7c8327
-converted_from:
-  audio_file: "1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3076
-  file_size_bytes: 27732480
-  sha256: 5c5f7fa1c739afd93eb493f28435a1fc9c2078fb7d1294132f6e129fa501d1cc
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: cd12ac967f251805e394e57d08ac4b2bf65ad04eda5c890d43ca9321891945b2
 recording_time: "05:17:59"
 scene: "040224-051759"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/རྒྱལ་བ་ཚེ་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.WAV]]
+![[1-SOURCES/Audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།/audio/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.m4a]]
 
 ## Mapping
 

@@ -10,18 +10,17 @@ root_text_title: "གཙོ་རྒྱལ་མ་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of གཙོ་རྒྱལ་མ་བཞུགས་སོ། by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-15 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-15
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །.WAV"
+audio_file: "1-SOURCES/Audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །/audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །.m4a"
 accompaniment: false
 duration: "00:03:23.66"
 duration_seconds: 203.664
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3073
-file_size_bytes: 78239744
-sha256: 7a87a40ba58decd9bfa3776b772faffeac3df43ee58231dd911fce6d41f1be5e
+bit_rate_kbps: 128
+file_size_bytes: 3297860
+sha256: 3cf74c481dc78b610db8338c2bb44528517ab481f5af435bbc00e2726c77c171
 recording_time: "17:00:50"
 scene: "150224-170050"
 license: cc-by
@@ -33,11 +32,11 @@ One recording of the root text [[1-SOURCES/Text/གཙོ་རྒྱལ་མ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `གཙོ་རྒྱལ་མ་བཞུགས་སོ། །.WAV` | 3:23.66 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `གཙོ་རྒྱལ་མ་བཞུགས་སོ། །.m4a` | 3:23.66 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །/audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །.WAV]]
+![[1-SOURCES/Audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །/audio/གཙོ་རྒྱལ་མ་བཞུགས་སོ། །.m4a]]
 
 ## Mapping
 

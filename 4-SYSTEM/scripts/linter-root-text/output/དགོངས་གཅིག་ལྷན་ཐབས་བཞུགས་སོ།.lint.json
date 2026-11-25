@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:27.072843+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [
+    "author 'རྗེ་བླ་མ་དྷཱརྨ་སཱུརྱས་སྩལ་བའོ': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0XLC38BEEC57CFB",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Supplement to the Single Intention"
+      },
+      {
+        "zh": "《一意》補遺"
+      },
+      {
+        "hi": "एक आशय का परिशिष्ट"
+      },
+      {
+        "ne": "गोङ्चिग ल्हेनथब"
+      },
+      {
+        "mn": "Ганц таалал сургаалын хавсралт"
+      },
+      {
+        "vi": "Phụ Lục Nhất Ý"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

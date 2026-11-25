@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XLB9BC38063C3E",
+  "title": {
+    "bo": "བདེན་ཚིག་སྨོན་ལམ།"
+  },
+  "alt_titles": [
+    {
+      "en": "The Prayer of the Words of Truth"
+    },
+    {
+      "zh": "真實語祈願文"
+    },
+    {
+      "hi": "सत्य वचन प्रार्थना"
+    },
+    {
+      "ne": "सत्य वचन प्रार्थना"
+    },
+    {
+      "mn": "Үнэний үгийн ерөөл"
+    },
+    {
+      "vi": "Lời Cầu Nguyện Chân Thật"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "unknown",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1649"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

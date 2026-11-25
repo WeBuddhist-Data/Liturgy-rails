@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:28.905310+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [
+    "25 no-break space U+00A0 in the source (body line 3, 5, 21, 31, 50, 52, 53, 63 …) — the parser normalises it; clean the source with clean-whitespace/clean_whitespace.py"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL1A5D314AA8D3",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་ཞལ་གདམས་དིང་རི་བརྒྱ་རྩ་མ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Hundred Verses of Advice to the People of Tingri"
+      },
+      {
+        "zh": "定日百法"
+      },
+      {
+        "hi": "दिंगरी के लोगों को सौ उपदेश"
+      },
+      {
+        "ne": "दिङ्ग्रीवासीलाई सय उपदेश"
+      },
+      {
+        "mn": "Динригийн зуун сургаал"
+      },
+      {
+        "vi": "Một Trăm Lời Khuyên Dân Làng Tingri"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P1243"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

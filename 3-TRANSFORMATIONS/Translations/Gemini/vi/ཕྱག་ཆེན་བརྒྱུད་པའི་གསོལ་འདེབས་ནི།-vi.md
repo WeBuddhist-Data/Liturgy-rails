@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 20
 blocks_total: 20
 status: draft
+toc_id: vksCaOCQAGC6ZxPjWGFjv
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Namo Mahamudraye!
 Trong vô lượng cung Tam thân tự tại,
 Đấng Bản Sơ Phật, Chủ tôn muôn bộ,
-Con khẩn cầu Biến chủ Kim Cang Trì. ^1
+Con khẩn cầu Biến chủ Kim Cang Trì. ^0-1
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -64,7 +65,7 @@ Con khẩn cầu Biến chủ Kim Cang Trì. ^1
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^2
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-2
 
 > ཞིང་རབ་འབྱམས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །
 > དུས་གསུམ་གྱི་རྒྱལ་བ་བསྐྱེད་པའི་ཡབ། །
@@ -72,7 +73,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^2
 
 Nơi vô tận thế giới trong mười phương,
 Đức Từ phụ sinh ra chư Phật ba đời,
-Con khẩn cầu Đức Thánh Văn Thù trí tuệ vô song. ^3
+Con khẩn cầu Đức Thánh Văn Thù trí tuệ vô song. ^0-3
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -82,7 +83,7 @@ Con khẩn cầu Đức Thánh Văn Thù trí tuệ vô song. ^3
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^4
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-4
 
 > ཡུལ་བྱང་ཕྱོགས་ཁ་བ་ཅན་ལྗོངས་འདིར། །
 > ཐུབ་བསྟན་ལ་ཐུབ་དབང་གཉིས་པའི་རྗེ། །
@@ -90,7 +91,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^4
 
 Nơi vùng đất tuyết phương Bắc này,
 Đấng Đạo sư là vị Phật thứ hai của giáo pháp,
-Con khẩn cầu Đạo sư Chí tôn Lobsang Drakpa. ^5
+Con khẩn cầu Đạo sư Chí tôn Lobsang Drakpa. ^0-5
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -100,7 +101,7 @@ Con khẩn cầu Đạo sư Chí tôn Lobsang Drakpa. ^5
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^6
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-6
 
 > འཇམ་དབྱངས་ཀྱི་སྲས་པོ་ཙོང་ཁ་པའི། །
 > སྒྲུབ་བརྒྱུད་ཀྱི་བསྟན་པ་འཛིན་པའི་གཙོ། །
@@ -108,7 +109,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^6
 
 Của ngài Tsongkhapa, trưởng tử Đức Văn Thù,
 Bậc trì giữ chính yếu dòng giáo pháp thực hành,
-Con khẩn cầu Bậc chứng ngộ Jampal Gyatso. ^7
+Con khẩn cầu Bậc chứng ngộ Jampal Gyatso. ^0-7
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -118,7 +119,7 @@ Con khẩn cầu Bậc chứng ngộ Jampal Gyatso. ^7
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^8
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-8
 
 > སྙན་བརྒྱུད་ཀྱི་གདམས་པའི་མཛོད་ཕྱེ་ནས། །
 > སྐལ་ལྡན་གྱི་གདུལ་བྱ་སྨིན་མཛད་པའི། །
@@ -126,7 +127,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^8
 
 Mở ra kho tàng giáo huấn khẩu truyền,
 Làm chín muồi những chúng sinh có duyên,
-Con khẩn cầu ngài Bapo Chokyi Gyaltsen. ^9
+Con khẩn cầu ngài Bapo Chokyi Gyaltsen. ^0-9
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -136,7 +137,7 @@ Con khẩn cầu ngài Bapo Chokyi Gyaltsen. ^9
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^10
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-10
 
 > རིམ་གཉིས་ཀྱི་རྣལ་འབྱོར་མཐར་ཕྱིན་ནས། །
 > འཆི་མེད་ཀྱི་རིག་འཛིན་སྐུ་བརྙེས་པའི། །
@@ -144,7 +145,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^10
 
 Đạt đến cứu cánh du già hai thứ lớp,
 Chứng đắc thân Trì minh vương bất tử,
-Con khẩn cầu đấng Đại thành tựu Dharma Vajra. ^11
+Con khẩn cầu đấng Đại thành tựu Dharma Vajra. ^0-11
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -154,7 +155,7 @@ Con khẩn cầu đấng Đại thành tựu Dharma Vajra. ^11
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^12
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-12
 
 > ཆོས་བརྒྱད་ཀྱི་འཆིང་བས་མ་གོས་པར། །
 > ངེས་དོན་གྱི་བསྟན་པའི་རྒྱལ་མཚན་འཛིན། །
@@ -162,7 +163,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^12
 
 Không bị nhiễm ô bởi trói buộc của bát phong,
 Trì giữ cờ chiến thắng của giáo pháp liễu nghĩa,
-Con khẩn cầu ngài Lobsang Donyo Drubpa. ^13
+Con khẩn cầu ngài Lobsang Donyo Drubpa. ^0-13
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -172,7 +173,7 @@ Con khẩn cầu ngài Lobsang Donyo Drubpa. ^13
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^14
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-14
 
 > སྐུ་གསུམ་གྱི་ཕོ་བྲང་ཉམས་དགའ་བར། །
 > ངུར་སྨྲིག་གི་གར་གྱིས་འགྲོ་ཀུན་འདྲེན། །
@@ -180,7 +181,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^14
 
 Nơi cung điện Hỷ lạc của Tam thân,
 Trong vũ điệu y vàng dẫn dắt mọi chúng sinh,
-Con khẩn cầu ngài Khedrup Sangye Yeshe. ^15
+Con khẩn cầu ngài Khedrup Sangye Yeshe. ^0-15
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -190,7 +191,7 @@ Con khẩn cầu ngài Khedrup Sangye Yeshe. ^15
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^16
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-16
 
 > རྗེ་གྲུབ་ཐོབ་གོང་མའི་གདན་ས་རུ། །
 > དད་ལྡན་གྱི་གདུལ་བྱའི་དཔལ་དུ་ཤར། །
@@ -198,7 +199,7 @@ Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^16
 
 Tại trú xứ của chư Đại thành tựu giả thuở trước,
 Bừng sáng như vinh quang cho chúng đệ tử tín tâm,
-Con khẩn cầu bậc Đạo sư gốc đầy ân đức. ^17
+Con khẩn cầu bậc Đạo sư gốc đầy ân đức. ^0-17
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -208,7 +209,7 @@ Con khẩn cầu bậc Đạo sư gốc đầy ân đức. ^17
 Xin đoạn trừ ngã chấp trói buộc trong tâm,
 Thành tựu thuần thục từ bi và Bồ-đề tâm,
 Của con đường Đại Ấn hợp nhất,
-Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^18
+Xin gia trì mau chóng chứng đắc quả vị tối thượng. ^0-18
 
 > རྗེ་བླ་མ་སངས་རྒྱས་སུ་མཐོང་བ་དང༌། །
 > གནས་འཁོར་བ་ལ་ཞེན་པ་ལོག་པ་དང༌། །
@@ -222,8 +223,8 @@ Buông xả tâm bám luyến vào cõi luân hồi,
 Gánh vác trọng trách giải thoát mọi bà mẹ chúng sinh,
 Của con đường chung và không chung,
 Vinh quang Đại Ấn hợp nhất đó,
-Xin gia trì mau chóng chứng đắc. ^19
+Xin gia trì mau chóng chứng đắc. ^0-19
 
 > ཞེས་པའང་དགེ་སློང་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱིས་སྨྲས་སོ། །སརྦ་མངྒ་ལམ།། །།
 
-Lời này được Tỳ-kheo Lobsang Chokyi Gyaltsen nói ra. Sarva Mangalam. ^20
+Lời này được Tỳ-kheo Lobsang Chokyi Gyaltsen nói ra. Sarva Mangalam. ^1-1-1

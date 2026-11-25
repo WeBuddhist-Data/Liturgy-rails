@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 17
 blocks_total: 17
 status: draft
+toc_id: CLf39yOKCVrm7xvtCfjlp
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -56,7 +57,7 @@ Nam mô Đạo sư!
 Nơi tâm Bồ-đề tịnh độ không bụi trần,
 Đấng Tự sinh Chiến thắng Đẳng Chánh Giác,
 Bậc chuyển bánh xe Pháp thù thắng vô song,
-Con xin đảnh lễ Năng Nhân Drikung Rinchen. ^1
+Con xin đảnh lễ Năng Nhân Drikung Rinchen. ^0-1
 
 > དམ་པ་མཆོག་དེའི་ཞལ་གྱི་པདྨ་ནས། །
 > ལེགས་འོང་ཐུན་མོང་མ་ཡིན་རྡོ་རྗེའི་གསུང་། །
@@ -66,7 +67,7 @@ Con xin đảnh lễ Năng Nhân Drikung Rinchen. ^1
 Từ miệng hoa sen của bậc Tối thắng ấy,
 Tuôn lời Kim cương thù thắng chẳng tầm thường,
 Bốn mươi phần bổ sung tinh túy cam lồ,
-Ban niềm hỷ lạc cát tường cho hành giả. ^2
+Ban niềm hỷ lạc cát tường cho hành giả. ^0-2
 
 > ཕྱོགས་དུས་རྒྱལ་བ་ཀུན་གྱི་བསྟན་པ་གཅིག །
 > ཐེག་དང་གྲུབ་མཐའ་ཐམས་ཅད་རྟེན་འབྲེལ་ཡིན། །
@@ -76,7 +77,7 @@ Ban niềm hỷ lạc cát tường cho hành giả. ^2
 Giáo pháp chư Phật mười phương ba đời là một,
 Mọi Thừa và Tông phái đều là duyên khởi.
 Tám vạn pháp uẩn là đối trị phiền não,
-Trong mỗi pháp đều trọn mười hai bộ kinh. ^3
+Trong mỗi pháp đều trọn mười hai bộ kinh. ^0-3
 
 > དེ་བཞིན་སྡེ་སྣོད་གཅིག་ལའང་གསུམ་ཀ་འདུས། །
 > འཁོར་འདས་ཐམས་ཅད་ཕུན་ཚོགས་ལྔ་ཡིས་བསྡུས། །
@@ -86,7 +87,7 @@ Trong mỗi pháp đều trọn mười hai bộ kinh. ^3
 Như thế mỗi Tạng cũng dung nhiếp cả ba,
 Toàn bộ luân hồi niết bàn gồm năm sự viên mãn.
 Tạng A-tỳ-đạt-ma chung và không chung,
-Ngoại đạo và đạo Bon không thể thấy chân lý. ^4
+Ngoại đạo và đạo Bon không thể thấy chân lý. ^0-4
 
 > ཐར་པ་ཆ་མཐུན་འགའ་ཞིག་ཡོད་ཀྱང་རུང་། །
 > སྡོམ་དང་སྙིང་རྗེ་ཕྱི་རོལ་པ་ལའང་ཡོད། །
@@ -96,7 +97,7 @@ Ngoại đạo và đạo Bon không thể thấy chân lý. ^4
 Dù có thể có vài phần hợp giải thoát,
 Ngoại đạo cũng có giới luật và từ bi.
 Nhờ Thừa Tướng Pháp có thể một đời thành Phật,
-Pháp và thực hành tiếp nối đồng quy một quả Phật. ^5
+Pháp và thực hành tiếp nối đồng quy một quả Phật. ^0-5
 
 > སྡོམ་གསུམ་གོང་ནས་གོང་དུ་དོག་ཏུ་འགྲོ། །
 > མཐར་ཐུག་ས་ཚུན་ཚོགས་ལམ་ངོ་བོས་བགྲོད། །
@@ -106,7 +107,7 @@ Pháp và thực hành tiếp nối đồng quy một quả Phật. ^5
 Ba loại giới luật càng lên cao càng vi tế,
 Cho đến đạo quả rốt ráo tiến bước nhờ Tư lương đạo.
 Bởi có nhân nên Thanh Văn Duyên Giác thành Phật,
-Vì lìa bặt hý luận, luân hồi được xem là vô tận. ^6
+Vì lìa bặt hý luận, luân hồi được xem là vô tận. ^0-6
 
 > ཆོས་ཀུན་སོ་ཐར་སྡོམ་གསུམ་རེ་རེར་འདུ། །
 > སྡེ་བ་ཀུན་གྱི་རྩ་བ་ལུང་སྡེ་བཞི། །
@@ -116,7 +117,7 @@ Vì lìa bặt hý luận, luân hồi được xem là vô tận. ^6
 Mọi pháp đều quy nhiếp trong từng giới Biệt Giải Thoát,
 Cội nguồn của mọi bộ phái là bốn bộ A-hàm.
 Dù chỉ phạm giới trong mộng cũng nảy sinh lỗi lầm,
-Đã đạt Thánh Địa thanh tịnh vẫn có thể đọa ác thú. ^7
+Đã đạt Thánh Địa thanh tịnh vẫn có thể đọa ác thú. ^0-7
 
 > རྒྱུ་སྤྱད་གྱུར་ན་ས་བཅུ་པ་ཡང་ལྟུང་། །
 > ཉམས་ལེན་རྨད་བྱུང་རྣལ་འབྱོར་ནང་གི་ཚོགས་། །
@@ -126,7 +127,7 @@ Dù chỉ phạm giới trong mộng cũng nảy sinh lỗi lầm,
 Duyên theo nhân sinh tử Bồ Tát Thập Địa cũng thoái đọa.
 Sự thực hành vi diệu là tư lương nội Du-già.
 Toàn bộ các thiền định đều tựa như Kim cương;
-Tâm túy của Ba tạng chính là Chân ngôn này. ^8
+Tâm túy của Ba tạng chính là Chân ngôn này. ^0-8
 
 > རྟོགས་ཀྱང་བརྒྱུད་པ་ཟབ་ཕྱིར་ཆོ་ག་དགོས། །
 > ལྷ་གཅིག་གིས་ཀྱང་ཕྲིན་ལས་ཐམས་ཅད་འགྲུབ། །
@@ -136,7 +137,7 @@ Tâm túy của Ba tạng chính là Chân ngôn này. ^8
 Dù đã chứng ngộ, vì truyền thừa thâm diệu nên nghi quỹ vẫn cần thiết.
 Chỉ một vị Bổn tôn cũng thành tựu mọi Phật sự.
 Tướng của mọi Bổn tôn đều dung nhiếp trong Bổn tôn thù thắng.
-Trong bốn thời không lúc nào được vi phạm giới samaya căn bản. ^9
+Trong bốn thời không lúc nào được vi phạm giới samaya căn bản. ^0-9
 
 > ལྷ་ལ་ཅིག་ཅར་འཇུག་པ་ཟབ་མོའི་གནད། །
 > རྟེན་འབྲེལ་འཚོགས་ལས་གྲུབ་པར་ཤེས་པ་དགོས། །
@@ -146,7 +147,7 @@ Trong bốn thời không lúc nào được vi phạm giới samaya căn bản.
 Chứng nhập Bổn tôn tức thời là cốt tủy thâm diệu.
 Cần biết rõ sự thành tựu đến từ hội tụ duyên khởi.
 Chấp trước vào thân phàm phu nên khổ hạnh bị chê trách.
-Không phân biệt liễu nghĩa và bất liễu nghĩa, nghi quỹ rộng lớn là cần thiết. ^10
+Không phân biệt liễu nghĩa và bất liễu nghĩa, nghi quỹ rộng lớn là cần thiết. ^0-10
 
 > དེ་ཡིས་འདུལ་ན་བསྡུས་པ་ཡང་ནི་བཞེད། །
 > བསྲུང་བའི་འཁོར་ལོ་རྨད་བྱུང་བྱང་ཆུབ་སེམས། །
@@ -156,7 +157,7 @@ Không phân biệt liễu nghĩa và bất liễu nghĩa, nghi quỹ rộng l�
 Nếu nhờ đó được nhiếp hóa thì nghi quỹ tóm lược cũng được chấp thuận.
 Vòng bảo hộ chính là Bồ-đề tâm vi diệu.
 Lời dạy về mạch khí đặc biệt cần có giới luật điều phục.
-Nhờ năng lực gia trì mà tạng thức cũng được thấy ở thời khắc khác. ^11
+Nhờ năng lực gia trì mà tạng thức cũng được thấy ở thời khắc khác. ^0-11
 
 > རྩ་རླུང་ཐིག་ལེ་སྙིགས་མ་དུག་བཅས་ཟབ། །
 > རྡོ་རྗེ་ཐེག་པའི་ལམ་རིམ་བསླབ་པ་གསུམ། །
@@ -166,7 +167,7 @@ Nhờ năng lực gia trì mà tạng thức cũng được thấy ở thời kh
 Mạch, khí và minh điểm thâm diệu ngay cả cùng cặn bã và chất độc.
 Thứ lớp con đường Kim cương thừa chính là ba vô lậu học.
 Sáu ba-la-mật là con đường của cả ba Thừa.
-Đạo sư và đệ tử có giới samaya bình đẳng như nhau. ^12
+Đạo sư và đệ tử có giới samaya bình đẳng như nhau. ^0-12
 
 > དགེ་བའི་ངོ་བོས་ཕྱག་ཆེན་སྒྲིབ་མི་སྲིད། །
 > བྲལ་བའི་འབྲས་བུ་ཐམས་ཅད་རྒྱུ་དང་བཅས། །
@@ -176,7 +177,7 @@ Sáu ba-la-mật là con đường của cả ba Thừa.
 Bản tính thiện hạnh không thể che lấp Đại Ấn.
 Mọi quả ly hệ đều hiện hữu cùng với nhân.
 Hai hư không hòa quyện là sự chứng ngộ của Thanh văn.
-Không nắm giữ khí, để buông lỏng tự nhiên là thâm diệu. ^13
+Không nắm giữ khí, để buông lỏng tự nhiên là thâm diệu. ^0-13
 
 > རྣམ་ཤེས་བླ་མ་འོད་གསལ་འཕོ་བའི་མཆོག །
 > བྱང་ཆུབ་སེམས་ཀྱི་རང་གཟུགས་སངས་རྒྱས་ཡིན། །
@@ -186,7 +187,7 @@ Không nắm giữ khí, để buông lỏng tự nhiên là thâm diệu. ^13
 Thần thức hòa nhập Đạo sư quang minh là pháp Chuyển thức thù thắng.
 Thể tính tự nhiên của Bồ-đề tâm chính là chư Phật.
 Như vậy, tận cùng sự sáng tỏ mọi ý nghĩa thiết yếu,
-Dù những vị đã nhận quán đảnh cũng không dễ gì thấu lường. ^14
+Dù những vị đã nhận quán đảnh cũng không dễ gì thấu lường. ^0-14
 
 > འདབ་ལྡན་མཁའ་ལྡིང་དབང་པོ་སྤྱན་སྔ་བའི། །
 > མཁྱེན་སྤྱོད་གཤོག་ཡངས་རླབས་ཀྱིས་བགྲོད་པ་གང་། །
@@ -196,7 +197,7 @@ Dù những vị đã nhận quán đảnh cũng không dễ gì thấu lường
 Tựa như đại bàng chúa tể tung cánh giữa không trung,
 Lướt bay bằng đôi cánh trí tuệ và hạnh nguyện rộng lớn của Tôn giả.
 Dù các bậc tiền bối thuở trước đã chỉ bày sáng tỏ,
-Nhưng để làm lợi ích chúng sinh kém cỏi, phần phụ lục này... ^15
+Nhưng để làm lợi ích chúng sinh kém cỏi, phần phụ lục này... ^0-15
 
 > ཚིགས་སུ་བཅད་པ་ཡིད་བཞིན་ནོར་བུའི་ཕྲེང་། །
 > དཔྱོད་ལྡན་དགའ་བའི་དོ་ཤལ་འདི་བསྟར་བས། །
@@ -210,8 +211,8 @@ Là chuỗi anh lạc làm hoan hỷ bậc trí giả được ban ra đây.
 Bằng uy quang rực rỡ của muôn vàn công đức thiện lành,
 Nguyện tức thời nhổ tận gốc bóng tối che chướng của chúng sinh,
 Khu vườn sen của hai tư lương giáo pháp và chứng ngộ,
-Nguyện thọ hưởng trọn vẹn vinh quang từ tinh túy nở rộ! ^16
+Nguyện thọ hưởng trọn vẹn vinh quang từ tinh túy nở rộ! ^0-16
 
 > ཅེས་པ་རྗེ་བླ་མ་དྷརྨ་སཱུརྻས་བརྩམས་པའོ།། །།
 
-Tác phẩm này do Tôn sư Đạo sư Dharma Surya soạn thuật. ^17
+Tác phẩm này do Tôn sư Đạo sư Dharma Surya soạn thuật. ^1-1-1

@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/མི་ཁའི་བཟློག་བསྒྱུར།.md",
+  "validated_at": "2026-11-24T18:03:32.489351+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": "WA8LS67151",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "མི་ཁའི་བཟློག་བསྒྱུར།"
+    },
+    "alt_titles": [
+      {
+        "en": "Averting and Reversing Gossip"
+      },
+      {
+        "zh": "遮遣口舌是非法"
+      },
+      {
+        "hi": "निंदा और चुगली से बचाव की प्रार्थना"
+      },
+      {
+        "ne": "निन्दा र अफवाह निवारण प्रार्थना"
+      },
+      {
+        "mn": "Хэл ам хариулах арга"
+      },
+      {
+        "vi": "Nghi Quỹ Tịnh Trừ Khẩu Nghiệp Và Thị Phi"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

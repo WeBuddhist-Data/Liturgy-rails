@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཁྱུང་པོའི་སྨོན་ལམ།.md",
+  "validated_at": "2026-11-24T18:03:22.948034+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL70F36EDBCA4C",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཁྱུང་པོའི་སྨོན་ལམ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Khyungpo's Aspiration Prayer"
+      },
+      {
+        "zh": "瓊波祈願文"
+      },
+      {
+        "hi": "ख्युंगपो प्रणिधान"
+      },
+      {
+        "ne": "ख्युङ्पोको प्रणिधान"
+      },
+      {
+        "mn": "Хюнпогийн ерөөл"
+      },
+      {
+        "vi": "Bài Nguyện Của Khyungpo"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

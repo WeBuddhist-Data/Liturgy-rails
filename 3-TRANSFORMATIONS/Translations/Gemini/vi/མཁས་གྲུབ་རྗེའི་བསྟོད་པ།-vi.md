@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: LRDHY0v1jN1VxQOYnZnSw
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Tới toàn bộ thế gian bao gồm cả chư thiên,
 Về tám vạn bốn ngàn pháp môn,
 Tiếng rống sư tử vang lên không ai sánh bằng,
-Con cầu nguyện dưới chân Pháp vương Khedrup Je. ^1
+Con cầu nguyện dưới chân Pháp vương Khedrup Je. ^0-1
 
 > གྲུབ་པའི་གནས་མཆོག་དཔལ་ལྡན་ཤམྦྷ་ལའི། །
 > རིགས་ལྡན་རིགས་ཀྱི་གཙོར་གྱུར་གྲགས་པ་ནི། །
@@ -64,7 +65,7 @@ Con cầu nguyện dưới chân Pháp vương Khedrup Je. ^1
 Nơi cõi tịnh độ thù thắng vinh quang Shambhala,
 Ngài rạng danh là bậc tôn chủ của dòng dõi Kalki,
 Mang danh hiệu Gelek Pal, giữa những học giả trên thế gian,
-Con cầu nguyện bậc hóa thân là vương miện trang nghiêm. ^2
+Con cầu nguyện bậc hóa thân là vương miện trang nghiêm. ^0-2
 
 > ཕྱོགས་འདིར་མཁས་རློམ་རི་དྭགས་མ་ལུས་པ།
 > ཁྱོད་ཀྱི་ལུང་རིགས་ང་རོ་མི་བཟད་པས། །
@@ -74,7 +75,7 @@ Con cầu nguyện bậc hóa thân là vương miện trang nghiêm. ^2
 Nơi đây mọi dã thú tự xưng là học giả,
 Đều khiếp sợ trước tiếng rống giáo lý của Ngài,
 Ngài được vinh danh là đỉnh cao của những bậc luận sư,
-Con cầu nguyện đấng lừng danh khắp ba cõi thế gian. ^3
+Con cầu nguyện đấng lừng danh khắp ba cõi thế gian. ^0-3
 
 > སྒྱུ་མ་ལྟ་བུའི་ཆོས་ཀྱི་དོན་རྟོགས་ནས། །
 > སྒྱུ་མ་ལྟ་བུར་ང་ནི་སངས་རྒྱས་ཞེས། །
@@ -84,7 +85,7 @@ Con cầu nguyện đấng lừng danh khắp ba cõi thế gian. ^3
 Khi chứng ngộ bản tính vạn pháp như huyễn,
 Ngài tuyên thuyết: "Ta đã thành Phật như huyễn",
 Trực tiếp dẫn dắt những chúng sinh hữu duyên,
-Con cầu nguyện đến Ngài, Đạo sư Kim Cang Trì. ^4
+Con cầu nguyện đến Ngài, Đạo sư Kim Cang Trì. ^0-4
 
 > བདེ་ཆེན་ཆོས་སྐུའི་ངང་དུ་རྟག་བཞུགས་ཀྱང་། །
 > ཀླུ་སྒྲུབ་སྲས་ཀྱི་ཐུ་བོ་ལེགས་ལྡན་འབྱེད། །
@@ -94,7 +95,7 @@ Con cầu nguyện đến Ngài, Đạo sư Kim Cang Trì. ^4
 Dù luôn an trú trong Pháp thân đại lạc,
 Ngài hiện thân là Bhavaviveka, trưởng tử của Long Thọ,
 Cùng Abhayakara và các học giả, thành tựu giả khác,
-Con cầu nguyện bậc Đạo sư tối thắng hóa hiện các hình tướng này. ^5
+Con cầu nguyện bậc Đạo sư tối thắng hóa hiện các hình tướng này. ^0-5
 
 > རྒྱལ་བ་ཀུན་དངོས་རྗེ་བཙུན་བཙོང་ཁ་པའི། །
 > སྲས་ཀྱི་ཐུ་བོ་མཉམ་མེད་དགེ་ལེགས་དཔལ། །
@@ -104,7 +105,7 @@ Con cầu nguyện bậc Đạo sư tối thắng hóa hiện các hình tướn
 Đạo sư Tsongkhapa là hiện thân của tất cả chư Phật,
 Và Gelek Pal là tâm tử vô song của Ngài,
 Nhờ công đức sinh ra từ lời tán thán nhỏ nhoi này,
-Nguyện mọi chúng sinh đều có được bậc hộ trì Tối thượng thừa. ^6
+Nguyện mọi chúng sinh đều có được bậc hộ trì Tối thượng thừa. ^0-6
 
 > ཕྱོགས་འདིར་ཡབ་སྲས་བླ་མའི་འཕྲིན་ལས་ཀྱི། །
 > ཉིན་མོའི་དབང་ཕྱུག་འོད་ཟེར་སྟོང་འབར་བས། །
@@ -114,8 +115,8 @@ Nguyện mọi chúng sinh đều có được bậc hộ trì Tối thượng t
 Nơi đây, nhờ Phật sự của hai cha con bậc Đạo sư,
 Tựa vầng thái dương tỏa chiếu ngàn tia sáng rực rỡ,
 Nhổ tận gốc rễ màn đêm của mọi tà kiến,
-Nguyện đóa hoa trăm cánh lợi lạc và an vui luôn mãi nở rộ. ^7
+Nguyện đóa hoa trăm cánh lợi lạc và an vui luôn mãi nở rộ. ^0-7
 
 > ཅེས་པ་འདི་ནི་བཙུན་པ་དགེ་འདུན་རྒྱ་མཚོ་དཔལ་བཟང་པོས་དོན་གཉེར་ཅན་འགའ་ཞིག་གིས་བསྐུལ་བའི་ངོར་ཆོས་གྲྭ་ཆེན་པོ་རྩེས་ཐང་དུ་སྨྲས་པའོ།།།།
 
-Bài tụng này được Tỳ-kheo Gendun Gyatso Palzangpo soạn tại học viện Phật giáo vĩ đại Tsetang theo thỉnh cầu của những hành giả tinh tấn. ^8
+Bài tụng này được Tỳ-kheo Gendun Gyatso Palzangpo soạn tại học viện Phật giáo vĩ đại Tsetang theo thỉnh cầu của những hành giả tinh tấn. ^1-1-1

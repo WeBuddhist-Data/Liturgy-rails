@@ -11,18 +11,17 @@ root_text_title: "སྒྲོལ་བསྟོད་སྐྱབས་བད�
 source_description: "Single recording of the recitation of Prayer to Tārā: A Sevenfold Supplication for Protection by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།.WAV"
+audio_file: "1-SOURCES/Audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།/audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།.m4a"
 accompaniment: false
 duration: "00:02:43.96"
 duration_seconds: 163.969
-format: "WAV (BWF)"
-codec: "PCM 32-bit float little-endian"
+format: "M4A (AAC)"
+codec: "AAC-LC"
 sample_rate_hz: 48000
-bit_depth: 32
 channels: 2
-bit_rate_kbps: 3074
-file_size_bytes: 62996992
-sha256: 417c7110f958ec1e28adaea211c59ec42d4a0107ae3f0b6bbfc1dd7859a347d2
+bit_rate_kbps: 128
+file_size_bytes: 2655324
+sha256: 604d984380528727da99234105c5e7dc0b4b40373adfa578fb8b559c961edc6e
 recording_time: "17:26:13"
 scene: "050224-172613"
 license: cc-by
@@ -34,11 +33,11 @@ One recording of the root text [[1-SOURCES/Text/སྒྲོལ་བསྟོ�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།.WAV` | 2:43.96 | WAV, 32-bit float / 48 kHz, stereo |
+| Recitation | `སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།.m4a` | 2:43.96 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།/audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།.WAV]]
+![[1-SOURCES/Audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།/audio/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།.m4a]]
 
 ## Mapping
 

@@ -12,7 +12,7 @@ root_text_title: "འཇམ་དབྱངས་ཀྱི་བསྟོད་�
 source_description: "Single recording of the recitation of The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-01 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-01
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།/audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:01:56.37"
 duration_seconds: 116.372
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1884763
-sha256: 0dbcac01036eda7a839bfc40213ad239c595f517260616478cc50e317017db22
-converted_from:
-  audio_file: "1-SOURCES/Audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3074
-  file_size_bytes: 44719616
-  sha256: c2915335b5d431d8383e56f0dea09dcefd98c567cdb7a633d2dd3fff847e3795
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 1c65c5a20bd46fa3661441d58fbaa99d418a7bc41aa8e2fb0a4a93882dc91982
 recording_time: "03:44:25"
 scene: "010224-034425"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/འཇམ་དབྱངས་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།/audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།/audio/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།.m4a]]
 
 ## Mapping
 

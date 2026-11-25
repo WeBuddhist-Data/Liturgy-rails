@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: cRah6bPiuZb2xmb7Q2paD
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -48,7 +49,7 @@ status: draft
 To the entire world, including the gods,
 You proclaim the lion’s roar
 Of the eighty-four thousand gateways of Dharma,
-Peerless one, I pray at the feet of the learned and accomplished Lord of Dharma. ^1
+Peerless one, I pray at the feet of the learned and accomplished Lord of Dharma. ^0-1
 
 > གྲུབ་པའི་གནས་མཆོག་དཔལ་ལྡན་ཤམྦྷ་ལའི། །
 > རིགས་ལྡན་རིགས་ཀྱི་གཙོར་གྱུར་གྲགས་པ་ནི། །
@@ -58,7 +59,7 @@ Peerless one, I pray at the feet of the learned and accomplished Lord of Dharma.
 In the glorious Shambhala, the supreme land of accomplishment,
 You became the chief of the lineage, the Kalki,
 Renowned as Gelek Pal, the crown jewel
-Of all the scholars on this earth, I pray to you. ^2
+Of all the scholars on this earth, I pray to you. ^0-2
 
 > ཕྱོགས་འདིར་མཁས་རློམ་རི་དྭགས་མ་ལུས་པ།
 > ཁྱོད་ཀྱི་ལུང་རིགས་ང་རོ་མི་བཟད་པས། །
@@ -68,7 +69,7 @@ Of all the scholars on this earth, I pray to you. ^2
 To those who falsely claim to be learned in this quarter,
 Your roar of scripture and reasoning is unbearable;
 You are renowned in the three worlds as the crown jewel of orators,
-Who strikes great fear into them, I pray to you. ^3
+Who strikes great fear into them, I pray to you. ^0-3
 
 > སྒྱུ་མ་ལྟ་བུའི་ཆོས་ཀྱི་དོན་རྟོགས་ནས། །
 > སྒྱུ་མ་ལྟ་བུར་ང་ནི་སངས་རྒྱས་ཞེས། །
@@ -78,7 +79,7 @@ Who strikes great fear into them, I pray to you. ^3
 Having realized the meaning of phenomena as being like an illusion,
 You teach the fortunate ones directly, saying,
 "I have awakened to buddhahood in a manner like an illusion,"
-Powerful Vajradhara, I pray to you. ^4
+Powerful Vajradhara, I pray to you. ^0-4
 
 > བདེ་ཆེན་ཆོས་སྐུའི་ངང་དུ་རྟག་བཞུགས་ཀྱང་། །
 > ཀླུ་སྒྲུབ་སྲས་ཀྱི་ཐུ་བོ་ལེགས་ལྡན་འབྱེད། །
@@ -88,7 +89,7 @@ Powerful Vajradhara, I pray to you. ^4
 Though you always dwell in the state of the great bliss Dharmakaya,
 You uphold the ways of the learned and accomplished,
 Such as the foremost son of Nāgārjuna, Bhavaviveka,
-And Abhayākara, supreme Guru, I pray to you. ^5
+And Abhayākara, supreme Guru, I pray to you. ^0-5
 
 > རྒྱལ་བ་ཀུན་དངོས་རྗེ་བཙུན་བཙོང་ཁ་པའི། །
 > སྲས་ཀྱི་ཐུ་བོ་མཉམ་མེད་དགེ་ལེགས་དཔལ། །
@@ -98,7 +99,7 @@ And Abhayākara, supreme Guru, I pray to you. ^5
 The embodiment of all Victors, the venerable Tsongkhapa’s
 Foremost son, the incomparable Dge-legs-dpal,
 By the merit arising from this slight praise,
-May all beings be possessed of the supreme vehicle’s protector. ^6
+May all beings be possessed of the supreme vehicle’s protector. ^0-6
 
 > ཕྱོགས་འདིར་ཡབ་སྲས་བླ་མའི་འཕྲིན་ལས་ཀྱི། །
 > ཉིན་མོའི་དབང་ཕྱུག་འོད་ཟེར་སྟོང་འབར་བས། །
@@ -108,8 +109,8 @@ May all beings be possessed of the supreme vehicle’s protector. ^6
 In this quarter, through the enlightened activity of the Guru, father and sons,
 Like the Lord of Day blazing with a thousand rays,
 May all the masses of darkness of wrong views be uprooted,
-And the hundred-petaled lotus of benefit and happiness forever bloom. ^7
+And the hundred-petaled lotus of benefit and happiness forever bloom. ^0-7
 
 > ཅེས་པ་འདི་ནི་བཙུན་པ་དགེ་འདུན་རྒྱ་མཚོ་དཔལ་བཟང་པོས་དོན་གཉེར་ཅན་འགའ་ཞིག་གིས་བསྐུལ་བའི་ངོར་ཆོས་གྲྭ་ཆེན་པོ་རྩེས་ཐང་དུ་སྨྲས་པའོ།།།།
 
-This was spoken at the great monastic seat of Rtses-thang by the monk Dge-'dun-rgya-mtsho-dpal-bzang-po, at the request of several earnest seekers. ^8
+This was spoken at the great monastic seat of Rtses-thang by the monk Dge-'dun-rgya-mtsho-dpal-bzang-po, at the request of several earnest seekers. ^1-1-1

@@ -1,0 +1,82 @@
+{
+ "edition_id": "cjz2fvs1rV24Uq5M6rTIp",
+ "segment": [
+  {
+   "old_segment_id": "wBNhAwJDsNFGJTVM1w9ke",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "FWilFlRGJHinOs0ymdzTK",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "pdGVRbR7NmhbimMDcZCHt",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "5BnX7GrT82LRg63RIFDW0",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "Q8MCnOS8GJBnyqtPoe3ze",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "8lLJYkVDQBPpFXflo89c2",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "15teiQL99sbdqM1btp7Pg",
+   "old_reference": "4",
+   "old_type": "verse",
+   "new_segment_id": "VAs8uefYyY0jJU9VYUCl1",
+   "new_reference": "0-4"
+  },
+  {
+   "old_segment_id": "USInlCbPxrwyLj1kNUqsp",
+   "old_reference": "5",
+   "old_type": "verse",
+   "new_segment_id": "ekMabWfGaY9WIbl2jMuGO",
+   "new_reference": "0-5"
+  },
+  {
+   "old_segment_id": "EYPXscJLh46S6lxEvwrTh",
+   "old_reference": "6",
+   "old_type": "verse",
+   "new_segment_id": "HibtUjWYm9iIZAMC6xirk",
+   "new_reference": "0-6"
+  },
+  {
+   "old_segment_id": "ecEk2ZSW6PNQW7aiG8y3N",
+   "old_reference": "7",
+   "old_type": "verse",
+   "new_segment_id": "rysex4Y36ofaj1rs40B6R",
+   "new_reference": "0-7"
+  },
+  {
+   "old_segment_id": "tgdQSGtadRuRrGm8SA9oX",
+   "old_reference": "8",
+   "old_type": "verse",
+   "new_segment_id": "5PCZvdtbaDwxBBXIego5w",
+   "new_reference": "0-8"
+  },
+  {
+   "old_segment_id": "0Ej7NDY3ti6AEdH0AJ45B",
+   "old_reference": "9",
+   "old_type": "verse",
+   "new_segment_id": "EBVNuUYfIo59ixlYDlcfi",
+   "new_reference": "0-9"
+  },
+  {
+   "old_segment_id": "XAyYd0mQIZnVpMok0x3DM",
+   "old_reference": "10",
+   "old_type": "verse",
+   "new_segment_id": "WLe43yLTVEU9X9QFeZ3lj",
+   "new_reference": "0-10"
+  },
+  {
+   "old_segment_id": "DDAvTkwou1MmqY1EzDYAv",
+   "old_reference": "11",
+   "old_type": "verse",
+   "new_segment_id": "KWzvTh5DcXprW4xfuXeNU",
+   "new_reference": "1-1-1"
+  }
+ ]
+}

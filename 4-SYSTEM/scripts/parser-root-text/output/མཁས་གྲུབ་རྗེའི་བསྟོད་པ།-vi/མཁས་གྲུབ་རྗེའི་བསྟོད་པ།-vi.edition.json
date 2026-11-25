@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Tới toàn bộ thế gian bao gồm cả chư thiên,Về tám vạn bốn ngàn pháp môn,Tiếng rống sư tử vang lên không ai sánh bằng,Con cầu nguyện dưới chân Pháp vương Khedrup Je.Nơi cõi tịnh độ thù thắng vinh quang Shambhala,Ngài rạng danh là bậc tôn chủ của dòng dõi Kalki,Mang danh hiệu Gelek Pal, giữa những học giả trên thế gian,Con cầu nguyện bậc hóa thân là vương miện trang nghiêm.Nơi đây mọi dã thú tự xưng là học giả,Đều khiếp sợ trước tiếng rống giáo lý của Ngài,Ngài được vinh danh là đỉnh cao của những bậc luận sư,Con cầu nguyện đấng lừng danh khắp ba cõi thế gian.Khi chứng ngộ bản tính vạn pháp như huyễn,Ngài tuyên thuyết: \"Ta đã thành Phật như huyễn\",Trực tiếp dẫn dắt những chúng sinh hữu duyên,Con cầu nguyện đến Ngài, Đạo sư Kim Cang Trì.Dù luôn an trú trong Pháp thân đại lạc,Ngài hiện thân là Bhavaviveka, trưởng tử của Long Thọ,Cùng Abhayakara và các học giả, thành tựu giả khác,Con cầu nguyện bậc Đạo sư tối thắng hóa hiện các hình tướng này.Đạo sư Tsongkhapa là hiện thân của tất cả chư Phật,Và Gelek Pal là tâm tử vô song của Ngài,Nhờ công đức sinh ra từ lời tán thán nhỏ nhoi này,Nguyện mọi chúng sinh đều có được bậc hộ trì Tối thượng thừa.Nơi đây, nhờ Phật sự của hai cha con bậc Đạo sư,Tựa vầng thái dương tỏa chiếu ngàn tia sáng rực rỡ,Nhổ tận gốc rễ màn đêm của mọi tà kiến,Nguyện đóa hoa trăm cánh lợi lạc và an vui luôn mãi nở rộ.Bài tụng này được Tỳ-kheo Gendun Gyatso Palzangpo soạn tại học viện Phật giáo vĩ đại Tsetang theo thỉnh cầu của những hành giả tinh tấn.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 42
+          },
+          {
+            "start": 42,
+            "end": 71
+          },
+          {
+            "start": 71,
+            "end": 116
+          },
+          {
+            "start": 116,
+            "end": 163
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 163,
+            "end": 210
+          },
+          {
+            "start": 210,
+            "end": 259
+          },
+          {
+            "start": 259,
+            "end": 318
+          },
+          {
+            "start": 318,
+            "end": 373
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 373,
+            "end": 411
+          },
+          {
+            "start": 411,
+            "end": 458
+          },
+          {
+            "start": 458,
+            "end": 512
+          },
+          {
+            "start": 512,
+            "end": 563
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 563,
+            "end": 605
+          },
+          {
+            "start": 605,
+            "end": 653
+          },
+          {
+            "start": 653,
+            "end": 698
+          },
+          {
+            "start": 698,
+            "end": 743
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 743,
+            "end": 782
+          },
+          {
+            "start": 782,
+            "end": 836
+          },
+          {
+            "start": 836,
+            "end": 887
+          },
+          {
+            "start": 887,
+            "end": 951
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 951,
+            "end": 1002
+          },
+          {
+            "start": 1002,
+            "end": 1042
+          },
+          {
+            "start": 1042,
+            "end": 1092
+          },
+          {
+            "start": 1092,
+            "end": 1153
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1153,
+            "end": 1201
+          },
+          {
+            "start": 1201,
+            "end": 1252
+          },
+          {
+            "start": 1252,
+            "end": 1291
+          },
+          {
+            "start": 1291,
+            "end": 1349
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1349,
+            "end": 1485
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

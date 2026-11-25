@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 14
 blocks_total: 14
 status: draft
+toc_id: whaRYRCs8OCQTBuQPqBEJ
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -48,7 +49,7 @@ status: draft
 
 > སངས་རྒྱས་གཉིས་པ་སློབ་དཔོན་ཆེན་པོ་ལ་རྣམ་པ་ཀུན་ཏུ་ཕྱག་འཚལ་ཞིང་སྐྱབས་སུ་མཆིའོ། །
 
-Con xin chí thành đảnh lễ và quy y vị Phật thứ hai, bậc Đại Đạo sư. ^1
+Con xin chí thành đảnh lễ và quy y vị Phật thứ hai, bậc Đại Đạo sư. ^0-1
 
 > བསྐལ་བཟང་འདིར་བྱོན་སངས་རྒྱས་སྟོང་རྩ་ཀུན། །
 > སྤངས་རྟོགས་མཉམ་ཞིང་འགྲོ་ལ་ཐུགས་བརྩེ་ཡང་། །
@@ -58,7 +59,7 @@ Con xin chí thành đảnh lễ và quy y vị Phật thứ hai, bậc Đại �
 Tất cả ngàn vị Phật xuất hiện trong Hiền kiếp này,
 Dù bình đẳng về đoạn chứng và lòng từ bi với chúng sinh,
 Nhưng nơi xứ tuyết này, không ai sánh bằng Ngài,
-Ân đức vô lượng không thể nghĩ bàn, càng nhớ nghĩ con càng kính tin. ^2
+Ân đức vô lượng không thể nghĩ bàn, càng nhớ nghĩ con càng kính tin. ^0-2
 
 > ཁ་བ་ཅན་འདི་ལག་ན་པདྨ་ཡིས། །
 > གདུལ་བྱར་རྒྱལ་བས་ལུང་བསྟན་མཛད་པའི་དོན། །
@@ -68,7 +69,7 @@ Nhưng nơi xứ tuyết này, không ai sánh bằng Ngài,
 Nơi Xứ Tuyết này, bởi Bồ tát Quán Thế Âm,
 Được đấng Chiến Thắng thọ ký là cõi hóa độ,
 Ba vị Tổ tôn Pháp vương cùng bậc Đại Oḍḍiyāna,
-Ngoài công hạnh của các Ngài, chẳng còn gì khác để nghĩ bàn. ^3
+Ngoài công hạnh của các Ngài, chẳng còn gì khác để nghĩ bàn. ^0-3
 
 > གུ་རུ་ང་སྒོམས་ང་སྒྲུབས་ང་རྗེས་སྙོགས། །
 > ང་མཐོང་སངས་རྒྱས་ཀུན་མཐོང་ང་ཉིད་ནི། །
@@ -80,7 +81,7 @@ Ngoài công hạnh của các Ngài, chẳng còn gì khác để nghĩ bàn. ^
 Thấy Ta là thấy tất cả chư Phật, bởi Ta chính là
 Bản thể của tập hội chư Thiện Thệ."
 Ngài dạy: "Mỗi khi đến ngày mùng mười, Ta sẽ quang lâm Tây Tạng",
-Vì vậy, nhớ lại công hạnh của Ngài, con chí tâm cầu nguyện: ^4
+Vì vậy, nhớ lại công hạnh của Ngài, con chí tâm cầu nguyện: ^0-4
 
 > ཧོར་ཟླ་དྲུག་པའི་ཆོས་བཅུའི་ཉི་ཤར་ལ། །
 > དྷ་ན་ཀོ་ཤར་པདྨའི་སྦུབས་ལ་བྱོན། །
@@ -94,7 +95,7 @@ Ngài đản sinh trong đóa hoa sen tại hồ Dhanakosha.
 Tháng mười hai, Vua Indrabodhi thỉnh mời Ngài,
 Phong làm Thái tử, Ngài tu tập Kim Cương thừa tối thượng.
 Tháng giêng, Ngài xả bỏ vương vị, đến thi lâm Rừng Lạnh,
-Tu tập cấm hạnh và nhiếp phục chư Không Hành Mẫu. ^5
+Tu tập cấm hạnh và nhiếp phục chư Không Hành Mẫu. ^0-5
 
 > དབོ་ཟླར་བསྟན་ལ་རིམ་བཞིན་བཀྲི་པའི་སླད། །
 > སློབ་དཔོན་པྲ་བྷཧསྟིར་རབ་ཏུ་བྱུང་། །
@@ -104,7 +105,7 @@ Tu tập cấm hạnh và nhiếp phục chư Không Hành Mẫu. ^5
 Tháng hai, để tuần tự dẫn dắt chúng sinh vào giáo pháp,
 Ngài thọ giới xuất gia với Đạo sư Prabhahasti.
 Tháng ba, khi Vua xứ Zahor thiêu sống Ngài,
-Ngài hóa lửa thành hồ nước, khiến chư thiên Đao Lợi ngợi ca. ^6
+Ngài hóa lửa thành hồ nước, khiến chư thiên Đao Lợi ngợi ca. ^0-6
 
 > ས་ཟླར་ཨོ་རྒྱན་རྒྱལ་པོས་ཡབ་ཡུམ་གཉིས། །
 > ལྷན་ཅིག་མེར་བསྲེགས་ལོག་སྲེད་ཅན་དག་ཀྱང་། །
@@ -112,13 +113,13 @@ Ngài hóa lửa thành hồ nước, khiến chư thiên Đao Lợi ngợi ca. 
 
 Vào tháng Tư, vua xứ Oḍḍiyāna đem thiêu hai đấng Phụ Mẫu,
 Cùng nhau trong biển lửa, khiến cả những kẻ tà kiến,
-Cũng bất giác được an lập vào cảnh giới kính tin. ^7
+Cũng bất giác được an lập vào cảnh giới kính tin. ^0-7
 
 > སྣྲོན་ཟླར་ལྷོ་ཕྱོགས་མཐར་སྐྱེས་རྒྱལ་ཁམས་སུ། །
 > བསྟན་ལ་འཁུ་བའི་མུ་སྟེགས་ཐོག་གིས་བསྒྲལ། །
 
 Tháng năm, tại vương quốc Tharkye phương Nam,
-Ngài dùng sấm sét giáng phạt ngoại đạo oán ghét giáo pháp. ^8
+Ngài dùng sấm sét giáng phạt ngoại đạo oán ghét giáo pháp. ^0-8
 
 > གྲོ་བཞིན་ཟླ་བར་མཐའ་འཁོབ་ཟངས་གླིང་གི །
 > མུ་སྟེགས་རྒྱལ་པོས་ཟངས་ཆེན་ཁ་སྦྱོར་ནང༌། །
@@ -132,7 +133,7 @@ Vua ngoại đạo nhốt Ngài vào giữa chiếc vạc đồng lớn úp ch�
 Rồi ném xuống dòng sông sâu, nhưng nhờ sức thần thông,
 Ngài liền bay lên bầu trời, khi ấy cả dòng sông
 Đảo dòng dâng lên phá hủy cung điện của tên ác vương,
-Khiến vua kinh hãi tột độ, sám hối và cầu xin quy y. ^9
+Khiến vua kinh hãi tột độ, sám hối và cầu xin quy y. ^0-9
 
 > ཁྲུམས་ཟླར་མུ་སྟེགས་ངན་བའི་ཟས་དུག་གིས། །
 > བཀྲོངས་པ་སེམས་ཀྱང་གནོད་པ་མེད་ཀྱི་སྟེང་། །
@@ -146,7 +147,7 @@ Tháng tám, những kẻ ngoại đạo tàn ác hạ độc vào thức ăn,
 Mà Ngài lại càng hiển lộ sắc thân uy nghi và rực rỡ hơn xưa.
 Tháng chín, Ngài quang lâm động Yangleshö,
 Dù các quỷ thần tà ác của cả Nepal và Tây Tạng quấy nhiễu,
-Ngài hóa hiện sắc thân Kim Cương Đồng Tử và nhiếp phục tất cả dưới lời thệ nguyện. ^10
+Ngài hóa hiện sắc thân Kim Cương Đồng Tử và nhiếp phục tất cả dưới lời thệ nguyện. ^0-10
 
 > སྨིན་དྲུག་ཟླ་བར་བོད་ཡུལ་དབུས་སུ་བྱོན། །
 > ཧས་པོའི་རི་རྩེར་ལྷ་སྲིན་དམ་ལ་བཞག །
@@ -156,7 +157,7 @@ Ngài hóa hiện sắc thân Kim Cương Đồng Tử và nhiếp phục tất 
 Tháng mười, Ngài quang lâm miền trung Tây Tạng,
 Trên đỉnh núi Hepori, Ngài nhiếp phục chư thiên và ma quỷ dưới lời thệ nguyện.
 Chánh pháp chư Phật được hưng thịnh tại Tây Tạng hoàn toàn
-Chỉ nhờ ân đức vô song của Ngài, nghĩ đến điều này con chí tâm kính tín. ^11
+Chỉ nhờ ân đức vô song của Ngài, nghĩ đến điều này con chí tâm kính tín. ^0-11
 
 > མགོ་ཟླར་སྲིན་ཡུལ་གཤེགས་པ་ལ་དགོངས་ནས། །
 > མཆིམས་ཕུར་ཡོན་མཆོད་བཀའ་བགྲོས་བོད་ཡུལ་ཀུན། །
@@ -190,7 +191,7 @@ Sương giá, mưa đá, nghèo đói, chiến tranh, suy vong,
 Mọi tai ương và sự suy đồi của thế gian trong thời đại này,
 Nếu cử hành cúng dường vào ngày mùng mười và chí tâm cầu nguyện,
 Sẽ lập tức được tịnh hóa hiện tiền chỉ nhờ ân đức gia trì của Ngài.
-Nay đã đến thời khắc Ngài thực hiện lời hứa nguyện, xin đoái thương bằng lòng đại bi! ^12
+Nay đã đến thời khắc Ngài thực hiện lời hứa nguyện, xin đoái thương bằng lòng đại bi! ^0-12
 
 > བོད་འབངས་བསམ་ཡོད་ཐམས་ཅད་ཁྱོད་ལ་དད། །
 > བསམ་མེད་དྲིན་ཆེན་ཕ་མ་དག་ལ་ཡང༌། །
@@ -206,8 +207,8 @@ Dù họ có oán ghét chống đối, thì lòng đại bi của Ngài
 Cũng không hề phân biệt thân sơ, con xin khẩn cầu lời thệ nguyện thiêng liêng ấy.
 Lời hứa của Ngài sẽ không bao giờ ruồng bỏ thần dân Tây Tạng,
 Nay đã đến thời khắc thực hiện thệ nguyện ấy, xin đoái thương bằng lòng đại bi!
-Xin ban gia trì để mọi ước nguyện của chúng con đều được thành tựu như ý! ^13
+Xin ban gia trì để mọi ước nguyện của chúng con đều được thành tựu như ý! ^0-13
 
 > ཞེས་པའང་བསམ་ཡས་རབ་བྱུང་པ་དབྱངས་ཡིག་དང་པོའི་མིང་ཅན་གྱི་ངོར༌། ༧རིག་འཛིན་འཇིགས་མེད་གླིང་པས་སོ། །
 
-Lời cầu nguyện này được Trì Minh Vương Jigme Lingpa viết theo lời thỉnh cầu của vị tăng nhân xuất gia tại Samye mang tên bắt đầu bằng nguyên âm thứ nhất. ^14
+Lời cầu nguyện này được Trì Minh Vương Jigme Lingpa viết theo lời thỉnh cầu của vị tăng nhân xuất gia tại Samye mang tên bắt đầu bằng nguyên âm thứ nhất. ^1-1-1

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "I prostrate to the Omniscient One.Thus, the Buddha, the Blessed One, the Tathāgata, the Arhat, the Perfectly Complete Buddha, endowed with knowledge and conduct, the Sugata, the Knower of the World, the Unsurpassed Charioteer who tames beings, the Teacher of gods and humans, the Buddha, the Blessed One—that Tathāgata is the causal concordant of virtues, whose roots of goodness are inexhaustible, who is adorned with patience, the foundation of all treasures of merit, adorned with the excellent secondary marks, with the flowers of the major marks in full bloom, whose sphere of activity is perfectly harmonious, who is without discord when beheld, who is a source of great joy to those who have faith, whose wisdom cannot be overwhelmed, who is unassailable in his powers, the teacher of all sentient beings, the father of all bodhisattvas, the king of all noble beings, the guide for those traveling to the city of nirvāṇa, possessing immeasurable wisdom, inconceivable confidence, perfectly pure speech, a melodious voice, a form that one never tires of beholding, a body without equal, untainted by desires, untouched by forms, unmixed with the formless, completely liberated from suffering, thoroughly liberated from the aggregates, not possessed of the elements, having restrained the sense spheres, having utterly severed the knots, completely liberated from torments, liberated from existence, having crossed the river, possessing perfected wisdom, abiding in the wisdom of the Buddhas, the Blessed Ones of the past, future, and present, not abiding in nirvāṇa, abiding in the limit of reality, and dwelling on the stage of looking upon all sentient beings—these are the true, great, and excellent qualities of the body of the Buddha, the Blessed One.The holy Dharma is virtuous in the beginning, virtuous in the middle, and virtuous in the end; it is excellent in meaning, excellent in phrasing, unadulterated, complete, pure, and refined. The Dharma well-spoken by the Blessed One is perfectly visible, free from illness, timeless, leading onward, meaningful to see, and to be individually realized by the wise. It is the Dharma taught by the Blessed One that leads to discipline, brings about definitive emergence, leads to the attainment of perfect enlightenment, is free from contradiction, possesses the gathering of qualities, is well-supported, and has cut off the causes of wandering.The Sangha of the Mahāyāna are those who have entered correctly, entered reasonably, entered straightforwardly, and entered harmoniously.They are worthy of joined palms and worthy of prostration; they are the glorious field of merit, the great purifiers of offerings, worthy of gifts, and the great objects of offering for all.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 34
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 34,
+            "end": 1762
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 1762,
+            "end": 2404
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 2404,
+            "end": 2541
+          },
+          {
+            "start": 2541,
+            "end": 2731
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      }
+    ]
+  }
+}

@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 53
 blocks_total: 53
 status: draft
+toc_id: 4nBBBAzxXEPPfUx7e1kZK
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -42,7 +43,7 @@ status: draft
 
 > སྭ་སྟི། དམ་པ་འཆར་ཅན་གྱིས་དམ་པའི་སྤྱན་སྔར་ཕྱིན་ནས་དམ་པ་ཉིད་སྐུ་བགྲེས་འདུག་པ། དམ་པ་ཉིད་ལྟ་བདེ་བ་ནས་བདེ་བར་གཤེགས་པ་ལགས་ཏེ། དིང་རི་བ་རྣམས་སུ་ལ་བློ་གཏོད། ཅི་ཙུག་བྱེད་བྱས་ནས་བཤུམས་པས། ཡང་དམ་པས་དིང་རི་བ་རྣམས་ལ་ཞལ་ཆེམས་སུ་གསུངས་པ།
 
-Svasti. When the holy one was constantly approached, the people went before the holy one and found the holy one had grown aged. The holy one, having passed from bliss to bliss, was asked by the people of Dingri, "In whom shall we place our trust?" and "What shall we do?" As they wept, the holy one spoke these final words of testament to the people of Dingri: ^1
+Svasti. When the holy one was constantly approached, the people went before the holy one and found the holy one had grown aged. The holy one, having passed from bliss to bliss, was asked by the people of Dingri, "In whom shall we place our trust?" and "What shall we do?" As they wept, the holy one spoke these final words of testament to the people of Dingri: ^0-1
 
 > ལུས་ངག་ཡིད་གསུམ་དམ་པའི་ཆོས་ལ་འབུངས།།
 > ལས་ཀྱི་རབ་ཏུ་འགྱུར་རོ་དིང་རི་བ། །
@@ -52,7 +53,7 @@ Svasti. When the holy one was constantly approached, the people went before the 
 Exert your body, speech, and mind in the sacred Dharma,
 This is the most excellent of activities, O people of Dingri.
 Entrust your intellect, heart, and soul to the Three Jewels,
-Blessings will arise spontaneously, O people of Dingri. ^2
+Blessings will arise spontaneously, O people of Dingri. ^0-2
 
 > ཚེ་འདི་ཐོངས་ལ་ཕྱི་མའི་དོན་གཉེར་བསྐྱེད། །
 > མདུན་མའི་རྩེ་མོར་འགྱུར་རོ་དིང་རི་བ། །
@@ -62,7 +63,7 @@ Blessings will arise spontaneously, O people of Dingri. ^2
 Abandon the affairs of this life and strive for the sake of the next,
 You will reach the pinnacle of your future goals, O people of Dingri.
 Spouses are impermanent, like travelers meeting at a marketplace,
-Do not engage in harsh words and quarreling, O people of Dingri. ^3
+Do not engage in harsh words and quarreling, O people of Dingri. ^0-3
 
 > ནོར་རྫས་སྒྱུ་མ་ལྟ་བུའི་གཡར་པོ་ལ། །
 > སེར་སྣའི་མདུད་པས་མ་ཆིངས་དིང་རི་བ༑ ༑
@@ -72,7 +73,7 @@ Do not engage in harsh words and quarreling, O people of Dingri. ^3
 Wealth and possessions are like illusory borrowings,
 Do not bind yourselves with the knots of avarice, O people of Dingri.
 This physical body is a sack of impure substances,
-Do not groom it to look beautiful, O people of Dingri. ^4
+Do not groom it to look beautiful, O people of Dingri. ^0-4
 
 > གཉེན་ཚན་སྒྱུ་མ་ལྟ་བུའི་བསླུ་བྲིད་ལ། །
 > གདུང་སེམས་འཁྲི་བ་ཆོད་ཅིག་དིང་རི་བ།།
@@ -82,7 +83,7 @@ Do not groom it to look beautiful, O people of Dingri. ^4
 Relatives are like illusory deceptions,
 Cut through the attachment of longing, O people of Dingri.
 Your homeland is like a nomad’s temporary campsite,
-Do not harbor attachment or craving for it, O people of Dingri. ^5
+Do not harbor attachment or craving for it, O people of Dingri. ^0-5
 
 > ཕ་ཡུལ་རིགས་དྲུག་སེམས་ཅན་སྤྱི་མཐུན་ལ། །
 > ང་དང་བདག་ཏུ་མ་འཛིན་དིང་རི་བ། །
@@ -92,7 +93,7 @@ Do not harbor attachment or craving for it, O people of Dingri. ^5
 The homeland is the common property of all sentient beings of the six realms,
 Do not grasp at it as "I" or "mine," O people of Dingri.
 From the very morning of birth, a sign of death has appeared,
-Instill a sense of urgency in your mind, O people of Dingri. ^6
+Instill a sense of urgency in your mind, O people of Dingri. ^0-6
 
 > གཡེང་བ་མེད་པར་དམ་པའི་ཆོས་ལ་འབུངས་། །
 > ཤི་ནས་ལམ་སྣ་འདྲེན་ནོ་དིང་རི་བ།།
@@ -102,7 +103,7 @@ Instill a sense of urgency in your mind, O people of Dingri. ^6
 Without distraction, exert yourselves in the sacred Dharma,
 It will lead you along the path when you die, O people of Dingri.
 The ripening of karma and the law of cause and effect are certain truths,
-Refrain from non-virtue and negative deeds, O people of Dingri. ^7
+Refrain from non-virtue and negative deeds, O people of Dingri. ^0-7
 
 > བྱས་པའི་ཆོས་རྣམས་རྨི་ལམ་ཡུལ་བཞིན་འདྲ། །
 > བྱར་མེད་ཉམས་སུ་ལོངས་ཤིག་དིང་རི་བ། །
@@ -112,7 +113,7 @@ Refrain from non-virtue and negative deeds, O people of Dingri. ^7
 Conditioned phenomena are like the objects of a dream,
 Experience the unconditioned, O people of Dingri.
 Whatever you are attached to, let that go,
-There is no need for anything at all, O people of Dingri. ^8
+There is no need for anything at all, O people of Dingri. ^0-8
 
 > འཇིག་རྟེན་འདི་ནས་གཏན་དུ་མི་སྡོད་པས། །
 > འགྲོ་ཆས་ད་ལྟ་གྱིས་ཤིག་དིང་རི་བ། །
@@ -122,7 +123,7 @@ There is no need for anything at all, O people of Dingri. ^8
 Since you will not remain in this world forever,
 Prepare your provisions for the journey now, O people of Dingri.
 Monkeys in the middle of the forest think they are happy,
-But the forest edges are surrounded by fire, O people of Dingri. ^9
+But the forest edges are surrounded by fire, O people of Dingri. ^0-9
 
 > སྐྱེ་རྒ་ན་འཆིའི་ཆུ་ལ་རབས་ཟམ་མེད། །
 > གྲུ་གཟིང་ད་ལྟ་ཚུགས་ཤིག་དིང་རི་བ། །
@@ -132,7 +133,7 @@ But the forest edges are surrounded by fire, O people of Dingri. ^9
 There is no bridge over the waters of birth, aging, sickness, and death,
 Get your boat ready at the dock now, O people of Dingri.
 On the narrow and perilous passage of birth, death, and the bardo,
-The bandits of the five poisons run rampant again and again. ^10
+The bandits of the five poisons run rampant again and again. ^0-10
 
 > སྐྱེལ་མར་བླ་མ་ཚོལ་ཞིག་དིང་རི་བ།
 > འཇུས་ནས་འགྱེལ་དོགས་མེད་པ་བླ་མ་ཡིན། །
@@ -144,7 +145,7 @@ Seek a Guru as your escort, O people of Dingri,
 The Guru is the one who, if held, prevents you from falling.
 Carry him inseparably upon your crown, O people of Dingri,
 If the Guru escorts you, you will reach your desired destination.
-Offer your devotion to him, O people of Dingri. ^11
+Offer your devotion to him, O people of Dingri. ^0-11
 
 > གང་ལ་ནོར་ཡོད་དེ་ལ་སེར་སྣ་འབྱུང་། །
 > སྦྱིན་པ་ཕྱོགས་མེད་ཐོངས་ཤིག་དིང་རི་བ། །
@@ -154,7 +155,7 @@ Offer your devotion to him, O people of Dingri. ^11
 Whoever possesses wealth also possesses stinginess,
 Give away your wealth without partiality, O people of Dingri.
 Whoever possesses power also possesses sin,
-Abandon your desire for status and power, O people of Dingri. ^12
+Abandon your desire for status and power, O people of Dingri. ^0-12
 
 > ཁ་དྲག་ནོར་མང་ཅན་ལ་བདེ་བ་མེད། །
 > སོར་བཅུ་བྲང་ལ་ཁྲོམས་ཤིག་དིང་རི་བ། །
@@ -164,7 +165,7 @@ Abandon your desire for status and power, O people of Dingri. ^12
 There is no happiness for those with status and much wealth,
 Fold your ten fingers at your breast in repentance, O people of Dingri.
 In the realm of the next life, there are few kinsmen or friends,
-Place your trust in the Dharma, O people of Dingri. ^13
+Place your trust in the Dharma, O people of Dingri. ^0-13
 
 > ཡེངས་མ་ལམ་ལ་མདུན་མ་འཆལ་མར་འཆོར། །
 > གྲོས་ཐག་ད་ལྟ་ཆོད་ཅིག་དིང་རི་བ། །
@@ -174,7 +175,7 @@ Place your trust in the Dharma, O people of Dingri. ^13
 If you are distracted, your spiritual practice will be lost to the wind,
 Reach a decision right now, O people of Dingri.
 Since there is no knowing when the demon, the Lord of Death, will arrive,
-Take precautions immediately, O people of Dingri. ^14
+Take precautions immediately, O people of Dingri. ^0-14
 
 > ཤི་བའི་ནང་པར་སུས་ཀྱང་མི་ཕན་པས། །
 > རང་མགོ་རང་གིས་ཐོན་ཞིག་དིང་རི་བ། །
@@ -184,7 +185,7 @@ Take precautions immediately, O people of Dingri. ^14
 On the morning after you die, no one can be of help,
 So look after your own head, O people of Dingri.
 When you contemplate death, nothing else is needed at all,
-Keep this in your mind, O people of Dingri. ^15
+Keep this in your mind, O people of Dingri. ^0-15
 
 > ཉི་མ་ནུབ་ཁའི་གྲིབ་སོ་ཇི་བཞིན་དུ། །
 > འཆི་བདག་གཤིན་རྗེ་མི་སྡོད་ཚུར་ཚུར་འོང་། །
@@ -194,7 +195,7 @@ Keep this in your mind, O people of Dingri. ^15
 Just as the shadows at sunset,
 The Lord of Death, Yama, does not wait but comes closer and closer;
 Quickly find a way to escape, O people of Dingri,
-For though a flower may be beautiful one year, it withers the next. ^16
+For though a flower may be beautiful one year, it withers the next. ^0-16
 
 > ལུས་ལ་བློ་གཏད་མེད་དོ་དིང་རི་བ། །
 > གསོན་པའི་དུས་ན་ལྷ་ཡི་ལུས་དང་འདྲ། །
@@ -204,7 +205,7 @@ For though a flower may be beautiful one year, it withers the next. ^16
 There is no reliability in this body, O people of Dingri;
 While alive, it is like the body of a god,
 But at the time of death, it is terrified by the armies of demons;
-This illusory body deceives you, O people of Dingri. ^17
+This illusory body deceives you, O people of Dingri. ^0-17
 
 > ཚོང་དུས་མགྲོན་པོ་ཚོང་ཟིན་ནང་པར་གྱིས། །
 > གྲོགས་ཀྱིས་འབོར་བར་ངེས་སོ་དིང་རི་བ། །
@@ -214,7 +215,7 @@ This illusory body deceives you, O people of Dingri. ^17
 Like travelers at a marketplace, you must part when the trading is done;
 Your friends are certain to leave you behind, O people of Dingri;
 Since this scarecrow of an illusory body will certainly collapse,
-Arrange your auspicious connections right now, O people of Dingri. ^18
+Arrange your auspicious connections right now, O people of Dingri. ^0-18
 
 > སེམས་ཀྱི་བྱ་རྒོད་ཅིས་ཀྱང་འཕུར་ངེས་པས། །
 > ནམ་འཕང་ད་ལྟ་ཆོད་ཅིག་དིང་རི་བ། །
@@ -224,7 +225,7 @@ Arrange your auspicious connections right now, O people of Dingri. ^18
 The vulture of the mind will certainly take flight,
 So seize the heights of the sky right now, O people of Dingri;
 Toward your kind parents, the sentient beings of the six realms,
-Meditate on love and compassion, O people of Dingri. ^19
+Meditate on love and compassion, O people of Dingri. ^0-19
 
 > སྡང་དགྲ་ལས་ཀྱིས་འཁོར་བའི་འཁྲུལ་སྣང་ལ། །
 > ཞེ་སྡང་གདུག་སེམས་སྤོངས་ཤིག་དིང་རི་བ། །
@@ -234,7 +235,7 @@ Meditate on love and compassion, O people of Dingri. ^19
 Regarding the deluded appearances of the wheel of karma, where enemies and friends arise,
 Abandon your hatred and poisonous thoughts, O people of Dingri;
 Prostrations and circumambulations purify the misdeeds of the body;
-Renounce your worldly activities, O people of Dingri. ^20
+Renounce your worldly activities, O people of Dingri. ^0-20
 
 > བཟླས་བརྗོད་སྐྱབས་འགྲོས་ངག་གི་སྡིག་པ་འདག །
 > ཐ་མལ་ལོང་གཏམ་མ་ལབ་དིང་རི་བ། །
@@ -244,7 +245,7 @@ Renounce your worldly activities, O people of Dingri. ^20
 Recitation and refuge purify the misdeeds of speech;
 Do not engage in ordinary idle chatter, O people of Dingri;
 Devotion and yearning purify the misdeeds of the mind;
-Carry the Guru upon your crown, O people of Dingri. ^21
+Carry the Guru upon your crown, O people of Dingri. ^0-21
 
 > ལྷན་ཅིག་སྐྱེས་པའི་ཤ་དང་རུས་པ་ཕྲལ། །
 > ཚེ་ལ་རྟག་པར་མ་འཛིན་དིང་རི་བ། །
@@ -254,7 +255,7 @@ Carry the Guru upon your crown, O people of Dingri. ^21
 The flesh and bone born with you will eventually separate;
 Do not grasp at this life as permanent, O people of Dingri;
 Take the primordial, permanent realm as your supreme home;
-It is without change or error, O people of Dingri. ^22
+It is without change or error, O people of Dingri. ^0-22
 
 > ནོར་གྱི་དམ་པར་སེམས་ཉིད་གཏེར་ཆེན་ཆོངས།
 > དེ་ལ་འཛད་པ་མེད་དོ་དིང་རི་བ། །
@@ -264,7 +265,7 @@ It is without change or error, O people of Dingri. ^22
 Hold the great treasure of the nature of mind as your supreme wealth;
 It is inexhaustible, O people of Dingri;
 Savor the supreme taste of meditative concentration as your food;
-There is no suffering of hunger, O people of Dingri. ^23
+There is no suffering of hunger, O people of Dingri. ^0-23
 
 > སྐོམ་ཀྱི་དམ་པར་དྲན་པའི་བདུད་རྩི་འཐུངས། །
 > དེ་ལ་རྒྱུན་ཆད་མེད་དོ་དིང་རི་བ།།
@@ -274,7 +275,7 @@ There is no suffering of hunger, O people of Dingri. ^23
 Drink the nectar of mindfulness as your supreme drink;
 It flows without interruption, O people of Dingri;
 Seek self-arisen primordial wisdom as your supreme companion;
-With it there is no meeting or parting, O people of Dingri. ^24
+With it there is no meeting or parting, O people of Dingri. ^0-24
 
 > སྲས་ཀྱི་དམ་པར་རིག་པའི་ཁྱེའུ་ཆུང་འཚོལ། །
 > དེ་ལ་སྐྱེ་འཆི་མེད་དོ་དིང་རི་བ། །
@@ -284,7 +285,7 @@ With it there is no meeting or parting, O people of Dingri. ^24
 Seek the youth of awareness as your supreme son;
 He is beyond birth and death, O people of Dingri;
 Brandish the spear of awareness within the state of emptiness;
-The view is without obstruction, O people of Dingri. ^25
+The view is without obstruction, O people of Dingri. ^0-25
 
 > དྲན་མེད་སྟེང་དུ་ཡེངས་མེད་བྱ་ར་ཐོངས། །
 > སྒོམ་ལ་བྱིང་རྒོད་མེད་དོ་དིང་རི་བ། །
@@ -294,7 +295,7 @@ The view is without obstruction, O people of Dingri. ^25
 Keep an undistracted watch upon the state of non-recollection;
 Meditation is then free of dullness and agitation, O people of Dingri;
 Train in unceasing creative energy within the spontaneously arising expanse;
-Conduct is then free of acceptance and rejection, O people of Dingri. ^26
+Conduct is then free of acceptance and rejection, O people of Dingri. ^0-26
 
 > སྐུ་བཞི་དབྱེར་མེད་རང་རིག་སེམས་ལ་འཚོལ། །
 > འབྲས་བུར་རེ་དོགས་མེད་དོ་དིང་རི་བ། །
@@ -304,7 +305,7 @@ Conduct is then free of acceptance and rejection, O people of Dingri. ^26
 Seek the four kayas, inseparable, within your own mind;
 The fruition is then free of hope and fear, O people of Dingri;
 The root of samsara and nirvana is gathered into the mind of awareness;
-Mind has no substantial reality, O people of Dingri. ^27
+Mind has no substantial reality, O people of Dingri. ^0-27
 
 > ཆགས་སྡང་སྣང་བ་བྱ་ལམ་རྗེས་མེད་འདྲ། །
 > ཉམས་ལ་ཞེན་པ་མེད་དོ་དིང་རི་བ། །
@@ -314,7 +315,7 @@ Mind has no substantial reality, O people of Dingri. ^27
 Appearances of attachment and aversion are like the traceless path of a bird;
 There is no clinging to meditative experiences, O people of Dingri;
 The unborn Dharmakaya is like the heart of the sun;
-Its radiance is without waxing or waning, O people of Dingri. ^28
+Its radiance is without waxing or waning, O people of Dingri. ^0-28
 
 > རྣམ་རྟོག་དགྲར་ལང་ཁང་སྟོང་རྐུན་མ་འདྲ། །
 > ནོར་ལ་ཤོར་ཐོབ་མེད་དོ་ དིང་རི་བ། །
@@ -324,7 +325,7 @@ Its radiance is without waxing or waning, O people of Dingri. ^28
 Discursive thoughts rising as enemies are like a thief in an empty house;
 There is nothing to be gained or lost, O people of Dingri;
 Sensations leave no trace, like drawings on water;
-Do not cling to delusive appearances, O people of Dingri. ^29
+Do not cling to delusive appearances, O people of Dingri. ^0-29
 
 > བག་ཆགས་དྲན་འཛིན་ནམ་མཁའི་འཇའ་རིས་འདྲ། །
 > ཞེན་ཆགས་ངོས་བཟུང་མེད་དོ་དིང་རི་བ། །
@@ -334,7 +335,7 @@ Do not cling to delusive appearances, O people of Dingri. ^29
 Habitual tendencies and memories are like rainbows in the sky;
 There is no identifiable object for attachment, O people of Dingri;
 The clarity of arising thoughts is like the sun free of clouds;
-There is no reliance to be placed upon the mind, O people of Dingri. ^30
+There is no reliance to be placed upon the mind, O people of Dingri. ^0-30
 
 > འཛིན་མེད་རང་གྲོལ་སྐྱི་སེར་རླུང་དང་འདྲ། །
 > ཡུལ་ལ་ཞེན་འཛིན་མེད་དོ་དིང་རི་བ། །
@@ -344,7 +345,7 @@ There is no reliance to be placed upon the mind, O people of Dingri. ^30
 Non-clinging self-liberation is like a whistling breeze;
 There is no clinging to objects, O people of Dingri.
 Awareness without substance is like a rainbow in the sky;
-There is no obstruction in meditative experience, O people of Dingri. ^31
+There is no obstruction in meditative experience, O people of Dingri. ^0-31
 
 > ཆོས་ཉིད་དོན་མཐོང་ལྐུགས་པའི་རྨི་ལམ་འདྲ། །
 > ཚིག་དང་ཐ་སྙད་བྲལ་ལོ་དིང་རི་བ། །
@@ -354,7 +355,7 @@ There is no obstruction in meditative experience, O people of Dingri. ^31
 Seeing the meaning of reality is like a mute person's dream;
 It is beyond words and descriptions, O people of Dingri.
 The dawning of realization is like the pleasure of a youth;
-Its joy and bliss are inexpressible, O people of Dingri. ^32
+Its joy and bliss are inexpressible, O people of Dingri. ^0-32
 
 > གསལ་སྟོང་དབྱེར་མེད་ཆུ་ནང་ཟླ་བ་འདྲ། །
 > གང་ལའང་ཆགས་ཐོགས་མེད་དོ་དིང་རི་བ།།
@@ -364,7 +365,7 @@ Its joy and bliss are inexpressible, O people of Dingri. ^32
 Indivisible clarity and emptiness are like the moon in water;
 There is no attachment or obstruction to anything, O people of Dingri.
 Indivisible appearance and emptiness are like the empty sky;
-The mind has no center or periphery, O people of Dingri. ^33
+The mind has no center or periphery, O people of Dingri. ^0-33
 
 > དྲན་པ་ཡེངས་མེད་སྒེག་མོའི་མེ་ལོང་འདྲ། །
 > དེ་ལ་གྲུབ་མཐའ་མེད་དོ་དིང་རི་བ། །
@@ -374,7 +375,7 @@ The mind has no center or periphery, O people of Dingri. ^33
 Unwavering mindfulness is like a beautiful woman's mirror;
 It is free of philosophical tenets, O people of Dingri.
 Indivisible awareness and emptiness are like a reflection in a mirror;
-There is no arising or ceasing in it, O people of Dingri. ^34
+There is no arising or ceasing in it, O people of Dingri. ^0-34
 
 > བདེ་སྟོང་འཛིན་མེད་གངས་ལ་ཉི་ཤར་འདྲ། །
 > དེ་ལ་ངོས་བཟུང་མེད་དོ་དིང་རི་བ། །
@@ -384,7 +385,7 @@ There is no arising or ceasing in it, O people of Dingri. ^34
 Non-clinging bliss and emptiness are like the sun rising on a snow mountain;
 There is nothing to be grasped as a thing, O people of Dingri.
 Traceless deluded talk is like the echo of a goddess;
-There is no grasping at sounds, O people of Dingri. ^35
+There is no grasping at sounds, O people of Dingri. ^0-35
 
 > བདེ་སྡུག་འཁྲུལ་འཁོར་པི་ཝང་ཁོང་རྒྱུན་འདྲ། །
 > རྒྱུ་རྐྱེན་ལས་ལ་སྦྱོར་རོ་དིང་རི་བ། །
@@ -394,7 +395,7 @@ There is no grasping at sounds, O people of Dingri. ^35
 The machinery of pleasure and pain is like the strings of a lute;
 It is composed through the karma of conditions, O people of Dingri.
 Samsara and nirvana are self-liberated, like the play of a child;
-The mind is without arising or ceasing, O people of Dingri. ^36
+The mind is without arising or ceasing, O people of Dingri. ^0-36
 
 > ཕྱི་ནང་སྤྲོས་པ་རང་གི་སེམས་ལ་བསྡུས། །
 > འཁྱག་རོམ་ཆུ་རུ་ཞུའོ་དིང་རི་བ། །
@@ -404,7 +405,7 @@ The mind is without arising or ceasing, O people of Dingri. ^36
 Withdraw outer elaborations into your own mind;
 Ice melts into water, O people of Dingri.
 Delusions of ignorance are like water bursting from a meadow;
-They cannot be stopped by blocking them, O people of Dingri. ^37
+They cannot be stopped by blocking them, O people of Dingri. ^0-37
 
 > འཁོར་འདས་འཁྲུལ་སྣང་སྒྲ་བཟུང་བྲལ་བ་འདྲ། །
 > ར་མདའ་བླ་མ་ལྷག་གོ་དིང་རི་བ། །
@@ -414,7 +415,7 @@ They cannot be stopped by blocking them, O people of Dingri. ^37
 Deluded appearances of samsara and nirvana are like sounds devoid of grasping;
 The guru is your ultimate support, O people of Dingri.
 The five kayas are self-luminous, like looking upon a land of gold;
-There is no hope, fear, adopting, or rejecting, O people of Dingri. ^38
+There is no hope, fear, adopting, or rejecting, O people of Dingri. ^0-38
 
 > དལ་འབྱོར་མི་ལུས་རིན་ཆེན་གསེར་དང་འདྲ། །
 > དོན་མེད་ཆུད་ཟོས་མ་བྱེད་དིང་རི་བ། །
@@ -424,7 +425,7 @@ There is no hope, fear, adopting, or rejecting, O people of Dingri. ^38
 A precious human body of freedoms and endowments is like gold;
 Do not waste it in vain, O people of Dingri.
 The Mahayana Dharma is like a wish-fulfilling jewel;
-Even if sought, it is difficult to find, O people of Dingri. ^39
+Even if sought, it is difficult to find, O people of Dingri. ^0-39
 
 > ཚེ་འདིའི་ལྟོ་གོས་ཇི་ལྟར་བྱས་ཀྱང་ཕྱིད། །
 > འདོད་དོན་ཆོས་ལ་སྒྲིལ་ཞིག་དིང་རི་བ། །
@@ -434,7 +435,7 @@ Even if sought, it is difficult to find, O people of Dingri. ^39
 Whatever you do for food and clothing in this life will suffice;
 Dedicate your desires to the Dharma, O people of Dingri.
 Practice austerities while you are young;
-When you are old, your elements will not be manageable, O people of Dingri. ^40
+When you are old, your elements will not be manageable, O people of Dingri. ^0-40
 
 > ཉོན་མོངས་སྐྱེ་དུས་གཉེན་པོས་སླེབས་པར་གྱིས།།
 > མཚན་མ་རང་སར་གྲོལ་ལོ་དིང་རི་བ། །
@@ -444,7 +445,7 @@ When you are old, your elements will not be manageable, O people of Dingri. ^40
 When afflictions arise, ensure the antidote is applied;
 Signs and characteristics are liberated in their own place, O people of Dingri.
 Occasionally reflect on the sufferings of samsara;
-This is the reminder that awakens faith, O people of Dingri. ^41
+This is the reminder that awakens faith, O people of Dingri. ^0-41
 
 >   ད་རེས་བརྩོན་འགྲུས་བསྐྱེད་ལ་རང་ས་ཟུངས། །
 > ཤི་ནས་གར་སྐྱེ་མེད་དོ་དིང་རི་བ། །
@@ -454,7 +455,7 @@ This is the reminder that awakens faith, O people of Dingri. ^41
 Exert yourself now and hold your own ground;
 There is no place to be born after death, O people of Dingri.
 There is no time to waste in life, it is like dew on a blade of grass;
-Abandon procrastination and laziness, O people of Dingri. ^42
+Abandon procrastination and laziness, O people of Dingri. ^0-42
 
 > སངས་རྒྱས་བསྟན་པ་སྤྲིན་བར་ཉི་མ་འདྲ། །
 > ད་རེས་གསལ་བ་ཡིན་ནོ་དིང་རི་བ། །
@@ -464,7 +465,7 @@ Abandon procrastination and laziness, O people of Dingri. ^42
 The Buddha's teachings are like the sun appearing through the clouds;
 They are clear for now, O people of Dingri.
 Though you may blame others for your joys and sorrows,
-The root of the conditions lies within yourself, O people of Dingri. ^43
+The root of the conditions lies within yourself, O people of Dingri. ^0-43
 
 > དད་པའི་རྐྱེན་གྱིས་བསྐུལ་བའི་ལམ་ཉེ་བས། །
 > འཁོར་བའི་ཉེས་དམིགས་སོམས་ཤིག་དིང་རི་བ། །
@@ -474,7 +475,7 @@ The root of the conditions lies within yourself, O people of Dingri. ^43
 Since the path is shortened when impelled by faith,
 Contemplate the defects of samsara, O people of Dingri.
 If you associate with bad companions, their negative behavior will naturally infect you;
-Abandon sinful companions, O people of Dingri. ^44
+Abandon sinful companions, O people of Dingri. ^0-44
 
 > གྲོགས་བཟང་བསྟེན་ན་ཡོན་ཏན་ཤུགས་ལ་འབྱུང་། །
 > དགེ་བའི་བཤེས་གཉེན་བསྟེན་ཞིག་དིང་རི་བ། །
@@ -484,7 +485,7 @@ Abandon sinful companions, O people of Dingri. ^44
 If you associate with good companions, their qualities will naturally arise;
 Rely upon a spiritual friend, O people of Dingri.
 Deceit and lies deceive both yourself and others;
-Let your own mind be your witness, O people of Dingri. ^45
+Let your own mind be your witness, O people of Dingri. ^0-45
 
 > མ་རིག་འཁྲུལ་པ་ཕུང་འདྲེའི་རྩ་བ་ཡིན། །
 > ཤེས་བཞིན་དྲན་པས་ཟུངས་ཤིག་དིང་རི་བ། །
@@ -494,7 +495,7 @@ Let your own mind be your witness, O people of Dingri. ^45
 Ignorant delusion is the root of all ruin;
 Hold fast with mindfulness and alertness, O people of Dingri.
 If you conquer the five and three poisons, the path is short;
-Rely upon the antidotes in your heart, O people of Dingri. ^46
+Rely upon the antidotes in your heart, O people of Dingri. ^0-46
 
 > བརྩོན་འགྲུས་མཐུ་སྟོབས་ཆུང་བས་འཚང་མི་རྒྱ། །
 > གོ་ཆས་སླེབས་པར་གྱིས་ཤིག་དིང་རི་བ། །
@@ -504,7 +505,7 @@ Rely upon the antidotes in your heart, O people of Dingri. ^46
 Because the power of diligence is weak, you will not attain enlightenment;
 Clothe yourselves in the armor of practice, O people of Dingri.
 Because habitual tendencies have been companions for so long, they will pursue you;
-Do not follow after the past, O people of Dingri. ^47
+Do not follow after the past, O people of Dingri. ^0-47
 
 > སེམས་ལ་གོ་རྟོགས་ཆུང་ན་གསོལ་བ་ཐོབ། །
 > རྟོགས་པ་ཤུགས་ལ་འཆར་རོ་དིང་རི་བ། །
@@ -514,7 +515,7 @@ Do not follow after the past, O people of Dingri. ^47
 If your understanding of the mind is slight, offer prayers;
 Realization will arise spontaneously, O people of Dingri.
 If you desire future happiness, cultivate endurance for hardship;
-The Buddha is right nearby, O people of Dingri. ^48
+The Buddha is right nearby, O people of Dingri. ^0-48
 
 > འདུས་པའི་སྔ་དྲོ་འབྲལ་བའི་བརྡ་ཞིག་བྱུང་། །
 > འདུ་འབྲལ་སེམས་ལ་གཟན་ནོ་དིང་རི་བ། །
@@ -524,7 +525,7 @@ The Buddha is right nearby, O people of Dingri. ^48
 The morning of gathering brings the sign of parting;
 Meeting and parting are painful to the mind, O people of Dingri.
 Most of your friends have already departed for the next life;
-Do you have provisions for the journey, O people of Dingri? ^49
+Do you have provisions for the journey, O people of Dingri? ^0-49
 
 > སྡུག་བསྔལ་ཐམས་ཅད་སྡིག་པའི་ལས་ལས་བྱུང་། །
 > སྡིག་པ་ཆུང་ཡང་སྤོངས་ཤིག་དིང་རི་བ། །
@@ -534,7 +535,7 @@ Do you have provisions for the journey, O people of Dingri? ^49
 All suffering arises from non-virtuous actions;
 Abandon even small sins, O people of Dingri.
 All happiness arises from virtuous actions;
-Accomplish even small virtues, O people of Dingri. ^50
+Accomplish even small virtues, O people of Dingri. ^0-50
 
 > དགེ་སྡིག་རྒྱུ་ལས་འབྲས་བུ་བདེ་སྡུག་འབྱུང་།།
 > སྡིག་སྤོང་དགེ་བ་སྒྲུབས་ཤིག་དིང་རི་བ། །
@@ -544,7 +545,7 @@ Accomplish even small virtues, O people of Dingri. ^50
 Happiness and suffering arise from the causes of virtue and non-virtue;
 Abandon non-virtue and accomplish virtue, O people of Dingri.
 The Acharya will not remain in Dingri, but is departing;
-Cut through your doubts right now, O people of Dingri. ^51
+Cut through your doubts right now, O people of Dingri. ^0-51
 
 > ངས་ནི་གཡེང་བ་མེད་པར་སྒྲུབ་པ་བྱས། །
 > ཁྱེད་ཀྱང་རྗེས་སུ་ཞུགས་ཤིག་དིང་རི་བ། །
@@ -556,8 +557,8 @@ I have persevered in practice without distraction;
 You too, follow in my footsteps, O people of Dingri.
 Because these instructions of the holy Jetsun
 Have been set down for the benefit of myself and all others,
-May all who hear them take them to heart, O wise ones. ^52
+May all who hear them take them to heart, O wise ones. ^0-52
 
 > ཅེས་ཕ་གཅིག་རྗེ་བཙུན་དམ་པ་སངས་རྒྱས་ཀྱིས་དིང་རི་བ་རྣམས་ལ་བཀའ་སློབ་ཞལ་ཆེམས་སུ་གནང་བ་དིང་རི་བརྒྱ་རྩ་མ་ཞེས་བྱ་བ་རྫོགས་སོ། །
 
-Thus, the "Hundred Verses of Dingri," which the sole father, the holy Jetsun Sangye, gave as his final testament and instruction to the people of Dingri, is completed. ^53
+Thus, the "Hundred Verses of Dingri," which the sole father, the holy Jetsun Sangye, gave as his final testament and instruction to the people of Dingri, is completed. ^1-1-1

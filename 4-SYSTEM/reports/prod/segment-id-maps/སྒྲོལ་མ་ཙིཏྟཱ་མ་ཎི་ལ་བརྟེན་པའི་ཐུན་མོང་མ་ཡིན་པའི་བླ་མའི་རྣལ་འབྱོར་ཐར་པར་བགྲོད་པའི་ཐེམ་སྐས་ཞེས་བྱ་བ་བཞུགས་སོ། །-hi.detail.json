@@ -1,0 +1,82 @@
+{
+ "edition_id": "Bg13QACYNBds2gKNi4siW",
+ "segment": [
+  {
+   "old_segment_id": "qCCFmX8yZVmHWQCM9uZjF",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "xet7CXdG0BqhzhlMMhRHY",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "hl28gXeAMzjr8LtUIcBGE",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "Pu9RrFZTaJLcFXoEiQCWr",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "eqKPdY7RBApTgAexP1UYG",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "v2RPI1SM8IarchL67Eccx",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "02yZzeRxwY9gNhL2jXcrn",
+   "old_reference": "4",
+   "old_type": "verse",
+   "new_segment_id": "oAZdhH15BlWKZ7tILsKfa",
+   "new_reference": "0-4"
+  },
+  {
+   "old_segment_id": "ipT0kIBcPgb3V3nfatsTE",
+   "old_reference": "5",
+   "old_type": "verse",
+   "new_segment_id": "7rnYK6GUenyzEuCCsLSAf",
+   "new_reference": "0-5"
+  },
+  {
+   "old_segment_id": "CEy9jxASJa8h22l1LhhPB",
+   "old_reference": "6",
+   "old_type": "verse",
+   "new_segment_id": "jH4hEBHTWUyzY6IcchqRB",
+   "new_reference": "0-6"
+  },
+  {
+   "old_segment_id": "ezQ4kgSo932fvCbdlumNt",
+   "old_reference": "7",
+   "old_type": "verse",
+   "new_segment_id": "KafdI920mV8CLKvglT3MF",
+   "new_reference": "0-7"
+  },
+  {
+   "old_segment_id": "sGNV7aigHVRBr5xqIc8Bw",
+   "old_reference": "8",
+   "old_type": "verse",
+   "new_segment_id": "YIbk6ag2oWe6ZV8wrZZCt",
+   "new_reference": "0-8"
+  },
+  {
+   "old_segment_id": "PB6pw8h0CcYLjJmx46fNl",
+   "old_reference": "9",
+   "old_type": "verse",
+   "new_segment_id": "AY8DhGMG49H8fhENSRLfj",
+   "new_reference": "0-9"
+  },
+  {
+   "old_segment_id": "705jI5OG2La6JRTFrDret",
+   "old_reference": "10",
+   "old_type": "verse",
+   "new_segment_id": "emtoJbcq6wiUNy7PUbSJA",
+   "new_reference": "0-10"
+  },
+  {
+   "old_segment_id": "XFPKQVbtxOuN7kKWOwcey",
+   "old_reference": "11",
+   "old_type": "verse",
+   "new_segment_id": "tZ6WWZptKoJDKIRxLbVbg",
+   "new_reference": "1-1"
+  }
+ ]
+}

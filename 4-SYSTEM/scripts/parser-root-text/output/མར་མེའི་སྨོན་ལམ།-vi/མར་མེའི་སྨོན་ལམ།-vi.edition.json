@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Với ánh sáng soi chiếu khắp tam thiên,Cùng vô lượng tràng minh đăng cõi thiên,Đang an ngự trong vô biên mười phương cõi,Con xin cúng dường Đạo sư, chư Phật cùng Bồ Tát.Nhờ công đức này, mọi tội đọa con đã tích tập,Cùng bóng tối phiền não, sở tri chướng thảy tiêu trừ,Đạt được quang minh tối thắng của thiên nhãn và thần thông,Nguyện thành tựu đại lợi ích cho vô lượng chúng sinh.Từ nay cho đến muôn ngàn kiếp vị lai,Xin thọ trì kho tàng Diệu Pháp của chư Phật,Bằng ánh sáng Chánh Pháp thoát ly trần cấu,Nguyện xua tan bóng tối vô minh của chúng sinh.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 38
+          },
+          {
+            "start": 38,
+            "end": 78
+          },
+          {
+            "start": 78,
+            "end": 120
+          },
+          {
+            "start": 120,
+            "end": 168
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 168,
+            "end": 214
+          },
+          {
+            "start": 214,
+            "end": 267
+          },
+          {
+            "start": 267,
+            "end": 326
+          },
+          {
+            "start": 326,
+            "end": 379
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 379,
+            "end": 416
+          },
+          {
+            "start": 416,
+            "end": 460
+          },
+          {
+            "start": 460,
+            "end": 503
+          },
+          {
+            "start": 503,
+            "end": 550
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

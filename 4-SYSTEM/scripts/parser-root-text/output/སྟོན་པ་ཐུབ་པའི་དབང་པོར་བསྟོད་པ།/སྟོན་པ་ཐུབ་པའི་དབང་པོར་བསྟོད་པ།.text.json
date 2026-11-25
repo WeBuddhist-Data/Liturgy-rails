@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL51241E907A89",
+  "title": {
+    "bo": "སྟོན་པ་ཐུབ་པའི་དབང་པོར་བསྟོད་པ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Praise to the Teacher, the Lord of Sages"
+    },
+    {
+      "zh": "本師能仁王讚"
+    },
+    {
+      "hi": "शास्ता मुनीन्द्र स्तुति"
+    },
+    {
+      "ne": "शाक्यमुनि बुद्धको स्तुति"
+    },
+    {
+      "mn": "Бурхан багшийн магтаал"
+    },
+    {
+      "vi": "Tán Thán Đức Bổn Sư Thích Ca"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P5425"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

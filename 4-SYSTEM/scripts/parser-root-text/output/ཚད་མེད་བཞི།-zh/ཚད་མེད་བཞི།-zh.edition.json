@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "愿一切众生具足安乐及安乐之因。愿一切众生远离痛苦及痛苦之因。愿一切众生不离无苦之妙乐。愿一切众生安住于远离亲疏爱憎的平等舍中。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 15
+          },
+          {
+            "start": 15,
+            "end": 30
+          },
+          {
+            "start": 30,
+            "end": 43
+          },
+          {
+            "start": 43,
+            "end": 63
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

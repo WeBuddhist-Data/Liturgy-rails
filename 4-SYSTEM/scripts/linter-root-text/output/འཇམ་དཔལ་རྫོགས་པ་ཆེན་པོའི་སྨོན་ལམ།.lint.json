@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.md",
+  "validated_at": "2026-11-24T18:03:33.740990+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL1B94767954F9",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Great Perfection Mañjuśrī"
+      },
+      {
+        "zh": "文殊大圆满基道果无别发愿文"
+      },
+      {
+        "hi": "ज़ोगचेन मंजुश्री प्रणिधान"
+      },
+      {
+        "ne": "मञ्जुश्री दजोग्चेन प्रार्थना"
+      },
+      {
+        "mn": "Манзуширын их зогчэн ерөөл"
+      },
+      {
+        "vi": "Phát Nguyện Văn Thù Đại Viên Mãn"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P6176"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

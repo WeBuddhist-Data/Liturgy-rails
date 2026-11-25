@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།.md",
+  "validated_at": "2026-11-24T18:03:28.938285+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLF4245C581327",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཕྱག་ཆེན་བརྒྱུད་པའི་གསོལ་འདེབས་ནི།"
+    },
+    "alt_titles": [
+      {
+        "en": "Prayer to the Mahāmudrā Lineage"
+      },
+      {
+        "zh": "大手印傳承祈請文"
+      },
+      {
+        "hi": "महामुद्रा गुरु-परंपरा की प्रार्थना"
+      },
+      {
+        "ne": "महामुद्रा गुरु परम्परा प्रार्थना"
+      },
+      {
+        "mn": "Чагчэн дамжлагын залбирал"
+      },
+      {
+        "vi": "Bài Cầu Nguyện Truyền Thừa Đại Ấn"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P719"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

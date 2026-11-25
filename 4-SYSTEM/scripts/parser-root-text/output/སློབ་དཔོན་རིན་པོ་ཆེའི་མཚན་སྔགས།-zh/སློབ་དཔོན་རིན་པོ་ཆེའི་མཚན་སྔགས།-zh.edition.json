@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "印度大班智达对西藏恩德深，莲花生大士之身无生亦无灭，现于西南方镇压罗刹魔众，顶礼邬金仁波切。嗡 阿 吽 班扎 咕噜 贝玛 悉地 吽。三世诸佛之化身，咕噜仁波切，一切成就之主宰，大乐之尊足，遣除一切障碍者，降魔威猛力，祈请垂念加持我。祈请加持令内外密障碍平息，祈请加持令一切心愿自然成就。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 13
+          },
+          {
+            "start": 13,
+            "end": 26
+          },
+          {
+            "start": 26,
+            "end": 38
+          },
+          {
+            "start": 38,
+            "end": 46
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 46,
+            "end": 66
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 66,
+            "end": 80
+          },
+          {
+            "start": 80,
+            "end": 94
+          },
+          {
+            "start": 94,
+            "end": 108
+          },
+          {
+            "start": 108,
+            "end": 116
+          },
+          {
+            "start": 116,
+            "end": 129
+          },
+          {
+            "start": 129,
+            "end": 143
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

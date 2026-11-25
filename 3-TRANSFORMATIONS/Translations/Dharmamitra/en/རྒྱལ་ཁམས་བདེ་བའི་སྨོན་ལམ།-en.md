@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 4
 blocks_total: 4
 status: draft
+toc_id: aXemcDIWjD7yjvkYScULQ
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -52,7 +53,7 @@ Orgyen Rinpoche, protector and refuge of wandering beings,
 Together with the assembly of vidyādharas and ḍākinīs,
 We pray to you with single-pointed devotion.
 Just as you promised, look upon us with love from the basic space of phenomena,
-And behold these weary beings with your compassion! ^1
+And behold these weary beings with your compassion! ^0-1
 
 > གསོལ་བ་འདེབས་སོ་ཨོ་རྒྱན་རིན་པོ་ཆེ། །
 > རྐྱེན་ངན་ཟློག་ཅིག་མ་དང་མཁའ་འགྲོའི་ཚོགས། །
@@ -64,7 +65,7 @@ I pray to you, Orgyen Rinpoche!
 Avert misfortune, O hosts of mothers and ḍākinīs!
 Pacify all the decline of these discordant times,
 And cause the prosperity of the outer environment and inner inhabitants to flourish.
-May conflicts, epidemics, earthquakes, insect infestations, and the like— ^2
+May conflicts, epidemics, earthquakes, insect infestations, and the like— ^0-2
 
 > གཟུགས་ཅན་གཟུགས་མེད་བསམ་སྦྱོར་ངན་པའི་དཔལ། །
 > མི་མཐུན་ཕྱོགས་ཀུན་ཞི་བར་མཛད་དུ་གསོལ། །
@@ -74,8 +75,8 @@ May conflicts, epidemics, earthquakes, insect infestations, and the like— ^2
 And the malevolent intentions and actions of those with and without form,
 Be pacified, I pray!
 May the teachings flourish and the lives of the holders of the teachings be firm,
-And may the world be filled with the glory of happiness and well-being! ^3
+And may the world be filled with the glory of happiness and well-being! ^0-3
 
 > ཅེས་རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ་དཔལ་ཀརྨ་པས་བྲིས་པ་དགེ། །།དགེ། །དགེའོ།། །།
 
-Thus, this prayer for the well-being of the realm was written by the glorious Karmapa. Virtue! Virtue! Virtue! ^4
+Thus, this prayer for the well-being of the realm was written by the glorious Karmapa. Virtue! Virtue! Virtue! ^1-1-1

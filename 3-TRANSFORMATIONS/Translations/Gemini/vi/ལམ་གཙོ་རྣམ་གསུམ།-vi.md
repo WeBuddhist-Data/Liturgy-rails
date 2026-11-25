@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 16
 blocks_total: 16
 status: draft
+toc_id: py5nl2VnZZ4FiK3Bhl5uN
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -48,7 +49,7 @@ status: draft
 
 > རྗེ་བཙུན་བླ་མ་རྣམས་ལ་ཕྱག་འཚལ་ལོ། །
 
-Kính lễ chư Đạo sư tôn quý. ^1
+Kính lễ chư Đạo sư tôn quý. ^0-1
 
 > རྒྱལ་བའི་གསུང་རབ་ཀུན་གྱི་སྙིང་པོའི་དོན། །
 > རྒྱལ་སྲས་དམ་པ་རྣམས་ཀྱིས་བསྔགས་པའི་ལམ། །
@@ -58,7 +59,7 @@ Kính lễ chư Đạo sư tôn quý. ^1
 Ý nghĩa tinh túy trong mọi giáo pháp của chư Phật,
 Con đường được các bậc Thánh Phật tử ngợi ca,
 Là bến bờ cho những hành giả thiện duyên cầu giải thoát,
-Nay con xin đem hết khả năng ra giảng thuyết. ^2
+Nay con xin đem hết khả năng ra giảng thuyết. ^0-2
 
 > གང་དག་སྲིད་པའི་བདེ་ལ་མ་ཆགས་ཤིང་། །
 > དལ་འབྱོར་དོན་ཡོད་བྱ་ཕྱིར་བརྩོན་པ་ཡིས། །
@@ -68,7 +69,7 @@ Nay con xin đem hết khả năng ra giảng thuyết. ^2
 Những ai không bám luyến những dục lạc luân hồi,
 Tinh tấn tu hành để thân người diệu dụng này thêm ý nghĩa,
 Trọn lòng nương tựa con đường làm hoan hỷ chư Phật,
-Hỡi những người có thiện duyên, hãy lắng tâm nghe thọ. ^3
+Hỡi những người có thiện duyên, hãy lắng tâm nghe thọ. ^0-3
 
 > རྣམ་དག་ངེས་འབྱུང་མེད་པར་སྲིད་མཚོ་ཡི། །
 > བདེ་འབྲས་དོན་གཉེར་ཞི་བའི་ཐབས་མེད་ལ། །
@@ -78,7 +79,7 @@ Hỡi những người có thiện duyên, hãy lắng tâm nghe thọ. ^3
 Nếu không có tâm xả ly thanh tịnh, thì với biển luân hồi,
 Kẻ cầu mong quả an lạc sẽ chẳng có cách nào tịch diệt.
 Lòng khát khao cõi sinh tử khiến cho hết thảy chúng sinh,
-Bị trói buộc muôn bề, thế nên trước tiên phải tìm cầu tâm xả ly. ^4
+Bị trói buộc muôn bề, thế nên trước tiên phải tìm cầu tâm xả ly. ^0-4
 
 > དལ་འབྱོར་རྙེད་དཀའ་ཚེ་ལ་ལོང་མེད་པ། །
 > ཡིད་ལ་གོམས་པས་ཚེ་འདིའི་སྣང་ཤས་ལྡོག །
@@ -88,7 +89,7 @@ Bị trói buộc muôn bề, thế nên trước tiên phải tìm cầu tâm x
 Thân người diệu dụng khó được, mạng sống lại chẳng chờ đợi,
 Luôn quán niệm điều này sẽ trừ diệt bám luyến vào đời hiện tại.
 Nghiệp quả không dối gạt và vô lượng khổ đau của sinh tử,
-Luôn suy ngẫm điều này sẽ trừ diệt bám luyến vào đời vị lai. ^5
+Luôn suy ngẫm điều này sẽ trừ diệt bám luyến vào đời vị lai. ^0-5
 
 > དེ་ལྟར་གོམས་པས་འཁོར་བའི་ཕུན་ཚོགས་ལ། །
 > ཡིད་སྨོན་སྐད་ཅིག་ཙམ་ཡང་མི་སྐྱེ་ཞིང་། །
@@ -98,7 +99,7 @@ Luôn suy ngẫm điều này sẽ trừ diệt bám luyến vào đời vị la
 Nhờ quen thuộc tu tập như thế, đối với những dục lạc luân hồi,
 Chẳng khởi sinh lòng mong cầu dù chỉ trong một sát-na,
 Cả ngày lẫn đêm tâm tâm niệm niệm chỉ hướng về giải thoát,
-Khi trạng thái ấy hiển lộ, chính là lúc tâm xả ly đã sinh. ^6
+Khi trạng thái ấy hiển lộ, chính là lúc tâm xả ly đã sinh. ^0-6
 
 > ངེས་འབྱུང་དེ་ཡང་རྣམ་དག་སེམས་བསྐྱེད་ཀྱིས། །
 > ཟིན་པ་མེད་ན་བླ་མེད་བྱང་ཆུབ་ཀྱི། །
@@ -108,7 +109,7 @@ Khi trạng thái ấy hiển lộ, chính là lúc tâm xả ly đã sinh. ^6
 Tâm xả ly ấy nếu không được trọn vẹn nhiếp thọ,
 Bởi Bồ-đề tâm thanh tịnh, thì sẽ không thể trở thành,
 Nhân sinh ra cõi an lạc viên mãn của quả vị Vô thượng Bồ-đề,
-Thế nên, những bậc trí giả hãy phát Bồ-đề tâm tối thượng. ^7
+Thế nên, những bậc trí giả hãy phát Bồ-đề tâm tối thượng. ^0-7
 
 > ཤུགས་དྲག་ཆུ་བོ་བཞི་ཡི་རྒྱུན་གྱིས་ཁྱེར། །
 > བཟློག་དཀའ་ལས་ཀྱི་འཆིང་བ་དམ་པོས་བསྡམས། །
@@ -118,7 +119,7 @@ Thế nên, những bậc trí giả hãy phát Bồ-đề tâm tối thượng.
 Bị cuốn trôi bởi dòng chảy dữ dội của bốn con sông lớn,
 Bị trói chặt bởi những nghiệp quả kiên cố khó lòng vãn hồi,
 Bị giam cầm sâu trong mạng lưới sắt của ngã chấp,
-Bị bủa vây khắp chốn bởi màn đêm dày đặc của vô minh, ^8
+Bị bủa vây khắp chốn bởi màn đêm dày đặc của vô minh, ^0-8
 
 > མུ་མེད་སྲིད་པར་སྐྱེ་ཞིང་སྐྱེ་བ་རུ། །
 > སྡུག་བསྔལ་གསུམ་གྱིས་རྒྱུན་ཆད་མེད་པར་མནར། །
@@ -128,7 +129,7 @@ Bị bủa vây khắp chốn bởi màn đêm dày đặc của vô minh, ^8
 Trôi lăn sinh tử hết đời này sang đời khác trong luân hồi vô tận,
 Bị hành hạ không ngừng nghỉ bởi ba cõi khổ đau.
 Hết thảy các bà mẹ chúng sinh đang rơi vào cảnh ngộ như thế,
-Quán tưởng tình cảnh này, hãy phát sinh Bồ-đề tâm tối thượng. ^9
+Quán tưởng tình cảnh này, hãy phát sinh Bồ-đề tâm tối thượng. ^0-9
 
 > གནས་ལུགས་རྟོགས་པའི་ཤེས་རབ་མི་ལྡན་ན། །
 > ངེས་འབྱུང་བྱང་ཆུབ་སེམས་ལ་གོམས་བྱས་ཀྱང་། །
@@ -138,7 +139,7 @@ Quán tưởng tình cảnh này, hãy phát sinh Bồ-đề tâm tối thượn
 Nếu không có trí tuệ thấu đạt chân lý tự tính,
 Dù đã huân tập tâm xả ly và Bồ-đề tâm,
 Cũng không thể chặt đứt gốc rễ của luân hồi sinh tử.
-Do vậy, hãy tinh tấn hành trì phương tiện thấu đạt duyên khởi. ^10
+Do vậy, hãy tinh tấn hành trì phương tiện thấu đạt duyên khởi. ^0-10
 
 > གང་ཞིག་འཁོར་འདས་ཆོས་རྣམས་ཐམས་ཅད་ཀྱི། །
 > རྒྱུ་འབྲས་ནམ་ཡང་བསླུ་བ་མེད་མཐོང་ཞིང་། །
@@ -148,7 +149,7 @@ Do vậy, hãy tinh tấn hành trì phương tiện thấu đạt duyên khởi
 Bất kỳ ai đối với vạn pháp của luân hồi và niết-bàn,
 Đều thấy rõ nhân quả không bao giờ dối gạt,
 Và phá hủy hoàn toàn mọi đối tượng của tâm bám chấp,
-Người đó đã bước vào con đường làm hoan hỷ chư Phật. ^11
+Người đó đã bước vào con đường làm hoan hỷ chư Phật. ^0-11
 
 > སྣང་བ་རྟེན་འབྲེལ་བསླུ་བ་མེད་པ་དང་། །
 > སྟོང་པ་ཁས་ལེན་བྲལ་བའི་གོ་བ་གཉིས། །
@@ -158,7 +159,7 @@ Người đó đã bước vào con đường làm hoan hỷ chư Phật. ^11
 Hiển tướng là duyên khởi vạn pháp không dối gạt,
 Và tính không là xa lìa mọi khái niệm kẹt mắc,
 Chừng nào hai sự liễu ngộ này vẫn còn hiển lộ riêng rẽ,
-Thì chừng đó vẫn chưa thấu đạt được bản ý của đấng Năng Nhân. ^12
+Thì chừng đó vẫn chưa thấu đạt được bản ý của đấng Năng Nhân. ^0-12
 
 > ནམ་ཞིག་རེས་འཇོག་མེད་པར་ཅིག་ཅར་དུ། །
 > རྟེན་འབྲེལ་མི་བསླུར་མཐོང་བ་ཙམ་ཉིད་ནས། །
@@ -168,7 +169,7 @@ Thì chừng đó vẫn chưa thấu đạt được bản ý của đấng Năn
 Cho đến khi không còn luân phiên mà đồng thời hiển lộ,
 Chỉ cần vừa thấu triệt lý duyên khởi không dối gạt,
 Đã phá tan mọi bám chấp vào đối tượng nhận thức,
-Khi ấy sự quán sát về chính kiến mới thật sự viên mãn. ^13
+Khi ấy sự quán sát về chính kiến mới thật sự viên mãn. ^0-13
 
 > གཞན་ཡང་སྣང་བས་ཡོད་མཐའ་སེལ་བ་དང་། །
 > སྟོང་པས་མེད་མཐའ་སེལ་ཞིང་སྟོང་པ་ཉིད། །
@@ -178,7 +179,7 @@ Khi ấy sự quán sát về chính kiến mới thật sự viên mãn. ^13
 Hơn nữa, hiển tướng xua tan tri kiến chấp có,
 Tính không xua tan tri kiến chấp không, và nếu biết rõ tính không,
 Hiển lộ dưới hình thức của nhân và quả như thế nào,
-Thì sẽ không còn bị sai sử bởi những tà kiến chấp thủ hai biên. ^14
+Thì sẽ không còn bị sai sử bởi những tà kiến chấp thủ hai biên. ^0-14
 
 > དེ་ལྟར་ལམ་གྱི་གཙོ་བོ་རྣམ་གསུམ་གྱི། །
 > གནད་རྣམས་རང་གིས་ཇི་བཞིན་རྟོགས་པའི་ཚེ། །
@@ -188,8 +189,8 @@ Thì sẽ không còn bị sai sử bởi những tà kiến chấp thủ hai bi
 Khi đã tự mình thấu đạt tường tận và chân thật,
 Những điểm tinh yếu của Ba con đường chính yếu này,
 Hãy nương tựa chốn tĩnh tu, phát khởi sức mạnh tinh tấn,
-Để mau chóng thành tựu mục tiêu tối hậu, hỡi tâm tử của ta! ^15
+Để mau chóng thành tựu mục tiêu tối hậu, hỡi tâm tử của ta! ^0-15
 
 > ཞེས་པ་འདི་ནི་མང་དུ་ཐོས་པའི་དགེ་སློང་བློ་བཟང་གྲགས་པའི་དཔལ་གྱིས་ཚ་ཁོ་དབོན་པོ་ངག་དབང་གྲགས་པ་ལ་གདམས་པའོ།། ། །
 
-Lời giáo huấn này được tỳ-kheo đa văn Lobsang Drakpa truyền trao cho Tsakho Wönpo Ngawang Drakpa. ^16
+Lời giáo huấn này được tỳ-kheo đa văn Lobsang Drakpa truyền trao cho Tsakho Wönpo Ngawang Drakpa. ^1-1-1

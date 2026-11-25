@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "In the Buddha, the Dharma, and the Supreme Assembly,Until I reach enlightenment, I take refuge.Through the merit of my practice of generosity and the rest,May I attain Buddhahood for the benefit of all beings.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 52
+          },
+          {
+            "start": 52,
+            "end": 95
+          },
+          {
+            "start": 95,
+            "end": 155
+          },
+          {
+            "start": 155,
+            "end": 209
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

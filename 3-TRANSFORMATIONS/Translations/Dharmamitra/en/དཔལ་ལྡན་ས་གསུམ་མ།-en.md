@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 39
 blocks_total: 39
 status: draft
+toc_id: oaqraQhPy4L5HvAhc88BI
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -48,7 +49,7 @@ status: draft
 Glorious and precious root guru,
 Please reside upon the lotus in my heart,
 Having cared for me through your great kindness,
-Please bestow the accomplishments of your body, speech, and mind. ^1
+Please bestow the accomplishments of your body, speech, and mind. ^0-1
 
 > དཔལ་ལྡན་ས་གསུམ་འགྲོ་བའི་མིག་གཅིག་པུ། །
 > ཐར་འདོད་ཡོངས་ཀྱི་བླ་ན་མེད་པའི་མགོན། །
@@ -58,7 +59,7 @@ Please bestow the accomplishments of your body, speech, and mind. ^1
 Glorious sole eye of all beings in the three realms,
 Unsurpassed protector of all who desire liberation,
 Possessing compassion greater than all the Victors,
-To the peerless, supreme guru, I pray. ^2
+To the peerless, supreme guru, I pray. ^0-2
 
 > རྒྱལ་བའི་སྤྱན་སྔར་བྱང་ཆུབ་སྤྱོད་པ་བླངས། །
 > དགའ་ལྡན་གནས་སུ་འཇམ་དཔལ་སྙིང་པོར་གྲགས། །
@@ -68,7 +69,7 @@ To the peerless, supreme guru, I pray. ^2
 In the presence of the Victors, you took the vow of enlightenment,
 Renowned as Mañjuśrī in the abode of Tuṣita,
 In this Land of Snows, you are Losang Drakpa Pel;
-To you, the foremost heir of the Victors, I pray. ^3
+To you, the foremost heir of the Victors, I pray. ^0-3
 
 > རྒྱ་ཆེན་བསོད་ནམས་སྨིན་པའི་མཐུ་ལྡན་པས། །
 > གསུང་རབ་ཀློག་དང་ལེགས་སྦྱར་སྒྲ་ལ་སོགས། །
@@ -78,7 +79,7 @@ To you, the foremost heir of the Victors, I pray. ^3
 Possessing the power of ripened, vast merit,
 You mastered the scriptures, Sanskrit grammar, and the like,
 And understood the sciences without having to study them;
-To you, whose qualities are spontaneously perfected, I pray. ^4
+To you, whose qualities are spontaneously perfected, I pray. ^0-4
 
 > ཁྱེད་སྐུའི་ཉིན་བྱེད་ཡུམ་གྱི་ཆུ་འཛིན་ལས། །
 > གསལ་བར་བྱོན་ཚེ་སྲིད་པའི་ཕུན་ཚོགས་ལ། །
@@ -88,7 +89,7 @@ To you, whose qualities are spontaneously perfected, I pray. ^4
 When you, the sun of your body, emerge from the cloud-bank of the Mother,
 You abandon forever the playful flickering of lightning,
 Which is the entanglement with the excellences of cyclic existence;
-To you, I pray. ^5
+To you, I pray. ^0-5
 
 > གཞོན་ནུ་ཉིད་ནས་རྒྱལ་བའི་བརྟུལ་ཞུགས་ཀུན། །
 > མ་སྨད་ཚུལ་ཁྲིམས་མཆོག་གིས་ལེགས་བསྡམས་ཤིང་། །
@@ -98,7 +99,7 @@ To you, I pray. ^5
 From your very youth, you were well-restrained by the supreme, blameless ethical discipline,
 Holding fast to the Victor’s entire ascetic path;
 In all your births, you possessed the power of being consistently vigilant;
-To you, I pray. ^6
+To you, I pray. ^0-6
 
 > རྒྱལ་བའི་གསུང་རབ་ཀུན་གྱི་ཚིག་དོན་ལ། །
 > ཐོགས་པ་མེད་པར་འཇུག་པའི་རྣམ་དཔྱོད་ཀྱིས། །
@@ -108,7 +109,7 @@ To you, I pray. ^6
 With an analytical intellect that engages without obstruction
 In the words and meanings of all the Victor’s scriptures,
 You zealously sought out excellent explanations;
-To you, the vast treasury of wisdom, I pray. ^7
+To you, the vast treasury of wisdom, I pray. ^0-7
 
 > ཚིག་ཕྲེང་ཝུ་བས་ངོམས་པ་མི་མངའ་ཞིང་། །
 > མཁས་མཆོག་བྱེ་བས་རྟོགས་པར་དཀའ་བའི་གནས། །
@@ -118,7 +119,7 @@ To you, the vast treasury of wisdom, I pray. ^7
 You were never satisfied by mere strings of words,
 And regarding points difficult for millions of supreme scholars to fathom,
 With stainless, extremely subtle, and precise reasoning,
-You beheld all the teachings without exception; to you, I pray. ^8
+You beheld all the teachings without exception; to you, I pray. ^0-8
 
 > རྟོག་གེ་ལ་སྦྱངས་རྒོལ་བ་མཐའ་དག་གིས། །
 > ལན་བརྒྱར་དཔྱད་ཀྱང་མགོན་པོ་ཁྱེད་ཀྱི་གསུང་། །
@@ -128,7 +129,7 @@ You beheld all the teachings without exception; to you, I pray. ^8
 Though all opponents trained in logic
 Should analyze your words a hundred times, O Protector,
 They remain free from shifting even slightly into any other form;
-To you who possess a pure mind, I pray. ^9
+To you who possess a pure mind, I pray. ^0-9
 
 > འཕགས་ཡུལ་ཤིང་རྟ་ཆེ་རྣམས་བཞེད་པའི་གཞུང་། །
 > ཇི་བཞིན་གཟིགས་པ་ཁྱེད་ལས་གཞན་ན་གང་།།
@@ -138,7 +139,7 @@ To you who possess a pure mind, I pray. ^9
 Who else but you beholds the scriptures as intended
 By the great pioneers of the Noble Land?
 To you, for whom all the scriptures arise as supreme instructions,
-I pray. ^10
+I pray. ^0-10
 
 > དེ་ཕྱིར་མཁས་མཆོག་ཀུན་གྱི་ཅོད་པན་ལ། །
 > རྟག་ཏུ་ངལ་གསོ་མཛད་པའི་ཞབས་པད་ཀྱིས། །
@@ -148,7 +149,7 @@ I pray. ^10
 Therefore, upon the crown of all supreme scholars,
 With lotus feet that always rest in peace,
 You are the dust upon which the ocean-clad earth is written;
-To you, who have become a stūpa for all beings, I pray. ^11
+To you, who have become a stūpa for all beings, I pray. ^0-11
 
 > རྒྱལ་བའི་མཁྱེན་པས་ཇི་ཙམ་ལེགས་དཔྱད་ཀྱང་། །
 > ཁྱེད་ཀྱི་ཐུགས་ལ་རྣམ་དག་བསླབ་པའི་ཁྲིམས། །
@@ -158,7 +159,7 @@ To you, who have become a stūpa for all beings, I pray. ^11
 Though the Victors' wisdom may analyze it well,
 In your mind, the perfectly pure training of discipline
 Is such that even the slightest fault of laxity
-Is nowhere to be seen; to you, I pray. ^12
+Is nowhere to be seen; to you, I pray. ^0-12
 
 > རིན་ཆེན་འབྱུང་གནས་ཆུ་ཡི་ཕུང་པོ་བཞིན། །
 > ཁྱེད་ཐུགས་སྙིང་རྗེའི་གཏིང་མཐའ་ཇི་ཙམ་ཞེས། །
@@ -168,7 +169,7 @@ Is nowhere to be seen; to you, I pray. ^12
 Like a vast body of water, a source of precious jewels,
 How deep and vast is the compassion in your heart?
 It transcends the domain of all who possess the eye of primordial wisdom;
-To you, the venerable treasury of compassion, I pray. ^13
+To you, the venerable treasury of compassion, I pray. ^0-13
 
 > ཁྱེད་ཀྱི་ལྷག་བསམ་ཕྱོགས་ལ་མ་བླངས་པའི། །
 > ལུས་ཅན་ཕན་བདེའི་ཁུར་ནི་ཅང་མ་མཆིས། །
@@ -178,7 +179,7 @@ To you, the venerable treasury of compassion, I pray. ^13
 Without your altruistic intention,
 There would be no burden of benefit and happiness for embodied beings;
 You have reached the culmination of all vast conduct;
-To you, of wondrous courage, I pray. ^14
+To you, of wondrous courage, I pray. ^0-14
 
 > མགོན་པོ་ཁྱེད་ཀྱི་ཞལ་གྱི་དབུགས་ཙམ་ཡང་། །
 > མཐའ་དག་འགྲོ་ལ་སྨན་པའི་རྒྱུར་གྱུར་ན། །
@@ -188,7 +189,7 @@ To you, of wondrous courage, I pray. ^14
 If even the mere breath from your mouth, O Protector,
 Becomes a cause of benefit for all beings,
 Then what need is there to mention your conduct of the two accumulations?
-To you, the friend of all beings in the three realms, I pray. ^15
+To you, the friend of all beings in the three realms, I pray. ^0-15
 
 > འཇམ་པའི་དབྱངས་ཀྱིས་ཁྱེད་ལ་མངོན་སུམ་དུ། །
 > ཉིན་རེ་བཞིན་ཡང་ལེགས་བཤད་བདུད་རྩིའི་རྒྱུན། །
@@ -198,7 +199,7 @@ To you, the friend of all beings in the three realms, I pray. ^15
 Mañjughoṣa directly and perfectly instructs you,
 Day by day, with a stream of nectar—the eloquent teachings,
 The condensed essence of the wisdom-mind of the Victors of the three times;
-To you, who teach unceasingly, I pray. ^16
+To you, who teach unceasingly, I pray. ^0-16
 
 > ཐུབ་བསྟན་པདྨོའི་ཚལ་ལ་འཇིག་རྟེན་འདིར། །
 > ཁྱེད་ནི་རྒྱལ་བའི་ཉི་མ་ཇི་བཞིན་ཞེས། །
@@ -208,7 +209,7 @@ To you, who teach unceasingly, I pray. ^16
 In this world, within the lotus grove of the Buddha’s teachings,
 You are like the sun of the Victors;
 Thus, the Protector Maitreya directly
-Praised you as the supreme source of relief—to you I pray. ^17
+Praised you as the supreme source of relief—to you I pray. ^0-17
 
 > གྲངས་མེད་རྒྱལ་བའི་སྐུ་ཡི་རྒྱལ་མཚན་གཟིགས། །
 > ས་ར་ཧ་དང་ལུ་ཨི་པ་ལ་སོགས། །
@@ -218,7 +219,7 @@ Praised you as the supreme source of relief—to you I pray. ^17
 You behold the victory banner of the bodies of countless Victors;
 Saraha, Luipa, and many other
 Great accomplished masters have directly blessed you;
-To you, the supreme and perfectly pure being, I pray. ^18
+To you, the supreme and perfectly pure being, I pray. ^0-18
 
 > ཀླུ་སྒྲུབ་འཕགས་པ་ལྷ་དང་སངས་རྒྱས་བསྐྱངས། །
 > ཟླ་བའི་ཞབས་ཀྱིས་གང་ཚེ་བྱིན་བརླབས་པ། །
@@ -228,7 +229,7 @@ To you, the supreme and perfectly pure being, I pray. ^18
 When the venerable Nāgārjuna, Āryadeva, Buddhapālita,
 And the feet of Candrakīrti blessed you,
 In that very instant, regarding the profound reality,
-You abandoned the stains of confusion—to you I pray. ^19
+You abandoned the stains of confusion—to you I pray. ^0-19
 
 > ཁྱེད་ཀྱིས་ཆོས་ཉིད་ནམ་མཁའི་དཀྱིལ་ལྟ་བུ།།
 > མཉམ་གཞག་ཏིང་འཛིན་མཆོག་གིས་ལེགས་བསྒོམས་པས། །
@@ -238,7 +239,7 @@ You abandoned the stains of confusion—to you I pray. ^19
 Because you have well-cultivated the supreme meditative equipoise,
 Which is like the center of the sky of reality,
 Your mind, even in the post-meditative state, is like an illusion,
-Unwavering for even an instant—to you I pray. ^20
+Unwavering for even an instant—to you I pray. ^0-20
 
 > ཐུབ་པའི་ལེགས་བཤད་ཀུན་གྱི་མཐར་ཐུག་པ། །
 > རྒྱུད་སྡེ་རྒྱ་མཚོའི་དེ་ཉིད་འབྱེད་པ་ལ། །
@@ -248,7 +249,7 @@ Unwavering for even an instant—to you I pray. ^20
 The ultimate of all the Buddha's excellent explanations,
 The one who reveals the reality of the ocean of tantras,
 To you, inseparable from the Victorious All-Pervading Lord Vajradhara,
-The supreme Guru, I pray. ^21
+The supreme Guru, I pray. ^0-21
 
 > ཕྱོགས་འདིར་སྔོན་ཆད་གཞན་གྱིས་མ་མྱངས་པའི། །
 > ལམ་གྱི་མཐར་ཐུག་རིམ་གཉིས་ཟབ་མོའི་གནད། ། །
@@ -258,7 +259,7 @@ The supreme Guru, I pray. ^21
 Having seen exactly as they are the profound points of the two stages—
 The ultimate path never before experienced by others in this region—
 And having practiced that meaning,
-To you who have made this the essence of your practice, I pray. ^22
+To you who have made this the essence of your practice, I pray. ^0-22
 
 > ཕྲ་རགས་ལྷ་ཡི་རྣལ་འབྱོར་མཐར་ཕྱིན་པས།།
 > ཐ་མལ་སྣང་ཞེན་ཀུན་རྟོག་རྒྱང་བསྲིངས་ཤིང་། །
@@ -268,7 +269,7 @@ To you who have made this the essence of your practice, I pray. ^22
 Having perfected the yoga of the coarse and subtle deities,
 You have cast far away all ordinary appearances, attachments, and conceptual thoughts;
 Because whatever arises is the manifestation of the mandala circle,
-To you whose mind is unwavering, I pray. ^23
+To you whose mind is unwavering, I pray. ^0-23
 
 > ཀུན་རྟོག་རླུང་གི་རྒྱུ་བ་དྷཱ་ཏཱིར་དེངས། །
 > འོད་གསལ་ཐམས་ཅད་སྟོང་པའི་དེ་ཉིད་གཟིགས། །
@@ -278,7 +279,7 @@ To you whose mind is unwavering, I pray. ^23
 The movement of conceptual winds has dissolved into the dhūtī,
 You behold the reality of the all-empty clear light;
 Possessing the manifestation of supreme great bliss in whatever arises,
-To you who possess the vajra mind, I pray. ^24
+To you who possess the vajra mind, I pray. ^0-24
 
 > མཐའ་ཡས་སྨོན་ལམ་སྟོབས་མངའ་ཐབས་མཁས་ཀྱིས། །
 > འབད་མེད་ལྷུན་གྲུབ་མཐའ་ཡས་གདུལ་བྱའི་ཚོགས། །
@@ -288,7 +289,7 @@ To you who possess the vajra mind, I pray. ^24
 By the power of infinite prayers and skillful means,
 You effortlessly and spontaneously lead infinite hosts of disciples
 Onto the path that delights the Victors;
-To you, the refuge of all the world, I pray. ^25
+To you, the refuge of all the world, I pray. ^0-25
 
 > ཚིག་སྤྱིའི་བཤད་སྒྲུབ་རྟགས་ཀྱི་དགེ་སྦྱོང་གིས། །
 > ཐུབ་བསྟན་མིང་ཙམ་ལྷག་མར་གྱུར་པའི་དུས། །
@@ -298,7 +299,7 @@ To you, the refuge of all the world, I pray. ^25
 Through the asceticism of study and practice of the general teachings,
 At a time when the Buddha’s doctrine has been reduced to a mere name,
 You have made the Conqueror’s sublime Dharma—the scriptures and realizations of the three trainings—
-As bright as day; to you, I pray. ^26
+As bright as day; to you, I pray. ^0-26
 
 > བསམས་བཞིན་ཞིང་འདིར་སྐུ་ཡི་བཀོད་པ་ནི། ། །
 > ཉེ་བར་སྡུད་ལ་ཁྱེད་ཐུགས་གཞོལ་བའི་ཚེ། །
@@ -308,7 +309,7 @@ As bright as day; to you, I pray. ^26
 When you, in accordance with your intention, were about to withdraw
 The array of your physical manifestation from this realm,
 By the offerings of the hosts of daka heroes and dakinis,
-You filled the inconceivable sky; to you, I pray. ^27
+You filled the inconceivable sky; to you, I pray. ^0-27
 
 > འོད་གསལ་ཆོས་སྐུ་མངོན་དུ་མཛད་གྱུར་པ། །
 > དེ་ཚེ་ཁྱེད་སྐུ་འོད་ཀྱི་གོང་བུར་གྱུར། །
@@ -318,7 +319,7 @@ You filled the inconceivable sky; to you, I pray. ^27
 Having manifested the clear light Dharmakāya,
 At that time your body became a mass of light;
 In the intermediate state, you attained the supreme siddhi
-Of the illusory body of complete enjoyment; to you, I pray. ^28
+Of the illusory body of complete enjoyment; to you, I pray. ^0-28
 
 > དེང་ནས་བརྩམས་ཏེ་ཚེ་རབས་ཀུན་ཏུ་བདག །
 > ཁྱེད་ཞབས་པདྨོ་གུས་པས་མཆོད་པ་དང་། །
@@ -328,7 +329,7 @@ Of the illusory body of complete enjoyment; to you, I pray. ^28
 From this moment on, throughout all my lives,
 May I devotedly worship your lotus feet,
 And listening to your speech, please bless me
-To accomplish only that which pleases you through all the activities of my three doors. ^29
+To accomplish only that which pleases you through all the activities of my three doors. ^0-29
 
 > རྙེད་བཀུར་དོན་གཉེར་ཚེ་འདིའི་སྣང་བ་དང་། །
 > རང་བདེ་འདོད་པའི་ཞི་བའི་སེམས་སྤངས་ནས། །
@@ -338,7 +339,7 @@ To accomplish only that which pleases you through all the activities of my three
 Having abandoned the appearances of this life that seek gain and honor,
 And having abandoned the mind of peace that desires only one's own happiness,
 Please bless me so that I may never be separated
-From the supreme bodhicitta that contemplates the benefit of beings. ^30
+From the supreme bodhicitta that contemplates the benefit of beings. ^0-30
 
 > ཕྲ་ཞིང་མཛངས་ལ་ཞིབ་པའི་བློ་གྲོས་ཀྱིས། །
 > རིགས་པའི་རྗེས་འབྲང་རྒྱལ་བའི་གསུང་རབ་དོན། །
@@ -348,7 +349,7 @@ From the supreme bodhicitta that contemplates the benefit of beings. ^30
 With subtle, wise, and precise intelligence,
 Following the reasoning of the Victor’s scriptures,
 Having mastered them entirely, please grant your blessings
-To dispel the great darkness of beings' ignorance. ^31
+To dispel the great darkness of beings' ignorance. ^0-31
 
 > རྣམ་མང་རྒྱུད་སྡེའི་དོན་ལ་ངེས་རྙེད་ནས། །
 > ལམ་བཟང་མཐར་ཐུག་རིམ་གཉིས་ཟབ་མོའི་དོན། །
@@ -358,7 +359,7 @@ To dispel the great darkness of beings' ignorance. ^31
 Having gained certainty in the meaning of the many tantra classes,
 And the profound meaning of the two stages, the ultimate excellent path,
 Without being swayed by any outer or inner adverse conditions,
-Please grant your blessings to practice them one-pointedly. ^32
+Please grant your blessings to practice them one-pointedly. ^0-32
 
 > མདོར་ན་རྒྱལ་བའི་དམ་ཆོས་མཐའ་དག་དང་། །
 > ཁྱད་པར་དུ་ཡང་བླ་མེད་རྡོ་རྗེ་ཐེག །
@@ -368,7 +369,7 @@ Please grant your blessings to practice them one-pointedly. ^32
 In short, having well grasped the entirety of the Victor’s sacred Dharma,
 And in particular the unsurpassed Vajra Vehicle,
 Just as the Victorious One intended,
-Please grant your blessings to act as a guide for beings. ^33
+Please grant your blessings to act as a guide for beings. ^0-33
 
 > དགེ་བ་འདི་ཡིས་སྐྱེ་བ་ཐམས་ཅད་དུ། །
 > འདྲེན་མཆོག་བླ་མ་ཁྱེད་དང་མི་འབྲལ་ཞིང་། །
@@ -378,7 +379,7 @@ Please grant your blessings to act as a guide for beings. ^33
 Through this virtue, in all my lives,
 May I never be separated from you, the supreme guide and guru,
 And may I be sustained by the taste of the nectar
-Extracted from the heart-essence of your wisdom mind, O Protector. ^34
+Extracted from the heart-essence of your wisdom mind, O Protector. ^0-34
 
 > གཞན་ཡང་བདག་གིས་བགྱིས་དང་བགྱིད་འགྱུར་བའི། །
 > ལེགས་པར་སྤྱད་པ་ཇི་སྙེད་མཆིས་པ་ཀུན། །
@@ -388,7 +389,7 @@ Extracted from the heart-essence of your wisdom mind, O Protector. ^34
 Furthermore, whatever virtuous actions I have performed,
 Or will perform in the future,
 May they all become the cause for you to joyfully take me under your care,
-And for me to practice solely in accordance with your commands. ^35
+And for me to practice solely in accordance with your commands. ^0-35
 
 > ཚེ་རབས་ཀུན་ཏུ་རྒྱལ་བ་ཙོང་ཁ་པས། །
 > ཐེག་མཆོག་བཤེས་གཉེན་དངོས་སུ་མཛད་པའི་མཐུས། །
@@ -398,7 +399,7 @@ And for me to practice solely in accordance with your commands. ^35
 In all my lives, may the Victorious Tsongkhapa
 Act directly as my spiritual friend of the supreme vehicle,
 And may I never turn away, even for a single moment,
-From that excellent path praised by the Victorious Ones. ^36
+From that excellent path praised by the Victorious Ones. ^0-36
 
 > ཐེག་ཆེན་ལམ་གྱིས་གཞུང་ཤིང་བྱང་ཆུབ་སེམས། །
 > ཡང་དག་ལྟ་བའི་གནད་དང་རིམ་གཉིས་ལ། །
@@ -408,7 +409,7 @@ From that excellent path praised by the Victorious Ones. ^36
 May I gain unerring certainty in the backbone of the Mahayana path—
 The bodhicitta, the key points of the authentic view, and the two stages—
 And through my diligence,
-May I make the practice of your teachings my core essence. ^37
+May I make the practice of your teachings my core essence. ^0-37
 
 > སྡེ་སྣོད་གསུམ་དང་རྒྱུད་སྡེ་རྣམ་པ་བཞི།།
 > གདམས་པའི་མཆོག་ཏུ་གཟིགས་པའི་བཤད་སྒྲུབ་ཀྱིས། །
@@ -418,8 +419,8 @@ May I make the practice of your teachings my core essence. ^37
 Through the study and practice that views the three baskets and four classes of tantra
 As the supreme instructions,
 May there be the auspicious glory of Blo-bzang-grags-pa,
-Who makes the Sage’s teachings flourish in all directions and at all times. ^38
+Who makes the Sage’s teachings flourish in all directions and at all times. ^0-38
 
 > ཅེས་རྒྱལ་བ་ཐམས་ཅད་ཀྱི་མཁྱེན་བརྩེ་གཅིག་ཏུ་བསྡུས་པའི་ངོ་བོ། ལྔ་བརྒྱ་པ་རྣམས་ཀྱི་གཙུག་གི་ནོར་བུ། དཔལ་ལྡན་བླ་མ་དམ་པ་རྗེ་བཙུན་ཙོང་ཁ་པ་ཆེན་པོ་ཉིད་ཀྱི་རྣམ་པར་ཐར་པ་མདོ་ཙམ་ཞིག་བརྗོད་པའི་སྒོ་ནས་གསོལ་བ་འདེབས་པའི་ཚིགས་སུ་བཅད་པ་འདི་ནི། སྔ་གོང་ནས་དགེ་སྦྱོང་སྡོམ་བརྩོན་མཆོག་བཟང་བ་ལ་སོགས་པ་མང་པོ་ཞིག་གིསནན་ཚེར་བསྐུལ་ཞིང་། ཕྱིས་དགེ་བའི་བཤེས་གཉེན་ཉི་མ་སྙིང་པོས་ཡང་ཡང་བསྐུལ་ཏེ། རྣམ་ཐར་གྱི་སྒོནས་གསོལ་བ་འདེབས་པ་སྙན་དངགས་ཀྱི་བརྡས་མ་བཅིངས་པའི་གོ་བདེ་བར་བརྗོད་པ་ཞིག་གྱིས་ཞེས་གསུང་བ་དང།བདག་ཉིད་མཆོག་ཏུ་དད་པས་ཀྱང་ཉེ་བར་བསྐུལ་ཏེ། རྗེ་བཙུན་བླ་མ་དེ་ཉིད་ཀྱི་ཞབས་ཀྱི་པདྨོ་ལ་ཉེ་བར་གཏུགས་པའི་བཀའ་དྲིན་གྱིས་འཚོ་བ། མང་དུ་ཐོས་པའི་བཙུན་པ་དགེ་ལེགས་དཔལ་བཟང་པོས་སྦྱར་བ་ཕྱོགས་དུས་ཐམས་ཅད་དུ་བཀྲ་ཤིས་པར་གྱུར་ཅིག། ། །
 
-This is a verse of supplication composed by way of briefly recounting the life story of the glorious, holy, and venerable great Jetsun Tsongkhapa, who is the embodiment of the wisdom and compassion of all the Victors condensed into one, and the crest jewel of all those of the five hundred [lineage]. It was requested with great insistence by many, beginning with the noble and disciplined monk Mchog-bzang-ba, and later repeatedly urged by the spiritual friend Nyi-ma-snying-po, who requested that I compose a supplication based on his life story that is easy to understand and not bound by the conventions of ornate poetry. Being also moved by my own supreme devotion, I, the learned monk Dge-legs-dpal-bzang-po—who lives by the grace of having been brought near to the lotus feet of that venerable Guru—have composed this. May it be auspicious in all directions and at all times. ^39
+This is a verse of supplication composed by way of briefly recounting the life story of the glorious, holy, and venerable great Jetsun Tsongkhapa, who is the embodiment of the wisdom and compassion of all the Victors condensed into one, and the crest jewel of all those of the five hundred [lineage]. It was requested with great insistence by many, beginning with the noble and disciplined monk Mchog-bzang-ba, and later repeatedly urged by the spiritual friend Nyi-ma-snying-po, who requested that I compose a supplication based on his life story that is easy to understand and not bound by the conventions of ornate poetry. Being also moved by my own supreme devotion, I, the learned monk Dge-legs-dpal-bzang-po—who lives by the grace of having been brought near to the lotus feet of that venerable Guru—have composed this. May it be auspicious in all directions and at all times. ^1-1-1

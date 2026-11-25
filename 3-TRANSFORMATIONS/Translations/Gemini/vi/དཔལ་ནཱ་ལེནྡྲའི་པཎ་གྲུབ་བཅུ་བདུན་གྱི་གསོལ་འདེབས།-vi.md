@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 26
 blocks_total: 26
 status: draft
+toc_id: qGOvSfQa0B2ivELiT3gpM
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Bậc khởi lòng đại bi nguyện cứu độ quần sinh,
 Chứng đắc quả vị diệt trừ và giác ngộ tối thượng, bậc Thiên trung Thiên,
 Dùng giáo lý duyên khởi dẫn dắt mọi chúng sinh,
-Cúi đầu đảnh lễ Đấng Năng Nhân, vầng thái dương thuyết Pháp. ^1
+Cúi đầu đảnh lễ Đấng Năng Nhân, vầng thái dương thuyết Pháp. ^0-1
 
 > རྒྱལ་ཡུམ་དགོངས་དོན་མཐའ་བྲལ་དེ་ཉིད་དོན། །
 > རྟེན་འབྱུང་རིགས་ཚུལ་ཟབ་མོས་གསལ་མཁས་པའི། །
@@ -64,7 +65,7 @@ Cúi đầu đảnh lễ Đấng Năng Nhân, vầng thái dương thuyết Phá
 Ý nghĩa chân thật lìa các biên kiến, bản tâm của Phật Mẫu,
 Khéo giảng bày qua lý luận duyên khởi thâm sâu,
 Sáng lập truyền thống Trung Quán Tối Thượng Thừa đúng như lời Phật thọ ký,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Long Thọ. ^2
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Long Thọ. ^0-2
 
 > དེ་སྲས་ཐུ་བོ་མཁས་ཤིང་གྲུབ་པའི་མཆོག །
 > ནང་གྲུབ་མཐའ་རྒྱ་མཚོའི་ཕ་མཐར་སོན། །
@@ -74,7 +75,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Long Thọ. ^2
 Bậc tâm tử xuất chúng, học giả và thành tựu giả tối thượng,
 Người đã vượt đến bờ kia đại dương tông phái Phật giáo,
 Đỉnh châu vinh quang của mọi hành giả thọ trì giáo lý Long Thọ,
-Con thành tâm cầu nguyện Bồ-tát Thánh Thiên. ^3
+Con thành tâm cầu nguyện Bồ-tát Thánh Thiên. ^0-3
 
 > འཕགས་པའི་དགོངས་པ་རྟེན་འབྱུང་མཐར་ཐུག་དོན། །
 > བཏགས་ཡོད་མིང་རྐྱང་ཙམ་གྱི་ཟབ་མོའི་གནད། །
@@ -84,7 +85,7 @@ Con thành tâm cầu nguyện Bồ-tát Thánh Thiên. ^3
 Bản ý của bậc Thánh, ý nghĩa cứu cánh của duyên khởi,
 Điểm tinh yếu thâm sâu của các pháp chỉ hiện hữu do giả danh khái niệm,
 Bậc soi sáng đã đạt đến quả vị thành tựu tối thượng,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Phật Hộ. ^4
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Phật Hộ. ^0-4
 
 > བདེན་པའི་དངོས་པོ་སྐྱེ་སོགས་མཐའ་བཀག་ཅིང་། །
 > ཚད་མ་མཐུན་སྣང་ཕྱི་དོན་བཞེད་པ་ཡི། །
@@ -94,7 +95,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Phật Hộ. ^4
 Bác bỏ các biên kiến về sự sinh khởi của các pháp hiện hữu chân thật,
 Thừa nhận ngoại cảnh qua lượng tri hiện tượng chung,
 Bậc khai sáng tông phái, vị Đại Học giả toàn hảo,
-Con thành tâm cầu nguyện Đạo sư Thanh Biện. ^5
+Con thành tâm cầu nguyện Đạo sư Thanh Biện. ^0-5
 
 > རྟེན་འབྲེལ་རྐྱེན་ཉིད་འདི་པ་ཙམ་ཉིད་ཀྱིས། །
 > མཐའ་གཉིས་སེལ་བའི་སྣང་སྟོང་དབུ་མའི་ཚུལ། །
@@ -104,7 +105,7 @@ Con thành tâm cầu nguyện Đạo sư Thanh Biện. ^5
 Bằng chính nguyên lý duyên khởi nương tựa lẫn nhau này,
 Đạo Trung Quán Hiện-Không dẹp tan hai biên kiến,
 Bậc khéo léo truyền trao sâu rộng đạo lộ hoàn hảo Kinh Mật,
-Con thành tâm cầu nguyện Đạo sư Nguyệt Xứng hoằng dương. ^6
+Con thành tâm cầu nguyện Đạo sư Nguyệt Xứng hoằng dương. ^0-6
 
 > ངོ་མཚར་རྨད་བྱུང་སྙིང་རྗེ་ཆེན་པོའི་ལམ། །
 > ཟབ་དང་རྒྱ་ཆེའི་རིགས་ཚུལ་རྣམ་མང་གིས། །
@@ -114,7 +115,7 @@ Con thành tâm cầu nguyện Đạo sư Nguyệt Xứng hoằng dương. ^6
 Con đường Đại bi tuyệt diệu và vi diệu,
 Bằng vô vàn phương pháp lý luận thâm sâu và rộng lớn,
 Bậc khéo léo giảng dạy cho hội chúng đệ tử duyên lành,
-Con thành tâm cầu nguyện Bồ-tát Tịch Thiên. ^7
+Con thành tâm cầu nguyện Bồ-tát Tịch Thiên. ^0-7
 
 > གདུལ་བྱའི་ཁམས་བཞིན་གཉིས་སྟོང་དབུ་མའི་ལམ། །
 > སྲོལ་གཏོད་དབུ་ཚད་རིགས་ཚུལ་འབྱེད་མཁས་ཤིང་། །
@@ -124,7 +125,7 @@ Con thành tâm cầu nguyện Bồ-tát Tịch Thiên. ^7
 Tùy theo căn cơ đệ tử giảng bày đạo Trung Quán Nhị Không,
 Bậc khai sáng truyền thống, khéo phân giải lý luận Trung Quán và Lượng Học,
 Bậc hoằng truyền giáo pháp Đấng Chiến Thắng trên khắp Xứ Tuyết,
-Con thành tâm cầu nguyện Đại Tu viện trưởng Śāntarakṣita. ^8
+Con thành tâm cầu nguyện Đại Tu viện trưởng Śāntarakṣita. ^0-8
 
 > མཐའ་བྲལ་དབུ་མའི་ལྟ་དང་ཞི་ལྷག་ཟུང་། །
 > སྒོམ་རིམ་མདོ་རྒྱུད་བཞིན་དུ་ལེགས་བཀྲལ་ནས། །
@@ -134,7 +135,7 @@ Con thành tâm cầu nguyện Đại Tu viện trưởng Śāntarakṣita. ^8
 Kiến giải Trung Quán thoát ly nhị biên cùng sự hợp nhất Chỉ Quán,
 Khéo léo diễn giải các thứ lớp tu tập đúng theo Kinh và Mật điển,
 Bậc làm sáng tỏ giáo pháp không tì vết của Đấng Chiến Thắng tại Xứ Tuyết,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Liên Hoa Giới. ^9
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Liên Hoa Giới. ^0-9
 
 > བྱམས་པས་རྗེས་བཟུང་ཐེག་ཆེན་སྡེ་སྣོད་ཀུན། །
 > ལེགས་པར་སྤེལ་མཁས་རྒྱ་ཆེན་ལམ་སྟོན་ཞིང་། །
@@ -144,7 +145,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Liên Hoa Giới. ^9
 Được Đức Di Lặc nhiếp thọ và am tường mọi tạng Đại thừa,
 Bậc khéo léo hoằng dương và chỉ dạy đạo lộ rộng lớn,
 Khai mở cỗ xe Duy Thức đúng theo lời thọ ký của Đấng Chiến Thắng,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Vô Trước. ^10
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Vô Trước. ^0-10
 
 > ཆོས་མངོན་སྡེ་བདུན་གཉིས་སྟོང་སྲོལ་བཟུང་ནས། །
 > བྱེ་མདོ་རྣམ་རིག་གྲུབ་མཐའ་གསལ་མཛད་པ། །
@@ -154,7 +155,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Vô Trước. ^10
 Nắm giữ bảy bộ luận A-tỳ-đạt-ma và hệ thống không tính nhị nguyên,
 Bậc làm sáng tỏ các tông phái Tỳ-bà-sa, Kinh Lượng bộ và Duy Thức,
 Bậc Đại Học giả xuất chúng được tôn xưng là Đấng Toàn giác thứ hai,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Thế Thân. ^11
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Thế Thân. ^0-11
 
 > ཐུབ་པའི་གཞུང་ལུགས་དངོས་སྟོབས་རིགས་པ་ཡིས། །
 > སྟོན་ཕྱིར་ཚད་མའི་སྒོ་བརྒྱ་ལེགས་ཕྱེ་ནས། །
@@ -164,7 +165,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Thế Thân. ^11
 Bằng sức mạnh lý luận chân thực minh chứng giáo lý Đấng Năng Nhân,
 Khéo mở ra hàng trăm cánh cửa Nhân Minh học để chỉ dạy,
 Bậc Đạo sư Nhân Minh ban tặng tuệ nhãn phân tích vi diệu,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Trần Na. ^12
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Trần Na. ^0-12
 
 > ཕྱི་ནང་ཚད་མའི་གནད་ཀུན་ལེགས་དགོངས་ཤིང་། །
 > མདོ་སེམས་ཟབ་རྒྱས་ལམ་ཀུན་རིགས་ལམ་ནས། །
@@ -174,7 +175,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Trần Na. ^12
 Thấu hiểu trọn vẹn mọi điểm tinh yếu của Nhân Minh học nội ngoại đạo,
 Thông qua lý luận tiếp cận toàn bộ đạo lộ sâu rộng của Kinh Lượng và Duy Thức,
 Bậc khéo léo ban truyền những giáo pháp tuyệt diệu mang lại sự hiển quyết,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Pháp Xứng. ^13
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Pháp Xứng. ^0-13
 
 > ཐོགས་མེད་སྐུ་མཆོད་ལས་འོངས་ཤེར་ཕྱིན་དོན། །
 > ཡོད་མེད་མཐའ་བྲལ་དབུ་མའི་སྲོལ་བཞིན་དུ། །
@@ -184,7 +185,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Pháp Xứng. ^13
 Ý nghĩa Bát Nhã Ba La Mật truyền từ hai anh em Đạo sư Vô Trước,
 Đúng theo hệ thống Trung Quán thoát ly nhị biên có và không,
 Ngài đã thắp sáng ngọn đèn soi tỏ ý nghĩa bộ Hiện Quán Trang Nghiêm Luận,
-Con thành tâm cầu nguyện dưới gót sen Bồ-tát Thánh Giải Thoát Quân. ^14
+Con thành tâm cầu nguyện dưới gót sen Bồ-tát Thánh Giải Thoát Quân. ^0-14
 
 > ཡུམ་དོན་འབྱེད་ལ་རྒྱལ་བའི་ལུང་བསྟན་ཐོབ། །
 > མི་ཕམ་མགོན་པོའི་མན་ངག་ཇི་བཞིན་དུ། །
@@ -194,7 +195,7 @@ Con thành tâm cầu nguyện dưới gót sen Bồ-tát Thánh Giải Thoát Q
 Được Đấng Chiến Thắng thọ ký là người khai mở ý nghĩa Bát Nhã Phật Mẫu,
 Đúng theo khẩu quyết chỉ dạy của Đấng Đạo Sư Di Lặc Tôn,
 Bậc làm sáng tỏ luận điển tối thượng về Ba bộ Bát Nhã Ba La Mật Mẫu,
-Con thành tâm cầu nguyện Đạo sư Sư Tử Hiền. ^15
+Con thành tâm cầu nguyện Đạo sư Sư Tử Hiền. ^0-15
 
 > འདུལ་བ་འབུམ་སྡེའི་དགོངས་དོན་ལེགས་བསྡུས་ནས། །
 > ཐམས་ཅད་ཡོད་སྨྲའི་ལུགས་བཞིན་སོ་སོ་ཐར། །
@@ -204,7 +205,7 @@ Con thành tâm cầu nguyện Đạo sư Sư Tử Hiền. ^15
 Khéo kết tập ý nghĩa tinh yếu của một trăm ngàn bộ Luật tạng,
 Giới Biệt giải thoát đúng theo truyền thống Nhất thiết hữu bộ,
 Bậc Đại Học giả xuất chúng khéo léo giảng dạy không chút sai lệch,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Công Đức Quang. ^16
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Công Đức Quang. ^0-16
 
 > བསླབ་གསུམ་ཡོན་ཏན་ནོར་བུའི་མཛོད་ལ་དབང༌། །
 > འདུལ་བསྟན་དྲི་མེད་རིང་དུ་སྤེལ་བའི་སླད། །
@@ -214,7 +215,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Công Đức Quang. ^
 Bậc làm chủ kho tàng châu báu công đức của Tam vô lậu học,
 Nhằm hoằng dương rộng khắp giáo pháp Luật tạng thanh tịnh,
 Bậc trì Luật thù thắng khéo léo diễn giải ý nghĩa giáo lý rộng lớn,
-Con thành tâm cầu nguyện dưới gót sen Đạo sư Thích Ca Quang. ^17
+Con thành tâm cầu nguyện dưới gót sen Đạo sư Thích Ca Quang. ^0-17
 
 > ཐུབ་གསུང་ཟབ་རྒྱས་བཀའ་སྲོལ་མ་ལུས་པ། །
 > སྐྱེས་བུ་གསུམ་གྱི་ལམ་དུ་འདོམས་མཛད་དེ། །
@@ -224,7 +225,7 @@ Con thành tâm cầu nguyện dưới gót sen Đạo sư Thích Ca Quang. ^17
 Toàn bộ truyền thống giáo huấn sâu rộng của Đấng Năng Nhân,
 Được ngài chỉ dạy tường tận qua đạo lộ của ba bậc căn cơ,
 Đạo sư ân đức hoằng dương giáo pháp Đấng Năng Nhân tại Xứ Tuyết,
-Con thành tâm cầu nguyện Tôn giả Atiśa. ^18
+Con thành tâm cầu nguyện Tôn giả Atiśa. ^0-18
 
 > དེ་ལྟར་འཛམ་གླིང་རྒྱན་གྱུར་མཁས་པའི་ཕུལ། །
 > ངོ་མཚར་ལེགས་བཤད་འབྱུང་གནས་མཆོག་རྣམས་ལ། །
@@ -234,7 +235,7 @@ Con thành tâm cầu nguyện Tôn giả Atiśa. ^18
 Như vậy với chư vị Đại Học giả xuất chúng là trang nghiêm của cõi Diêm-phù-đề,
 Các bậc thù thắng là suối nguồn của những thiện thuyết vi diệu,
 Bằng tâm tín thành bất hoại con thiết tha dâng lời cầu nguyện,
-Xin ban gia trì cho tâm tương tục của con được thuần thục và giải thoát. ^19
+Xin ban gia trì cho tâm tương tục của con được thuần thục và giải thoát. ^0-19
 
 > གཞི་ཡི་གནས་ཚུལ་བདེན་གཉིས་དོན་ཤེས་པས། །
 > བདེན་བཞིས་འཁོར་བ་འཇུག་ལྡོག་ཇི་བཞིན་ངེས། །
@@ -244,7 +245,7 @@ Xin ban gia trì cho tâm tương tục của con được thuần thục và gi
 Nhờ thấu hiểu ý nghĩa Nhị đế là thật tướng của các pháp căn bản,
 Quyết trạch như thật sự lưu chuyển và hoàn diệt của luân hồi qua Tứ Thánh đế,
 Niềm tin vào Tam bảo được kiên cố do chân lượng dẫn dắt,
-Xin ban gia trì cho cội rễ đạo lộ giải thoát được thiết lập vững vàng. ^20
+Xin ban gia trì cho cội rễ đạo lộ giải thoát được thiết lập vững vàng. ^0-20
 
 > སྡུག་ཀུན་ཉེར་ཞིའི་ཐར་པ་དོན་གཉེར་བའི། །
 > ངེས་འབྱུང་བློ་དང་འགྲོ་རྣམས་སྐྱོབ་འདོད་པའི། །
@@ -254,7 +255,7 @@ Xin ban gia trì cho cội rễ đạo lộ giải thoát được thiết lập
 Mong cầu sự giải thoát vĩnh viễn vắng bặt mọi Khổ và Tập,
 Cùng tâm xả ly và mong muốn cứu độ hết thảy chúng sinh,
 Khởi nguồn từ cội rễ của lòng đại bi vô biên tận cùng các phương,
-Xin ban gia trì cho con tu tập thành tựu Bồ-đề tâm chân thật không tạo tác. ^21
+Xin ban gia trì cho con tu tập thành tựu Bồ-đề tâm chân thật không tạo tác. ^0-21
 
 > ཤིང་རྟ་ཆེན་པོའི་གཞུང་གི་དོན་རྣམས་ལ། །
 > ཐོས་བསམ་སྒོམ་པས་ཕ་རོལ་ཕྱིན་པ་དང༌། །
@@ -264,7 +265,7 @@ Xin ban gia trì cho con tu tập thành tựu Bồ-đề tâm chân thật khô
 Dựa trên ý nghĩa các luận điển của chư vị Đại Khai sáng Cỗ xe lớn,
 Thông qua văn, tư, tu giáo pháp Ba-la-mật đa và
 Cùng toàn bộ đạo lộ thâm sâu tinh yếu của Kim Cương thừa,
-Xin ban gia trì cho con dễ dàng đạt được sự tín tâm hiển quyết. ^22
+Xin ban gia trì cho con dễ dàng đạt được sự tín tâm hiển quyết. ^0-22
 
 > སྐྱེ་ཞིང་སྐྱེ་བར་བསླབ་གསུམ་ལྡན་པའི་རྟེན། །
 > ལེགས་ཐོབ་བཤད་དང་སྒྲུབ་པས་ལུང་རྟོགས་བསྟན། །
@@ -274,7 +275,7 @@ Xin ban gia trì cho con dễ dàng đạt được sự tín tâm hiển quyế
 Đời đời kiếp kiếp có được thân người hoàn hảo mang nền tảng Tam vô lậu học,
 Bằng sự giảng dạy và thực hành giáo pháp thuộc về giáo lý và chứng ngộ,
 Con xin nắm giữ và hoằng dương, tựa như các vị Đại Khai sáng Cỗ xe lớn,
-Nguyện con có thể thực hành các Phật sự phụng sự giáo pháp y như các Ngài! ^23
+Nguyện con có thể thực hành các Phật sự phụng sự giáo pháp y như các Ngài! ^0-23
 
 > འདུལ་སྡེ་ཀུན་ཏུ་ཐོས་བསམ་བཤད་སྒྲུབ་ཀྱི། །
 > བྱ་བས་དུས་འདའ་ལོག་འཚོ་ཡོངས་སྤངས་པའི། །
@@ -284,7 +285,7 @@ Nguyện con có thể thực hành các Phật sự phụng sự giáo pháp y 
 Trong tất cả mọi tịnh xá, đại chúng không ngừng văn, tư, giảng, tu,
 Dành trọn thời gian cho các Phật sự này và hoàn toàn dứt bỏ tà mạng,
 Bởi sự gia tăng không ngừng của các bậc Đại Học giả và Thành tựu giả,
-Nguyện cho cõi đại địa Diêm-phù-đề mãi mãi được trang nghiêm rực rỡ! ^24
+Nguyện cho cõi đại địa Diêm-phù-đề mãi mãi được trang nghiêm rực rỡ! ^0-24
 
 > དེ་མཐུས་མདོ་སྔགས་ཡོངས་རྫོགས་ས་ལམ་བགྲོད། །
 > དོན་གཉིས་ལྷུན་གྲུབ་རྣམ་མཁྱེན་རྒྱལ་བ་ཡི། །
@@ -294,8 +295,8 @@ Nguyện cho cõi đại địa Diêm-phù-đề mãi mãi được trang nghiê
 Nhờ oai lực đó, nguyện con tiến bước trọn vẹn qua các địa và đạo của Hiển và Mật,
 Tự nhiên thành tựu nhị lợi của Đấng Thắng Giả Nhất thiết trí,
 Và sau khi nhanh chóng chứng đắc quả vị tối thượng,
-Nguyện con làm lợi ích chúng sinh chừng nào hư không còn tồn tại! ^25
+Nguyện con làm lợi ích chúng sinh chừng nào hư không còn tồn tại! ^0-25
 
 > ཅེས་པ་འདི་བཞིན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱིས་ལེགས་པར་བསྟན་པའི་ཟབ་པ་དང་རྒྱ་ཆེ་བའི་ཆོས་ཚུལ་འདི་དག་ལ་རྒྱ་གར་འཕགས་པའི་ཡུལ་གྱི་མཁས་པའི་དབང་པོ་གོང་སྨོས་དེ་དག་གིས་རྣམ་དཔྱོད་ལྡན་པའི་སྐྱེས་བུའི་བློ་མིག་རྣམ་པར་འབྱེད་པའི་ལེགས་བཤད་རྨད་དུ་བྱུང་བ་ཇི་སྙེད་ཅིག་མཛད་དེ་མི་ལོ་ཉི་སྟོང་ལྔ་བརྒྱ་ལྔ་བཅུར་ཉེ་བའི་དུས་ད་ལྟ་བར་ཐོས་བསམ་སྒོམ་པའི་གཞུང་དུ་ཉམས་པ་མེད་པར་ཡོད་པས་མཁས་པའི་དབང་པོ་དེ་དག་གི་བཀའ་དྲིན་རྗེས་སུ་དྲན་པ་དང་། མི་ཕྱེད་དད་པས་དེ་དག་གི་རྗེས་སུ་སློབ་པར་སྨོན་ཅིང་། དེང་དུས་འཛམ་གླིང་ཁྱོན་འདིར་ཚན་རིག་དང་། འཕྲུལ་ཆས་དངོས་པོ་ཡར་རྒྱས་ཚད་མཐོར་ཕྱིན་ཏེ་འདི་སྣང་འདུ་འཛིའི་རྣམ་གཡེང་འཁྲུག་ཆེའི་སྐབས་འདིར། རང་རེ་སངས་རྒྱས་ཀྱི་རྗེས་འཇུག་པ་རྣམས་སངས་རྒྱས་ཀྱི་ཆོས་ཚུལ་ལ་ཤེས་ནས་དད་པ་ཐོབ་པ་ཞིག་དགོས་གལ་ཤིན་ཏུ་ཆེ་བས་གཟུ་བོའི་བློས་ཐེ་ཚོམ་གྱི་སྒོ་ནས་ཞིབ་མོར་བརྟགས་ཤིང་དཔྱད་དེ་རྒྱུ་མཚན་འཚོལ་བ་དང་། རྒྱུ་མཚན་མཐོང་ནས་ཤེས་རབ་ཀྱི་གྲོགས་དང་བཅས་པའི་དད་པ་སྐྱེ་བ་ལ། ཡོངས་གྲགས་རྒྱན་དྲུག་མཆོག་གཉིས་དང་། སངས་རྒྱས་བསྐྱངས་དང་། འཕགས་པ་གྲོལ་སྡེ་ལ་སོགས་པའི་ཟབ་རྒྱས་ཀྱི་གཞུང་ཕུལ་དུ་ཕྱིན་པ་འདི་དག་མེད་དུ་མི་རུང་མཐོང་ནས་རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་སྐུ་ཐང་བྲིས་སྲོལ་སྔར་ནས་ཡོད་མུས་ཐོག་ཟབ་རྒྱས་ཀྱི་བླ་བརྒྱུད་གཞན་དགུ་བསྣན་ཏེ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་བྲིས་སྐུ་གསར་བཞེངས་དང་འབྲེལ། མཁས་པའི་སྐྱེས་མཆོག་དེ་དག་ལ་སྙིང་ནས་གུས་པའི་གསོལ་འདེབས་འདི་འདྲ་ཞིག་འབྲི་འདུན་བྱུང་བ་དང༌། དོན་གཉེར་ཅན་ཆོས་གྲོགས་འགའ་ཞིག་ནས་ཀྱང་སྐུལ་མ་བྱུང་བར་བརྟེན། དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས་དད་གསུམ་གསལ་བྱེད་ཅེས་པ་འདི་དག་མཁས་པའི་དབང་པོ་དེ་དག་གི་ལེགས་བཤད་ལ་བཅོས་མིན་ཡིད་ཆེས་ཀྱི་དད་པ་ཐོབ་ཅིང་། མཁས་པ་དེ་དག་གི་ལེགས་བཤད་སློབ་གཉེར་གྲལ་མཐར་འཁོད་པ། ཤཱཀྱའི་དགེ་སློང་བསྟན་འཛིན་རྒྱ་མཚོས། གནས་བརྟན་སྡེ་པའི་ལུགས་ཀྱི་སྟོན་པ་བདེ་བར་གཤེགས་ནས་ལོ་གྲངས་ ༢༥༤༥ བོད་རབ་བྱུང་བཅུ་བདུན་པའི་ལྕགས་སྦྲུལ་ཟླ་ ༡༡ ཚེས་ ༡ ཕྱི་ལོ་ ༢༠༠༡ ཟླ་ ༡༢ ཚེས་ ༡༥ ཉིན། རྒྱ་གར་ཧི་མ་ཅལ་མངའ་སྡེའི་ཀང་ར་རྫོང་ཁོངས། དྷ་རམ་ས་ལ་ཐེག་ཆེན་ཆོས་གླིང་དུ་གྲུབ་པར་བགྱིས་པ་དགེ་བར་གྱུར་ཅིག།
 
-Theo đó: Đối với những giáo pháp thâm sâu và rộng lớn do Đức Phật Thế Tôn khéo léo tuyên thuyết, các bậc đại học giả thù thắng của Thánh địa Ấn Độ như đã nêu trên đã soạn tác vô vàn thiện thuyết vi diệu nhằm khai mở tuệ nhãn cho những bậc trí giả; và cho đến nay qua gần 2550 năm, các tác phẩm này vẫn tồn tại không hề mai một như những luận điển nền tảng cho việc văn, tư, tu. Để tưởng nhớ ân đức của các ngài và phát nguyện noi gương các ngài bằng tâm tín thành bất hoại; đồng thời, xét thấy ngày nay trên khắp thế giới này, khi khoa học và kỹ thuật vật chất đã phát triển đến mức cao độ, trong thời đại đầy rẫy sự xao lãng và nhiễu nhương của những huyễn tướng xô bồ, việc những người đệ tử Phật chúng ta đạt được một niềm tin phát sinh từ sự liễu tri giáo pháp của Đức Phật là vô cùng hệ trọng; do đó, bằng tâm chánh trực cẩn trọng xem xét và phân tích từ sự hoài nghi để tìm ra chân lý, và sau khi thấu đạt chân lý làm phát sinh đức tin song hành với trí tuệ, tôi nhận thấy các luận điển thâm sâu và rộng lớn vô cùng xuất chúng của Lục Trang Nghiêm Nhị Thắng lừng danh, ngài Buddhapālita, Thánh giả Vimuktisena, v.v., là tuyệt đối không thể thiếu. Bởi thế, dựa trên truyền thống vẽ Tôn ảnh Lục Trang Nghiêm và Nhị Thắng đã có từ trước, tôi đã bổ sung thêm chín vị đạo sư truyền thừa thâm sâu và rộng lớn khác để kiến lập bộ Tôn ảnh mới của Mười Bảy vị Đại Học giả và Thành tựu giả của Nālandā vinh quang. Gắn liền với Phật sự này, tôi nảy sinh tâm nguyện soạn một bài cầu nguyện bày tỏ lòng thành kính sâu sắc đến các bậc học giả tối thượng này, đồng thời cũng thể theo sự thỉnh cầu từ một số pháp hữu thiết tha tu học; vì thế, bài cầu nguyện mang tên 'Khai sáng Ba Niềm Tin hướng đến Mười Bảy vị Đại Học giả và Thành tựu giả của Nālandā vinh quang' này đã được hoàn thành bởi Tỳ-kheo dòng Thích-ca Tenzin Gyatso, người đã chứng đạt niềm tin xác quyết chân thật không tạo tác đối với những thiện thuyết của các bậc đại học giả và tự nguyện xếp mình ở hàng ngũ cuối cùng trong số những hành giả tu học các thiện thuyết đó; vào ngày 1 tháng 11 năm Kim Xà thuộc chu kỳ 17 của lịch Tây Tạng, năm 2545 tính từ khi Bậc Đạo sư Thiện Thệ viên tịch theo hệ lịch truyền thống Thượng tọa bộ, nhằm ngày 15 tháng 12 năm 2001, tại tịnh xá Thekchen Chöling, Dharamsala, thuộc quận Kangra, bang Himachal Pradesh, Ấn Độ. Nguyện vạn sự cát tường viên mãn! ^26
+Theo đó: Đối với những giáo pháp thâm sâu và rộng lớn do Đức Phật Thế Tôn khéo léo tuyên thuyết, các bậc đại học giả thù thắng của Thánh địa Ấn Độ như đã nêu trên đã soạn tác vô vàn thiện thuyết vi diệu nhằm khai mở tuệ nhãn cho những bậc trí giả; và cho đến nay qua gần 2550 năm, các tác phẩm này vẫn tồn tại không hề mai một như những luận điển nền tảng cho việc văn, tư, tu. Để tưởng nhớ ân đức của các ngài và phát nguyện noi gương các ngài bằng tâm tín thành bất hoại; đồng thời, xét thấy ngày nay trên khắp thế giới này, khi khoa học và kỹ thuật vật chất đã phát triển đến mức cao độ, trong thời đại đầy rẫy sự xao lãng và nhiễu nhương của những huyễn tướng xô bồ, việc những người đệ tử Phật chúng ta đạt được một niềm tin phát sinh từ sự liễu tri giáo pháp của Đức Phật là vô cùng hệ trọng; do đó, bằng tâm chánh trực cẩn trọng xem xét và phân tích từ sự hoài nghi để tìm ra chân lý, và sau khi thấu đạt chân lý làm phát sinh đức tin song hành với trí tuệ, tôi nhận thấy các luận điển thâm sâu và rộng lớn vô cùng xuất chúng của Lục Trang Nghiêm Nhị Thắng lừng danh, ngài Buddhapālita, Thánh giả Vimuktisena, v.v., là tuyệt đối không thể thiếu. Bởi thế, dựa trên truyền thống vẽ Tôn ảnh Lục Trang Nghiêm và Nhị Thắng đã có từ trước, tôi đã bổ sung thêm chín vị đạo sư truyền thừa thâm sâu và rộng lớn khác để kiến lập bộ Tôn ảnh mới của Mười Bảy vị Đại Học giả và Thành tựu giả của Nālandā vinh quang. Gắn liền với Phật sự này, tôi nảy sinh tâm nguyện soạn một bài cầu nguyện bày tỏ lòng thành kính sâu sắc đến các bậc học giả tối thượng này, đồng thời cũng thể theo sự thỉnh cầu từ một số pháp hữu thiết tha tu học; vì thế, bài cầu nguyện mang tên 'Khai sáng Ba Niềm Tin hướng đến Mười Bảy vị Đại Học giả và Thành tựu giả của Nālandā vinh quang' này đã được hoàn thành bởi Tỳ-kheo dòng Thích-ca Tenzin Gyatso, người đã chứng đạt niềm tin xác quyết chân thật không tạo tác đối với những thiện thuyết của các bậc đại học giả và tự nguyện xếp mình ở hàng ngũ cuối cùng trong số những hành giả tu học các thiện thuyết đó; vào ngày 1 tháng 11 năm Kim Xà thuộc chu kỳ 17 của lịch Tây Tạng, năm 2545 tính từ khi Bậc Đạo sư Thiện Thệ viên tịch theo hệ lịch truyền thống Thượng tọa bộ, nhằm ngày 15 tháng 12 năm 2001, tại tịnh xá Thekchen Chöling, Dharamsala, thuộc quận Kangra, bang Himachal Pradesh, Ấn Độ. Nguyện vạn sự cát tường viên mãn! ^1-1-1

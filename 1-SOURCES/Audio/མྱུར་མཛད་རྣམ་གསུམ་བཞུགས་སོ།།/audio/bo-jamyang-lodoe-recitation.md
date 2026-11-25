@@ -12,7 +12,7 @@ root_text_title: "མྱུར་མཛད་རྣམ་གསུམ་བཞ�
 source_description: "Single recording of the recitation of The Three Praises to the Swift-Acting Protector by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།.m4a"
+audio_file: "1-SOURCES/Audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།/audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:02:58.44"
 duration_seconds: 178.447
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 2889686
-sha256: 6c6ea09fd357149d3f62a192e2ca97f7aa377e576c40bac0ceba137fb7438dba
-converted_from:
-  audio_file: "1-SOURCES/Audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3073
-  file_size_bytes: 68556288
-  sha256: dfb383d787c1b5ae9979f1f3f759437d1a67193af90589a4296bb5b9596fc6fc
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 30d9108c9d9b2545ec3320eee3eba880372620bb001f0772928a3d0e86100667
 recording_time: "20:28:22"
 scene: "280124-202822"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/མྱུར་མཛད་ར�
 
 ## Recitation
 
-![[1-SOURCES/Audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།/audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།.WAV]]
+![[1-SOURCES/Audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།/audio/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།།.m4a]]
 
 ## Mapping
 

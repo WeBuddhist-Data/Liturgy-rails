@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ། །.md",
+  "validated_at": "2026-11-24T18:03:34.333623+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLD5062870F774",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཇམ་མགོན་བླ་མ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའི་བློ་སྦྱོང་སྙན་ངག་སྒྲ་རྒྱན་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Mind Training Induced by Way of Poem, A Perfect Composition of Words"
+      },
+      {
+        "zh": "修心詩歌聲飾"
+      },
+      {
+        "hi": "काव्यमय चित्त शोधन"
+      },
+      {
+        "ne": "काव्यात्मक लोजोङ (चित्तशोधन)"
+      },
+      {
+        "mn": "Оюун судлалын яруу найраг: Дууны чимэг"
+      },
+      {
+        "vi": "Thi Kệ Rèn Luyện Tâm Trí"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P64"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

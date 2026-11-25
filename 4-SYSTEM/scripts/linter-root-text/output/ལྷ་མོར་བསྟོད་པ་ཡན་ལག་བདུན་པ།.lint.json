@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།.md",
+  "validated_at": "2026-11-24T18:03:37.970510+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Seven-Branch Praise to the Goddess"
+      },
+      {
+        "zh": "吉祥天母七支讚"
+      },
+      {
+        "hi": "देवी की सप्तांग स्तुति"
+      },
+      {
+        "ne": "पाल्देन ल्हामोको सप्ताङ्ग स्तुति"
+      },
+      {
+        "mn": "Лхам сахиусны долоон гишүүнт магтаал"
+      },
+      {
+        "vi": "Bảy Nhánh Tán Thán Cát Tường Thiên Mẫu"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

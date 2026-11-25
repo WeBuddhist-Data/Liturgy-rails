@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 5
 blocks_total: 5
 status: draft
+toc_id: y6j4NqvQw7jpNXHYngSXY
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -50,7 +51,7 @@ Oṃ. May all be auspicious!
 Like a mass of white clouds interlaced with garlands of lightning,
 You are the captivating one who beautifies the sky.
 You who display graceful charms in the midst of youthful gandharva maidens,
-Goddess who has loved me from long ago, come here now! ^1
+Goddess who has loved me from long ago, come here now! ^0-1
 
 > པདྨའི་བཞིན་ལ་གཡོ་ལྡན་བུང་བའི་མིག།
 > མཐོན་མཐིང་རལ་བའི་རྩེ་ན་འོད་དཀར་ཅན།
@@ -60,7 +61,7 @@ Goddess who has loved me from long ago, come here now! ^1
 With eyes like restless bees upon your lotus-like face,
 And the white-light moon atop your crown of deep blue locks,
 O Sarasvatī, you who carry yourself with the poise of a captivating dance,
-Grant me even now the mastery of speech! ^2
+Grant me even now the mastery of speech! ^0-2
 
 > རོལ་རྩེད་གར་གྱི་ཉམས་ལྡན་རི་དྭགས་མིག།
 > མིག་གིས་ལྟ་བས་མི་ངོམས་ཡིད་འཕྲོག་མ།
@@ -70,7 +71,7 @@ Grant me even now the mastery of speech! ^2
 Possessing the graceful charms of a playful dance, with eyes like a deer,
 You are the captivating one whom one never tires of beholding.
 You who love me like a mother, please make my speech
-Identical to your own, O Goddess of Eloquence. ^3
+Identical to your own, O Goddess of Eloquence. ^0-3
 
 > སྟོན་ཟླ་རྒྱས་པའི་དཔལ་ལས་ལྷག་པར་མཛེས།
 > ཚངས་དབྱངས་སྙན་པའི་གདངས་ཀྱང་ཟིལ་གྱིས་གནོན།
@@ -80,8 +81,8 @@ Identical to your own, O Goddess of Eloquence. ^3
 More beautiful than the full splendor of the autumn moon,
 Your voice even outshines the melody of Brahma’s sweet song.
 Your mind is as difficult to fathom as the depths of the vast and profound ocean—
-To the body, speech, and mind of the goddess Sarasvatī, I bow. ^4
+To the body, speech, and mind of the goddess Sarasvatī, I bow. ^0-4
 
 > ཅེས་པ་འདི་རྗེ་བློ་བཟང་གྲགས་པས་མཛད་པའོ། །
 
-This was composed by Je Lobzang Drakpa. ^5
+This was composed by Je Lobzang Drakpa. ^1-1-1

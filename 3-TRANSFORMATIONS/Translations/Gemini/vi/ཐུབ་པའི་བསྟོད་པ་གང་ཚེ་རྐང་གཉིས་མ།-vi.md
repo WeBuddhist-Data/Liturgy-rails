@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: rr9b3SO2vxEIKL5UtkJJQ
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Khi Ngài, bậc tối tôn giữa loài hai chân, đản sinh,
 Bước bảy bước sen ngọc trên mặt đại địa này,
 Ngài tuyên thuyết: "Ta là tối thượng chốn thế gian",
-Con xin kính lễ Ngài, đấng trí tuệ toàn tri. ^1
+Con xin kính lễ Ngài, đấng trí tuệ toàn tri. ^0-1
 
 > དང་པོ་དགའ་ལྡན་ལྷ་ཡི་ཡུལ་ནས་བྱོན། །
 > རྒྱལ་པོའི་ཁབ་ཏུ་ཡུམ་གྱི་ལྷུམས་སུ་ཞུགས། །
@@ -64,7 +65,7 @@ Con xin kính lễ Ngài, đấng trí tuệ toàn tri. ^1
 Trước tiên giáng trần từ cõi trời Đâu Suất,
 Ngự vào thánh thai mẫu hậu chốn vương cung,
 Đấng Năng Nhân đản sinh tại vườn Lâm Tỳ Ni,
-Con xin kính lễ Thế Tôn, đấng Thiên trung Thiên. ^2
+Con xin kính lễ Thế Tôn, đấng Thiên trung Thiên. ^0-2
 
 > གཞལ་ཡས་ཁང་དུ་མ་མ་བརྒྱད་བཞིས་མཆོད། །
 > ཤཱཀྱའི་གྲོང་དུ་གཞོན་ནུས་རོལ་རྩེད་མཛད། །
@@ -74,7 +75,7 @@ Con xin kính lễ Thế Tôn, đấng Thiên trung Thiên. ^2
 Nơi bảo điện nguy nga, được bảo mẫu thị phụng,
 Nơi kinh thành Thích Ca, Ngài dạo chơi du ngoạn,
 Tại thành Ca Tỳ La, Ngài thành lập gia thất,
-Con xin kính lễ tôn thân vô song trong ba cõi. ^3
+Con xin kính lễ tôn thân vô song trong ba cõi. ^0-3
 
 > གྲོང་ཁྱེར་སྒོ་བཞིར་སྐྱོ་བའི་ཚུལ་བསྟན་ནས། །
 > མཆོད་རྟེན་རྣམ་དག་དྲུང་དུ་དབུ་སྐྲ་བསིལ། །
@@ -84,7 +85,7 @@ Con xin kính lễ tôn thân vô song trong ba cõi. ^3
 Thị hiện tấm lòng yếm ly nơi bốn cửa thành,
 Cắt bỏ mái tóc xuất gia trước tháp Thanh Tịnh,
 Tu hành khổ hạnh bên dòng sông Ni Liên Thiền,
-Con xin kính lễ Ngài, đấng viễn ly hai chướng. ^4
+Con xin kính lễ Ngài, đấng viễn ly hai chướng. ^0-4
 
 > རྒྱལ་པོའི་ཁབ་ཏུ་གླང་ཆེན་སྨྱོན་པ་བཏུལ། །
 > ཡངས་པ་ཅན་དུ་སྤྲེའུས་སྦྲང་རྩི་ཕུལ། །
@@ -94,7 +95,7 @@ Con xin kính lễ Ngài, đấng viễn ly hai chướng. ^4
 Tại thành Vương Xá, nhiếp phục con voi say,
 Tại thành Quảng Nghiêm, khỉ vương dâng cúng mật,
 Tại xứ Ma Kiệt Đà, Năng Nhân hiện Chánh giác,
-Con xin kính lễ Ngài, đấng tuệ giác chói ngời. ^5
+Con xin kính lễ Ngài, đấng tuệ giác chói ngời. ^0-5
 
 > ཝཱ་ར་ཎཱ་སིར་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར། །
 > ཛེ་ཏའི་ཚལ་དུ་ཆོ་འཕྲུལ་ཆེན་པོ་བསྟན། །
@@ -104,7 +105,7 @@ Con xin kính lễ Ngài, đấng tuệ giác chói ngời. ^5
 Tại thành Ba La Nại, Ngài chuyển bánh xe Pháp,
 Tại khu rừng Kỳ Đà, thị hiện đại thần biến,
 Tại thành Câu Thi Na, thị tịch nhập Niết bàn,
-Con xin kính lễ Ngài, đấng tâm như hư không. ^6
+Con xin kính lễ Ngài, đấng tâm như hư không. ^0-6
 
 > འདི་ལྟར་བསྟན་པའི་བདག་པོ་བཅོམ་ལྡན་འདས། །
 > མཛད་པའི་ཚུལ་ལ་མདོ་ཙམ་བསྟོད་པ་ཡི། །
@@ -114,8 +115,8 @@ Con xin kính lễ Ngài, đấng tâm như hư không. ^6
 Qua xưng tán đức Thế Tôn, bậc Giáo chủ đạo pháp,
 Bằng bài tán tụng tóm lược các công hạnh này,
 Nguyện đem công đức khiến hành vi mọi chúng sinh,
-Đều trở nên đồng đẳng với hạnh bậc Thiện Thệ. ^7
+Đều trở nên đồng đẳng với hạnh bậc Thiện Thệ. ^0-7
 
 > ཅེས་པ་འདི་སློབ་དཔོན་དཔའ་བོས་མཛད་པའོ། །
 
-Bài tán tụng này do Đạo sư Pawo trước tác. ^8
+Bài tán tụng này do Đạo sư Pawo trước tác. ^1-1-1

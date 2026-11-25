@@ -10,7 +10,7 @@ license: cc-by
 root_text: "[[1-SOURCES/Text/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།]]"
 root_text_title: "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།"
 source_description: "Single recording of the recitation of Smoke Offering for Raising Windhorse by Lobsang Yangzom."
-audio_file: "1-SOURCES/Audio/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།/audio/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:01:55.88"
 duration_seconds: 115.883

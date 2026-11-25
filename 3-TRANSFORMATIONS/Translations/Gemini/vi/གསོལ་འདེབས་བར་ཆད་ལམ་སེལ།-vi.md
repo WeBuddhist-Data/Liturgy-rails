@@ -34,9 +34,10 @@ line_parity_failures: 0
 style_instruction: "Translate this Tibetan liturgical text into Vietnamese, line by line: render each Tibetan line as exactly one Vietnamese line, in the same order, keeping the same number of lines as the source. Write Vietnamese with full diacritics. Use the Sino-Vietnamese Buddhist vocabulary standard in Vietnamese Buddhist literature (Phật, Pháp, Tăng, Bồ-đề tâm, Tam thân, Đạo sư, quy y, công đức, hồi hướng, chúng sinh) and the established Vietnamese names of buddhas and bodhisattvas (Quán Thế Âm, Văn Thù, Liên Hoa Sanh, Tara); transliterate other Tibetan names. Devotional, clear, recitable register, phrased the way Vietnamese Vajrayana communities phrase their prayers. Keep mantras and dhāraṇīs in romanized Sanskrit as Vietnamese Vajrayana practitioners write them (Om Mani Padme Hum, Om Ah Hum Vajra Guru Padma Siddhi Hum), never translated. Render Tibetan personal names and place names phonetically, as they are pronounced (Garab Dorje, Yeshe Tsogyal, Trisong Detsen, Samye), never as Wylie transliteration (never 'Dga' Rab Rdo Rje' or 'Bsam Yas'); use the established Vietnamese or Sanskrit form where one exists (Liên Hoa Sanh, Śāntarakṣita, Vimalamitra) and keep one spelling per name throughout. Do not add commentary, notes, or explanation."
 rails_used: none
 generated: 2026-09-06
-blocks_translated: 24
-blocks_total: 24
+blocks_translated: 25
+blocks_total: 25
 status: draft
+toc_id: D10eCWyBCVajlEPLB3ili
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -520,8 +521,6 @@ Chắc chắn tịnh trừ mọi chướng ngại trên đạo lộ Bồ-đề! 
 > ནང་གི་བར་ཆད་ནང་དུ་སོལ༔
 > གསང་བའི་བར་ཆད་དབྱིངས་སུ་སོལ༔
 > གུས་པས་ཕྱག་འཚལ་སྐྱབས་སུ་མཆི༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
 
 Xin rủ lòng từ bi ban gia trì cho con,
 Xin động lòng thương xót dẫn dắt chúng con trên đường đạo,
@@ -530,6 +529,10 @@ Bằng oai thần lực, xin tiêu trừ chướng ngại cho chúng con,
 Chướng ngại bên ngoài, xin tiêu trừ bên ngoài,
 Chướng ngại bên trong, xin tiêu trừ bên trong,
 Chướng ngại bí mật, xin tiêu trừ vào pháp giới,
-Con thành kính đảnh lễ và thiết tha quy y.
+Con thành kính đảnh lễ và thiết tha quy y. ^24
+
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
+
 Om Ah Hum Vajra Guru Padma Siddhi Hum
-Om Ah Hum Vajra Guru Padma Thötreng Tsal Vajra Samaya Dza Siddhi Phala Hum Ah ^24
+Om Ah Hum Vajra Guru Padma Thötreng Tsal Vajra Samaya Dza Siddhi Phala Hum Ah ^25

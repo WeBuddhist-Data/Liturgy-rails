@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།.md",
+  "validated_at": "2026-11-24T18:03:30.233529+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL4CAEAE3A3484",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Exhorting the Protectors of Tibet"
+      },
+      {
+        "zh": "護藏神祇策勵文"
+      },
+      {
+        "hi": "तिब्बत के रक्षक देवों का आह्वान"
+      },
+      {
+        "ne": "भोट देशका रक्षक देवताहरूको आह्वान"
+      },
+      {
+        "mn": "Төвөдийг сахигч сахиусны үйлсийн даатгал"
+      },
+      {
+        "vi": "Lời Khẩn Cầu Các Vị Hộ Pháp Tây Tạng"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P1649"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

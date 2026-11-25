@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL8A27A158A695",
+  "title": {
+    "bo": "སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Prayer to Tārā: A Sevenfold Supplication for Protection"
+    },
+    {
+      "zh": "七救怙祈請文"
+    },
+    {
+      "hi": "तारा प्रार्थना: रक्षा हेतु सात याचनाएँ"
+    },
+    {
+      "ne": "तारालाई सात रक्षा प्रार्थना"
+    },
+    {
+      "mn": "Дарь эхийн долоон авралын өчиг"
+    },
+    {
+      "vi": "Bảy Lời Cầu Nguyện Độ Mẫu Che Chở"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P16"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

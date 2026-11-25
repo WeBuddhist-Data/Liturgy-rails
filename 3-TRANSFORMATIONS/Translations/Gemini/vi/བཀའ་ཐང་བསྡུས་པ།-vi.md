@@ -37,6 +37,7 @@ generated: 2026-09-07
 blocks_translated: 25
 blocks_total: 25
 status: draft
+toc_id: lxqrO1rsBDSylGdHYCS2L
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -50,7 +51,7 @@ status: draft
 > བོད་སྐད་དུ༔སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་ལ༔
 
 Trong tiếng Uddiyana: Buddha Dharma Sangha Ya,
-Trong tiếng Tây Tạng: Nơi Phật, Pháp và Tăng, ^1
+Trong tiếng Tây Tạng: Nơi Phật, Pháp và Tăng, ^0-1
 
 > རྟག་ཏུ་གུས་པས་ཕྱག་འཚལ་ལོ༔
 > འདྲེན་པའི་སྐྱེས་བུ་པདྨ་འབྱུང་གནས་ཀྱི༔
@@ -60,7 +61,7 @@ Trong tiếng Tây Tạng: Nơi Phật, Pháp và Tăng, ^1
 Con hằng thành tâm cung kính đỉnh lễ.
 Đấng Đạo sư Tiếp dẫn Liên Hoa Sanh,
 Thuyết giảng chuỗi đản sinh này vì lợi ích của chúng sinh cần hóa độ,
-Bảo vệ những bậc trí tuệ bằng đức tin vì lợi ích của người hữu duyên. ^2
+Bảo vệ những bậc trí tuệ bằng đức tin vì lợi ích của người hữu duyên. ^0-2
 
 > ཨེ་མ་ཧོ༔
 > དེ་ནས་རྒྱལ་སྲས་མུ་ཁྲི་བཙན་པོ་ཡིས༔
@@ -80,7 +81,7 @@ Tu viện trưởng an tọa trên pháp tòa năm lớp gấm tơ,
 Ở hai hàng tả hữu trên tọa cụ hoa văn,
 Vairotsana cùng ba vị dịch giả an tọa,
 Dâng lên vô số của cải trân bảo thù thắng,
-Đỉnh lễ nhiều lần rồi thiết tha thỉnh cầu rằng: ^3
+Đỉnh lễ nhiều lần rồi thiết tha thỉnh cầu rằng: ^0-3
 
 > ཨེ་མ་ཧོ༔
 > དུས་གསུམ་མཁྱེན་པའི་རྒྱལ་སྲས་ཆེན་པོ་ལགས༔
@@ -100,7 +101,7 @@ Người dân Tây Tạng thọ mạng ngắn ngủi và đầy rẫy phóng d�
 Từ nay cho đến tận lúc mạt kiếp cuối cùng,
 Vì lợi ích chúng sinh hữu duyên, xin tóm lược tinh túy Diệu Pháp,
 Để chúng con có thể dâng lời khẩn nguyện lên chính Đạo sư,
-Ngưỡng mong Ngài tuyên thuyết tiểu sử tóm tắt của chính mình. ^4
+Ngưỡng mong Ngài tuyên thuyết tiểu sử tóm tắt của chính mình. ^0-4
 
 > དེ་སྐད་གསུང་པས་གུ་རུས་བཀའ་བསྩལ་པ༔
 > ལེགས་པར་ཉོན་ཅིག་མུ་ཁྲི་བཙན་པོ་ཁྱོད༔
@@ -108,7 +109,7 @@ Ngưỡng mong Ngài tuyên thuyết tiểu sử tóm tắt của chính mình. 
 
 Nghe lời thỉnh cầu ấy, Đạo sư liền dạy rằng:
 Hãy lắng nghe cho kĩ, này vương tử Mutri Tsenpo,
-Vì lợi ích đời sau, ta sẽ tuyên thuyết bản tóm tắt này. ^5
+Vì lợi ích đời sau, ta sẽ tuyên thuyết bản tóm tắt này. ^0-5
 
 > ཨེ་མ་ཧོ༔
 > སྐྱེས་པའི་ཡབ་བརྒྱད་བལྟམས་པའི་ཡུམ་བརྒྱད་དང་༔
@@ -128,7 +129,7 @@ Tám Bản tôn diện kiến và tám thành tựu rốt ráo,
 Tám khu thi lâm và tám đệ tử truyền thừa Pháp,
 Tám chốn a-lan-nhã và tám Không Hành Mẫu tâm giao,
 Tám công hạnh độ sinh và tám kho tàng giáo pháp ẩn giấu,
-Tám pháp tu thâm diệu cùng các vị Chủ Pháp Lingpa. ^6
+Tám pháp tu thâm diệu cùng các vị Chủ Pháp Lingpa. ^0-6
 
 > ཨེ་མ་ཧོ༔
 > དང་པོ་གུ་རུ་མཚན་བརྒྱད་བྱོན་ཚུལ་ནི༔
@@ -168,7 +169,7 @@ Ngài là Đạo sư Shakya Senge.
 Ngài là Đạo sư Senge Dradrok.
 Bậc thấu suốt mọi điều có thể nhận biết,
 Ngài là Đạo sư Loden Chokse.
-Đây là chương thứ nhất về Tám tôn danh Đạo sư. ^7
+Đây là chương thứ nhất về Tám tôn danh Đạo sư. ^0-7
 
 > ཨེ་མ་ཧོ༔
 > གཉིས་པ་སྐྱེས་པའི་ཡབ་བརྒྱད་བསྟན་པ་ནི༔
@@ -208,7 +209,7 @@ Người cha cõi nhân gian hội ngộ thuở trước,
 Là Pháp thần Trina Dzinpa.
 Người cha của thiện hữu vì lòng từ bi khuyên nhủ,
 Là đạo hữu Ser-od Dampa.
-Đây là chương thứ hai về Tám người cha thân sinh. ^8
+Đây là chương thứ hai về Tám người cha thân sinh. ^0-8
 
 > ཨེ་མ་ཧོ༔
 > གསུམ་པ་བལྟམས་པའི་ཡུམ་བརྒྱད་བསྟན་པ་ནི༔
@@ -248,7 +249,7 @@ Người mẹ phó thác ấn chỉ Giáo pháp,
 Là Không Hành Mẫu Lekyi Wangmo.
 Người mẹ dựng lập nền tảng Giáo pháp,
 Là Đức Thánh Tôn Độ Mẫu.
-Đây là chương thứ ba về Tám người mẹ đản sinh. ^9
+Đây là chương thứ ba về Tám người mẹ đản sinh. ^0-9
 
 > ཨེ་མ་ཧོ༔
 > བཞི་པ་སྤྲུལ་པའི་སྲས་བརྒྱད་བསྟན་པ་ནི༔
@@ -288,7 +289,7 @@ Vị nhiếp chính hóa độ môn đồ theo mọi căn cơ,
 Là Telo Prajnapara.
 Vị nhiếp chính đại thiền giả nắm giữ Giáo pháp,
 Là Đại y sư Chandragomi.
-Đây là chương thứ tư về Tám nhiếp chính hóa thân. ^10
+Đây là chương thứ tư về Tám nhiếp chính hóa thân. ^0-10
 
 > ཨེ་མ་ཧོ༔
 > ལྔ་བ་བྱོན་པའི་ཡུལ་བརྒྱད་བསྟན་པ་ནི༔
@@ -312,7 +313,7 @@ Thành tựu văn tư, quang lâm cõi Kashmir,
 Hành đạo vị tha, quang lâm cõi Khotan,
 Danh xưng vô tranh biến mãn, quang lâm cõi Nepal,
 Bằng sức mạnh nguyện lực, quang lâm cõi Tây Tạng,
-Đây là chương thứ năm về Tám cõi nước quang lâm. ^11
+Đây là chương thứ năm về Tám cõi nước quang lâm. ^0-11
 
 > ཨེ་མ་ཧོ༔
 > དྲུག་པ་བཞུགས་པའི་གནས་བརྒྱད་བསྟན་པ་ནི༔
@@ -336,7 +337,7 @@ Trưởng dưỡng Bồ-đề tâm, Ngài an ngự tại Sengala.
 Xả ly mọi ngã chấp, Ngài an ngự tại Changra Mugpo.
 Nhiếp thọ chúng sinh ba cõi, Ngài an ngự tại Yangleshod.
 Được Quân vương thỉnh mời, Ngài an ngự tại điện Samye Utse.
-Đây là chương thứ sáu về Tám trú xứ an ngự. ^12
+Đây là chương thứ sáu về Tám trú xứ an ngự. ^0-12
 
 > ཨེ་མ་ཧོ༔
 > བདུན་པ་བསྟེན་པའི་བླ་མ་བརྒྱད་བསྟན་པ་ནི༔
@@ -376,7 +377,7 @@ Tại xứ Zahor, Ngài y chỉ Đạo sư Ludrub Nyingpo,
 Lãnh thọ viên mãn giáo pháp Liên Hoa Tịch Phẫn.
 Tại Nalanda, Ngài y chỉ Đạo sư Dhanasanskrit,
 Lãnh thọ viên mãn giáo pháp Ma-mô Tịch Phẫn.
-Đây là chương thứ bảy về Tám Đạo sư y chỉ. ^13
+Đây là chương thứ bảy về Tám Đạo sư y chỉ. ^0-13
 
 > ཨེ་མ་ཧོ༔
 > བརྒྱད་པ་ཡི་དམ་ལྷ་ཡི་ཞལ་གཟིགས་བསྟན་པ་ནི༔
@@ -422,7 +423,7 @@ Tại thi lâm Dechen Dal, Ngài thực hành tu trì Thế Gian Tôn,
 Ngài được diện kiến hải hội Bản tôn Thế Gian Cúng Tán.
 Tại thi lâm Loka Tsek, Ngài thực hành tu trì Mãnh Chú,
 Ngài được diện kiến hải hội Bản tôn Trớ Chú Mãnh Ngôn.
-Đây là chương thứ tám về sự tu trì tại Tám thi lâm. ^14
+Đây là chương thứ tám về sự tu trì tại Tám thi lâm. ^0-14
 
 > ཨེ་མ་ཧོ༔
 > དགུ་པ་མཐར་ཕྱིན་པའི་གྲུབ་རྟགས་བརྒྱད་སྟོན་པ་ནི༔
@@ -464,7 +465,7 @@ Khi các ác thần dèm pha nhạo báng,
 Ngài thị hiện dấu ấn thành tựu khiến chúng tàn phế, tê cứng và gục ngã.
 Khi giáng lâm phương Tây Nam để điều phục bầy La Sát,
 Ngài thị hiện dấu ấn thành tựu an lập La Sát vào Giáo pháp.
-Đây là chương thứ chín về Tám dấu ấn thành tựu. ^15
+Đây là chương thứ chín về Tám dấu ấn thành tựu. ^0-15
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་བ་ཆོས་བརྒྱུད་འཛིན་པའི་སློབ་མ་བརྒྱད་བསྟན་པ་ནི༔
@@ -488,7 +489,7 @@ Drokmi Palgyi sai khiến ma nữ Mamo,
 Langchen Senge nhiếp phục quỷ thần kiêu mạn,
 Vairotsana sánh ngang với chính Đạo sư Oḍḍiyāna,
 Nhà vua vương chủ có khả năng phóng chiếu hóa thân,
-Đây là chương thứ mười về sự phóng chiếu hóa thân của Tám đệ tử. ^16
+Đây là chương thứ mười về sự phóng chiếu hóa thân của Tám đệ tử. ^0-16
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་གཅིག་པ་ལུང་བསྟན་དབེན་པའི་གནས་བརྒྱད་བསྟན་པ་ནི༔
@@ -504,7 +505,7 @@ Samye Chimphu, Lhodrag Kharchu,
 Drakkyi Yangdzong, Yarlung Shelgyi Phug,
 Dragmar Yama, Monkha Shri Dzong,
 Senge Dzong và Paro Taktsang Phug.
-Đây là chương thứ mười một về Tám chốn a-lan-nhã. ^17
+Đây là chương thứ mười một về Tám chốn a-lan-nhã. ^0-17
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་གཉིས་པ་ཐུགས་སུ་ཆུད་པའི་ཇོ་མོ་བརྒྱད་བསྟན་པ་ནི༔
@@ -530,7 +531,7 @@ Là Bốn công chúa con của Quân vương.
 Là vị cúng dường tài bảo viên mãn Công chúa Troma Gyen.
 Là vị được Quân vương yêu thương Công chúa Pemasel.
 Là vị được Vương hậu yêu thương Nujin Sale.
-Đây là chương thứ mười hai về Tám vị Phật Mẫu. ^18
+Đây là chương thứ mười hai về Tám vị Phật Mẫu. ^0-18
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་གསུམ་པ་མཛད་པའི་ཕྲིན་ལས་བརྒྱད་བསྟན་པ་ནི༔
@@ -556,7 +557,7 @@ Nhiếp phục binh ma, Ngài hóa hiện tâm Bồ-đề của chư Phật.
 Chuyển pháp luân, Ngài đặt chân đến xứ Tây Tạng.
 Hoằng dương Giáo pháp, Ngài cất giấu các kho tàng châu báu.
 Trấn áp chư La-sát, Ngài an lập Diêm-phù-đề trong tịnh lạc.
-Đây là chương thứ mười ba về Tám sự nghiệp Phật hạnh. ^19
+Đây là chương thứ mười ba về Tám sự nghiệp Phật hạnh. ^0-19
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་བཞི་པ་སྦས་པའི་གཏེར་ཁ་བརྒྱད་བསྟན་པ་ནི༔
@@ -580,7 +581,7 @@ Vô cùng hy hữu vi diệu, Ngài cất giấu Tái phục tàng.
 Để hóa độ vô số chúng sinh, Ngài cất giấu Phụ phục tàng.
 Không nhất định một phương thức, Ngài cất giấu Song phục tàng.
 Để gìn giữ châu báu, Ngài cất giấu Tâm phục tàng.
-Đây là chương thứ mười tư về Tám kho tàng ẩn mật. ^20
+Đây là chương thứ mười tư về Tám kho tàng ẩn mật. ^0-20
 
 > ཨེ་མ་ཧོ༔
 > བཅོ་ལྔ་པ་ཉམས་སུ་བླངས་པའི་ཆོས་བརྒྱད་བསྟན་པ་ནི། །
@@ -610,7 +611,7 @@ Tiếp đến là Bốn pháp biệt lập:
 Lamrim Hành Trình Bồ Tát Mật Chú,
 Mãnh Chú Guru Drakpo,
 Thánh Mẫu Troma Nagmo.
-Đây là chương thứ mười lăm về Tám thâm pháp tu trì. ^21
+Đây là chương thứ mười lăm về Tám thâm pháp tu trì. ^0-21
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་དྲུག་པ་ཆོས་བདག་གླིང་པ་བརྒྱད་རྣམས་བསྟན་པ་ནི༔
@@ -638,7 +639,7 @@ Samten Lingpa và Nyida Lingpa,
 Zhikpo Lingpa và Terdak Lingpa,
 Tám vị đại Khai tạng sư Lingpa này sẽ xuất thế,
 Chắc chắn đều là hóa thân của ta, Đạo sư xứ Oḍḍiyāna.
-Đây là chương thứ mười sáu về Tám vị Chủ Pháp Lingpa. ^22
+Đây là chương thứ mười sáu về Tám vị Chủ Pháp Lingpa. ^0-22
 
 > ཨེ་མ་ཧོ༔
 > རྒྱལ་པོ་ཆེན་པོ་ལེགས་པར་ཉོན༔
@@ -676,7 +677,7 @@ Tại cõi Pháp giới là Phổ Hiền,
 Tại cõi Mật Trang Nghiêm là Đại Kim Cang Trì,
 Tại Kim Cang Tòa chính là đấng Đại Năng Nhân,
 Đều hiển diện tự nhiên bất nhị trong ta, Liên Hoa Sanh.
-Vì thế, hãy thường hằng khẩn cầu ta! ^23
+Vì thế, hãy thường hằng khẩn cầu ta! ^0-23
 
 > རྒྱལ་པོའི་གདུང་རབས་བརྒྱད་དང་བཅུ་གསུམ་ནས༔
 > སེ་ཆེན་རྒྱལ་པོའི་བོད་ལ་དམག་དྲངས་ནས༔
@@ -836,8 +837,8 @@ Hãy cất giấu thành phục tàng tại đỉnh trung ương của tự vi�
 Ngài phán: 'Hãy trao truyền cho những người có duyên lành trong tương lai!'
 Ta sẽ không lưu lại mà đi hàng phục loài La-sát.
 Ta sẽ đưa tất cả loài La-sát an lập vào chánh pháp.
-Ta sẽ đưa toàn thể dân chúng và chúng sinh Tây Tạng an lập vào cảnh giới an lạc." ^24
+Ta sẽ đưa toàn thể dân chúng và chúng sinh Tây Tạng an lập vào cảnh giới an lạc." ^0-24
 
 > ཞེས་གསུངས་ཞལ་ལྷ་ནུབ་ཏུ་གཟིགས་སོ༔ ས་མ་ཡ༔ རྒྱ་རྒྱ་རྒྱ༔ གཏེར་སྟོན་ཨོ་རྒྱན་གླིང་པས་བསམ་ཡས་མཆིམས་ཕུ་ནས་གཏེར་ནས་སྤྱན་དྲངས་པའོ༔
 
-Phán như vậy xong, ngài hướng thánh nhan về phía Tây Nam. Samaya. Ấn! Ấn! Ấn! Phục tàng sư Orgyen Lingpa đã thỉnh xuất phục tàng này từ Samye Chimphu. ^25
+<small>Phán như vậy xong, ngài hướng thánh nhan về phía Tây Nam. Samaya. Ấn! Ấn! Ấn! Phục tàng sư Orgyen Lingpa đã thỉnh xuất phục tàng này từ Samye Chimphu.</small> ^1-1

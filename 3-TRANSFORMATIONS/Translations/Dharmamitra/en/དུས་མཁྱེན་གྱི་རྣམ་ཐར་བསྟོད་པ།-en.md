@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 18
 blocks_total: 18
 status: draft
+toc_id: 2gMW0GmnXu6SIFZQazHnT
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -50,7 +51,7 @@ Emaho!
 You who fulfill all intentions,
 Lord of space, devoid of center or edge,
 Radiating the light of clear-light compassion,
-To Tsurphu-pa, I pray. ^1
+To Tsurphu-pa, I pray. ^0-1
 
 > རྫོགས་སངས་གོ་འཕང་སྩོལ་མཛད་པ། །
 > རྗེ་བཙུན་མཆོག་ལ་ཕྱག་འཚལ་ཏེ། །
@@ -60,7 +61,7 @@ To Tsurphu-pa, I pray. ^1
 You who bestow the state of perfect buddhahood,
 To the supreme Venerable One, I prostrate;
 In the great sacred site of Treshö, an emanation,
-You were conceived in the womb of a wisdom ḍākinī. ^2
+You were conceived in the womb of a wisdom ḍākinī. ^0-2
 
 > ས་བཅུ་རྫོགས་ནས་སྐུ་འཁྲུངས་ཚེ། །
 > མཆོག་གི་སྤྲུལ་སྐུར་སྐྱེ་དགུ་དང་། །
@@ -70,7 +71,7 @@ You were conceived in the womb of a wisdom ḍākinī. ^2
 Upon completing the ten bhūmis, at the time of your birth,
 As a supreme emanation body, for the sake of all beings,
 You granted the siddhis to all sentient creatures;
-To you, who displayed the manner of an emanation, I bow. ^3
+To you, who displayed the manner of an emanation, I bow. ^0-3
 
 > ལོ་བརྒྱད་ལོན་ནས་གནོད་སྦྱིན་བཀུག །(དགུང་ལོ་བརྒྱད་པར་བྱང་རྒྱར་ཚོང་ལ་བྱོན་ནས་ཕྱུག་པོར་གྱུར་པའོ། )
 > བཅུ་གཅིག་ལོ་ལ་གཡུལ་ཆེན་བཟློག །(ནོར་དང་ཤ་གཉིས་ཀ་ཆགས་པའི་དམག་དཔུང་འཇོམས་པར་མཛད་དོ།)
@@ -80,7 +81,7 @@ To you, who displayed the manner of an emanation, I bow. ^3
 At age eight, you summoned the yakṣas;
 At age eleven, you repelled a great army;
 At age fifteen, you liberated the enemies of the teachings;
-To you, who subdues the hosts of māras, I bow. ^4
+To you, who subdues the hosts of māras, I bow. ^0-4
 
 > བཅུ་དྲུག་ལོ་ལ་རབ་ཏུ་བྱུང་། །
 > དགེ་སྦྱོང་ཆེན་པོའི་རྣམ་ཐར་བསྟན། །
@@ -90,7 +91,7 @@ To you, who subdues the hosts of māras, I bow. ^4
 At age sixteen, you went forth into homelessness;
 You displayed the life story of a great shramaṇa.
 You upheld the scriptures of the Buddha’s teachings;
-To you, who built a great wheel of Dharma, I bow. ^5
+To you, who built a great wheel of Dharma, I bow. ^0-5
 
 > ཉི་ཤུའི་ལོ་ལ་དབུས་སུ་བྱོན། །
 > རིགས་པའི་གནས་ལ་མ་རྨོངས་པས། །
@@ -100,7 +101,7 @@ To you, who built a great wheel of Dharma, I bow. ^5
 At age twenty, you traveled to the central region;
 Because you were not deluded regarding the fields of knowledge,
 You awakened to wisdom through the study of all that can be known;
-To you, the Omniscient One, I bow. ^6
+To you, the Omniscient One, I bow. ^0-6
 
 > དཔལ་ཆེན་རྒྭ་ལོ་བཻ་རོ་དང་། །
 > ཇོ་མོ་བཀྲ་ཤིས་ཚེ་རིང་མ། །
@@ -110,7 +111,7 @@ To you, the Omniscient One, I bow. ^6
 To the glorious great Gwa Lo, Vairotsana,
 The noble Tashi Tseringma,
 Lingkawa, Tsurtön, and the others—
-To the essence of all the practice lineages, I bow. ^7
+To the essence of all the practice lineages, I bow. ^0-7
 
 > རྗེ་བཙུན་རས་ཆུང་བྱོན་པའི་ཚེ། །
 > མོས་པ་འཁྲུངས་ནས་སྤྱན་སྔར་བྱོན། །
@@ -120,7 +121,7 @@ To the essence of all the practice lineages, I bow. ^7
 When the venerable Rechungpa arrived,
 Devotion arose and he came into your presence;
 You perfected the great power of both ripening and liberation;
-To you, who reached the end of the oral instructions, I bow. ^8
+To you, who reached the end of the oral instructions, I bow. ^0-8
 
 > དྭགས་པོ་ཁུ་དབོན་མཇལ་བའི་ཚེ། །
 > ཆོས་སྐུ་སྤྲོས་བྲལ་རྗེན་པར་བུད། །
@@ -130,7 +131,7 @@ To you, who reached the end of the oral instructions, I bow. ^8
 When you met with the uncle and nephew of Dakpo,
 The Dharmakaya, free of elaboration, was revealed in its nakedness;
 The limbs of great bliss and union were perfected;
-There was no dwelling place for conceptual thought. ^9
+There was no dwelling place for conceptual thought. ^0-9
 
 > གང་ཤར་ཕྱག་རྒྱ་ཆེན་པོར་རོལ། །
 > མ་རྟོགས་འགྲོ་ལ་ཐུགས་རྗེ་འཁྲུངས། །
@@ -140,7 +141,7 @@ There was no dwelling place for conceptual thought. ^9
 Whatever arises, play as Mahamudra;
 Compassion arises for beings who do not understand;
 To you, the all-knowing King, I bow.
-In the four corners and so forth, ^10
+In the four corners and so forth, ^0-10
 
 > ལུས་སྲོག་ལྟོས་མེད་བསྒྲུབ་པ་མཛད། །
 > མཆོག་དང་ཐུན་མོང་དངོས་གྲུབ་བརྙེས། །
@@ -150,7 +151,7 @@ In the four corners and so forth, ^10
 You practiced without regard for body or life;
 You attained the supreme and common accomplishments;
 To you, who reached the perfection of seclusion, I bow.
-The foundation of the teachings, Tsurphu, and ^11
+The foundation of the teachings, Tsurphu, and ^0-11
 
 > ཀརྨ་ཀཾ་པོ་གངས་ར་དང་། །
 > ཀཾ་ཁྱིམ་ལ་སོགས་གཙུག་ལག་བཀོད། །
@@ -160,7 +161,7 @@ The foundation of the teachings, Tsurphu, and ^11
 Karma Kampo Gangra and
 Kamkhyim and other temples you established;
 To you, who built the seats of the Kagyu, I bow.
-You restored the seat of Daklha Gampo; ^12
+You restored the seat of Daklha Gampo; ^0-12
 
 > འཚལ་པའི་འཁྲུགས་པ་མ་ལུས་བསྡུམས། །
 > འགྲོ་བ་རིགས་དྲུག་དབང་དུ་བསྡུས། །
@@ -170,7 +171,7 @@ You restored the seat of Daklha Gampo; ^12
 You reconciled all the conflicts of Tselpa;
 You brought the beings of the six realms under your power;
 To you, the King of miraculous powers, I bow.
-Through your own representative, the Nirmanakaya, ^13
+Through your own representative, the Nirmanakaya, ^0-13
 
 > ཞྭ་ནག་ཅན་གྱི་སྐྱེ་བ་ཡིས། །
 > སངས་རྒྱས་ཀུན་གྱི་ཕྲིན་ལས་མཛད། །
@@ -180,7 +181,7 @@ Through your own representative, the Nirmanakaya, ^13
 By the rebirths of the Black Hat wearer,
 You perform the enlightened activity of all the Buddhas;
 To you, the Karma Kagyu, I bow.
-To the protector of beings, Sangye Repa, and ^14
+To the protector of beings, Sangye Repa, and ^0-14
 
 > ལྷོ་པ་རྟ་སྒོམ་ལ་སོགས་པ། །
 > གྲུབ་ཐོབ་ཀུན་གྱི་གཏེར་གཅིག་པུ། །
@@ -190,7 +191,7 @@ To the protector of beings, Sangye Repa, and ^14
 Lhopa Tasgom and others,
 The sole treasure of all realized masters,
 To you, the King of Realization, I bow.
-Everything is your own nature; ^15
+Everything is your own nature; ^0-15
 
 > ཁྱོད་ལ་རང་བཞིན་ཅུང་ཟད་མེད། །
 > ཀྱེ་མ་སྙིགས་མའི་གདུལ་བྱ་རྣམས། །
@@ -200,7 +201,7 @@ Everything is your own nature; ^15
 In you, there is not the slightest inherent existence.
 Alas, for the disciples of this degenerate age,
 Not meeting you is a state of compassion.
-Whatever is tainted, whether great or small, ^16
+Whatever is tainted, whether great or small, ^0-16
 
 > ཁྱོད་དང་མཇལ་རྣམས་དོན་ཆེན་གྲུབ། །
 > ཁྱོད་ཀྱི་བྱིན་རླབས་ནུས་པ་ཡིས། །
@@ -214,8 +215,8 @@ Through the power of your blessings,
 May I see whatever you do as excellent,
 Hold whatever you say as authoritative,
 Merge my mind with yours as one,
-And accomplish the activities of your liberation. ^17
+And accomplish the activities of your liberation. ^0-17
 
 > རྗེ་རོལ་པའི་རྡོ་རྗེའི་བསྟོད་པ་རྗེ་བརྒྱད་པས་མཛད་པ་བཞུགས། །
 
-Herein is contained the praise of Lord Rolpe Dorje, composed by the Eighth Lord. ^18
+Herein is contained the praise of Lord Rolpe Dorje, composed by the Eighth Lord. ^1-1-1

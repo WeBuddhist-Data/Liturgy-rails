@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 28
 blocks_total: 28
 status: draft
+toc_id: TkCiitT1ZKkBlvFhjiQDm
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -56,7 +57,7 @@ Namo Guru Mañjughoṣāya!
 Thân trí tuệ của tất cả chư Phật mười phương ba đời,
 Đều nhiếp tụ trong Đạo sư Đấng bảo hộ Văn Thù,
 Xin hằng an tọa trên nguyệt luân liên hoa trắng nơi đỉnh đầu,
-Ban điềm lành bừng nở ánh sáng của hai trí tuệ! ^1
+Ban điềm lành bừng nở ánh sáng của hai trí tuệ! ^0-1
 
 > ཐུབ་དབང་ཉེ་སྲས་སྒྲོལ་མ་པད་འབྱུང་དང་། །
 > གནས་བརྟན་བཅུ་དྲུག་གཏད་རབས་ཆེན་པོ་བདུན། །
@@ -66,7 +67,7 @@ Ban điềm lành bừng nở ánh sáng của hai trí tuệ! ^1
 Đức Năng Nhân, Bát đại Bồ tát, Độ Mẫu và Liên Hoa Sanh,
 Mười sáu vị Tôn giả, Bảy vị Đại truyền nhân,
 Lục đại Trang nghiêm, Tám mươi vị Du già Tự tại cùng chư tôn,
-Xin rủ lòng đại bi ban gia trì để giáo pháp hưng thịnh! ^2
+Xin rủ lòng đại bi ban gia trì để giáo pháp hưng thịnh! ^0-2
 
 > སྤྱན་རས་གཟིགས་དབང་བརྩེ་ཆེན་ཀུན་དགའ་སྙིང་། །
 > འཇམ་དབྱངས་བླ་མ་ས་སྐྱ་པཎྜི་ཏ། །
@@ -76,7 +77,7 @@ Xin rủ lòng đại bi ban gia trì để giáo pháp hưng thịnh! ^2
 Quán Thế Âm tự tại đại bi Kunga Nyingpo,
 Đạo sư Văn Thù hóa thân ngài Sakya Pandita,
 Bậc chúa tể mật thừa Ngorchen Kim Cang Trì,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^3
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-3
 
 > སློབ་དཔོན་ཆེན་པོ་བི་རཱུ་ནཱ་རོ་པ། །
 > རྡོ་རྗེ་གདན་པ་དཱི་པཾ་ཀཱ་ར་སོགས། །
@@ -86,7 +87,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Đại Đạo sư Virupa và Naropa,
 Bậc Vajrasanapa, Dipamkara, cùng các chư vị,
 Dòng sông giáo huấn quy tụ từ các bậc học giả thành tựu xứ Thánh,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^4
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-4
 
 > ཕྱི་ནང་རིགས་གནས་མདོ་སྔགས་ཡོངས་རྫོགས་བདག །
 > གངས་ལྗོངས་སྨྲ་བའི་སེངྒེ་ཐམས་ཅད་མཁྱེན། །
@@ -96,7 +97,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Bậc chủ tể tinh thông nội ngoại minh xứ cùng hiển mật toàn thiện,
 Bậc Nhất Thiết Trí, ngữ sư tử của xứ tuyết,
 Bậc Pháp vương ba cõi vượt thoát mọi sự sánh bì,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^5
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-5
 
 > ཀླུ་ཐོགས་ལ་སོགས་འཛམ་གླིང་རྒྱན་མཆོག་གི །
 > བཞེད་གཞུང་མ་ནོར་ཇི་བཞིན་བཀྲལ་བ་ལ། །
@@ -106,7 +107,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Của ngài Long Thọ, Vô Trước cùng các bậc trang nghiêm thù thắng cõi Diêm Phù Đề,
 Luận giải chân xác không mảy may sai lệch các tông chỉ,
 Không gợn mảy may một vi trần nhơ nhuốc của sự mê lầm,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^6
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-6
 
 > ཁྱད་པར་རྣལ་འབྱོར་དབང་ཕྱུག་ཆེན་པོ་ཡི། །
 > དགྱེས་རྡོར་གཞུང་གདམས་འབྲོག་མིའི་ཐུགས་ཀྱི་བཅུད། །
@@ -116,7 +117,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Đặc biệt là giáo lý của bậc Đại du già tự tại,
 Tinh tủy tâm của ngài Drokmi về giáo lý Hỷ Kim Cang,
 Cùng với chín hệ thống đạo tu tương ưng,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^7
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-7
 
 > དཔལ་ལྡན་རྡོ་རྗེ་འཆང་ནས་ལེགས་འོངས་པའི། །
 > སྔགས་རྒྱུད་རྣམ་བཞིའི་ཆུ་བོ་ཆེན་པོ་བཞི། །
@@ -126,7 +127,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Khéo lưu truyền từ đức Kim Cang Trì vinh quang,
 Thành bốn dòng sông lớn của bốn bộ mật tục,
 Vô song trong việc thuyết giảng mật điển cùng các pháp quán đảnh giải thoát,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^8
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-8
 
 > མཁས་པའི་འབྱུང་གནས་མཁས་པ་ཡོངས་ཀྱི་རྗེ། །
 > བཙུན་པའི་ཁྱུ་མཆོག་བསླབ་པ་གསུམ་གྱིས་ཕྱུག །
@@ -136,7 +137,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Cội nguồn của chư vị học giả, đạo sư của muôn học giả,
 Bậc tối thắng trong hàng tôn quý, viên mãn Tam vô lậu học,
 Bậc đại tự tại thành tựu, thấu triệt các nội địa và đạo,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^9
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-9
 
 > ལྟ་བ་ཤིན་ཏུ་རྣམ་དག་སྤྱོད་པ་གཙང་། །
 > སྒོམ་པ་སྡེ་སྣོད་གསུམ་དང་མཐུན་པ་ཡིས། །
@@ -146,7 +147,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Kiến địa cực kỳ thanh tịnh, hành trì vô cấu trong sạch,
 Thiền định tương ưng mật thiết với giáo pháp Tam tạng,
 Gìn giữ truyền thống của đức Năng Nhân Thái Dương Toàn Tri,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^10
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-10
 
 > ཕྱོགས་རེ་མ་ཡིན་བསྟན་པ་མཐའ་དག་ཚང་། །
 > ཚང་ལ་མ་ནོར་ས་སྐྱ་པ་ཞེས་གྲགས། །
@@ -156,7 +157,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Chẳng chút thiên lệch mà thâu nhiếp toàn bộ giáo pháp,
 Trọn vẹn và không mảy may sai lầm, vinh danh truyền thống Sakyapa,
 Giương cao ngọn cờ danh xưng lẫy lừng vang khắp mười phương,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^11
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-11
 
 > ཆོས་དང་ཆོས་མིན་རྣམ་པར་འབྱེད་པ་དང་། །
 > མུ་སྟེགས་ལ་སོགས་རྒོལ་ངན་བཅོམ་མཛད་ཅིང་། །
@@ -166,7 +167,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Phân định tường tận giữa chánh pháp cùng phi pháp,
 Đánh bại tà thuyết của ngoại đạo và các lập luận sai lầm,
 Hàng phục muôn phương, gìn giữ cờ chiến thắng của giáo pháp,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^12
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-12
 
 > གཡག་གཞོན་རོང་ཤཱཀ་མདོ་ཡི་བཤད་བརྒྱུད་འཛིན། །
 > བུ་དོལ་རྫོང་པ་ལ་སོགས་རྒྱུད་སྡེ་བཞིའི། །
@@ -176,7 +177,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Các ngài Yak, Shon, Rong và Shak gìn giữ dòng truyền thuyết giảng Kinh thừa,
 Các ngài Bu, Dol, Dzongpa cùng các vị trì giữ dòng truyền bốn bộ Mật tục,
 Với vô số các bậc trì giữ truyền thừa giảng thuyết và tu tập,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^13
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-13
 
 > མཆོག་གྱུར་རྒྱལ་བས་ལུང་ཐོབ་ཨེ་ཝཾ་པའི། །
 > མཚན་སྙན་འཛིན་མའི་ཁྱོན་ཀུན་ཁྱབ་པ་དང་། །
@@ -186,7 +187,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Được thọ ký bởi đấng Chiến Thắng tối thượng, truyền thống Ewam-pa,
 Danh xưng hiển hách vang dội lan khắp mọi chốn thế gian,
 Nhờ sự thanh tịnh trong giảng thuyết, tu tập và hành trì Tam bộ giới,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^14
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-14
 
 > ཁྱད་པར་རྗེ་བཙུན་གོང་མའི་ཐུགས་བཅུད་རྣམས། །
 > སྙན་ནས་སྙན་བརྒྱུད་བློ་གསལ་རྒྱ་མཚོ་ཡི། །
@@ -196,7 +197,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Đặc biệt là tâm tinh tủy của các bậc Đạo sư Jetsun đời trước,
 Được khẩu truyền từ tai sang tai, của ngài Losal Gyatso,
 Tuôn đổ khắp chốn cam lộ từ chiếc bình báu toàn hảo nơi tâm ngài,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^15
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-15
 
 > ཐབས་ཤེས་གཉིས་མེད་བཅོམ་ལྡན་ཧེ་བཛྲའི། །
 > རྒྱུད་གསུམ་སྨྲ་མཁས་བསོད་ནམས་སེང་གེ་དང་། །
@@ -206,7 +207,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Của đức Thế Tôn Hỷ Kim Cang, đấng bất nhị phương tiện và trí tuệ,
 Bậc thiện xảo thuyết giảng ba mật tục Sonam Senge, cùng
 Bậc khai mở kho tàng pháp Konchog Lhundrub,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^16
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-16
 
 > གཞན་ཡང་རྗེ་བཙུན་དྲིན་གྱིས་ལེགས་འོངས་པའི། །
 > བདེ་གསང་དུས་ཀྱི་འཁོར་ལོའི་རྒྱུད་བཤད་ཀྱི། །
@@ -216,7 +217,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Hơn nữa, nhờ ân đức của chư Đạo sư Jetsun mà vi diệu hiển lộ,
 Sự giảng thuyết các bộ Mật tục Thắng Lạc, Bí Mật Tập Hội và Thời Luân,
 Xoáy sâu về bên phải tựa như hồ lớn Manasarovar,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^17
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-17
 
 > རྩོད་དུས་ཐུབ་དབང་གཉིས་པ་མཁྱེན་བརྩེའི་དབང་། །
 > གསང་བའི་བདག་པོ་བློ་གཏེར་དབང་པོ་ཡི། །
@@ -226,7 +227,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Bậc Năng Nhân thứ hai của thời đấu tranh, ngài Khyentse Wangpo,
 Cùng bậc Bí Mật Chủ, ngài Loter Wangpo,
 Nhờ kho tàng Chánh pháp thâu nhiếp vô lượng giáo huấn của các ngài,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^18
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-18
 
 > སྙིགས་མའི་མཐར་ཡང་འཁོན་རིགས་རྡོ་རྗེ་འཛིན། །
 > བརྒྱུད་མར་བྱོན་པས་བོད་ཁམས་བདེ་ཞིང་སྐྱིད། །
@@ -236,7 +237,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Dù tận cùng thời mạt pháp, các bậc Kim Cang Trì dòng dõi Khon,
 Hiện tiền nối tiếp nhau, mang lại bình an và hạnh phúc cho cõi Tây Tạng,
 Nhờ sự thành tựu các trì minh chú của đức Kim Cang Đồng Tử,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^19
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-19
 
 > བདེ་དགྱེས་དུས་འཁོར་རྣལ་འབྱོར་མ་དཔལ་དང་། །
 > འཇམ་དཔལ་ཁྲོས་པ་མ་ཧེའི་ཞལ་ཅན་གྱི། །
@@ -246,7 +247,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Đức Thắng Lạc, Hỷ Kim Cang, Thời Luân, Du-già Thánh Nữ vinh quang,
 Cùng đức Văn Thù phẫn nộ diện mạo đầu trâu,
 Nhờ sự uy hùng của việc thành tựu kim cang tam-ma-địa,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^20
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-20
 
 > བསྟན་སྲུང་རྒྱ་མཚོའི་སྡེ་དཔོན་གུར་ཞལ་དང་། །
 > འདོད་ཁམས་བདག་མོ་གནོད་སྦྱིན་བེག་རྩེ་སོགས། །
@@ -256,7 +257,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Các bậc thống lĩnh hải hội Hộ pháp như Gur và Zhal,
 Chủ Tôn Dục giới, Dạ-xoa Begtse, cùng vô số chư Tôn khác,
 Cùng hội chúng kiêu hùng thệ nguyện của ba Mật tục,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^21
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-21
 
 > སྲིད་གསུམ་དབང་ཕྱུག་རྗེ་བཙུན་རིགས་བྱེད་མ། །
 > ལྷ་ཆེན་ཚོགས་བདག་འདོད་པའི་རྒྱལ་པོ་སོགས། །
@@ -266,7 +267,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Bậc Tự Tại Ba Cõi, Thánh nữ Kurukulla,
 Đại Thiên, Tượng Đầu Thần, Dục Vương, cùng vô số chư Tôn khác,
 Nhờ ánh sáng uy hùng rực rỡ của hải hội Kính ái Tôn,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^22
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-22
 
 > རྣམ་མང་ཐོས་སྲས་ཛཾ་ལྷ་རིགས་ལྔ་དང་། །
 > ནོར་རྒྱུན་མ་སོགས་བསོད་ནམས་རྒྱ་མཚོ་ཡི། །
@@ -276,7 +277,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Đức Đa Văn Thiên Vương, Năm Bộ Jambhala,
 Nữ Thần Vasudhara, cùng biển cả công đức vô biên,
 Nhờ cơn mưa mãn nguyện tuôn rơi từ áng mây bảo châu,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^23
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-23
 
 > བཅོམ་ལྡན་ཚེ་དཔག་མེད་དང་རྣམ་རྒྱལ་མ། །
 > རྗེ་བཙུན་སྒྲོལ་མ་ཡིད་བཞིན་འཁོར་ལོ་ཡིས། །
@@ -286,7 +287,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Đức Thế Tôn Vô Lượng Thọ và Tôn Thắng Phật Mẫu,
 Cùng Chí tôn Độ Mẫu Như Ý Luân,
 Nhờ toàn thắng oán địch là tử thần phi thời,
-Nguyện giáo pháp của chư Phật Tam Tộc bừng nở hưng thịnh! ^24
+Nguyện giáo pháp của chư Phật Tam Tộc bừng nở hưng thịnh! ^0-24
 
 > ལུགས་གཉིས་ཆབ་སྲིད་ནམ་མཁའི་དགུང་ལྟར་མཐོ། །
 > མདོ་སྔགས་བཤད་སྒྲུབ་ཉི་ཟླ་ལྟར་གསལ་ཞིང་། །
@@ -296,7 +297,7 @@ Nguyện giáo pháp của chư Phật Tam Tộc bừng nở hưng thịnh! ^24
 Sự nghiệp đạo đời vươn cao tựa vòm trời,
 Việc giảng tu Kinh Mật sáng tỏ tựa nhật nguyệt,
 Chư Tăng trì giữ giáo pháp rực rỡ tựa muôn vì tinh tú,
-Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^25
+Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dương! ^0-25
 
 > བསྟན་པ་དར་ཞིང་བསྟན་འཛིན་དབུ་འཕང་མཐོ། །
 > བསྟན་པའི་སྦྱིན་བདག་ཚེ་བསོད་དཔལ་འབྱོར་རྒྱས། །
@@ -306,7 +307,7 @@ Nguyện giáo pháp của chư Tôn Ba Phật Bộ hưng thịnh hoằng dươn
 Giáo pháp hưng thịnh, chư bậc trì pháp vị thế vươn cao,
 Thí chủ hộ pháp thọ mệnh, phước đức và tài lộc tăng trưởng,
 Mọi sự suy vi của thời hắc ám thảy đều tịch diệt,
-Nguyện thế gian ngập tràn an lạc, hạnh phúc và cát tường! ^26
+Nguyện thế gian ngập tràn an lạc, hạnh phúc và cát tường! ^0-26
 
 > དཀོན་མཆོག་རིན་ཆེན་གསུམ་གྱི་བདེན་པ་དང་། །
 > ཆོས་ཅན་ཆོས་ཉིད་རྒྱུ་འབྲས་བདེན་པའི་སྟོབས། །
@@ -316,8 +317,8 @@ Nguyện thế gian ngập tràn an lạc, hạnh phúc và cát tường! ^26
 Nhờ sự chân thật của đấng Tam Bảo tôn quý,
 Năng lực chân thật của các pháp, pháp tính và nhân quả,
 Cùng ý chí thanh tịnh của chúng con dâng lời phát nguyện,
-Nguyện thảy đều thành tựu, mọi nơi mọi lúc vạn sự cát tường! ^27
+Nguyện thảy đều thành tựu, mọi nơi mọi lúc vạn sự cát tường! ^0-27
 
 > ཅེས་པའང་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་པས་ཆུ་རྟ་སྨལ་པོ་ཟླ་བ་འཇམ་དབྱངས་བླ་མ་མངོན་པར་བྱང་ཆུབ་ཆེན་པོར་གཤེགས་པའི་ཚེས་བཅུ་བཞིའི་སྔ་དྲོའི་ཐུན་དང་པོ་ལ་གསོལ་བ་བཏབ་བཞིན་བྲིས་པས་རྟེན་འབྲེལ་མཆོག་ཏུ་དགེ་ཞིང་བཀྲ་ཤིས་པར་གྱུར་ཅིག །མངྒ་ལཾ།། །།
 
-Lời này được Jamyang Chokyi Lodro viết trong thời khóa buổi sáng ngày mười bốn tháng Smalpo năm Nhâm Ngọ, khi dâng lời cầu nguyện nhân ngày Đạo sư Văn Thù hiển lộ đại giác ngộ, nguyện duyên khởi này tối thắng thiện hảo và vô cùng cát tường! Mangalam! ^28
+Lời này được Jamyang Chokyi Lodro viết trong thời khóa buổi sáng ngày mười bốn tháng Smalpo năm Nhâm Ngọ, khi dâng lời cầu nguyện nhân ngày Đạo sư Văn Thù hiển lộ đại giác ngộ, nguyện duyên khởi này tối thắng thiện hảo và vô cùng cát tường! Mangalam! ^1-1-1

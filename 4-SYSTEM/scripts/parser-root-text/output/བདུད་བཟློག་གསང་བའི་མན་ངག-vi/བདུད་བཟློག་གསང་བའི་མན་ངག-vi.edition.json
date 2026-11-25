@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Kính lễ Đức Văn Thù, Đấng nhiếp phục ma oán.Nay tuyên thuyết khẩu quyết bí mật xua tan ma chướng.Bên ngoài, mọi hiển bày không thể tự chủ,Bên trong, những cơn sóng thế tục cuộn trào dâng.Trái ngược hoàn toàn với con đường của Pháp,Lang bạt vô định chính là dấu hiệu của ma.Thấu tỏ điều này, hãy tinh tấn xua tan.Nơi đỉnh đầu, hiện thân quy tụ của Tam Bảo,Hãy quán tưởng Đạo sư và Bổn tôn bất nhị.Tích luỹ công đức, cầu nguyện và hoà nhập tâm mình.Nơi luân xa tim, trên đĩa mặt trăng và chày kim cang,Những tia sáng của chủng tự và chân ngôn,Bùng cháy như lửa trí tuệ thiêu rụi thân mình.Quán tưởng tánh không, và từ trong trạng thái ấy,Hãy quán tưởng bản thân mình chính là Bổn tôn.Nhìn thế giới hiện hữu như một ảo ảnh,Với tâm Di Lặc bình đẳng hướng đến muôn loài,Dưới hình tướng những tia sáng trắng toả khắp muôn nơi,Hãy quán tưởng tất cả thọ hưởng đại lạc vô thượng.Tất thảy đều là diệu dụng tánh giác của tự tâm.Trong tánh giác bản lai hoàn toàn không tạo tác,Thoát ly giả lập, nhân duyên, biên kiến và trung đạo,Trong trạng thái tánh không quang minh, tươi mới và vô chấp,An trụ xa lìa mọi sự phủ nhận và khẳng định.Sẽ hoàn toàn chiến thắng mọi ma vương và chướng ngại,Và viên mãn những thành tựu chung và thù thắng.Samaya! Viết vào ngày mùng tám tháng mười một, trong một chuyến đi đến Dzongsar trước đây.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 44
+          },
+          {
+            "start": 44,
+            "end": 97
+          },
+          {
+            "start": 97,
+            "end": 138
+          },
+          {
+            "start": 138,
+            "end": 187
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 187,
+            "end": 231
+          },
+          {
+            "start": 231,
+            "end": 273
+          },
+          {
+            "start": 273,
+            "end": 312
+          },
+          {
+            "start": 312,
+            "end": 355
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 355,
+            "end": 396
+          },
+          {
+            "start": 396,
+            "end": 447
+          },
+          {
+            "start": 447,
+            "end": 500
+          },
+          {
+            "start": 500,
+            "end": 541
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 541,
+            "end": 587
+          },
+          {
+            "start": 587,
+            "end": 636
+          },
+          {
+            "start": 636,
+            "end": 682
+          },
+          {
+            "start": 682,
+            "end": 720
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 720,
+            "end": 765
+          },
+          {
+            "start": 765,
+            "end": 820
+          },
+          {
+            "start": 820,
+            "end": 870
+          },
+          {
+            "start": 870,
+            "end": 917
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 917,
+            "end": 965
+          },
+          {
+            "start": 965,
+            "end": 1018
+          },
+          {
+            "start": 1018,
+            "end": 1078
+          },
+          {
+            "start": 1078,
+            "end": 1122
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1122,
+            "end": 1175
+          },
+          {
+            "start": 1175,
+            "end": 1222
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1222,
+            "end": 1312
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

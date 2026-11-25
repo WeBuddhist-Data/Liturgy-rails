@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.md",
+  "validated_at": "2026-11-24T18:03:36.174059+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Name Mantra of Buddha Amitāyus"
+      },
+      {
+        "zh": "無量壽佛心咒"
+      },
+      {
+        "hi": "बुद्ध अमितायुष नाम मंत्र"
+      },
+      {
+        "ne": "बुद्ध अमितायुसको नाम मन्त्र"
+      },
+      {
+        "mn": "Аюуш бурхны алдар, зүрхэн тарни"
+      },
+      {
+        "vi": "Danh Chú Phật Vô Lượng Thọ"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

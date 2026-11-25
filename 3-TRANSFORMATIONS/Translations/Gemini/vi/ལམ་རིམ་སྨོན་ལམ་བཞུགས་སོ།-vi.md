@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: 3ApoForVhG5CwkKbZWnZ1
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Nhờ nỗ lực dài lâu tích lũy hai tư lương,
 Rộng lớn bao la tựa như cõi hư không,
 Độ thoát mọi chúng sinh tuệ nhãn mù vô minh,
-Nguyện con trở thành Đấng Tối Thắng Đạo Sư. ^1
+Nguyện con trở thành Đấng Tối Thắng Đạo Sư. ^0-1
 
 > དེར་མ་སོན་པའི་ཚེ་རབས་ཀུན་ཏུ་ཡང་། །
 > འཇམ་པའི་དབྱངས་ཀྱིས་བརྩེ་བས་རྗེས་བཟུང་སྟེ། །
@@ -64,7 +65,7 @@ Nguyện con trở thành Đấng Tối Thắng Đạo Sư. ^1
 Nguyện mọi đời kiếp chưa đạt đến quả vị,
 Được Đức Văn Thù rủ lòng thương nhiếp thọ,
 Tìm thấy Đạo thù thắng vẹn toàn giáo pháp,
-Tinh tấn hành trì làm hoan hỷ chư Phật. ^2
+Tinh tấn hành trì làm hoan hỷ chư Phật. ^0-2
 
 > རང་གིས་ཇི་བཞིན་རྟོགས་པའི་ལམ་གྱི་གནད།།
 > ཤུགས་དྲག་བརྩེ་བས་དྲངས་པའི་ཐབས་མཁས་ཀྱིས། །
@@ -74,7 +75,7 @@ Tinh tấn hành trì làm hoan hỷ chư Phật. ^2
 Tinh yếu đường tu đúng như con thực chứng,
 Dùng phương tiện thiện xảo với tâm đại bi,
 Xua tan bóng tối vô minh tâm chúng sinh,
-Nguyện giữ giáo pháp chư Phật mãi trường tồn. ^3
+Nguyện giữ giáo pháp chư Phật mãi trường tồn. ^0-3
 
 > བསྟན་པ་རིན་ཆེན་མཆོག་གིས་མ་ཁྱབ་པའམ། །
 > ཁྱབ་ཀྱང་ཉམས་པར་གྱུར་པའི་ཕྱོགས་དེར་ནི། །
@@ -84,7 +85,7 @@ Nguyện giữ giáo pháp chư Phật mãi trường tồn. ^3
 Nơi nào Chánh pháp tối thượng chưa chiếu rọi,
 Hoặc nơi Chánh pháp đã truyền nhưng suy tàn,
 Bằng tâm đại bi mãnh liệt luôn rung động,
-Nguyện con hiển lộ kho tàng lợi lạc này. ^4
+Nguyện con hiển lộ kho tàng lợi lạc này. ^0-4
 
 > སྲས་བཅས་རྒྱལ་བའི་རྨད་བྱུང་འཕྲིན་ལས་ལས། །
 > ལེགས་གྲུབ་བྱང་ཆུབ་ལམ་གྱི་རིམ་པས་ཀྱང་། །
@@ -94,7 +95,7 @@ Nguyện con hiển lộ kho tàng lợi lạc này. ^4
 Nhờ công hạnh vi diệu của Phật, Bồ Tát,
 Cùng các thứ lớp Đạo Bồ đề khéo thành tựu,
 Ban vinh diệu cho tâm người nguyện giải thoát,
-Nguyện giữ gìn Phật sự dài lâu muôn đời. ^5
+Nguyện giữ gìn Phật sự dài lâu muôn đời. ^0-5
 
 > ལམ་བཟང་བསྒྲིག་པའི་མཐུན་རྐྱེན་སྒྲུབ་བྱེད་ཅིང་། །
 > འགལ་རྐྱེན་སེལ་བྱེད་མི་དང་མི་མིན་ཀུན། །
@@ -104,7 +105,7 @@ Nguyện giữ gìn Phật sự dài lâu muôn đời. ^5
 Những ai tạo thuận duyên tu hành thiện đạo,
 Cùng người và phi nhân xua tan nghịch duyên,
 Nguyện trong mọi kiếp chẳng bao giờ xa rời,
-Con đường thanh tịnh được chư Phật tán dương. ^6
+Con đường thanh tịnh được chư Phật tán dương. ^0-6
 
 > གང་ཚེ་ཐེག་པ་མཆོག་ལ་ཆོས་སྤྱོད་བཅུས། །
 > ཚུལ་བཞིན་སྒྲུབ་ལ་བརྩོན་པ་དེ་ཡི་ཚེ། །
@@ -114,8 +115,8 @@ Con đường thanh tịnh được chư Phật tán dương. ^6
 Khi tinh tấn hành trì mười hạnh Đại Thừa,
 Và dũng mãnh tu tập đúng theo chánh pháp,
 Nguyện các đấng oai lực thường xuyên che chở,
-Nguyện đại dương kiết tường tỏa khắp mười phương. ^7
+Nguyện đại dương kiết tường tỏa khắp mười phương. ^0-7
 
 > ཅེས་པ་འདི་ནི་ྋརྗེ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའོ།། །།
 
-Bài nguyện này do Đức Tsongkhapa vĩ đại soạn thảo. ^8
+Bài nguyện này do Đức Tsongkhapa vĩ đại soạn thảo. ^1-1-1

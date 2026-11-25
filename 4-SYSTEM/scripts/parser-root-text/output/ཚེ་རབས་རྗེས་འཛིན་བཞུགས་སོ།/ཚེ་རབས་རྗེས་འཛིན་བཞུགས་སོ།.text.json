@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL8EBF486C7FFB",
+  "title": {
+    "bo": "ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ། །"
+  },
+  "alt_titles": [
+    {
+      "en": "A Prayer to Be Cared For Throughout All My Lives"
+    },
+    {
+      "zh": "生生世世攝受祈願文"
+    },
+    {
+      "hi": "हर जन्म में शरण पाने की प्रार्थना"
+    },
+    {
+      "ne": "जन्म-जन्मान्तरसम्म संरक्षणको प्रार्थना"
+    },
+    {
+      "mn": "Төрөл тутамд даган тэтгүүлэх ерөөл"
+    },
+    {
+      "vi": "Lời Nguyện Được Nhiếp Thọ Đời Đời Kiếp Kiếp"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1646"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

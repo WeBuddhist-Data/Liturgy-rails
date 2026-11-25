@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 10
 blocks_total: 10
 status: draft
+toc_id: 9w6oTLU0N32BebXdhASAK
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -48,7 +49,7 @@ status: draft
 Gurus and hosts of yidam deities, please turn your attention to me.
 Through the virtue accomplished here today with diligence,
 And all the merit accumulated throughout the three times or that inherently exists,
-I gather it all together and dedicate it toward unsurpassed, great enlightenment. ^1
+I gather it all together and dedicate it toward unsurpassed, great enlightenment. ^0-1
 
 > དེང་ནས་བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །
 > རིགས་བཟང་བློ་གསལ་ང་རྒྱལ་མེད་པ་དང་། །
@@ -58,7 +59,7 @@ I gather it all together and dedicate it toward unsurpassed, great enlightenment
 From now until I reach the essence of enlightenment,
 May I be of noble birth, clear-minded, and free from pride,
 Possess great compassion and devotion to the Guru,
-And remain firmly established in the glorious Vajrayana. ^2
+And remain firmly established in the glorious Vajrayana. ^0-2
 
 > དབང་གིས་སྨིན་ཅིང་དམ་ཚིག་སྡོམ་པར་ལྡན། །
 > རིམ་གཉིས་ལམ་ལ་བསྙེན་སྒྲུབ་མཐར་ཕྱིན་ཏེ། །
@@ -68,7 +69,7 @@ And remain firmly established in the glorious Vajrayana. ^2
 Matured by empowerment and possessing the vows of samaya,
 May I reach the completion of approach and accomplishment on the path of the two stages,
 Traverse the levels of the Vidyadharas without difficulty,
-And may the two types of accomplishments be effortlessly attained! ^3
+And may the two types of accomplishments be effortlessly attained! ^0-3
 
 > ཅིར་སྣང་སྒྱུ་འཕྲུལ་དྲྭ་བའི་འཁོར་ལོར་རྫོགས། །
 > གྲགས་པ་ཐམས་ཅད་བརྗོད་བྲལ་སྔགས་ཀྱི་སྒྲ། །
@@ -78,7 +79,7 @@ And may the two types of accomplishments be effortlessly attained! ^3
 May all that appears be perfected as the wheel of the Net of Magical Illusion,
 All that is heard as the inexpressible sound of mantra,
 And all movements of mind as uncompounded self-knowing awareness;
-May the great bliss that is without union or separation be realized! ^4
+May the great bliss that is without union or separation be realized! ^0-4
 
 > ཉམས་ཆགས་རྟོག་སྒྲིབ་མ་སྤངས་གནས་སུ་དག །
 > ཕྱི་ནང་གསང་བ་དབྱེར་མེད་རྟོགས་པས་སྐོངས། །
@@ -88,7 +89,7 @@ May the great bliss that is without union or separation be realized! ^4
 May impairments, breakages, and conceptual obscurations be purified into the basic space,
 May the mending be accomplished through the realization that outer, inner, and secret are inseparable,
 In the vast expanse of Samantabhadra, where whatever arises is self-liberated,
-May the depths of the lower realms be dredged, and existence and peace become equal! ^5
+May the depths of the lower realms be dredged, and existence and peace become equal! ^0-5
 
 > ཐིག་ལེ་ཆེན་པོར་སྐུ་དང་ཞིང་ཁམས་རྫོགས། །
 > དམ་ཚིག་ཆེན་པོར་སྤངས་བླང་མཚན་མ་དག །
@@ -98,7 +99,7 @@ May the depths of the lower realms be dredged, and existence and peace become eq
 Within the great bindu, the kayas and buddhafields are perfected.
 In the great samaya, the marks of rejection and acceptance are purified.
 In the great pervasiveness, the knots of hope and fear are released.
-In the Great Perfection, may the Dharmakaya be actualized! ^6
+In the Great Perfection, may the Dharmakaya be actualized! ^0-6
 
 > བརྒྱུད་པ་གསུམ་གྱི་བྱིན་བརླབས་སྙིང་ལ་ཞུགས། །
 > སྒྱུ་འཕྲུལ་དྲྭ་བའི་ལམ་གསང་སེམས་ལ་རྫོགས། །
@@ -108,7 +109,7 @@ In the Great Perfection, may the Dharmakaya be actualized! ^6
 May the blessings of the three lineages enter my heart,
 And the secret path of the Net of Magical Illusion be perfected in my mind.
 Through the spontaneous accomplishment of the four activities,
-May infinite sentient beings be liberated! ^7
+May infinite sentient beings be liberated! ^0-7
 
 > ཞི་ཁྲོ་སྤྲུལ་པའི་འཁོར་ལོས་ལུང་སྟོན་ཞིང་། །
 > མཁའ་འགྲོ་རྣམས་ཀྱི་བུ་བཞིན་སྐྱོང་བ་དང་། །
@@ -118,7 +119,7 @@ May infinite sentient beings be liberated! ^7
 May the mandalas of peaceful and wrathful emanations grant prophecies,
 May the dakinis care for us like their own children,
 And may the Dharma protectors and guardians dispel all obstacles,
-So that every single aspiration of the mind may be fulfilled! ^8
+So that every single aspiration of the mind may be fulfilled! ^0-8
 
 > རྒྱལ་བའི་བསྟན་པ་དར་ཞིང་རྒྱས་པ་དང་། །
 > བསྟན་འཛིན་རྣམས་ཀྱིས་བཞེད་པའི་དོན་ཀུན་འགྲུབ། །
@@ -128,8 +129,8 @@ So that every single aspiration of the mind may be fulfilled! ^8
 May the teachings of the Victorious One spread and flourish,
 May all the intentions of the holders of the teachings be accomplished,
 May every adverse condition for all living beings without exception be pacified,
-And may every perfection be acquired just as they desire! ^9
+And may every perfection be acquired just as they desire! ^0-9
 
 > ཅེས་པའང་རིག་པ་འཛིན་པ་འགྱུར་མེད་རྡོ་རྗེས་སོ། །
 
-This was written by the Vidyadhara 'Gyur-med rdo-rje. ^10
+This was written by the Vidyadhara 'Gyur-med rdo-rje. ^1-1-1

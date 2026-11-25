@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL68A5BB60159C",
+  "title": {
+    "bo": "དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས།"
+  },
+  "alt_titles": [
+    {
+      "en": "A Prayer to Kindle the Three Kinds of Faith Addressed to the Seventeen Great Paṇḍitas of Glorious Nālandā"
+    },
+    {
+      "zh": "那爛陀寺十七大班智達祈請文"
+    },
+    {
+      "hi": "नालंदा के सत्रह आचार्यों की वंदना"
+    },
+    {
+      "ne": "नालन्दाका सत्र पण्डितको प्रार्थना"
+    },
+    {
+      "mn": "Наландарын арван долоон бандидын залбирал"
+    },
+    {
+      "vi": "Bài Xưng Tán 17 Vị Học Giả Nalanda"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1649"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

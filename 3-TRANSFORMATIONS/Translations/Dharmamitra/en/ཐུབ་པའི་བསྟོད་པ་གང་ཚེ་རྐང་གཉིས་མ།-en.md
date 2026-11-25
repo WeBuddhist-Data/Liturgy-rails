@@ -30,6 +30,7 @@ generated: 2026-08-26
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: 9Nu7fe6xTaA8yPI8EIoKI
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -47,7 +48,7 @@ status: draft
 At the time you, the foremost of bipeds, were born,
 Upon this great earth you took seven steps,
 And proclaimed, "I am supreme in this world!"
-To you, the Wise One of that time, I prostrate. ^1
+To you, the Wise One of that time, I prostrate. ^0-1
 
 > དང་པོ་དགའ་ལྡན་ལྷ་ཡི་ཡུལ་ནས་བྱོན། །
 > རྒྱལ་པོའི་ཁབ་ཏུ་ཡུམ་གྱི་ལྷུམས་སུ་ཞུགས། །
@@ -57,7 +58,7 @@ To you, the Wise One of that time, I prostrate. ^1
 First, you descended from the celestial realm of Tuṣita,
 You entered your mother’s womb in the royal city,
 In the grove of Lumbinī, the Sage was born,
-To the Bhagavan, the God of gods, I prostrate. ^2
+To the Bhagavan, the God of gods, I prostrate. ^0-2
 
 > གཞལ་ཡས་ཁང་དུ་མ་མ་བརྒྱད་བཞིས་མཆོད། །
 > ཤཱཀྱའི་གྲོང་དུ་གཞོན་ནུས་རོལ་རྩེད་མཛད། །
@@ -67,7 +68,7 @@ To the Bhagavan, the God of gods, I prostrate. ^2
 In the celestial palace, you were attended by thirty-two nurses,
 In the city of the Śākyas, you engaged in youthful sports,
 In the city of Kapilavastu, you took Gopā as your consort,
-To your body, unequaled in the three realms, I prostrate. ^3
+To your body, unequaled in the three realms, I prostrate. ^0-3
 
 > གྲོང་ཁྱེར་སྒོ་བཞིར་སྐྱོ་བའི་ཚུལ་བསྟན་ནས། །
 > མཆོད་རྟེན་རྣམ་དག་དྲུང་དུ་དབུ་སྐྲ་བསིལ། །
@@ -77,7 +78,7 @@ To your body, unequaled in the three realms, I prostrate. ^3
 At the four city gates, you displayed the manner of weariness,
 Before the Viśuddha Stūpa, you cut your hair,
 On the banks of the Nairañjanā, you performed austerities,
-To you, free from the faults of the two obscurations, I prostrate. ^4
+To you, free from the faults of the two obscurations, I prostrate. ^0-4
 
 > རྒྱལ་པོའི་ཁབ་ཏུ་གླང་ཆེན་སྨྱོན་པ་བཏུལ། །
 > ཡངས་པ་ཅན་དུ་སྤྲེའུས་སྦྲང་རྩི་ཕུལ། །
@@ -87,7 +88,7 @@ To you, free from the faults of the two obscurations, I prostrate. ^4
 In Rājagṛha, you tamed the rogue elephant,
 In Vaiśālī, a monkey offered you honey,
 In Magadha, O Sage, you attained complete enlightenment,
-To you, in whom the primordial wisdom of omniscience blazes, I prostrate. ^5
+To you, in whom the primordial wisdom of omniscience blazes, I prostrate. ^0-5
 
 > ཝཱ་ར་ཎཱ་སིར་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར། །
 > ཛེ་ཏའི་ཚལ་དུ་ཆོ་འཕྲུལ་ཆེན་པོ་བསྟན། །
@@ -97,7 +98,7 @@ To you, in whom the primordial wisdom of omniscience blazes, I prostrate. ^5
 In Vārāṇasī, you turned the wheel of Dharma,
 In Jeta’s Grove, you displayed great miracles,
 In the town of Kuśīnagara, you passed into nirvāṇa,
-To your mind, which is like the sky, I prostrate. ^6
+To your mind, which is like the sky, I prostrate. ^0-6
 
 > འདི་ལྟར་བསྟན་པའི་བདག་པོ་བཅོམ་ལྡན་འདས། །
 > མཛད་པའི་ཚུལ་ལ་མདོ་ཙམ་བསྟོད་པ་ཡི། །
@@ -107,8 +108,8 @@ To your mind, which is like the sky, I prostrate. ^6
 Thus, by the merit of this brief praise,
 Of the manner of the deeds of the Bhagavan, Master of the Teachings,
 May the conduct of all wandering beings
-Become equal to the deeds of the Sugata himself. ^7
+Become equal to the deeds of the Sugata himself. ^0-7
 
 > ཅེས་པ་འདི་སློབ་དཔོན་དཔའ་བོས་མཛད་པའོ། །
 
-This was composed by the master Āryaśūra. ^8
+This was composed by the master Āryaśūra. ^1-1-1

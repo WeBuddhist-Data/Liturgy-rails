@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "At the time you, the foremost of bipeds, were born,Upon this great earth you took seven steps,And proclaimed, \"I am supreme in this world!\"To you, the Wise One of that time, I prostrate.First, you descended from the celestial realm of Tuṣita,You entered your mother’s womb in the royal city,In the grove of Lumbinī, the Sage was born,To the Bhagavan, the God of gods, I prostrate.In the celestial palace, you were attended by thirty-two nurses,In the city of the Śākyas, you engaged in youthful sports,In the city of Kapilavastu, you took Gopā as your consort,To your body, unequaled in the three realms, I prostrate.At the four city gates, you displayed the manner of weariness,Before the Viśuddha Stūpa, you cut your hair,On the banks of the Nairañjanā, you performed austerities,To you, free from the faults of the two obscurations, I prostrate.In Rājagṛha, you tamed the rogue elephant,In Vaiśālī, a monkey offered you honey,In Magadha, O Sage, you attained complete enlightenment,To you, in whom the primordial wisdom of omniscience blazes, I prostrate.In Vārāṇasī, you turned the wheel of Dharma,In Jeta’s Grove, you displayed great miracles,In the town of Kuśīnagara, you passed into nirvāṇa,To your mind, which is like the sky, I prostrate.Thus, by the merit of this brief praise,Of the manner of the deeds of the Bhagavan, Master of the Teachings,May the conduct of all wandering beingsBecome equal to the deeds of the Sugata himself.This was composed by the master Āryaśūra.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 51
+          },
+          {
+            "start": 51,
+            "end": 94
+          },
+          {
+            "start": 94,
+            "end": 139
+          },
+          {
+            "start": 139,
+            "end": 186
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 186,
+            "end": 242
+          },
+          {
+            "start": 242,
+            "end": 291
+          },
+          {
+            "start": 291,
+            "end": 334
+          },
+          {
+            "start": 334,
+            "end": 380
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 380,
+            "end": 444
+          },
+          {
+            "start": 444,
+            "end": 502
+          },
+          {
+            "start": 502,
+            "end": 560
+          },
+          {
+            "start": 560,
+            "end": 617
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 617,
+            "end": 679
+          },
+          {
+            "start": 679,
+            "end": 724
+          },
+          {
+            "start": 724,
+            "end": 782
+          },
+          {
+            "start": 782,
+            "end": 848
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 848,
+            "end": 890
+          },
+          {
+            "start": 890,
+            "end": 929
+          },
+          {
+            "start": 929,
+            "end": 985
+          },
+          {
+            "start": 985,
+            "end": 1058
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 1058,
+            "end": 1102
+          },
+          {
+            "start": 1102,
+            "end": 1148
+          },
+          {
+            "start": 1148,
+            "end": 1199
+          },
+          {
+            "start": 1199,
+            "end": 1248
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1248,
+            "end": 1288
+          },
+          {
+            "start": 1288,
+            "end": 1356
+          },
+          {
+            "start": 1356,
+            "end": 1395
+          },
+          {
+            "start": 1395,
+            "end": 1443
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1443,
+            "end": 1484
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

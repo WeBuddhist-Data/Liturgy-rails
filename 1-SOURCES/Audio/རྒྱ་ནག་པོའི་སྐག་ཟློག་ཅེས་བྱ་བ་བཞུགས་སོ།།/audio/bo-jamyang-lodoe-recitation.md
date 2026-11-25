@@ -12,7 +12,7 @@ root_text_title: "རྒྱ་ནག་པོའི་སྐག་ཟློག�
 source_description: "Single recording of the recitation of The 'Chinese' Practice of Averting Periodic Obstacles by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-03 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-03
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།.m4a"
+audio_file: "1-SOURCES/Audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།/audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།.m4a"
 accompaniment: false
 duration: "00:14:48.26"
 duration_seconds: 888.26
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 14379736
-sha256: 16bcd814b5aae1ce0bee60e2e3f112c8c9f45ff4d2794c82447f01765d1d608c
-converted_from:
-  audio_file: "1-SOURCES/Audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3072
-  file_size_bytes: 341124608
-  sha256: 630a6ce95749909fba48e723509b7ba00e1d7f97015d79f4ab72eb58347a155e
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: e02cb44ebaa39243b1296ef44551bceb925e744243bdba53e22c69b470c67b9a
 recording_time: "17:58:24"
 scene: "030224-175824"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/རྒྱ་ནག་པོའ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།/audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།.WAV]]
+![[1-SOURCES/Audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།/audio/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།.m4a]]
 
 ## Mapping
 

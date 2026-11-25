@@ -12,7 +12,7 @@ root_text_title: "རྒྱན་དྲུག་མཆོག་གཉིས་�
 source_description: "Single recording of the recitation of In Praise of the Six Ornaments and Two Supreme Ones by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-04 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-04
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།.m4a"
+audio_file: "1-SOURCES/Audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།/audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།.m4a"
 accompaniment: false
 duration: "00:04:19.03"
 duration_seconds: 259.036
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 4194340
-sha256: b3b3fc1b53afd7e77b8ada934372c61e9e3dabeedca7bf2f36d96db5d4586f82
-converted_from:
-  audio_file: "1-SOURCES/Audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3073
-  file_size_bytes: 99502592
-  sha256: 2d0f1ca73362e54c70245bbfb8d3e05acacabdf7e803c0e4f59a43769053c216
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 9f4a815bd36c394069c6b625aa51fed2a6269fed856d9c899085a1a6a308373e
 recording_time: "05:10:39"
 scene: "040224-051039"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/རྒྱན་དྲུག་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།/audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།.WAV]]
+![[1-SOURCES/Audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།/audio/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།.m4a]]
 
 ## Mapping
 

@@ -12,7 +12,7 @@ root_text_title: "རི་བོ་བསངས་མཆོད་བཞུག�
 source_description: "Single recording of the recitation of Mountain Smoke Offering by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/རི་བོ་བསངས་མཆོད་བཞུགས་སོ།/རི་བོ་བསང་མཆོད་བཞུགས་སོ།.m4a"
+audio_file: "1-SOURCES/Audio/རི་བོ་བསངས་མཆོད་བཞུགས་སོ།/audio/རི་བོ་བསང་མཆོད་བཞུགས་སོ།.m4a"
 accompaniment: false
 duration: "00:06:41.51"
 duration_seconds: 401.516
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 6500610
-sha256: 92875ce19c0b2a22758018ebcafe088a268e9cd01d62f1e643cd081ca0b1c098
-converted_from:
-  audio_file: "1-SOURCES/Audio/རི་བོ་བསངས་མཆོད་བཞུགས་སོ།/རི་བོ་བསང་མཆོད་བཞུགས་སོ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3073
-  file_size_bytes: 154214912
-  sha256: 4bfc5c72a07aa865e5b02d11f606327c1bf55ce207bb38d44bffa4ff22fc2a28
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 7d80efe2b94fd1eeade01bced9f37da3891548252b188775a4cd9d2c35cb7db7
 recording_time: "16:51:24"
 scene: "050224-165124"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/རི་བོ་བསངས�
 
 ## Recitation
 
-![[1-SOURCES/Audio/རི་བོ་བསངས་མཆོད་བཞུགས་སོ།/audio/རི་བོ་བསང་མཆོད་བཞུགས་སོ།.WAV]]
+![[1-SOURCES/Audio/རི་བོ་བསངས་མཆོད་བཞུགས་སོ།/audio/རི་བོ་བསང་མཆོད་བཞུགས་སོ།.m4a]]
 
 ## Mapping
 

@@ -12,7 +12,7 @@ root_text_title: "བོད་སྐྱོང་ལྷ་སྲུང་གི�
 source_description: "Single recording of the recitation of Exhorting the Protectors of Tibet by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-28 (from the BWF tags embedded in the file)."
 recording_date: 2024-01-28
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།.m4a"
+audio_file: "1-SOURCES/Audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།/audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།.m4a"
 accompaniment: false
 duration: "00:02:45.63"
 duration_seconds: 165.635
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 2682260
-sha256: 863fda85c208840851e54e3411d00bee00b58ef25ecc50496ec19ff354dd346c
-converted_from:
-  audio_file: "1-SOURCES/Audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3074
-  file_size_bytes: 63636480
-  sha256: 6273eba4bae4e73af13ca5cd173adf63c4faecb3814922c0bd277a533987bc77
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 247b694d13de76e5313769b115ac77e8863b02f12e568538b22455dae67744dd
 recording_time: "03:02:30"
 scene: "280124-030230"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/བོད་སྐྱོང་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།/audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།.WAV]]
+![[1-SOURCES/Audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།/audio/བོད་སྐྱོང་ལྷ་སྲུང་གི་འཕྲིན་བསྐུལ།.m4a]]
 
 ## Mapping
 

@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 5
 blocks_total: 5
 status: draft
+toc_id: 5Uxxzigu77crm97Q8zR4G
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -56,7 +57,7 @@ Emaho!
 Đức Phật A Di Đà vô cùng vi diệu,
 Bên phải là Đức Đại Bi Quán Thế Âm,
 Bên trái là Bồ Tát Đại Thế Chí,
-Vô lượng quyến thuộc Phật, Bồ Tát bao quanh. ^1
+Vô lượng quyến thuộc Phật, Bồ Tát bao quanh. ^0-1
 
 > བདེ་སྐྱིད་ངོ་མཚར་དཔག་ཏུ་མེད་པ་ཡི༔
 > བདེ་བ་ཅན་ཞེས་བྱ་བའི་ཞིང་ཁམས་དེར༔
@@ -66,7 +67,7 @@ Vô lượng quyến thuộc Phật, Bồ Tát bao quanh. ^1
 Niềm an lạc vi diệu không thể nghĩ bàn,
 Nơi cõi Tịnh độ mang tên là Cực Lạc,
 Ngay khi con và chúng sinh xả báo thân,
-Không bị gián đoạn bởi một kiếp sống nào, ^2
+Không bị gián đoạn bởi một kiếp sống nào, ^0-2
 
 > དེ་རུ་སྐྱེས་ནས་སྣང་མཐའི་ཞལ་མཐོང་ཤོག༔
 > དེ་སྐད་བདག་གིས་སྨོན་ལམ་བཏབ་པ་འདི༔
@@ -76,12 +77,12 @@ Không bị gián đoạn bởi một kiếp sống nào, ^2
 Nguyện vãng sinh chiêm bái tôn nhan Di Đà!
 Những lời phát nguyện con dâng lên tại đây,
 Cúi mong chư Phật, Bồ Tát khắp mười phương,
-Ban gia trì viên thành không chút chướng ngại. ^3
+Ban gia trì viên thành không chút chướng ngại. ^0-3
 
 > ཏདྱ་ཐཱ༔ པཉྩ་དྲི་ཡ་ཨ་ཝ་བོ་དྷ་ནི་སྭཱ་ཧཱ།
 
-Tadyatha Pancadriya Avabodhani Svaha ^4
+Tadyatha Pancadriya Avabodhani Svaha ^0-4
 
 > ཞེས་པ་འདི་ནི་སྤྲུལ་སྐུ་མི་འགྱུར་རྡོ་རྗེ་དགུང་ལོ་བཅུ་གསུམ་གསེར་འཕྱང་གི་ལོ་ས་ག་ཟླ་བའི་ཚེས་བདུན་ལ་གཙོ་འཁོར་རྣམས་ཀྱིས་ཞལ་གཟིགས་པའི་ཚེ་སངས་རྒྱས་སྣང་བ་མཐའ་ཡས་ཀྱིས་དངོས་སུ་གསུངས་པའོ། །
 
-Bài cầu nguyện này được chính Đức Phật A Di Đà đích thân tuyên thuyết cho Đạo sư hóa thân Mingyur Dorje vào năm mười ba tuổi, ngày mùng bảy tháng Saga Dawa năm Hỏa Dậu, khi ngài diện kiến Tôn chủ cùng quyến thuộc. ^5
+Bài cầu nguyện này được chính Đức Phật A Di Đà đích thân tuyên thuyết cho Đạo sư hóa thân Mingyur Dorje vào năm mười ba tuổi, ngày mùng bảy tháng Saga Dawa năm Hỏa Dậu, khi ngài diện kiến Tôn chủ cùng quyến thuộc. ^1-1

@@ -12,7 +12,7 @@ root_text_title: "སྨོན་ལམ་རྡོ་རྗེའི་རྒ�
 source_description: "Single recording of the recitation of The Secret Vajra Knot by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-08 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-08
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།/སྨོལ་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.m4a"
+audio_file: "1-SOURCES/Audio/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།/audio/སྨོལ་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.m4a"
 accompaniment: false
 duration: "00:04:16.43"
 duration_seconds: 256.437
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 4152246
-sha256: d56b9542afda81701480fba1abf5eac9b2a92b44dc7ce7da1ffea205a8149c36
-converted_from:
-  audio_file: "1-SOURCES/Audio/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།/སྨོལ་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3073
-  file_size_bytes: 98504704
-  sha256: 872370fb236ca3a758b0961990371ab10ceabe2413b5bb31f3bd86fb24ac9b42
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 284569247d5dff08c02bc4ab35abcf578fe3d5e5786f1bd2f6d042e52ea0bfcb
 recording_time: "17:05:08"
 scene: "080224-170508"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/སྨོན་ལམ་རྡ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།/audio/སྨོལ་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.WAV]]
+![[1-SOURCES/Audio/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།/audio/སྨོལ་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.m4a]]
 
 ## Mapping
 

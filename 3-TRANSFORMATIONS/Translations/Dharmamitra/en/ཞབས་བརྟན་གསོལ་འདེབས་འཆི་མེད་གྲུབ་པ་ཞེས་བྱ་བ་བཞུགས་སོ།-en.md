@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 15
 blocks_total: 15
 status: draft
+toc_id: qNNWkCeHxvn5QcYeNO28I
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -48,7 +49,7 @@ status: draft
 The body of the nature of supreme wisdom, free from obscurations,
 The sixty-branched melody, perfectly attuned to the minds of beings,
 The mind that pacifies all dualistic appearance and illuminates all phenomena,
-To the All-Seeing Lord of Victors, I offer respectful homage. ^1
+To the All-Seeing Lord of Victors, I offer respectful homage. ^0-1
 
 > མཐའ་ཀླས་བདེ་གཤེགས་གསུང་གི་གསང་བའི་མཛོད། །
 > སོ་སོར་ཀུན་རྟོག་ཡེ་ཤེས་སྒྱུ་མའི་འཕྲུལ། །
@@ -58,7 +59,7 @@ To the All-Seeing Lord of Victors, I offer respectful homage. ^1
 The secret treasury of the infinite Sugata’s speech,
 The magical display of discriminating wisdom,
 The dance of Amitābha’s compassion,
-To you, I prostrate with unwavering, heartfelt faith. ^2
+To you, I prostrate with unwavering, heartfelt faith. ^0-2
 
 > བློ་བཟང་རྒྱལ་བའི་དབང་པོ་ཙོང་ཁ་པའི།།
 > རྣམ་དཀར་འཕྲིན་ལས་ལྷུན་གྲུབ་ཆོས་ཀྱི་རྗེ། །
@@ -68,7 +69,7 @@ To you, I prostrate with unwavering, heartfelt faith. ^2
 To the Lord of Victors, Lobsang, the one called Tsongkhapa,
 Lord of Dharma whose virtuous activities are spontaneously accomplished,
 Glory who holds the banner of the Sūtra and Mantra teachings,
-At the feet of the supreme, holy refuge, I offer constant homage. ^3
+At the feet of the supreme, holy refuge, I offer constant homage. ^0-3
 
 > མཁའ་ཁྱབ་འགྲོ་ལ་དམིགས་མེད་སྙིང་རྗེ་ཡིས། །
 > ཞི་བདེ་འདོད་པའི་འཆིང་བ་གཏན་སྤངས་ནས། །
@@ -78,7 +79,7 @@ At the feet of the supreme, holy refuge, I offer constant homage. ^3
 With non-referential compassion for beings filling space,
 Having forever abandoned the bonds of desiring peace and ease,
 The thousand moon-like reflections of your form-body arise to tame as needed,
-I revere this way in which you play upon the ocean of pure minds. ^4
+I revere this way in which you play upon the ocean of pure minds. ^0-4
 
 > མགོན་ཁྱོད་དཔག་མེད་བསྐལ་པའི་སྔོན་རོལ་ནས། །
 > གཙང་བདེ་རྟག་བདག་དམ་པའི་ཕ་རོལ་ཏུ། །
@@ -88,7 +89,7 @@ I revere this way in which you play upon the ocean of pure minds. ^4
 O Protector, though you reached the beyond of the holy,
 Of purity, bliss, permanence, and self, countless eons ago,
 Because your mind is bound to beings by compassion,
-Your display of forms to tame them is beyond all thought. ^5
+Your display of forms to tame them is beyond all thought. ^0-5
 
 > བེེཌཱུར་ས་གཞིར་ལྷ་དབང་གཟུགས་བརྙན་བཞིན། །
 > དད་སོགས་དྲི་མེད་ཡོན་ཏན་གོམས་པ་ལས། །
@@ -98,7 +99,7 @@ Your display of forms to tame them is beyond all thought. ^5
 Like a reflection of the King of Gods upon a ground of lapis lazuli,
 From familiarization with stainless qualities such as faith,
 Your form, qualities, activities, and so forth, to tame as needed,
-Appear just as the capacity of the trainees allows; thus I have faith. ^6
+Appear just as the capacity of the trainees allows; thus I have faith. ^0-6
 
 > འབད་བརྩོན་བྲལ་ཡང་ལྷ་ཡི་རྔ་བཞིན་དུ། །
 > འཆད་རྩོད་རྩོམ་པའི་ལེགས་བཤད་སྒྲ་དབྱངས་ཀྱིས། །
@@ -108,7 +109,7 @@ Appear just as the capacity of the trainees allows; thus I have faith. ^6
 Though free from effort, like a celestial drum,
 With the melodies of elegant explanations of teaching, debating, and composing,
 You possess the power to destroy the epidemic of ignorance in the minds of beings;
-I bow to you who cause the festival of benefit and bliss to bloom. ^7
+I bow to you who cause the festival of benefit and bliss to bloom. ^0-7
 
 > རང་བཞིན་གྱིས་དག་ཉོན་མོངས་བག་ཆགས་ཟད། །
 > གཉིས་སྣང་སྤྲོས་པ་ཉེ་བར་ཞི་བས་ཁྱབ། །
@@ -118,7 +119,7 @@ I bow to you who cause the festival of benefit and bliss to bloom. ^7
 Naturally pure, the habitual tendencies of afflictions are exhausted,
 You are pervaded by the utter pacification of dualistic conceptual elaboration,
 Through the wisdom that perceives the equality of saṃsāra and nirvāṇa,
-Your non-conceptual activity appears all at once, day after day. ^8
+Your non-conceptual activity appears all at once, day after day. ^0-8
 
 > དེ་སླད་གསང་གསུམ་མི་ཟད་རྒྱན་གྱི་མཛོད། །
 > མཚན་དཔེའི་ལང་ཚོར་སྨིན་པའི་བཅོམ་ལྡན་འདས། །
@@ -128,7 +129,7 @@ Your non-conceptual activity appears all at once, day after day. ^8
 Therefore, O Blessed One, treasury of inexhaustible ornaments of the three secrets,
 Matured in the youthful vigor of the major and minor marks,
 Like the Protector of the Akanistha realm endowed with the five certainties,
-May you remain unwavering even until the end of the aeon. ^9
+May you remain unwavering even until the end of the aeon. ^0-9
 
 > མཐའ་ཀླས་ཞིང་གི་སྲས་བཅས་རྒྱལ་རྣམས་ཀྱི། །
 > བྱིན་རླབས་འཆི་མེད་གྲུབ་པའི་བདུད་རྩི་ཡིས། །
@@ -138,7 +139,7 @@ May you remain unwavering even until the end of the aeon. ^9
 By the nectar of the immortality attained through the blessings
 Of the Victors and their Sons throughout infinite realms,
 I pray that you, O Protector, remain firm upon the indestructible vajra throne,
-Established in the nature of the unchanging, eternal swastika. ^10
+Established in the nature of the unchanging, eternal swastika. ^0-10
 
 > སྟེང་ཕྱོགས་ཡོན་ཏན་བཀོད་པའི་འཇིག་རྟེན་གཙོ། །
 > ཚེ་དང་ཡེ་ཤེས་དཔག་མེད་སྣང་བའི་མཛོད། །
@@ -148,7 +149,7 @@ Established in the nature of the unchanging, eternal swastika. ^10
 Lord of the world, adorned with qualities of the upward direction,
 Treasury of the appearance of immeasurable life and wisdom,
 May your enlightened activity, which engages exactly as you intend,
-Never be divided by any separate or distinct action. ^11
+Never be divided by any separate or distinct action. ^0-11
 
 > རིང་ནས་བསྟན་འགྲོར་སྨན་པའི་ཐུགས་བསྐྱེད་ཀྱིས། །
 > བཞེད་དགུ་མ་ལུས་ལྷུན་གྱིས་འགྲུབ་པ་དང་། །
@@ -158,7 +159,7 @@ Never be divided by any separate or distinct action. ^11
 By the bodhicitta that has long benefited the teachings and beings,
 May all your aspirations be spontaneously fulfilled without exception,
 And just as you have intended in your heart,
-May it always be bestowed upon all sentient beings as well. ^12
+May it always be bestowed upon all sentient beings as well. ^0-12
 
 > རྒྱལ་ཀུན་འཕྲིན་ལས་ཕུང་པོ་གཅིག་བསྡུས་པ།  །
 > བཅོམ་ལྡན་ཏཱ་རེ་འཕགས་མའི་བྱིན་རླབས་ཀྱིས། །
@@ -168,7 +169,7 @@ May it always be bestowed upon all sentient beings as well. ^12
 By the blessings of the Blessed Noble Tāre,
 Who is the single embodiment of the enlightened activity of all the Victors,
 May all the excellence of both spiritual and temporal life,
-Be accomplished easily and without any hindrance. ^13
+Be accomplished easily and without any hindrance. ^0-13
 
 > གང་གི་སྐྱེ་བའི་འཕྲེང་བ་རིམ་བྱོན་གྱི། །
 > རྨད་བྱུང་རྣམ་ཐར་གཙང་མའི་བདེན་བྱིན་དང་། །
@@ -178,8 +179,8 @@ Be accomplished easily and without any hindrance. ^13
 By the truthful blessings of your pure and wondrous life stories,
 Which have come in a successive garland of births,
 And by the power of the infallible Guru, Yidam, and the Three Jewels,
-May the objects of these aspirations be fulfilled just as desired. ^14
+May the objects of these aspirations be fulfilled just as desired. ^0-14
 
 > ཅེས་རིགས་དང་དཀྱིལ་འཁོར་ཀུན་གྱི་ཁྱབ་བདག་རྡོ་རྗེ་སེམས་དཔའ་པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པའི་ཡང་སྤྲུལ༧བློ་བཟང་འཕྲིན་ལས་ལྷུན་གྲུབ་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་ཞབས་པད་རིང་དུ་བརྟན་ཅིང་བཞེད་དོན་གེགས་མེད་བདེ་བླག་ཏུ་འགྲུབ་པའི་གསོལ་འདེབས་སྨོན་ཚིག་འདི་ལྟ་བུ་ཞིག་དགོས་ཞེས༧གང་གི་འཕྲིན་ལས་ཀྱི་ཞབས་འདེགས་པ་ནང་སྒང་སྐུ་ངོ་ལྷན་རྒྱས་ནས་དངོས་སྐྱེས་དང་བཅས་བསྐུལ་པ་དང་། རང་གིས་ཀྱང་དད་མོས་ཀྱིས་མཚམས་སྦྱར་ཏེ། སྙོམས་ལས་པ་འཇིགས་མེད་འཕྲིན་ལས་རྒྱ་མཚོས་སྟོད་འགྲེལ་ལྟར་ན། ཉི་སྒྲོལ་བྱེད་ཅེས་པ་ཤིང་སྤྲེལ་ནག་ཟླའི་ཡར་གྱི་ཚེས་གཅིག་ལ་རང་སྤྱིལ་དམ་ཆོས་དགའ་ཚལ་ནས་གུས་པས་གསོལ་བ་བཏབས་པའོ། །
 
-Thus, at the request of the officials of the Nanggang, who serve his enlightened activities, accompanied by offerings, that a prayer and aspiration be composed for the long life of the Lord of all Families and Mandalas, the Vajrasattva, the reincarnation of the omniscient Paṇchen, Blo-bzang-'phrin-las-lhun-grub-chos-kyi-rgyal-mtshan-dpal-bzang-po, that his lotus feet may remain firm for a long time and his aspirations be fulfilled easily and without hindrance; and having been prompted by my own faith and devotion, I, the idle one 'Jigs-med-'phrin-las-rgya-mtsho, in accordance with the commentary on the "Sun-Liberator," offered this prayer with reverence from my own hermitage, Dam-chos-dga'-tshal, on the first day of the waxing moon of the month of the Wood Monkey. ^15
+Thus, at the request of the officials of the Nanggang, who serve his enlightened activities, accompanied by offerings, that a prayer and aspiration be composed for the long life of the Lord of all Families and Mandalas, the Vajrasattva, the reincarnation of the omniscient Paṇchen, Blo-bzang-'phrin-las-lhun-grub-chos-kyi-rgyal-mtshan-dpal-bzang-po, that his lotus feet may remain firm for a long time and his aspirations be fulfilled easily and without hindrance; and having been prompted by my own faith and devotion, I, the idle one 'Jigs-med-'phrin-las-rgya-mtsho, in accordance with the commentary on the "Sun-Liberator," offered this prayer with reverence from my own hermitage, Dam-chos-dga'-tshal, on the first day of the waxing moon of the month of the Wood Monkey. ^1-1-1

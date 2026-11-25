@@ -12,7 +12,7 @@ root_text_title: "སློབ་དཔོན་རིན་པོ་ཆེའ�
 source_description: "Single recording of the recitation of The Name Mantra of the Precious Master by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-08 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-08
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།.m4a"
+audio_file: "1-SOURCES/Audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།.m4a"
 accompaniment: false
 duration: "00:01:15.71"
 duration_seconds: 75.719
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 1226942
-sha256: acc192ec719e62dd48337f65e6489e8db4bef68dd64fab458c73fc5ffd48d87a
-converted_from:
-  audio_file: "1-SOURCES/Audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3075
-  file_size_bytes: 29108736
-  sha256: d4c05ae4580577af850b56007f475cf617d8f76726819940e7e4c5002cbaa602
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 19cb7e2ee1b9f4d2bd1639f3514fbc83e20f1a909a11d78a982bd5f388358643
 recording_time: "17:35:00"
 scene: "080224-173500"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/སློབ་དཔོན་�
 
 ## Recitation
 
-![[1-SOURCES/Audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།.WAV]]
+![[1-SOURCES/Audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།.m4a]]
 
 ## Mapping
 

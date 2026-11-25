@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 10
 blocks_total: 10
 status: draft
+toc_id: 4l1GtRVZlOc6irLjpMIf2
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -40,7 +41,7 @@ status: draft
 
 > ༄༅། །བློ་སྦྱོང་ཚིག་བརྒྱད་མ།
 
-Eight Verses of Training the Mind ^1
+Eight Verses of Training the Mind ^0-1
 
 > བདག་ནི་སེམས་ཅན་ཐམས་ཅད་ལ། །
 > ཡིད་བཞིན་ནོར་བུ་ལས་ལྷག་པའི། །
@@ -50,7 +51,7 @@ Eight Verses of Training the Mind ^1
 May I always hold all sentient beings dear,
 With the intention to accomplish the supreme goal,
 Which is more precious than a wish-fulfilling jewel,
-For all sentient beings. ^2
+For all sentient beings. ^0-2
 
 > གང་དུ་སུ་དང་འགྲོགས་པའི་ཚེ། །
 > བདག་ཉིད་ཀུན་ལས་དམན་བལྟ་ཞིང་། །
@@ -60,7 +61,7 @@ For all sentient beings. ^2
 Whenever I associate with anyone,
 May I view myself as the lowest of all,
 And from the depths of my heart,
-May I hold others as supreme and most dear. ^3
+May I hold others as supreme and most dear. ^0-3
 
 > སྤྱོད་ལམ་ཀུན་ཏུ་རང་རྒྱུད་ལ། །
 > རྟོག་ཅིང་ཉོན་མོངས་སྐྱེས་མ་ཐག །
@@ -70,7 +71,7 @@ May I hold others as supreme and most dear. ^3
 In all my actions, may I examine my own mind,
 And the moment an affliction arises—
 Since it harms both myself and others—
-May I forcefully confront and avert it. ^4
+May I forcefully confront and avert it. ^0-4
 
 > རང་བཞིན་ངན་པའི་སེམས་ཅན་དང་། །
 > སྡིག་སྡུག་དྲག་པོས་ནོན་མཐོང་ཚེ། །
@@ -80,7 +81,7 @@ May I forcefully confront and avert it. ^4
 When I see beings of a wicked nature,
 Oppressed by intense negativity and suffering,
 May I cherish them as if I had found a precious treasure,
-For they are so difficult to find. ^5
+For they are so difficult to find. ^0-5
 
 > བདག་ལ་གཞན་གྱི་ཕྲག་དོག་གིས། །
 > གཤེ་སྐུར་ལ་སོགས་མི་རིགས་པའི། །
@@ -90,7 +91,7 @@ For they are so difficult to find. ^5
 When others, out of jealousy,
 Treat me unjustly with abuse, slander, and the like,
 May I accept the defeat myself,
-And offer the victory to others. ^6
+And offer the victory to others. ^0-6
 
 > གང་ལ་བདག་གིས་ཕན་བཏགས་པའི། །
 > རེ་བ་ཆེ་བ་གང་ཞིག་གིས། །
@@ -100,7 +101,7 @@ And offer the victory to others. ^6
 Even if someone whom I have helped,
 And in whom I have placed great hope,
 Should harm me in an extremely unjust manner,
-May I see them as a sublime spiritual teacher. ^7
+May I see them as a sublime spiritual teacher. ^0-7
 
 > མདོར་ན་དངོས་སམ་བརྒྱུད་པ་ཡིས། །
 > ཕན་བདེ་མ་ལུས་ཀུན་ལ་འབུལ། །
@@ -110,7 +111,7 @@ May I see them as a sublime spiritual teacher. ^7
 In short, may I offer all benefit and happiness
 To all mothers, both directly and indirectly;
 And may I secretly take upon myself
-All the harm and suffering of my mothers. ^8
+All the harm and suffering of my mothers. ^0-8
 
 > དེ་དག་ཀུན་ཀྱང་ཆོས་བརྒྱད་ཀྱི། །
 > རྟོག་པའི་དྲི་མས་མ་སྦགས་ཤིང་། །
@@ -120,8 +121,8 @@ All the harm and suffering of my mothers. ^8
 May all these practices be unstained
 By the impurities of the eight worldly concerns,
 And through the mind that realizes all phenomena are like an illusion,
-May I be liberated from the bonds of attachment. ^9
+May I be liberated from the bonds of attachment. ^0-9
 
 > བཀའ་གདམས་པའི་དགེ་བཤེས་གླང་རི་ཐང་པ་རྡོ་རྗེ་སེང་གེས་མཛད་པའོ།། ། །
 
-Composed by the Kadampa Geshe Langri Tangpa Dorje Sengé. ^10
+Composed by the Kadampa Geshe Langri Tangpa Dorje Sengé. ^1-1-1

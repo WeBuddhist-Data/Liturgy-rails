@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 16
 blocks_total: 16
 status: draft
+toc_id: dvCdkADGsgUtiPgusUKjk
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Bằng phương tiện và đại bi giáng sinh dòng Thích Ca,
 Đấng Vô năng thắng hàng phục hết thảy ma quân,
 Sắc thân huy hoàng như núi chúa vàng kim,
-Con kính đảnh lễ Đức Thích Ca Pháp Vương. ^1
+Con kính đảnh lễ Đức Thích Ca Pháp Vương. ^0-1
 
 > གང་གིས་དང་པོར་བྱང་ཆུབ་ཐུགས་བསྐྱེད་ནས།།
 > བསོད་ནམས་ཡེ་ཤེས་ཚོགས་གཉིས་རྫོགས་མཛད་ཅིང༌།།
@@ -64,7 +65,7 @@ Con kính đảnh lễ Đức Thích Ca Pháp Vương. ^1
 Từ vô thủy Ngài đã phát Bồ-đề tâm,
 Viên mãn hai tư lương công đức và trí tuệ,
 Thời nay hóa hiện vô biên hạnh nguyện độ chúng sinh,
-Con xin tán thán Đấng Đạo sư Bảo Hộ. ^2
+Con xin tán thán Đấng Đạo sư Bảo Hộ. ^0-2
 
 > ལྷ་རྣམས་དོན་མཛད་འདུལ་བའི་དུས་མཁྱེན་ནས།།
 > ལྷ་ལས་བབས་ནས་གླང་ཆེན་ལྟར་གཤེགས་ཤིང༌།།
@@ -74,7 +75,7 @@ Con xin tán thán Đấng Đạo sư Bảo Hộ. ^2
 Quán sát căn cơ hóa độ chư thiên chúng,
 Tự cõi trời giáng thế như hình tượng voi trắng,
 Quán xét dòng tộc, nơi hiền mẫu Ma-da,
-Giáng nhập vào thai tạng, con xin kính đảnh lễ. ^3
+Giáng nhập vào thai tạng, con xin kính đảnh lễ. ^0-3
 
 > ཟླ་བ་བཅུ་རྫོགས་ཤཱཀྱའི་སྲས་པོ་ནི།།
 > བཀྲ་ཤིས་ལུམྦིའི་ཚལ་དུ་བལྟམས་པའི་ཚེ།།
@@ -84,7 +85,7 @@ Giáng nhập vào thai tạng, con xin kính đảnh lễ. ^3
 Mười tháng viên mãn, hỡi Thái tử Thích Ca,
 Đản sinh tại khu rừng Lâm-tỳ-ni cát tường,
 Phạm Thiên và Đế Thích đảnh lễ các tướng hảo,
-Định thế dòng Thích Ca, con xin kính đảnh lễ. ^4
+Định thế dòng Thích Ca, con xin kính đảnh lễ. ^0-4
 
 > གཞོན་ནུ་སྟོབས་ལྡན་མི་ཡི་སེངྒེ་སྟེ།།
 > ཨཾ་གྷ་མངགྷ་དྷར་ནི་སྒྱུ་རྩལ་འགྲན།།
@@ -94,7 +95,7 @@ Phạm Thiên và Đế Thích đảnh lễ các tướng hảo,
 Đấng Nhân Sư Tử mang dũng lực thanh xuân,
 Tranh tài nghệ thuật xứ Anga và Magadha,
 Hàng phục hết thảy những kẻ mạn tâm kiêu ngạo,
-Thành bậc vô song tuyệt đích, con xin kính đảnh lễ. ^5
+Thành bậc vô song tuyệt đích, con xin kính đảnh lễ. ^0-5
 
 > འཇིག་རྟེན་ཆོས་དང་མཐུན་པར་བྱ་བ་དང༌།།
 > ཁ་ན་མ་ཐོ་སྤོང་ཕྱིར་བཙུན་མོ་ཡི།།
@@ -104,7 +105,7 @@ Thành bậc vô song tuyệt đích, con xin kính đảnh lễ. ^5
 Hành xử thuận theo phong tục của thế gian,
 Để tránh những lỗi lầm Ngài nạp thọ thê thiếp,
 Thọ nhận quyến thuộc bằng phương tiện thiện xảo,
-Cai quản vương quốc, con xin kính đảnh lễ. ^6
+Cai quản vương quốc, con xin kính đảnh lễ. ^0-6
 
 > འཁོར་བའི་བྱ་བ་སྙིང་བོ་མེད་གཟིགས་ནས།།
 > ཁྱིམ་ནས་བྱུང་སྟེ་མཁའ་ལ་གཤེགས་ནས་ཀྱང༌།།
@@ -114,7 +115,7 @@ Cai quản vương quốc, con xin kính đảnh lễ. ^6
 Quán xét thế sự luân hồi là vô nghĩa,
 Rời bỏ hoàng cung cất bước cõi hư không,
 Trước bảo tháp thanh tịnh Ngài tự mình thế phát,
-Trở thành bậc xuất gia, con xin kính đảnh lễ. ^7
+Trở thành bậc xuất gia, con xin kính đảnh lễ. ^0-7
 
 > བརྩོན་པས་བྱང་ཆུབ་སྒྲུབ་པར་དགོངས་ནས་ནི།།
 > ནཻ་ར་ཛ་ནའི་འགྲམ་དུ་ལོ་དྲུག་ཏུ།།
@@ -124,7 +125,7 @@ Trở thành bậc xuất gia, con xin kính đảnh lễ. ^7
 Quyết tâm tinh tấn thành tựu đạo Bồ-đề,
 Sáu năm tu hành bên bờ sông Nairanjana,
 Thực hành khổ hạnh viên mãn đức tinh tấn,
-Đạt thiền định tối thắng, con xin kính đảnh lễ. ^8
+Đạt thiền định tối thắng, con xin kính đảnh lễ. ^0-8
 
 > ཐོག་མ་མེད་ནས་འབད་པ་དོན་ཡོད་ཕྱིར།།
 > མ་ག་དྷཱ་ཡི་བྱང་ཆུབ་ཤིང་དྲུང་དུ།།
@@ -134,7 +135,7 @@ Thực hành khổ hạnh viên mãn đức tinh tấn,
 Để viên mãn nỗ lực từ thuở vô thủy,
 Dưới cội Bồ-đề tại xứ Magadha,
 Bất động kiết già hiển lộ thành Phật quả,
-Viên mãn đạo Bồ-đề, con xin kính đảnh lễ. ^9
+Viên mãn đạo Bồ-đề, con xin kính đảnh lễ. ^0-9
 
 > ཐུགས་རྗེས་འགྲོ་ལ་མྱུར་དུ་གཟིགས་ནས་ནི།།
 > ཝ་ར་ཎཱ་སིར་ལ་སོགས་གནས་མཆོག་ཏུ།།
@@ -144,7 +145,7 @@ Viên mãn đạo Bồ-đề, con xin kính đảnh lễ. ^9
 Dùng tâm đại bi mau chóng quán chúng sinh,
 Tại những thánh địa như xứ Varanasi,
 Chuyển bánh xe Pháp độ hóa các đệ tử,
-An lập vào Tam thừa, con xin kính đảnh lễ. ^10
+An lập vào Tam thừa, con xin kính đảnh lễ. ^0-10
 
 > གཞན་གྱི་རྒོལ་བ་ངན་པ་ཚར་བཅད་ཕྱིར།།
 > མུ་རྟེགས་སྟོན་པ་དྲུག་དང་ལྷས་བྱིན་སོགས།།
@@ -154,7 +155,7 @@ An lập vào Tam thừa, con xin kính đảnh lễ. ^10
 Để nhiếp phục những luận điệu của ngoại đạo,
 Sáu đạo sư ngoại giáo cùng Devadatta,
 Hàng phục chư ma tại xứ Khormojig,
-Bậc Năng Nhân chiến thắng, con xin kính đảnh lễ. ^11
+Bậc Năng Nhân chiến thắng, con xin kính đảnh lễ. ^0-11
 
 > སྲིད་པ་གསུམ་ན་དཔེ་མེད་ཡོན་ཏན་གྱི།།
 > མཉན་དུ་ཡོད་པར་ཆོ་འཕྲུལ་ཆེན་པོ་བསྟན།།
@@ -164,7 +165,7 @@ Bậc Năng Nhân chiến thắng, con xin kính đảnh lễ. ^11
 Bằng những công đức vô song khắp ba cõi,
 Thị hiện đại thần biến tại Sravasti,
 Được vạn loài trời người chí tâm cúng dường,
-Hoằng dương cội Phật Pháp, con xin kính đảnh lễ. ^12
+Hoằng dương cội Phật Pháp, con xin kính đảnh lễ. ^0-12
 
 >  ལེ་ལོ་ཅན་རྣམས་ཆོས་ལ་བསྐུལ་བའི་ཕྱིར།།
 >  རྩ་མཆོག་གྲོང་གི་ས་གཞི་གཙང་མ་རུ།།
@@ -174,7 +175,7 @@ Hoằng dương cội Phật Pháp, con xin kính đảnh lễ. ^12
 Để khuyến hóa những kẻ lười biếng tu Pháp,
 Trên vùng đất thanh tịnh tại Kushinagar,
 Xả bỏ sắc thân vô tử như kim cương,
-Nhập Đại Bát Niết-bàn, con xin kính đảnh lễ. ^13
+Nhập Đại Bát Niết-bàn, con xin kính đảnh lễ. ^0-13
 
 > ཡང་དག་ཉིད་དུ་འཇིག་པ་མེད་ཕྱིར་དང༌།།
 > མ་འོངས་སེམས་ཅན་བསོད་ནམས་བསགས་བྱའི་ཕྱིར།།
@@ -184,7 +185,7 @@ Nhập Đại Bát Niết-bàn, con xin kính đảnh lễ. ^13
 Vì trong chân lý tột cùng không hủy diệt,
 Và để chúng sinh đời sau tích công đức,
 Ngài hóa hiện ra vô số hạt xá-lợi,
-Chia kim thân tám phần, con xin kính đảnh lễ. ^14
+Chia kim thân tám phần, con xin kính đảnh lễ. ^0-14
 
 > དེ་ལྟར་བསྟན་པའི་བདག་པོ་སངས་རྒྱས་བཅོམ་ལྡན་འདས།།
 > མཛད་པའི་ཚུལ་ལ་མདོ་ཙམ་བསྟོད་པ་ཡི།།
@@ -194,8 +195,8 @@ Chia kim thân tám phần, con xin kính đảnh lễ. ^14
 Như vậy đối với Giáo chủ Phật Thế Tôn,
 Nhờ công đức tán thán tóm lược công hạnh Ngài,
 Nguyện mọi hành vi của tất thảy chúng sinh,
-Trở nên đồng đẳng với công hạnh Thiện Thệ. ^15
+Trở nên đồng đẳng với công hạnh Thiện Thệ. ^0-15
 
 > དཔལ་མགོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའོ།།
 
-Được sáng tác bởi Đấng Cứu Hỗ Vinh Quang, Thánh Nagarjuna. ^16
+Được sáng tác bởi Đấng Cứu Hỗ Vinh Quang, Thánh Nagarjuna. ^1-1-1

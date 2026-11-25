@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 28
 blocks_total: 28
 status: draft
+toc_id: xPYQMfnunizaLNRlkQUvd
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -50,7 +51,7 @@ Namo guru mañjughoṣāya!
 Wisdom body of all the Victors of the directions and times,
 Condensed into one, the Guru and Protector Mañjughoṣa,
 Always abiding upon the white lotus and moon at the crown of my head,
-Grant the auspiciousness of increasing the illumination of the two knowledges. ^1
+Grant the auspiciousness of increasing the illumination of the two knowledges. ^0-1
 
 > ཐུབ་དབང་ཉེ་སྲས་སྒྲོལ་མ་པད་འབྱུང་དང་། །
 > གནས་བརྟན་བཅུ་དྲུག་གཏད་རབས་ཆེན་པོ་བདུན། །
@@ -60,7 +61,7 @@ Grant the auspiciousness of increasing the illumination of the two knowledges. ^
 The Lord of Sages, the Close Sons, Tārā, and Padmasambhava,
 The sixteen Elders and the seven great Successors,
 The six Ornaments, the eighty-four lords of yoga, and others—
-Through your compassion, grant your blessings so that the teachings may flourish. ^2
+Through your compassion, grant your blessings so that the teachings may flourish. ^0-2
 
 > སྤྱན་རས་གཟིགས་དབང་བརྩེ་ཆེན་ཀུན་དགའ་སྙིང་། །
 > འཇམ་དབྱངས་བླ་མ་ས་སྐྱ་པཎྜི་ཏ། །
@@ -70,7 +71,7 @@ Through your compassion, grant your blessings so that the teachings may flourish
 Avalokiteśvara, great treasure of compassion, Kunga Nyingpo,
 The Mañjughoṣa Guru Sakya Paṇḍita,
 The Lord of Secrets, Ngorchen Dorje Chang—
-May the teachings of the Victors of the three lineages flourish. ^3
+May the teachings of the Victors of the three lineages flourish. ^0-3
 
 > སློབ་དཔོན་ཆེན་པོ་བི་རཱུ་ནཱ་རོ་པ། །
 > རྡོ་རྗེ་གདན་པ་དཱི་པཾ་ཀཱ་ར་སོགས། །
@@ -80,7 +81,7 @@ May the teachings of the Victors of the three lineages flourish. ^3
 The great masters Virūpa and Nāropa,
 The Vajrāsana master Dīpaṃkara, and others—
 The swirling rivers of instructions from the scholar-adepts of the Noble Land—
-May the teachings of the Victors of the three lineages flourish. ^4
+May the teachings of the Victors of the three lineages flourish. ^0-4
 
 > ཕྱི་ནང་རིགས་གནས་མདོ་སྔགས་ཡོངས་རྫོགས་བདག །
 > གངས་ལྗོངས་སྨྲ་བའི་སེངྒེ་ཐམས་ཅད་མཁྱེན། །
@@ -90,7 +91,7 @@ May the teachings of the Victors of the three lineages flourish. ^4
 Master of all outer and inner sciences, sutras, and tantras,
 Omniscient Lion of Speech of the Land of Snows,
 Peerless Lord of Dharma of the three realms—
-May the teachings of the Victors of the three lineages flourish. ^5
+May the teachings of the Victors of the three lineages flourish. ^0-5
 
 > ཀླུ་ཐོགས་ལ་སོགས་འཛམ་གླིང་རྒྱན་མཆོག་གི །
 > བཞེད་གཞུང་མ་ནོར་ཇི་བཞིན་བཀྲལ་བ་ལ། །
@@ -100,7 +101,7 @@ May the teachings of the Victors of the three lineages flourish. ^5
 Those like Nāgārjuna and Asaṅga, the supreme ornaments of the world,
 Explained the intended treatises exactly as they are;
 Unsullied by even a particle of the stain of delusion—
-May the teachings of the Victors of the three lineages flourish. ^6
+May the teachings of the Victors of the three lineages flourish. ^0-6
 
 > ཁྱད་པར་རྣལ་འབྱོར་དབང་ཕྱུག་ཆེན་པོ་ཡི། །
 > དགྱེས་རྡོར་གཞུང་གདམས་འབྲོག་མིའི་ཐུགས་ཀྱི་བཅུད། །
@@ -110,7 +111,7 @@ May the teachings of the Victors of the three lineages flourish. ^6
 In particular, the great Lord of Yogis,
 Whose Hevajra instructions are the essence of Drokmi’s heart,
 Together with the nine cycles of the path that follow—
-May the teachings of the Victors of the three lineages flourish. ^7
+May the teachings of the Victors of the three lineages flourish. ^0-7
 
 > དཔལ་ལྡན་རྡོ་རྗེ་འཆང་ནས་ལེགས་འོངས་པའི། །
 > སྔགས་རྒྱུད་རྣམ་བཞིའི་ཆུ་བོ་ཆེན་པོ་བཞི། །
@@ -120,7 +121,7 @@ May the teachings of the Victors of the three lineages flourish. ^7
 Descending perfectly from the glorious Vajradhara,
 The four great rivers of the four classes of tantra,
 Unrivaled in explaining the tantras and the ripening and liberation—
-May the teachings of the Victors of the three lineages flourish. ^8
+May the teachings of the Victors of the three lineages flourish. ^0-8
 
 > མཁས་པའི་འབྱུང་གནས་མཁས་པ་ཡོངས་ཀྱི་རྗེ། །
 > བཙུན་པའི་ཁྱུ་མཆོག་བསླབ་པ་གསུམ་གྱིས་ཕྱུག །
@@ -130,7 +131,7 @@ May the teachings of the Victors of the three lineages flourish. ^8
 A source of wisdom and lord of all the learned,
 A supreme monk enriched by the three trainings,
 A lord of adepts who has traversed the inner paths and stages—
-May the teachings of the Victors of the three lineages flourish. ^9
+May the teachings of the Victors of the three lineages flourish. ^0-9
 
 > ལྟ་བ་ཤིན་ཏུ་རྣམ་དག་སྤྱོད་པ་གཙང་། །
 > སྒོམ་པ་སྡེ་སྣོད་གསུམ་དང་མཐུན་པ་ཡིས། །
@@ -140,7 +141,7 @@ May the teachings of the Victors of the three lineages flourish. ^9
 With a view perfectly pure and conduct immaculate,
 And meditation in harmony with the three baskets,
 Upholding the tradition of the omniscient Lord of Sages, the sun—
-May the teachings of the Victors of the three lineages flourish. ^10
+May the teachings of the Victors of the three lineages flourish. ^0-10
 
 > ཕྱོགས་རེ་མ་ཡིན་བསྟན་པ་མཐའ་དག་ཚང་། །
 > ཚང་ལ་མ་ནོར་ས་སྐྱ་པ་ཞེས་གྲགས། །
@@ -150,7 +151,7 @@ May the teachings of the Victors of the three lineages flourish. ^10
 Not partial, but complete in all aspects of the teachings,
 Renowned as the Sakyapa, complete and unerring;
 By raising the banner of this renown in the ten directions,
-May the teachings of the Victors of the three lineages flourish. ^11
+May the teachings of the Victors of the three lineages flourish. ^0-11
 
 > ཆོས་དང་ཆོས་མིན་རྣམ་པར་འབྱེད་པ་དང་། །
 > མུ་སྟེགས་ལ་སོགས་རྒོལ་ངན་བཅོམ་མཛད་ཅིང་། །
@@ -160,7 +161,7 @@ May the teachings of the Victors of the three lineages flourish. ^11
 Discriminating between Dharma and non-Dharma,
 Vanquishing the extremist challengers and the like,
 Holding the victory banner of the teachings that triumphs in all directions—
-May the teachings of the Victors of the three lineages flourish. ^12
+May the teachings of the Victors of the three lineages flourish. ^0-12
 
 > གཡག་གཞོན་རོང་ཤཱཀ་མདོ་ཡི་བཤད་བརྒྱུད་འཛིན། །
 > བུ་དོལ་རྫོང་པ་ལ་སོགས་རྒྱུད་སྡེ་བཞིའི། །
@@ -170,7 +171,7 @@ May the teachings of the Victors of the three lineages flourish. ^12
 Upholding the explanatory lineage of the Sutras through Yak and Rong,
 And the four classes of tantra through Buton, Dzongpa, and others;
 Through the countless holders of the lineage of explanation and practice,
-May the teachings of the Victors of the three lineages flourish. ^13
+May the teachings of the Victors of the three lineages flourish. ^0-13
 
 > མཆོག་གྱུར་རྒྱལ་བས་ལུང་ཐོབ་ཨེ་ཝཾ་པའི། །
 > མཚན་སྙན་འཛིན་མའི་ཁྱོན་ཀུན་ཁྱབ་པ་དང་། །
@@ -180,7 +181,7 @@ May the teachings of the Victors of the three lineages flourish. ^13
 The omniscient Ewampa, prophesied by the supreme Victor,
 Whose fame pervades the entire expanse of the earth;
 Through the pure practice of the three vows in explanation and meditation,
-May the teachings of the Victors of the three lineages flourish. ^14
+May the teachings of the Victors of the three lineages flourish. ^0-14
 
 > ཁྱད་པར་རྗེ་བཙུན་གོང་མའི་ཐུགས་བཅུད་རྣམས། །
 > སྙན་ནས་སྙན་བརྒྱུད་བློ་གསལ་རྒྱ་མཚོ་ཡི། །
@@ -190,7 +191,7 @@ May the teachings of the Victors of the three lineages flourish. ^14
 In particular, the heart-essence of the venerable forefathers,
 Passed from ear to ear through the oral lineage to the ocean of the clear-minded;
 May the nectar in the excellent vase of their hearts pervade all,
-May the teachings of the Victors of the three lineages flourish. ^15
+May the teachings of the Victors of the three lineages flourish. ^0-15
 
 > ཐབས་ཤེས་གཉིས་མེད་བཅོམ་ལྡན་ཧེ་བཛྲའི། །
 > རྒྱུད་གསུམ་སྨྲ་མཁས་བསོད་ནམས་སེང་གེ་དང་། །
@@ -200,7 +201,7 @@ May the teachings of the Victors of the three lineages flourish. ^15
 To the Bhagavat Hevajra, non-dual in method and wisdom,
 And to the skilled expounders of the three tantras, Bsod nams Seng ge,
 And the opener of the treasure of spontaneously accomplished Könchok,
-May the teachings of the Victors of the three lineages flourish. ^16
+May the teachings of the Victors of the three lineages flourish. ^0-16
 
 > གཞན་ཡང་རྗེ་བཙུན་དྲིན་གྱིས་ལེགས་འོངས་པའི། །
 > བདེ་གསང་དུས་ཀྱི་འཁོར་ལོའི་རྒྱུད་བཤད་ཀྱི། །
@@ -210,7 +211,7 @@ May the teachings of the Victors of the three lineages flourish. ^16
 Furthermore, through the kindness of the venerable ones, well-arrived,
 From the explanation of the tantras of Cakrasaṃvara, Guhyasamāja, and Kālacakra,
 Like the great lake Anavatapta swirling to the right,
-May the teachings of the Victors of the three lineages flourish. ^17
+May the teachings of the Victors of the three lineages flourish. ^0-17
 
 > རྩོད་དུས་ཐུབ་དབང་གཉིས་པ་མཁྱེན་བརྩེའི་དབང་། །
 > གསང་བའི་བདག་པོ་བློ་གཏེར་དབང་པོ་ཡི། །
@@ -220,7 +221,7 @@ May the teachings of the Victors of the three lineages flourish. ^17
 In this degenerate age, the second Lord of Sages, the master of wisdom and love,
 And the Lord of Secrets, the master of the treasury of wisdom,
 Through the collection of the infinite scriptures of the Buddha,
-May the teachings of the Victors of the three lineages flourish. ^18
+May the teachings of the Victors of the three lineages flourish. ^0-18
 
 > སྙིགས་མའི་མཐར་ཡང་འཁོན་རིགས་རྡོ་རྗེ་འཛིན། །
 > བརྒྱུད་མར་བྱོན་པས་བོད་ཁམས་བདེ་ཞིང་སྐྱིད། །
@@ -230,7 +231,7 @@ May the teachings of the Victors of the three lineages flourish. ^18
 Even at the end of the degenerate age, the Vajradhara of the 'Khon lineage,
 Coming in a continuous succession, brings peace and happiness to the land of Tibet;
 Through the accomplishment of the secret mantras of Vajrakumāra,
-May the teachings of the Victors of the three lineages flourish. ^19
+May the teachings of the Victors of the three lineages flourish. ^0-19
 
 > བདེ་དགྱེས་དུས་འཁོར་རྣལ་འབྱོར་མ་དཔལ་དང་། །
 > འཇམ་དཔལ་ཁྲོས་པ་མ་ཧེའི་ཞལ་ཅན་གྱི། །
@@ -240,7 +241,7 @@ May the teachings of the Victors of the three lineages flourish. ^19
 By the majesty of the vajra-samādhi attained
 In the glorious Cakrasaṃvara, Hevajra, Kālacakra, and Yoginī,
 And the wrathful Mañjuśrī with the face of a buffalo,
-May the teachings of the Victors of the three lineages flourish. ^20
+May the teachings of the Victors of the three lineages flourish. ^0-20
 
 > བསྟན་སྲུང་རྒྱ་མཚོའི་སྡེ་དཔོན་གུར་ཞལ་དང་། །
 > འདོད་ཁམས་བདག་མོ་གནོད་སྦྱིན་བེག་རྩེ་སོགས། །
@@ -250,7 +251,7 @@ May the teachings of the Victors of the three lineages flourish. ^20
 By the commander of the ocean of protectors of the teachings, Gur-zhal,
 And the mistress of the desire realm, the yakṣa Beg-tse, and others,
 By the hosts of oath-bound and arrogant spirits of the three lineages,
-May the teachings of the Victors of the three lineages flourish. ^21
+May the teachings of the Victors of the three lineages flourish. ^0-21
 
 > སྲིད་གསུམ་དབང་ཕྱུག་རྗེ་བཙུན་རིགས་བྱེད་མ། །
 > ལྷ་ཆེན་ཚོགས་བདག་འདོད་པའི་རྒྱལ་པོ་སོགས། །
@@ -260,7 +261,7 @@ May the teachings of the Victors of the three lineages flourish. ^21
 By the venerable Rig-jed-ma, sovereign of the three realms,
 And the great deity Tshog-dag, the King of Desire, and others,
 By the blazing majesty of the host of deities who wield power,
-May the teachings of the Victors of the three lineages flourish. ^22
+May the teachings of the Victors of the three lineages flourish. ^0-22
 
 > རྣམ་མང་ཐོས་སྲས་ཛཾ་ལྷ་རིགས་ལྔ་དང་། །
 > ནོར་རྒྱུན་མ་སོགས་བསོད་ནམས་རྒྱ་མཚོ་ཡི། །
@@ -270,7 +271,7 @@ May the teachings of the Victors of the three lineages flourish. ^22
 By the five families of Nam-thö-sras and Jam-lha,
 And the ocean of merit such as Nor-gyun-ma,
 Who let fall a rain of all that is desired from clouds of jewels,
-May the teachings of the Victors of the three lineages flourish. ^23
+May the teachings of the Victors of the three lineages flourish. ^0-23
 
 > བཅོམ་ལྡན་ཚེ་དཔག་མེད་དང་རྣམ་རྒྱལ་མ། །
 > རྗེ་བཙུན་སྒྲོལ་མ་ཡིད་བཞིན་འཁོར་ལོ་ཡིས། །
@@ -280,7 +281,7 @@ May the teachings of the Victors of the three lineages flourish. ^23
 By the Bhagavan Tshe-pag-me and Nam-gyal-ma,
 And the venerable Tārā, the Wish-fulfilling Wheel,
 Who are victorious over the enemy of untimely death,
-May the teachings of the Victors of the three lineages flourish. ^24
+May the teachings of the Victors of the three lineages flourish. ^0-24
 
 > ལུགས་གཉིས་ཆབ་སྲིད་ནམ་མཁའི་དགུང་ལྟར་མཐོ། །
 > མདོ་སྔགས་བཤད་སྒྲུབ་ཉི་ཟླ་ལྟར་གསལ་ཞིང་། །
@@ -290,7 +291,7 @@ May the teachings of the Victors of the three lineages flourish. ^24
 With the politics of the two systems as high as the vault of the sky,
 With the explanation and practice of Sūtra and Mantra as clear as the sun and moon,
 And with the Sangha who uphold the teachings as radiant as the stars,
-May the teachings of the Victors of the three lineages flourish. ^25
+May the teachings of the Victors of the three lineages flourish. ^0-25
 
 > བསྟན་པ་དར་ཞིང་བསྟན་འཛིན་དབུ་འཕང་མཐོ། །
 > བསྟན་པའི་སྦྱིན་བདག་ཚེ་བསོད་དཔལ་འབྱོར་རྒྱས། །
@@ -300,7 +301,7 @@ May the teachings of the Victors of the three lineages flourish. ^25
 May the teachings flourish and the status of their upholders be raised high.
 May the life, merit, and prosperity of the patrons of the teachings increase.
 With all the degenerations of this dark age pacified,
-May there be the auspiciousness of happiness and well-being in the world. ^26
+May there be the auspiciousness of happiness and well-being in the world. ^0-26
 
 > དཀོན་མཆོག་རིན་ཆེན་གསུམ་གྱི་བདེན་པ་དང་། །
 > ཆོས་ཅན་ཆོས་ཉིད་རྒྱུ་འབྲས་བདེན་པའི་སྟོབས། །
@@ -310,8 +311,8 @@ May there be the auspiciousness of happiness and well-being in the world. ^26
 By the truth of the Three Precious Jewels,
 And the power of the truth of the infallible causality of phenomena,
 May that which we pray for with pure and noble intentions
-Be accomplished, and may there be virtue and excellence in all directions and at all times. ^27
+Be accomplished, and may there be virtue and excellence in all directions and at all times. ^0-27
 
 > ཅེས་པའང་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་པས་ཆུ་རྟ་སྨལ་པོ་ཟླ་བ་འཇམ་དབྱངས་བླ་མ་མངོན་པར་བྱང་ཆུབ་ཆེན་པོར་གཤེགས་པའི་ཚེས་བཅུ་བཞིའི་སྔ་དྲོའི་ཐུན་དང་པོ་ལ་གསོལ་བ་བཏབ་བཞིན་བྲིས་པས་རྟེན་འབྲེལ་མཆོག་ཏུ་དགེ་ཞིང་བཀྲ་ཤིས་པར་གྱུར་ཅིག །མངྒ་ལཾ།། །།
 
-Thus, Jamyang Chökyi Lodrö wrote this as he prayed during the first session of the morning of the fourteenth day of the month of the Water Horse year, when the Jamyang Lama passed into great enlightenment. May this dependent origination be supremely virtuous and auspicious. Mangalam. ^28
+Thus, Jamyang Chökyi Lodrö wrote this as he prayed during the first session of the morning of the fourteenth day of the month of the Water Horse year, when the Jamyang Lama passed into great enlightenment. May this dependent origination be supremely virtuous and auspicious. Mangalam. ^1-1-1

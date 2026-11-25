@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 43
 blocks_total: 43
 status: draft
+toc_id: MsPpZsLlAaiiFCGo5YJ9k
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -48,7 +49,7 @@ status: draft
 Homage to the Three Jewels.
 Homage to the Great Destroyer of the Thousandfold.
 Then, Brahmā and Mahābrahmā,
-Rising, joined their palms and bowed. ^1
+Rising, joined their palms and bowed. ^0-1
 
 > སྟོང་ཆེན་རབ་ཏུ་འཇོམས་བྱེད་པ། །
 > ལེགས་པར་གསུངས་པའི་རིག་སྔགས་འདི། །
@@ -58,7 +59,7 @@ Rising, joined their palms and bowed. ^1
 The Great Destroyer of the Thousandfold,
 This well-spoken vidyā-mantra,
 Which brings benefit to the childish,
-I shall now utter this vidyā-mantra. ^2
+I shall now utter this vidyā-mantra. ^0-2
 
 > གང་གིས་དང་པོར་འཛམ་གླིང་དུ། །
 > རིག་སྔགས་རབ་ཏུ་སྟོན་མཛད་པ། །
@@ -68,7 +69,7 @@ I shall now utter this vidyā-mantra. ^2
 To the one who first in this world
 Revealed the supreme vidyā-mantra,
 The King of Dharma, the Maker of Light,
-Homage to the Buddha’s splendor. ^3
+Homage to the Buddha’s splendor. ^0-3
 
 > ཁྱད་པར་འཕགས་པའི་ཆོས་རྣམས་དང་། །
 > ཚོགས་ཀྱི་དམ་པ་དགེ་ འདུན་དང་། །
@@ -78,7 +79,7 @@ Homage to the Buddha’s splendor. ^3
 To the exceptionally sublime Dharma,
 To the Saṅgha, the supreme assembly,
 And having prostrated at the feet of the Buddha,
-Brahmā addressed these words: ^4
+Brahmā addressed these words: ^0-4
 
 > གང་དག་སངས་རྒྱས་རང་སངས་རྒྱས། །
 > སངས་རྒྱས་ཀྱི་ནི་ཉན་ཐོས་དང་། །
@@ -88,7 +89,7 @@ Brahmā addressed these words: ^4
 Whatever Buddhas and Pratyekabuddhas,
 And the Śrāvakas of the Buddha,
 The Sages and the Guardians of the World,
-And however many gods there may be, ^5
+And however many gods there may be, ^0-5
 
 > དེ་ཀུན་མི་ཡི་འཇིག་རྟེན་ན། །
 > འདི་ལས་སྐྱེས་པ་ཤ་སྟག་གོ །
@@ -98,7 +99,7 @@ And however many gods there may be, ^5
 All of these, within the world of humans,
 Have originated solely from this.
 Regarding the Great Sage entering the womb,
-There are yakṣas and rākṣasas here. ^6
+There are yakṣas and rākṣasas here. ^0-6
 
 > རྒྱལ་པོ་རྣམས་ཀྱིས་མཐོང་མི་ནུས། །
 > བསྟན་པར་ཡང་ནི་མི་ནུས་སོ། །
@@ -108,7 +109,7 @@ There are yakṣas and rākṣasas here. ^6
 Whom kings are unable to see,
 Nor can they even be described.
 Those who are not attached to a child,
-And those who do not dwell in a womb, ^7
+And those who do not dwell in a womb, ^0-7
 
 > སྐྱེས་པ་བུད་མེད་འདུ་བ་ན། །
 > དབང་པོ་རྣམས་ནི་མྱོས་པར་བགྱིད། །
@@ -118,7 +119,7 @@ And those who do not dwell in a womb, ^7
 When a man and woman unite,
 They cause the senses to become intoxicated.
 The oval and the oblong stages of the embryo,
-They ruin the seed of the child. ^8
+They ruin the seed of the child. ^0-8
 
 > གང་ཡང་མངལ་ནི་ཐུར་དུ་འགྱུར། །
 > ཤ་མ་མི་འབྱུང་གནོད་བགྱིད་པ། །
@@ -128,7 +129,7 @@ They ruin the seed of the child. ^8
 They cause the womb to prolapse,
 Harm the placenta so it does not emerge;
 I shall now speak their names,
-Lord of the World, listen to me. ^9
+Lord of the World, listen to me. ^0-9
 
 > འཇམ་པ་པོ་དང་རི་དྭགས་རྒྱལ། །
 > སྐེམ་བྱེད་རྗེད་བྱེད་ཁུ་ཚུར་ཅན། །
@@ -138,7 +139,7 @@ Lord of the World, listen to me. ^9
 Mañjuka and Mṛgarāja,
 Śuṣka, Apasmāra, and Muṣṭika,
 Mātṛkā and Jāmika,
-Kāminī and Revatī. ^10
+Kāminī and Revatī. ^0-10
 
 > སྲུལ་པོ་དང་ནི་མ་དགའ་བྱེད། །
 > བྱ་དང་གཉའ་བའི་ལག་ཅན་དང་། །
@@ -148,7 +149,7 @@ Kāminī and Revatī. ^10
 Pūtanā and Maṭanandī,
 Śakuni and Kaṇṭhapāṇinī,
 Mukhamaṇḍitikā and Lambā,
-All of these roam upon the earth. ^11
+All of these roam upon the earth. ^0-11
 
 > གདོན་རྣམས་བཅོ་ལྔ་དེ་དག་ནི། །
 > བྱིས་པ་རྣམས་ལ་འཇིགས་པར་བགྱིད། །
@@ -158,7 +159,7 @@ All of these roam upon the earth. ^11
 These fifteen spirits
 Cause terror in children.
 I shall now describe the signs and forms
-Of those who seize children. ^12
+Of those who seize children. ^0-12
 
 > འཇམ་པ་པོས་ནི་ཟིན་གྱུར་ན།།
 > མིག་ནི་རབ་ཏུ་འགྱུར་བར་བགྱིད། །
@@ -168,7 +169,7 @@ Of those who seize children. ^12
 When seized by Mañjuka,
 The eyes are caused to roll about.
 When seized by Mṛgarāja,
-Violent and unbearable vomiting occurs. ^13
+Violent and unbearable vomiting occurs. ^0-13
 
 > སྐེམ་བྱེད་ཀྱིས་ནི་ཟིན་གྱུར་ན། །
 > མིག་ནི་རབ་ཏུ་འགྱུ་བར་བགྱིད། །
@@ -178,7 +179,7 @@ Violent and unbearable vomiting occurs. ^13
 When seized by Śuṣka,
 The eyes are caused to roll about.
 The Emaciator causes the child to tremble;
-When seized by Apasmāra, ^14
+When seized by Apasmāra, ^0-14
 
 > འགྲོ་ཞིང་དེ་ལྟར་སྒྲ་ཡང་འབྱིན། །
 > དབུ་བ་དང་ནི་ཁ་ཆུ་འཛག །
@@ -188,7 +189,7 @@ When seized by Apasmāra, ^14
 They wander and emit such sounds,
 And saliva and nasal mucus flow forth.
 When seized by Muṣṭika,
-They clench and unclench their fists. ^15
+They clench and unclench their fists. ^0-15
 
 > མ་མོ་ཡིས་ནི་ཟིན་གྱུར་ན། །
 > རྒོད་ཅིང་དེ་བཞིན་སྒྲ་ཡང་འབྱིན། །
@@ -198,7 +199,7 @@ They clench and unclench their fists. ^15
 When seized by Mātṛkā,
 They laugh and likewise emit sounds.
 When seized by Jāmika,
-They clearly have no desire to nurse. ^16
+They clearly have no desire to nurse. ^0-16
 
 > འདོད་པ་ཅན་གྱིས་རབ་ཟིན་ན། །
 > མལ་ན་གཉིད་ལོག་ངུ་བར་འགྱུར། །
@@ -208,7 +209,7 @@ They clearly have no desire to nurse. ^16
 When seized by Kāminī,
 They fall asleep in bed and cry out.
 When seized by Revatī,
-They bite their tongue with their teeth. ^17
+They bite their tongue with their teeth. ^0-17
 
 > སྲུལ་པོས་རབ་ཏུ་ཟིན་གྱུར་ན། །
 > ཀུ་ཅོ་འདོན་ཅིང་སྒྲ་ཡང་འབྱིན། །
@@ -218,7 +219,7 @@ They bite their tongue with their teeth. ^17
 When seized by Pūtanā,
 They wail and emit sounds.
 When seized by Mātṛnandā,
-Various forms manifest as physical symptoms. ^18
+Various forms manifest as physical symptoms. ^0-18
 
 > བྱ་ཡིས་རབ་ཏུ་ཟིན་གྱུར་ན། །
 > མནམ་པའི་དྲི་ནི་འབྱུང་བར་འགྱུར། །
@@ -228,7 +229,7 @@ Various forms manifest as physical symptoms. ^18
 If seized by the Bird demon,
 A foul odor will arise.
 If seized by the Stiff-Necked demon,
-The throat will become completely obstructed. ^19
+The throat will become completely obstructed. ^0-19
 
 > བཞིན་བརྒྱན་གྱིས་ནི་ཟིན་གྱུར་ན། །
 > རིམས་ཀྱིས་བཏབ་ཅིང་འཁྲུ་བར་འགྱུར། །
@@ -238,7 +239,7 @@ The throat will become completely obstructed. ^19
 When seized by Mukhamanditi,
 They are afflicted with fever and diarrhea.
 When seized by Lambinī,
-Hiccups and gasping occur. ^20
+Hiccups and gasping occur. ^0-20
 
 > བྱིས་པ་ཇི་ལྟར་སྐྲག་བགྱིད་པ། །
 > དེ་ཡི་གཟུགས་ནི་བརྗོད་པར་བགྱིད། །
@@ -248,7 +249,7 @@ Hiccups and gasping occur. ^20
 I shall describe the forms
 In which they frighten children.
 Ajimapā has the form of an ox,
-And the King of Deer resembles a deer. ^21
+And the King of Deer resembles a deer. ^0-21
 
 > སྐེམ་བྱེད་པ་ནི་གཞོན་ནུའི་གཟུགས། །
 > བརྗེད་བྱེད་པ་ནི་ཝ་འདྲའོ། །
@@ -258,7 +259,7 @@ And the King of Deer resembles a deer. ^21
 Skem-byed-pa has the form of a youth,
 Brjed-byed-pa resembles a fox,
 Khu-tshur-can has the form of a crow,
-And that Mātṛkā has the form of a goat. ^22
+And that Mātṛkā has the form of a goat. ^0-22
 
 > ཛ་མི་ཀ་ནི་རྟ་ཡི་གཟུགས། །
 > འདོད་པ་ཅན་ནི་རྡོ་རྗེའི་གཟུགས། །
@@ -268,7 +269,7 @@ And that Mātṛkā has the form of a goat. ^22
 Jāmika has the form of a horse,
 'Dod-pa-can has the form of a vajra,
 Nam-gru has the form of a dog,
-And Srul-po has the form of a hand. ^23
+And Srul-po has the form of a hand. ^0-23
 
 > མ་དགའ་བྱེད་པ་བྱི་ལའི་གཟུགས། །
 > བྱ་ནི་འདབ་ཆགས་གཟུགས་གྱིས་སོ། །
@@ -278,7 +279,7 @@ And Srul-po has the form of a hand. ^23
 Ma-dga'-byed-pa has the form of a cat,
 Śakuni has the form of a bird,
 Gnya'-lag-can has the form of a rooster,
-And Bzhin-brgyan has the form of an owl. ^24
+And Bzhin-brgyan has the form of an owl. ^0-24
 
 > མིག་འཕྱང་བ་ནི་ཕ་ཝང་གཟུགས།།
 > འདི་དག་བྱིས་པ་སྐྲག་པར་བགྱིད། །
@@ -288,7 +289,7 @@ And Bzhin-brgyan has the form of an owl. ^24
 Mig-'phyang-ba has the form of a bat.
 These beings terrify children;
 These wicked ones who snatch away children
-Cause fear to the little ones. ^25
+Cause fear to the little ones. ^0-25
 
 > མདོ་སྡེའི་གྲགས་པས་དྲངས་ནས་ནི། །
 > འདི་དག་ཤིན་ཏུ་དགུག་པར་བགྱི། །
@@ -298,7 +299,7 @@ Cause fear to the little ones. ^25
 Having been drawn forth by the noose of the sūtra,
 They shall be thoroughly summoned.
 The great yakṣa general,
-Known as the gandharva Candana, ^26
+Known as the gandharva Candana, ^0-26
 
 > ཡི་གེ་ཕྱག་རྒྱ་དེ་སྩལ་ཏེ། །
 > སོད་ལ་གདོན་ནི་དྲག་པོ་པ། །
@@ -308,7 +309,7 @@ Known as the gandharva Candana, ^26
 Having bestowed that letter and seal,
 "Go, and those fierce spirits,
 Those fifteen, summon them,"
-Thus a messenger was sent. ^27
+Thus a messenger was sent. ^0-27
 
 > དེ་དག་རྣམས་ནི་སྐད་ཅིག་གིས། །
 > བཅིང་བ་ལྔ་ཡིས་བཅིང་བཞིན་དགུག །
@@ -318,7 +319,7 @@ Thus a messenger was sent. ^27
 Instantly, they were all summoned
 While being bound by the five bonds.
 Then, to the Protector of the World,
-Great Brahmā, with palms joined, spoke these words: ^28
+Great Brahmā, with palms joined, spoke these words: ^0-28
 
 > སྲོག་ཆགས་ས་བོན་འཇིག་བགྱིད་པ། །
 > འབྱུང་པོ་འདི་དག་རྣམས་ལྷགས་ཏེ། །
@@ -328,7 +329,7 @@ Great Brahmā, with palms joined, spoke these words: ^28
 "These who destroy the seeds of living beings,
 These spirits have arrived.
 Here in the presence of the Protector,
-I shall declare their punishment." ^29
+I shall declare their punishment." ^0-29
 
 > བུད་མེད་གང་དག་བུ་མི་འཚལ། །
 > གང་ཞིག་བཙས་པ་འཛིན་འཚལ་བས། །
@@ -338,7 +339,7 @@ I shall declare their punishment." ^29
 Those women who desire a child,
 And those who wish to sustain their pregnancy,
 Should, on the eighth and fourteenth days,
-Take the vows and take refuge in the sublime Dharma. ^30
+Take the vows and take refuge in the sublime Dharma. ^0-30
 
 > མཆོད་རྟེན་ལེགས་པར་མཆོད་པར་བགྱི། །
 > ཁྲུས་བགྱིས་ཤིན་ཏུ་བརྒྱན་ནས་ནི། །
@@ -348,7 +349,7 @@ Take the vows and take refuge in the sublime Dharma. ^30
 One should make excellent offerings to the stupa,
 Having bathed and become finely adorned,
 And having scattered white mustard seeds upon the ground,
-One should decorate it with flowers and incense. ^31
+One should decorate it with flowers and incense. ^0-31
 
 > སྣ་ལྔའི་ཚོན་གྱི་སྐུད་པས་ནི། །
 > ཁོར་ཡུག་ཏུ་ནི་བསྐོར་བར་བགྱི། །
@@ -358,7 +359,7 @@ One should decorate it with flowers and incense. ^31
 One should encircle the perimeter
 With threads of five different colors.
 Having remained there until midnight,
-And having placed white mustard seeds upon the crown of the head, ^32
+And having placed white mustard seeds upon the crown of the head, ^0-32
 
 > ཚངས་པས་རབ་ཏུ་བྱས་པ་སྟེ། །
 > ཚངས་པས་སྤྲུལ་བཅས་བརྗོད་པར་བགྱི། །
@@ -368,7 +369,7 @@ And having placed white mustard seeds upon the crown of the head, ^32
 It is that which was thoroughly performed by Brahmā,
 And it shall be spoken as that which was emanated by Brahmā.
 For a period of twelve years,
-It shall bring benefit to the youths. ^33
+It shall bring benefit to the youths. ^0-33
 
 > ཚངས་པས་སྤྲུལ་པའི་མདོ་སྡེ་ཡི། །
 > རིག་སྔགས་འདི་ལས་གང་འདའ་བ། །
@@ -378,11 +379,11 @@ It shall bring benefit to the youths. ^33
 Whoever transgresses against this vidyā-mantra
 Of the sūtra emanated by Brahmā,
 Like the cluster of an arjaka flower,
-Their head shall split into seven pieces. ^34
+Their head shall split into seven pieces. ^0-34
 
 > སངྱཱ་ཐེ་དན། ཨཾ་གེ །བཾ་གེ །བྷཾ་གེ །བྷ་བ་ནེ། ཨི་ན་ན་དི། བི་ ན་ན་དི། སུ་ལུ་རི། གི་རི་གི་རི། ཤ་ཝ་རི། ག་རུ་ནི། ཤ་རུ་ ནི། ། གི་རི། ཨ་བ་རེ་ལོ་ཙ་ནེ། ལ་ས་ནེ། རོ་ཙ་ནེ། ཨ་ལ་བྷེ། ཨཾ་ག་ནེ། ཨ་ལ་བྷེ། ཏ་ལ་བྷེ། པ་ཀར་ཥི་ནི་སྭཱཧཱ།
 
-Tadyathā: Amge, bamge, bhange, bhavane, inanadi, binanadi, suluri, girigiri, śavari, garuni, śaruni, giri, avare locane, lasane, rocane, alabhe, angane, alabhe, talabhe, pakarṣini svāhā. ^35
+Tadyathā: Amge, bamge, bhange, bhavane, inanadi, binanadi, suluri, girigiri, śavari, garuni, śaruni, giri, avare locane, lasane, rocane, alabhe, angane, alabhe, talabhe, pakarṣini svāhā. ^0-35
 
 > མངལ་ན་བདེ་བར་གནས་གྱུར་ཅིག །
 > དབང་པོ་ཡང་དག་འཕེལ་བར་ཤོག།
@@ -392,7 +393,7 @@ Tadyathā: Amge, bamge, bhange, bhavane, inanadi, binanadi, suluri, girigiri, ś
 May there be well-being in the womb!
 May the sense faculties develop perfectly!
 May the one dwelling in the womb be at ease!
-May the newborn not perish! ^36
+May the newborn not perish! ^0-36
 
 > མངལ་ན་བདེ་བར་གནས་གྱུར་ཅིག །
 > དུས་བཞིན་དུ་ནི་འབྱུང་བར་ཤོག །
@@ -402,7 +403,7 @@ May the newborn not perish! ^36
 May there be well-being in the womb!
 May the birth occur at the proper time!
 With multi-colored threads,
-And unbroken grains of white mustard— ^37
+And unbroken grains of white mustard— ^0-37
 
 > དེ་དག་སྲུང་བར་གསུངས་པ་སྟེ། །
 > བྱིས་པ་རིང་དུ་འཚོ་བར་ཤོག །
@@ -416,11 +417,11 @@ May the children live long!
 Then, the omniscient Teacher
 Spoke these vidyā-mantras:
 May the one dwelling in the womb be protected!
-May the children be at ease! ^38
+May the children be at ease! ^0-38
 
 > སངྱཱ་ཡ་ཐེ་དན། བོ་དྷི་བོ་དྷི། མཧཱ་བོ་དྷི། བོ་དྷ་ཨ་ནུ་མ་ཏེ། ཕ་ལི་ནི། བ་ཧུ་ཕ་ལེ། ཤིཀྵ་ཤིཀྵ། སཱ་ར་བ་ཏེ། སཱ་ག་ལེ། དུ་རཱ་ས་དེ། དུ་རཱ་ག་མེ། ཤཱུ་ར་པྲཱ་པ་ཏེ། ཤཱུ་ར་པ་ཏེ། བྷ་གེ །བྷ་གཱ་ བྷ་གེ །བྷ་གེ་ནི་ནི་བཱ་ར་ཎི་སྭཱཧཱ།
 
-Tadyathā: Bodhi bodhi, mahābodhi, bodha anumate, phalini, bahuphale, śikṣa śikṣa, sāravate, sāgale, durāsade, durāgame, śūraprāpate, śūrapate, bhage, bhagā bhage, bhageni nivāraṇi svāhā. ^39
+Tadyathā: Bodhi bodhi, mahābodhi, bodha anumate, phalini, bahuphale, śikṣa śikṣa, sāravate, sāgale, durāsade, durāgame, śūraprāpate, śūrapate, bhage, bhagā bhage, bhageni nivāraṇi svāhā. ^0-39
 
 > དེ་ནས་གདོན་ནི་བཅོ་ལྔ་པོ།།
 > རྟག་ཏུ་ཁྲག་ལ་འཐུང་རྣམས་ཀྱིས། །
@@ -430,7 +431,7 @@ Tadyathā: Bodhi bodhi, mahābodhi, bodha anumate, phalini, bahuphale, śikṣa 
 Then, the fifteen spirits
 Who perpetually drink blood
 Bowed down to the Protector of the World,
-And joining their palms, they spoke these words: ^40
+And joining their palms, they spoke these words: ^0-40
 
 > གྲོང་ངམ་ཁྱིམ་མམ་གྲོང་ཁྱེར་རམ། །
 > གང་ན་ལེགས་པར་གསུངས་པ་ཡི། །
@@ -440,12 +441,12 @@ And joining their palms, they spoke these words: ^40
 In any village, home, or city,
 Wherever this well-spoken
 Sutra remains,
-The children there shall not die. ^41
+The children there shall not die. ^0-41
 
 > ཐུབ་ཆེན་ཁྱོད་ནི་ཇི་བཞིན་དུ། །རྗེས་སུ་མཐུན་པར་འཇུག་པར་བགྱི། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཕྱག་འཚལ་ལོ། །ཚངས་པ་ལ་ཕྱག་འཚལ་ལོ། །གསང་སྔགས་ཀྱི་ཚིག་རྣམས་གྲུབ་པར་གྱུར་ཅིག །གྲུབ་པར་གྱུར་ཅིག། རིག་སྔགས་ཀྱིས་སྒྲོལ་བར་གྱུར་ཅིག །ཚངས་པས་བསམས་ ར་གྱུར་ཅིག་སྭཱཧཱ།
 
-Great Sage, just as you are, I shall follow accordingly. Homage to the Buddha, the Blessed One. Homage to Brahmā. May the words of the secret mantra be accomplished! May they be accomplished! May the vidyā-mantra bring liberation! May Brahmā take heed! Svāhā! ^42
+Great Sage, just as you are, I shall follow accordingly. Homage to the Buddha, the Blessed One. Homage to Brahmā. May the words of the secret mantra be accomplished! May they be accomplished! May the vidyā-mantra bring liberation! May Brahmā take heed! Svāhā! ^0-42
 
 > བྱིས་པའི་གདོན་ཆེན་བཅོ་ལྔ་ཞི་བར་བྱེད་པའི་གཟུངས་རྫོགས་སོ།། །།
 
-The dhāraṇī that pacifies the fifteen great spirits of children is complete. ^43
+The dhāraṇī that pacifies the fifteen great spirits of children is complete. ^1-1

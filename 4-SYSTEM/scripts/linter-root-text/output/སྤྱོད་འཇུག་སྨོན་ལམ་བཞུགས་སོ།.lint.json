@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:39.199246+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0RT3216",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྤྱོད་འཇུག་སྨོན་ལམ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Aspiration Prayer from the Bodhicharyāvatāra"
+      },
+      {
+        "zh": "入菩薩行論‧迴向品"
+      },
+      {
+        "hi": "बोधिचर्यावतार प्रार्थना"
+      },
+      {
+        "ne": "बोधिचर्यावतारको प्रणिधान"
+      },
+      {
+        "mn": "Бодьсадвын явдалд орохуй номын ерөөл"
+      },
+      {
+        "vi": "Bài Hồi Hướng Trong Nhập Bồ Tát Hạnh"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P6161"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

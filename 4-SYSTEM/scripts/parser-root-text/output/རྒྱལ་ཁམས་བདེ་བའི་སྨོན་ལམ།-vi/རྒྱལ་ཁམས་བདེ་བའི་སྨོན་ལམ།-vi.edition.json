@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Om Ah Hum Vajra Guru Padma Siddhi HumHỡi Oḍḍiyāna Rinpoche, đấng cứu hộ chúng sinh,Cùng với hội chúng Trì Minh và Không Hành,Chúng con nhất tâm thành kính cầu nguyện,Đúng như thệ nguyện, từ pháp giới xin xót thương đoái tưởng,Xin rủ lòng đại bi nhìn xem chúng sinh khốn cùng.Chúng con khẩn cầu Oḍḍiyāna Rinpoche,Xin hội chúng Mẫu và Không Hành đẩy lùi ác duyên,Nguyện mọi suy vi bất hòa của thời thế thảy lắng dịu,Sự trù phú trong ngoài của khí thế gian và hữu tình thế gian thảy hưng thịnh,Loạn lạc, dịch bệnh, động đất, nạn sâu hại, v.v.,Cùng thế lực của ác tâm và ác hạnh từ các loài hữu hình hay vô hình,Cúi xin Ngài ban ân tịnh hóa tất thảy những chướng duyên này!Nguyện Giáo pháp hoằng dương, chư bậc trì giữ giáo pháp thọ mạng miên trường,Nguyện khắp thế gian tràn ngập ánh vinh quang của hỷ lạc, thái bình!Lời cầu nguyện vạn quốc an bình này được soạn bởi Đức Karmapa vinh quang. Thiện lành! Thiện lành! Cát tường thay!",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 37
+          },
+          {
+            "start": 37,
+            "end": 83
+          },
+          {
+            "start": 83,
+            "end": 125
+          },
+          {
+            "start": 125,
+            "end": 166
+          },
+          {
+            "start": 166,
+            "end": 226
+          },
+          {
+            "start": 226,
+            "end": 275
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 275,
+            "end": 312
+          },
+          {
+            "start": 312,
+            "end": 361
+          },
+          {
+            "start": 361,
+            "end": 414
+          },
+          {
+            "start": 414,
+            "end": 491
+          },
+          {
+            "start": 491,
+            "end": 540
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 540,
+            "end": 608
+          },
+          {
+            "start": 608,
+            "end": 669
+          },
+          {
+            "start": 669,
+            "end": 746
+          },
+          {
+            "start": 746,
+            "end": 814
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 814,
+            "end": 927
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      }
+    ]
+  }
+}

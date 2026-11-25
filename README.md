@@ -7,6 +7,18 @@ Tibetan liturgy texts — prayers, praises, aspirations, dhāraṇīs and ritual
 modules — prepared for upload to the WeBuddhist library and as the base for
 translation, adaptation and practice-plan work.
 
+## Windows users: enable long paths first
+
+Some files in this repo have paths longer than Windows' 260-character limit
+(the parser output under `4-SYSTEM/scripts/parser-root-text/output/` is named
+after each text's full Tibetan title, twice). Every Windows user needs to run
+this once, before cloning or pulling — otherwise Git (and Obsidian Git) stops
+with `Filename too long`:
+
+```powershell
+git config --global core.longpaths true
+```
+
 ## Why a rails vault
 
 A liturgy corpus has a problem a single-treatise vault does not: it is 100

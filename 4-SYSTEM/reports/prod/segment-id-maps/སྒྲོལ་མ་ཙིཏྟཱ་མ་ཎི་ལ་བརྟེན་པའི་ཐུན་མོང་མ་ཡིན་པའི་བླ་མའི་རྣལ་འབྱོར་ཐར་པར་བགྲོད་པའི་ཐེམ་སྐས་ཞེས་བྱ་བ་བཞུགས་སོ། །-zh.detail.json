@@ -1,0 +1,82 @@
+{
+ "edition_id": "LPanqbB4G6oWgkEk4kV79",
+ "segment": [
+  {
+   "old_segment_id": "rcYnc8AM5t27y27xWlZ1y",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "T1oNFXRGhgowbjQKh8hRZ",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "ABzNFypuxbkjMKHegdfOp",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "7uyFhFkakMegSro6m1zAv",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "SUmIJfaPAf8DWis8BpWNq",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "lBm97diF3XsbURea4kg8V",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "6s8BSl7NOgSs15FF5bNPZ",
+   "old_reference": "4",
+   "old_type": "verse",
+   "new_segment_id": "OEDBXW4LvhONw2gJdK9XN",
+   "new_reference": "0-4"
+  },
+  {
+   "old_segment_id": "k1V8DOehbKPkJketgw3Rl",
+   "old_reference": "5",
+   "old_type": "verse",
+   "new_segment_id": "rMGIYFKqSaKRG3cNDgCbX",
+   "new_reference": "0-5"
+  },
+  {
+   "old_segment_id": "3gpyUPuW44jGFHJA3dOMi",
+   "old_reference": "6",
+   "old_type": "verse",
+   "new_segment_id": "Kr0PpsUVbIpH7sVlPGi3Q",
+   "new_reference": "0-6"
+  },
+  {
+   "old_segment_id": "ANHWOiFokFgzPIlpgq4UY",
+   "old_reference": "7",
+   "old_type": "verse",
+   "new_segment_id": "1JD6NqjibIwA0GasweDdo",
+   "new_reference": "0-7"
+  },
+  {
+   "old_segment_id": "K7jUonKfRpfAyt6IgA4Eq",
+   "old_reference": "8",
+   "old_type": "verse",
+   "new_segment_id": "QmDR5QxLyBl66jEzKs0SU",
+   "new_reference": "0-8"
+  },
+  {
+   "old_segment_id": "gTxdb97HxE2TWtVwewfXo",
+   "old_reference": "9",
+   "old_type": "verse",
+   "new_segment_id": "x2e93BYzmPuuwQ6Mu68YM",
+   "new_reference": "0-9"
+  },
+  {
+   "old_segment_id": "gNjaohsJ6KAKDhiojP3M4",
+   "old_reference": "10",
+   "old_type": "verse",
+   "new_segment_id": "nJ0NYUE8uqszCAcrJeuCU",
+   "new_reference": "0-10"
+  },
+  {
+   "old_segment_id": "mRuXCQvbPT3IqKgTEX9D3",
+   "old_reference": "11",
+   "old_type": "verse",
+   "new_segment_id": "GkiHHAUkRZzRrhw7mrxGY",
+   "new_reference": "1-1"
+  }
+ ]
+}

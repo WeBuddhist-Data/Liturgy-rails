@@ -12,7 +12,7 @@ root_text_title: "ལྷ་མོར་བསྟོད་པ་ཡན་ལག�
 source_description: "Single recording of the recitation of Seven-Branch Praise to the Goddess by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-05 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-05
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།.m4a"
+audio_file: "1-SOURCES/Audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།/audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།.m4a"
 accompaniment: false
 duration: "00:03:14.45"
 duration_seconds: 194.455
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 3148805
-sha256: d24d3f94e67f6ce4d9be5644a57efb67ff9fcc372bbaffed2b236d3ebe11ab23
-converted_from:
-  audio_file: "1-SOURCES/Audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3073
-  file_size_bytes: 74703360
-  sha256: c6ab15131d551e7dc9409e0ba9965e433552c265f1fd0f734d6e9045b9219a33
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: fbe71ea2b012502b140f8ae6cdcad289008ee3e236c5c930b319f56a0208600a
 recording_time: "17:20:38"
 scene: "050224-172038"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/ལྷ་མོར་བསྟ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།/audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།.WAV]]
+![[1-SOURCES/Audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།/audio/ལྷ་མོར་བསྟོད་པ་ཡན་ལག་བདུན་པ།.m4a]]
 
 ## Mapping
 

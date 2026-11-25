@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ལམ་གཙོ་རྣམ་གསུམ།.md",
+  "validated_at": "2026-11-24T18:03:37.926070+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA3CN7564",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ལམ་གཙོ་རྣམ་གསུམ།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Three Principal Aspects of the Path"
+      },
+      {
+        "zh": "三主要道"
+      },
+      {
+        "hi": "मार्ग के तीन प्रमुख अंग"
+      },
+      {
+        "ne": "मार्गका तीन प्रमुख पक्ष"
+      },
+      {
+        "mn": "Мөрийн гурван эрхэм"
+      },
+      {
+        "vi": "Ba Điểm Tinh Yếu Của Đạo Giác Ngộ"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P64"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

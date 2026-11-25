@@ -12,7 +12,7 @@ root_text_title: "འཕགས་པ་དཀོན་མཆོག་གསུ�
 source_description: "Single recording of the recitation of The Noble Sūtra of Recalling the Three Jewels by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-02-03 (from the BWF tags embedded in the file)."
 recording_date: 2024-02-03
 production_software: ZOOM H1essential (field recorder)
-audio_file: "1-SOURCES/Audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་མདོ།.m4a"
+audio_file: "1-SOURCES/Audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།/audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་མདོ།.m4a"
 accompaniment: false
 duration: "00:04:48.91"
 duration_seconds: 288.911
@@ -22,16 +22,7 @@ sample_rate_hz: 48000
 channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 4677821
-sha256: d7f6c0e71827fe0f956560af8ca97fa10176c7062fa1d02ce7f76b3f7804f6f0
-converted_from:
-  audio_file: "1-SOURCES/Audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་མདོ།.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3073
-  file_size_bytes: 110974464
-  sha256: 22095ee7c3e09c17a86f9bdcc2ea8fb5a68df3480e10ca455c1bdffb6bf0a2fd
-  converted: "2026-11-19, AAC 128 kbps, same length to the sample"
+sha256: 068b6b3a1a483dc9086cac779039d9db4b93fce6ce35a38cd5e6dc5d53dc6eee
 recording_time: "17:16:20"
 scene: "030224-171620"
 ---
@@ -46,7 +37,7 @@ One recording of the root text [[1-SOURCES/Text/འཕགས་པ་དཀོ�
 
 ## Recitation
 
-![[1-SOURCES/Audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།/audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་མདོ།.WAV]]
+![[1-SOURCES/Audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།/audio/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་མདོ།.m4a]]
 
 ## Mapping
 

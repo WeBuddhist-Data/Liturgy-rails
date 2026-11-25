@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL91A132245EC4",
+  "title": {
+    "bo": "འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ། །"
+  },
+  "alt_titles": [
+    {
+      "en": "The Essence of Practice: Advice That Benefits at the Time of Death"
+    },
+    {
+      "zh": "臨終饒益教授：修持心要"
+    },
+    {
+      "hi": "मृत्यु के समय लाभकारी उपदेश: अभ्यास का सार"
+    },
+    {
+      "ne": "मृत्युको समयमा लाभदायक उपदेश: अभ्यासको सार"
+    },
+    {
+      "mn": "Нас нөгчих цагт тустай сургаал: Бүтээлийн шим"
+    },
+    {
+      "vi": "Tinh Yếu Thực Hành: Lời Khuyên Hữu Ích Lúc Lâm Chung"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1646"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

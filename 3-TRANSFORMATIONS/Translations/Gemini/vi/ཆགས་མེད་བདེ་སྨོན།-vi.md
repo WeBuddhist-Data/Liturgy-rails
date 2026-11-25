@@ -37,6 +37,7 @@ generated: 2026-09-07
 blocks_translated: 85
 blocks_total: 85
 status: draft
+toc_id: cQqUC1BXYhYW3VjlhG6id
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -56,7 +57,7 @@ Emaho
 Từ nơi đây về hướng mặt trời lặn,
 Vượt qua vô số vô biên thế giới,
 Nơi vùng đất vươn lên cao đôi chút,
-Là cõi Tịnh độ Cực Lạc thanh tịnh. ^1
+Là cõi Tịnh độ Cực Lạc thanh tịnh. ^0-1
 
 > བདག་གི་ཆུ་བུར་མིག་གིས་མ་མཐོང་ཡང༌། །
 > རང་སེམས་གསལ་བའི་ཡིད་ལ་ལམ་མེར་གསལ། །
@@ -66,7 +67,7 @@ Là cõi Tịnh độ Cực Lạc thanh tịnh. ^1
 Dù nhục nhãn bong bóng nước này chẳng thể thấy,
 Tâm quang hiển lộ, ý con vẫn tỏ tường sáng rỡ.
 Nơi ấy ngự Đức Thế Tôn Phật A Di Đà,
-Thân mang sắc đỏ hồng ngọc rực rỡ uy quang. ^2
+Thân mang sắc đỏ hồng ngọc rực rỡ uy quang. ^0-2
 
 > དབུ་ལ་གཙུག་གཏོར་ཞབས་ལ་འཁོར་ལོ་སོགས། །
 > མཚན་བཟང་སོ་གཉིས་དཔེ་བྱད་བརྒྱད་ཅུས་སྤྲས། །
@@ -76,7 +77,7 @@ Thân mang sắc đỏ hồng ngọc rực rỡ uy quang. ^2
 Nhục kế trên đảnh đầu, bánh xe nơi lòng bàn chân,
 Trang nghiêm với ba mươi hai tướng tốt, tám mươi vẻ đẹp.
 Một mặt hai tay kết ấn thiền định nâng bình bát,
-Khoác trên mình ba mảnh pháp y ngự tọa kiết già. ^3
+Khoác trên mình ba mảnh pháp y ngự tọa kiết già. ^0-3
 
 > པདྨ་སྟོང་ལྡན་ཟླ་བའི་གདན་སྟེང་དུ། །
 > བྱང་ཆུབ་ཤིང་ལ་སྐུ་རྒྱབ་རྟེན་མཛད་དེ། །
@@ -86,7 +87,7 @@ Khoác trên mình ba mảnh pháp y ngự tọa kiết già. ^3
 Trên bảo tọa nguyệt luân và hoa sen ngàn cánh,
 Lưng Ngài nương tựa vào cội cây Bồ-đề,
 Đôi mắt từ bi từ xa xăm nhìn con chiếu cố.
-Bên phải Ngài là Bồ-tát Quán Thế Âm, ^4
+Bên phải Ngài là Bồ-tát Quán Thế Âm, ^0-4
 
 > སྐུ་མདོག་དཀར་པོ་ཕྱག་གཡོན་པད་དཀར་འཛིན། །
 > གཡོན་དུ་བྱང་ཆུབ་སེམས་དཔའ་མཐུ་ཆེན་ཐོབ། །
@@ -96,7 +97,7 @@ Bên phải Ngài là Bồ-tát Quán Thế Âm, ^4
 Thân sắc trắng, tay trái cầm đóa bạch liên,
 Bên trái Ngài là Bồ-tát Đại Thế Chí,
 Thân sắc xanh dương, tay trái cầm hoa sen điểm chày kim cang,
-Tay phải cả hai vị đều kết ấn ban sự quy y hướng về con. ^5
+Tay phải cả hai vị đều kết ấn ban sự quy y hướng về con. ^0-5
 
 > གཙོ་བོ་གསུམ་པོ་རི་རྒྱལ་ལྷུན་པོ་བཞིན། །
 > ལྷང་ངེ་ལྷན་ནེ་ལྷམ་མེར་བཞུགས་པའི་འཁོར། །
@@ -106,7 +107,7 @@ Tay phải cả hai vị đều kết ấn ban sự quy y hướng về con. ^5
 Ba vị Tôn chủ sừng sững như núi chúa Tu-di,
 Ngự rạng ngời, tĩnh tại, chói lọi huy hoàng; cùng quyến thuộc là
 Trăm ngàn vạn ức Tỳ-kheo Bồ-tát chúng,
-Tất cả đều mang thân sắc vàng kim, trang nghiêm bằng tướng tốt vẻ đẹp. ^6
+Tất cả đều mang thân sắc vàng kim, trang nghiêm bằng tướng tốt vẻ đẹp. ^0-6
 
 > ཆོས་གོས་རྣམ་གསུམ་གསོལ་ཞིང་སེར་ལྟེམ་མེ། །
 > མོས་གུས་ཕྱག་ལ་ཉེ་རིང་ཁྱད་མེད་ཕྱིར། །
@@ -116,7 +117,7 @@ Tất cả đều mang thân sắc vàng kim, trang nghiêm bằng tướng tố
 Khoác trên mình ba mảnh pháp y, tỏa ánh vàng rực rỡ.
 Bởi tâm chí thành đảnh lễ chẳng màng khoảng cách xa gần,
 Nên con xin đem ba nghiệp kính cẩn cúi đầu đảnh lễ,
-Đấng Pháp thân Vô Lượng Quang Phật, Đức Bộ chủ. ^7
+Đấng Pháp thân Vô Lượng Quang Phật, Đức Bộ chủ. ^0-7
 
 > ཕྱག་གཡས་འོད་ཟེར་ལས་སྤྲུལ་སྤྱན་རས་གཟིགས། །
 > ཡང་སྤྲུལ་སྤྱན་རས་གཟིགས་དབང་བྱེ་བ་བརྒྱ། །
@@ -126,7 +127,7 @@ Nên con xin đem ba nghiệp kính cẩn cúi đầu đảnh lễ,
 Từ hào quang tay phải hóa hiện Quán Thế Âm,
 Lại hóa hiện ra trăm ngàn vạn ức Quán Thế Âm,
 Từ hào quang tay trái hóa hiện Độ Mẫu,
-Lại hóa hiện ra trăm ngàn vạn ức Tôn Độ Mẫu. ^8
+Lại hóa hiện ra trăm ngàn vạn ức Tôn Độ Mẫu. ^0-8
 
 > ཐུགས་ཀྱི་འོད་ཟེར་ལས་སྤྲུལ་པདྨ་འབྱུང༌། །
 > ཡང་སྤྲུལ་ཨོ་རྒྱན་བྱེ་བ་ཕྲག་བརྒྱ་འགྱེད། །
@@ -136,7 +137,7 @@ Lại hóa hiện ra trăm ngàn vạn ức Tôn Độ Mẫu. ^8
 Từ hào quang nơi tâm hóa hiện Liên Hoa Sanh,
 Lại hóa hiện ra trăm ngàn vạn ức Oḍḍiyāna.
 Đảnh lễ Pháp thân Phật A Di Đà.
-Bằng Phật nhãn soi chiếu khắp ngày đêm sáu thời, ^9
+Bằng Phật nhãn soi chiếu khắp ngày đêm sáu thời, ^0-9
 
 > སེམས་ཅན་ཀུན་ལ་བརྩེ་བས་རྟག་ཏུ་གཟིགས། །
 > སེམས་ཅན་ཀུན་གྱི་ཡིད་ལ་གང་དྲན་པའི། །
@@ -146,7 +147,7 @@ Bằng Phật nhãn soi chiếu khắp ngày đêm sáu thời, ^9
 Ngài thường xót thương chiếu soi thảy mọi chúng sinh.
 Bất kể ý niệm nào chúng sinh đang khắc ghi,
 Hay mọi vọng tưởng khởi lên Ngài luôn thấu tỏ.
-Bất kể lời lẽ nào chúng sinh thốt ra từ miệng, ^10
+Bất kể lời lẽ nào chúng sinh thốt ra từ miệng, ^0-10
 
 > རྟག་ཏུ་མ་འདྲེས་སོ་སོར་སྙན་ལ་གསན། །
 > ཀུན་མཁྱེན་འོད་དཔག་མེད་ལ་ཕྱག་འཚལ་ལོ། །
@@ -156,7 +157,7 @@ Bất kể lời lẽ nào chúng sinh thốt ra từ miệng, ^10
 Nhĩ căn Ngài luôn lắng nghe phân minh từng âm thanh,
 Đảnh lễ Đấng Toàn giác Phật A Di Đà.
 Ngoại trừ kẻ báng bổ Chánh pháp và phạm tội vô gián,
-Bất cứ ai kính tin Ngài và phát nguyện vãng sinh, ^11
+Bất cứ ai kính tin Ngài và phát nguyện vãng sinh, ^0-11
 
 > བདེ་བ་ཅན་དེར་སྐྱེ་བའི་སྨོན་ལམ་གྲུབ། །
 > བར་དོར་བྱོན་ནས་ཞིང་དེར་འདྲེན་པར་གསུངས། །
@@ -166,7 +167,7 @@ Bất cứ ai kính tin Ngài và phát nguyện vãng sinh, ^11
 Đều sẽ viên mãn sở nguyện sinh về cõi Cực Lạc.
 Ngài phán hứa sẽ quang lâm chốn bardo để tiếp dẫn về cõi ấy,
 Đảnh lễ Đấng Tiếp dẫn Phật A Di Đà.
-Thọ mạng của Ngài đong đếm bằng vô lượng kiếp, ^12
+Thọ mạng của Ngài đong đếm bằng vô lượng kiếp, ^0-12
 
 > མྱ་ངན་མི་འདའ་ད་ལྟར་མངོན་སུམ་བཞུགས། །
 > ཁྱེད་ལ་རྩེ་གཅིག་གུས་པས་གསོལ་བཏབ་ན། །
@@ -176,7 +177,7 @@ Thọ mạng của Ngài đong đếm bằng vô lượng kiếp, ^12
 Chẳng nhập Niết-bàn mà hiển hiện ngay hiện tiền.
 Nếu hết lòng chí thành nhất tâm cầu khẩn Ngài,
 Thì ngoại trừ ác nghiệp định sẵn đã chín muồi,
-Dẫu mạng tận vẫn có thể duy trì thọ đến trăm tuổi, ^13
+Dẫu mạng tận vẫn có thể duy trì thọ đến trăm tuổi, ^0-13
 
 > དུས་མིན་འཆི་བ་མ་ལུས་བཟློག་པར་གསུངས། །
 > མགོན་པོ་ཚེ་དཔག་མེད་ལ་ཕྱག་འཚལ་ལོ། །
@@ -186,7 +187,7 @@ Dẫu mạng tận vẫn có thể duy trì thọ đến trăm tuổi, ^13
 Mọi cái chết phi thời thảy đều được đẩy lùi.
 Xin đảnh lễ Đức Hộ Chủ Vô Lượng Thọ Phật.
 Dẫu đem vô số vô lượng tam thiên đại thiên thế giới,
-Lấp đầy bởi trân bảo rồi mang ra bố thí cúng dường, ^14
+Lấp đầy bởi trân bảo rồi mang ra bố thí cúng dường, ^0-14
 
 > འོད་དཔག་མེད་པའི་མཚན་དང་བདེ་བ་ཅན། །
 > ཐོས་ནས་དད་པས་ཐལ་མོ་སྦྱར་བྱས་ན། །
@@ -196,7 +197,7 @@ Lấp đầy bởi trân bảo rồi mang ra bố thí cúng dường, ^14
 Danh hiệu Phật A Di Đà cùng cõi Cực Lạc,
 Nếu có người nghe danh và sinh tín tâm chắp tay kính lễ,
 Thì công đức ấy được dạy là vô cùng to lớn.
-Do vậy con kính cẩn đảnh lễ Phật A Di Đà. ^15
+Do vậy con kính cẩn đảnh lễ Phật A Di Đà. ^0-15
 
 > གང་ཞིག་འོད་དཔག་མེད་པའི་མཚན་ཐོས་ནས། །
 > ཁ་ཞེ་མེད་པར་སྙིང་ཁོང་རུས་པའི་གཏིང༌། །
@@ -208,7 +209,7 @@ Bất cứ ai nghe danh hiệu Phật A Di Đà,
 Mà không chút giả dối, từ tận sâu thẳm tâm can,
 Chỉ một lần phát khởi trọn vẹn niềm tín tâm,
 Thì người ấy sẽ không thoái chuyển trên đường Bồ-đề,
-Đảnh lễ Đấng Bảo hộ Phật A Di Đà. ^16
+Đảnh lễ Đấng Bảo hộ Phật A Di Đà. ^0-16
 
 > སངས་རྒྱས་འོད་དཔག་མེད་པའི་མཚན་ཐོས་ནས། །
 > དེ་ནི་བྱང་ཆུབ་སྙིང་པོ་མ་ཐོབ་བར། །
@@ -220,7 +221,7 @@ Nhờ nghe được danh hiệu Đức Phật A Di Đà,
 Mà cho đến khi chứng đạt tinh tủy Bồ-đề,
 Sẽ không sinh thân nữ nhân, lại thọ sinh vào dòng dõi tôn quý,
 Trong mọi đời mọi kiếp, giới luật luôn thanh tịnh vẹn toàn,
-Đảnh lễ Đấng Thiện Thệ Phật A Di Đà. ^17
+Đảnh lễ Đấng Thiện Thệ Phật A Di Đà. ^0-17
 
 > བདག་གི་ལུས་དང་ལོངས་སྤྱོད་དགེ་རྩར་བཅས། །
 > དངོས་སུ་འབྱོར་པའི་མཆོད་པ་ཅི་མཆིས་པ། །
@@ -236,7 +237,7 @@ Cùng tâm hóa hiện các vật phẩm, biểu tượng cát tường và th�
 Vốn từ sơ thủy đã tác thành tam thiên đại thiên thế giới,
 Bốn châu lục, núi Tu-di, trăm ngàn vạn ức mặt trời mặt trăng,
 Và tất thảy mọi vinh hoa thọ dụng của trời, rồng, người,
-Xin dùng tâm quán tưởng dâng cúng lên Phật A Di Đà. ^18
+Xin dùng tâm quán tưởng dâng cúng lên Phật A Di Đà. ^0-18
 
 > བདག་ལ་ཕན་ཕྱིར་ཐུགས་རྗེའི་སྟོབས་ཀྱིས་བཞེས། །
 > ཕ་མས་ཐོག་དྲངས་བདག་སོགས་འགྲོ་ཀུན་གྱིས། །
@@ -248,7 +249,7 @@ Xin Ngài dùng sức đại bi nạp thọ để lợi ích cho con.
 Khởi đầu là cha mẹ, bản thân con cùng thảy mọi chúng sinh,
 Từ vô thủy kiếp cho đến tận ngày nay,
 Sát sinh, trộm cắp và tà dâm,
-Ba ác nghiệp của thân con xin thành tâm sám hối. ^19
+Ba ác nghiệp của thân con xin thành tâm sám hối. ^0-19
 
 > རྫུན་དང་ཕྲ་མ་ཚིག་རྩུབ་ངག་འཆལ་བ། །
 > ངག་གི་མི་དགེ་བཞི་པོ་མཐོལ་ལོ་བཤགས། །
@@ -258,7 +259,7 @@ Ba ác nghiệp của thân con xin thành tâm sám hối. ^19
 Nói dối, nói lưỡi hai chiều, ác khẩu và nói lời thêu dệt,
 Bốn ác nghiệp của ngữ con xin thành tâm sám hối.
 Tham lam, sân hận và tà kiến,
-Ba ác nghiệp của ý con xin thành tâm sám hối. ^20
+Ba ác nghiệp của ý con xin thành tâm sám hối. ^0-20
 
 > ཕ་མ་སློབ་དཔོན་དགྲ་བཅོམ་བསད་པ་དང༌། །
 > རྒྱལ་བའི་སྐུ་ལ་ངན་སེམས་སྐྱེས་པ་དང༌། །
@@ -272,7 +273,7 @@ Khởi ác tâm làm chảy máu thân Phật,
 Tích tập nghiệp ngũ nghịch con xin thành tâm sám hối.
 Giết tỳ-kheo, sa-di và xâm hại tỳ-kheo ni,
 Phá hủy tượng Phật, bảo tháp, tự viện cùng các ác nghiệp tương tự,
-Tạo nghiệp ác cận ngũ nghịch con xin thành tâm sám hối. ^21
+Tạo nghiệp ác cận ngũ nghịch con xin thành tâm sám hối. ^0-21
 
 > དཀོན་མཆོག་ལྷ་ཁང་གསུང་རབ་རྟེན་གསུམ་སོགས། །
 > དཔང་ཞེས་ཚད་བཙུགས་མནའ་ཟོས་ལ་སོགས་པ། །
@@ -280,7 +281,7 @@ Tạo nghiệp ác cận ngũ nghịch con xin thành tâm sám hối. ^21
 
 Lấy Tam Bảo, tự viện, kinh điển cùng tượng kinh tháp v.v.,
 Làm chứng nhân, thề thốt, nuốt lời thề cùng các ác nghiệp tương tự,
-Tích tập nghiệp ác hủy báng Chánh pháp con xin thành tâm sám hối. ^22
+Tích tập nghiệp ác hủy báng Chánh pháp con xin thành tâm sám hối. ^0-22
 
 > ཁམས་གསུམ་སེམས་ཅན་བསད་ལས་སྡིག་ཆེ་བ། །
 > བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ལ་སྐུར་པ་བཏབ། །
@@ -288,7 +289,7 @@ Tích tập nghiệp ác hủy báng Chánh pháp con xin thành tâm sám hối
 
 Lớn hơn cả tội giết hại chúng sinh trong ba cõi,
 Chính là phỉ báng các bậc Bồ-tát,
-Tích tập ác nghiệp vô nghĩa con xin thành tâm sám hối. ^23
+Tích tập ác nghiệp vô nghĩa con xin thành tâm sám hối. ^0-23
 
 > དགེ་བའི་ཕན་ཡོན་སྡིག་པའི་ཉེས་དམིགས་དང༌། །
 > དམྱལ་བའི་སྡུག་བསྔལ་ཚེ་ཚད་ལ་སོགས་པ། །
@@ -300,7 +301,7 @@ Lợi ích của thiện hạnh, hiểm họa của ác hạnh,
 Đau khổ và thọ lượng của địa ngục cùng những điều tương tự,
 Dù nghe nhưng chẳng tin, cho rằng đó chỉ là lời nói suông,
 Nghiệp ác này còn nặng nề hơn cả nghiệp ngũ nghịch,
-Tích tập ác nghiệp không thể giải thoát con xin thành tâm sám hối. ^24
+Tích tập ác nghiệp không thể giải thoát con xin thành tâm sám hối. ^0-24
 
 > ཕམ་པ་བཞི་དང་ལྷག་མ་བཅུ་གསུམ་དང༌། །
 > སྤང་ལྟུང་སོར་བཤགས་ཉེས་བྱས་སྡེ་ཚན་ལྔ། །
@@ -308,7 +309,7 @@ Tích tập ác nghiệp không thể giải thoát con xin thành tâm sám h�
 
 Bốn tội ba-la-di cùng mười ba tội tăng-tàn,
 Tội xả đọa, đơn đọa, hối quá và ác tác tạo thành năm nhóm,
-Vi phạm giới luật Biệt giải thoát con xin thành tâm sám hối. ^25
+Vi phạm giới luật Biệt giải thoát con xin thành tâm sám hối. ^0-25
 
 > ནག་པོའི་ཆོས་བཞི་ལྟུང་བ་ལྔ་ལྔ་བརྒྱད། །
 > བྱང་སེམས་བསླབ་པ་ཉམས་པ་མཐོལ་ལོ་བཤགས། །
@@ -318,7 +319,7 @@ Vi phạm giới luật Biệt giải thoát con xin thành tâm sám hối. ^25
 Bốn pháp hắc ám cùng năm, năm và tám giới đọa,
 Vi phạm giới luật Bồ-tát con xin thành tâm sám hối.
 Mười bốn giới đọa căn bản và tám giới đọa thô trọng,
-Vi phạm samaya Mật chú con xin thành tâm sám hối. ^26
+Vi phạm samaya Mật chú con xin thành tâm sám hối. ^0-26
 
 > སྡོམ་པ་མ་ཞུས་མི་དགེའི་ལས་བྱས་པ། །
 > མི་ཚངས་སྤྱོད་དང་ཆང་འཐུང་ལ་སོགས་པ། །
@@ -328,7 +329,7 @@ Vi phạm samaya Mật chú con xin thành tâm sám hối. ^26
 Dù chưa thọ giới mà làm các ác nghiệp,
 Như hạnh bất tịnh, uống rượu cùng những điều tương tự,
 Đều là những ác nghiệp thuộc về tánh tội,
-Chẳng nhận biết ác nghiệp là ác nghiệp con xin thành tâm sám hối. ^27
+Chẳng nhận biết ác nghiệp là ác nghiệp con xin thành tâm sám hối. ^0-27
 
 > སྐྱབས་སྡོམ་དབང་བསྐུར་ལ་སོགས་ཐོབ་ན་ཡང༌། །
 > དེ་ཡི་སྡོམ་པ་དམ་ཚིག་བསྲུང་མ་ཤེས། །
@@ -336,7 +337,7 @@ Chẳng nhận biết ác nghiệp là ác nghiệp con xin thành tâm sám h�
 
 Dù đã thọ giới quy y, nhận quán đảnh cùng những điều tương tự,
 Lại chẳng biết gìn giữ giới luật cùng samaya của pháp ấy,
-Phạm phải các giới đọa cấm chế con xin thành tâm sám hối. ^28
+Phạm phải các giới đọa cấm chế con xin thành tâm sám hối. ^0-28
 
 > འགྱོད་པ་མེད་ན་བཤགས་པས་མི་འདག་པས། །
 > སྔར་བྱས་སྡིག་པ་ཁོང་དུ་དུག་སོང་ལྟར། །
@@ -344,7 +345,7 @@ Phạm phải các giới đọa cấm chế con xin thành tâm sám hối. ^28
 
 Nếu chẳng hối hận thì sám hối không thể thanh tịnh,
 Những ác nghiệp đã tạo trước đây tựa như nuốt phải độc dược,
-Sinh tâm tàm quý, sợ hãi và vô cùng hối hận con xin sám hối. ^29
+Sinh tâm tàm quý, sợ hãi và vô cùng hối hận con xin sám hối. ^0-29
 
 > ཕྱིན་ཆད་སྡོམ་སེམས་མེད་ན་མི་དག་པས། །
 > ཕྱིན་ཆད་སྲོག་ལ་བབ་ཀྱང་མི་དགེའི་ལས། །
@@ -356,7 +357,7 @@ Nếu về sau không quyết tâm thọ trì thì chẳng thể thanh tịnh,
 Từ nay về sau dù mất mạng cũng không tạo ác nghiệp,
 Con xin kiên định phát thệ nguyện này trong tâm.
 Đấng Thiện Thệ A Di Đà cùng các Phật tử,
-Xin ban gia trì cho tâm tục con hoàn toàn thanh tịnh. ^30
+Xin ban gia trì cho tâm tục con hoàn toàn thanh tịnh. ^0-30
 
 > གཞན་གྱིས་དགེ་བ་བྱེད་པ་ཐོས་པའི་ཚེ། །
 > དེ་ལ་ཕྲག་དོག་མི་དགེའི་སེམས་སྤངས་ནས། །
@@ -366,7 +367,7 @@ Xin ban gia trì cho tâm tục con hoàn toàn thanh tịnh. ^30
 Khi nghe người khác hành trì các thiện hạnh,
 Xả ly tâm tật đố và bất thiện đối với việc làm ấy,
 Nếu tận đáy lòng hân hoan tùy hỷ,
-Phật dạy rằng sẽ nhận được công đức đồng đẳng như thế. ^31
+Phật dạy rằng sẽ nhận được công đức đồng đẳng như thế. ^0-31
 
 > དེ་ཕྱིར་འཕགས་པ་རྣམས་དང་སོ་སྐྱེ་ཡིས། །
 > དགེ་བ་གང་བསྒྲུབས་ཀུན་ལ་ཡི་རང་ངོ༌། །
@@ -376,7 +377,7 @@ Phật dạy rằng sẽ nhận được công đức đồng đẳng như thế
 Do đó bất cứ thiện hạnh nào chư vị Thánh giả cùng phàm phu,
 Đã tích tập được con đều xin tùy hỷ tất thảy.
 Phát khởi Bồ-đề tâm hướng về quả vị Giác ngộ Vô thượng,
-Thực hành hạnh lợi ích chúng sinh rộng lớn con xin tùy hỷ. ^32
+Thực hành hạnh lợi ích chúng sinh rộng lớn con xin tùy hỷ. ^0-32
 
 > མི་དགེ་བཅུ་པོ་སྤངས་པ་དགེ་བ་བཅུ། །
 > གཞན་གྱི་སྲོག་བསྐྱབ་སྦྱིན་པ་གཏོང་བ་དང༌། །
@@ -392,7 +393,7 @@ Gìn giữ giới luật và nói lời chân thật,
 Hòa giải hận thù, nói lời nhu hòa ngay thẳng,
 Nói lời ý nghĩa, ít lòng ham muốn,
 Tu tập từ bi và thực hành Chánh pháp,
-Những thiện hạnh ấy con đều xin tùy hỷ. ^33
+Những thiện hạnh ấy con đều xin tùy hỷ. ^0-33
 
 > ཕྱོགས་བཅུའི་འཇིག་རྟེན་རབ་འབྱམས་ཐམས་ཅད་ན། །
 > རྫོགས་སངས་རྒྱས་ནས་རིང་པོང་མ་ལོན་པ། །
@@ -404,7 +405,7 @@ Khắp tất thảy thế giới bao la trong mười phương,
 Các vị vừa mới thành tựu quả vị Phật,
 Đối với các Ngài, Bánh xe Chánh pháp,
 Con xin thỉnh cầu mau chóng thỉnh chuyển rộng lớn.
-Cúi xin tâm thần thông của các Ngài thấu triệt điều ấy. ^34
+Cúi xin tâm thần thông của các Ngài thấu triệt điều ấy. ^0-34
 
 > སངས་རྒྱས་བྱང་སེམས་བསྟན་འཛིན་དགེ་བའི་བཤེས། །
 > མྱ་ངན་འདའ་བར་བཞེད་ཀུན་དེ་དག་ལ། །
@@ -416,13 +417,13 @@ Chư Phật, Bồ-tát, bậc trì giáo và thiện tri thức,
 Hết thảy các vị đang muốn thị hiện Niết-bàn,
 Con xin thỉnh cầu các Ngài đừng nhập Niết-bàn mà hãy trụ thế.
 Biểu hiện qua đây, mọi thiện căn ba đời của con,
-Xin hồi hướng vì lợi ích của hết thảy chúng sinh. ^35
+Xin hồi hướng vì lợi ích của hết thảy chúng sinh. ^0-35
 
 > ཀུན་ཀྱང་བླ་མེད་བྱང་ཆུབ་མྱུར་ཐོབ་ནས། །
 > ཁམས་གསུམ་འཁོར་བ་དོང་ནས་སྤྲུགས་གྱུར་ཅིག །
 
 Nguyện tất cả mau chóng đạt Vô thượng Bồ-đề,
-Luân hồi trong ba cõi thảy đều bị nhổ tận gốc rễ. ^36
+Luân hồi trong ba cõi thảy đều bị nhổ tận gốc rễ. ^0-36
 
 > དེ་ཡི་དགེ་བ་བདག་ལ་མྱུར་སྨིན་ནས། །
 > ཚེ་འདིར་དུས་མིན་འཆི་བ་བཅོ་བརྒྱད་ཞི། །
@@ -440,7 +441,7 @@ Tài bảo không dứt như sông Hằng mùa hạ,
 Chẳng bị ma oán hãm hại mà thực hành Chánh pháp,
 Mọi ý nguyện đúng pháp đều thành tựu như ý,
 Thành tựu lợi ích rộng lớn cho Giáo pháp và chúng sinh,
-Nguyện thân người này thành tựu mọi ý nghĩa. ^37
+Nguyện thân người này thành tựu mọi ý nghĩa. ^0-37
 
 > བདག་དང་བདག་ལ་འབྲེལ་ཐོགས་ཀུན། །
 > འདི་ནས་ཚེ་འཕོས་གྱུར་མ་ཐག །
@@ -452,13 +453,13 @@ Nguyện cho con cùng tất cả những ai có nhân duyên,
 Ngay khi vừa xả bỏ báo thân nơi cõi này,
 Liền được Hóa thân Phật A Di Đà,
 Cùng hội chúng Tỳ-kheo Tăng bao quanh,
-Hiện thân tiếp dẫn ngay trước mắt chúng con. ^38
+Hiện thân tiếp dẫn ngay trước mắt chúng con. ^0-38
 
 > དེ་མཐོང་ཡིད་དགའ་སྣང་བ་སྐྱིད། །
 > ཤི་བའི་སྡུག་བསྔལ་མེད་པར་ཤོག །
 
 Nhìn thấy cảnh ấy tâm hân hoan hỷ lạc,
-Nguyện không còn chịu nỗi khổ của cái chết. ^39
+Nguyện không còn chịu nỗi khổ của cái chết. ^0-39
 
 > བྱང་ཆུབ་སེམས་དཔའ་མཆེད་བརྒྱད་ནི། །
 > རྫུ་འཕྲུལ་སྟོབས་ཀྱིས་ནམ་མཁར་བྱོན། །
@@ -468,7 +469,7 @@ Nguyện không còn chịu nỗi khổ của cái chết. ^39
 Tám vị Bồ-tát là những bậc huynh đệ,
 Bằng sức thần thông quang lâm giữa hư không,
 Trên con đường đi đến cõi Cực Lạc,
-Nguyện chỉ đường và dẫn lối cho chúng con. ^40
+Nguyện chỉ đường và dẫn lối cho chúng con. ^0-40
 
 > ངན་སོང་སྡུག་བསྔལ་བཟོད་བླག་མེད། །
 > ལྷ་མིའི་བདེ་སྐྱིད་མི་རྟག་འགྱུར། །
@@ -476,7 +477,7 @@ Nguyện chỉ đường và dẫn lối cho chúng con. ^40
 
 Nỗi khổ ác đạo không thể kham nhẫn,
 Hạnh phúc cõi người, trời là vô thường biến hoại,
-Nguyện sinh tâm sợ hãi đối với những điều ấy. ^41
+Nguyện sinh tâm sợ hãi đối với những điều ấy. ^0-41
 
 > ཐོག་མ་མེད་ནས་ད་ལྟའི་བར། །
 > འཁོར་བ་འདི་ན་ཡུན་རེ་རིང༌། །
@@ -484,7 +485,7 @@ Nguyện sinh tâm sợ hãi đối với những điều ấy. ^41
 
 Từ vô thủy cho đến tận bây giờ,
 Lặn ngụp trong luân hồi này thật quá lâu dài,
-Nguyện sinh tâm chán ghét luân hồi. ^42
+Nguyện sinh tâm chán ghét luân hồi. ^0-42
 
 > མི་ནས་མི་རུ་སྐྱེ་ཆོག་ཀྱང༌། །
 > སྐྱེ་རྒ་ན་འཆི་གྲངས་མེད་མྱོང༌། །
@@ -498,7 +499,7 @@ Vẫn phải vô số lần nếm trải sinh lão bệnh tử,
 Thời ngũ trược ác thế lại có rất nhiều chướng ngại,
 Hạnh phúc của cõi người và cõi trời này,
 Chẳng khác nào thức ăn trộn lẫn độc dược,
-Nguyện không còn một mảy may ham muốn. ^43
+Nguyện không còn một mảy may ham muốn. ^0-43
 
 > ཉེ་དུ་ཟས་ནོར་མཐུན་གྲོགས་རྣམས། །
 > མི་རྟག་སྒྱུ་མ་རྨི་ལམ་བཞིན། །
@@ -506,7 +507,7 @@ Nguyện không còn một mảy may ham muốn. ^43
 
 Quyến thuộc, thức ăn, của cải, bằng hữu,
 Đều vô thường, như huyễn, như giấc mộng,
-Nguyện không còn một mảy may tham ái chấp trước. ^44
+Nguyện không còn một mảy may tham ái chấp trước. ^0-44
 
 > ས་ཆ་ཡུལ་རིས་ཁང་ཁྱིམ་རྣམས། །
 > རྨི་ལམ་ཡུལ་གྱི་ཁང་ཁྱིམ་ལྟར། །
@@ -514,7 +515,7 @@ Nguyện không còn một mảy may tham ái chấp trước. ^44
 
 Đất đai, quê hương, và nhà cửa,
 Giống như nhà cửa trong một giấc mộng,
-Nguyện liễu tri chúng chẳng hề chân thật. ^45
+Nguyện liễu tri chúng chẳng hề chân thật. ^0-45
 
 > ཐར་མེད་འཁོར་བའི་རྒྱ་མཚོ་ནས། །
 > ཉེས་ཆེན་བཙོན་ནས་ཐར་པ་བཞིན། །
@@ -524,7 +525,7 @@ Nguyện liễu tri chúng chẳng hề chân thật. ^45
 Từ biển luân hồi không lối thoát,
 Như tội nhân lĩnh án nặng được thoát khỏi ngục tù,
 Hướng về cõi tịnh độ Cực Lạc,
-Nguyện ra đi không chút ngoái nhìn lại. ^46
+Nguyện ra đi không chút ngoái nhìn lại. ^0-46
 
 > ཆགས་ཞེན་འཁྲི་བ་ཀུན་བཅད་ནས། །
 > བྱ་རྒོད་རྙི་ནས་ཐར་པ་བཞིན། །
@@ -538,7 +539,7 @@ Như đại bàng thoát khỏi bẫy rập,
 Bay qua hư không ở phương Tây,
 Băng qua vô số cõi thế giới,
 Vượt qua tất cả chỉ trong một sát-na,
-Nguyện mau chóng đến được cõi Cực Lạc. ^47
+Nguyện mau chóng đến được cõi Cực Lạc. ^0-47
 
 > དེ་རུ་སངས་རྒྱས་འོད་དཔག་མེད། །
 > མངོན་སུམ་བཞུགས་པའི་ཞལ་མཐོང་ནས། །
@@ -546,7 +547,7 @@ Nguyện mau chóng đến được cõi Cực Lạc. ^47
 
 Nơi cõi ấy, Đức Phật A Di Đà,
 Khi chiêm bái kim nhan Ngài hiện tiền,
-Nguyện cho tất thảy chướng ngại đều được thanh tịnh. ^48
+Nguyện cho tất thảy chướng ngại đều được thanh tịnh. ^0-48
 
 > སྐྱེ་གནས་བཞི་ཡི་མཆོག་གྱུར་བ། །
 > མེ་ཏོག་པདྨའི་སྙིང་པོ་ལ། །
@@ -554,13 +555,13 @@ Nguyện cho tất thảy chướng ngại đều được thanh tịnh. ^48
 
 Thù thắng nhất trong bốn loài thọ sinh,
 Nơi nhụy của một đóa hoa sen,
-Nguyện con được hóa sinh. ^49
+Nguyện con được hóa sinh. ^0-49
 
 > སྐད་ཅིག་ཉིད་ལ་ལུས་རྫོགས་ནས། །
 > མཚན་དཔེ་ལྡན་པའི་ལུས་ཐོབ་ཤོག །
 
 Trong một sát-na thân thể viên mãn,
-Nguyện đạt được sắc thân đầy đủ các tướng hảo. ^50
+Nguyện đạt được sắc thân đầy đủ các tướng hảo. ^0-50
 
 > མི་སྐྱེ་དོགས་པའི་ཐེ་ཚོམ་གྱིས། །
 > ལོ་གྲངས་ལྔ་བརྒྱའི་བར་དག་ཏུ། །
@@ -580,7 +581,7 @@ Nhưng vì cánh hoa sen chưa nở rộ,
 Nên đành chịu lỗi lầm chậm trễ diện kiến kim nhan Phật,
 Nguyện cho con không rơi vào cảnh ngộ như thế.
 Ngay khi vừa vãng sinh, hoa sen liền nở rộ,
-Nguyện cho con được chiêm bái kim nhan Phật A Di Đà. ^51
+Nguyện cho con được chiêm bái kim nhan Phật A Di Đà. ^0-51
 
 > བསོད་ནམས་སྟོབས་དང་རྫུ་འཕྲུལ་གྱིས། །
 > ལག་པའི་མཐིལ་ནས་མཆོད་པའི་སྤྲིན། །
@@ -590,7 +591,7 @@ Nguyện cho con được chiêm bái kim nhan Phật A Di Đà. ^51
 Bằng năng lực công đức và thần thông,
 Từ lòng bàn tay tuôn ra những đám mây cúng dường,
 Trải rộng vô lượng không thể nghĩ bàn,
-Nguyện dâng lên cúng dường Đức Phật cùng quyến thuộc. ^52
+Nguyện dâng lên cúng dường Đức Phật cùng quyến thuộc. ^0-52
 
 > དེ་ཚེ་དེ་བཞིན་གཤེགས་པ་དེས། །
 > ཕྱག་གཡས་བརྐྱང་ནས་མགོ་ལ་བཞག །
@@ -598,13 +599,13 @@ Nguyện dâng lên cúng dường Đức Phật cùng quyến thuộc. ^52
 
 Khi ấy nguyện Đức Như Lai,
 Duỗi cánh tay phải xoa đảnh đầu con,
-Nguyện con nhận được thọ ký Bồ-đề. ^53
+Nguyện con nhận được thọ ký Bồ-đề. ^0-53
 
 > ཟབ་དང་རྒྱ་ཆེའི་ཆོས་ཐོས་ནས། །
 > རང་རྒྱུད་སྨིན་ཅིང་གྲོལ་བར་ཤོག །
 
 Sau khi lắng nghe giáo pháp thâm sâu quảng đại,
-Nguyện tâm tương tục được chín muồi và giải thoát. ^54
+Nguyện tâm tương tục được chín muồi và giải thoát. ^0-54
 
 > སྤྱན་རས་གཟིགས་དང་མཐུ་ཆེན་ཐོབ། །
 > རྒྱལ་སྲས་ཐུ་བོ་རྣམ་གཉིས་ཀྱིས། །
@@ -612,7 +613,7 @@ Nguyện tâm tương tục được chín muồi và giải thoát. ^54
 
 Nguyện Đức Quán Thế Âm và Đức Đại Thế Chí,
 Hai vị trưởng tử tối thắng của Phật,
-Ban gia trì và nhiếp thọ lấy con. ^55
+Ban gia trì và nhiếp thọ lấy con. ^0-55
 
 > ཉིན་རེ་བཞིན་དུ་ཕྱོགས་བཅུ་ཡི། །
 > སངས་རྒྱས་བྱང་སེམས་དཔག་མེད་པ། །
@@ -626,7 +627,7 @@ Vô lượng vô biên chư Phật và Bồ-tát,
 Cúng dường Đức Phật A Di Đà, và
 Khi quang lâm chiêm bái cõi giới ấy,
 Nguyện con được cung kính cúng dường tất cả chư tôn,
-Và thọ nhận dòng cam lộ Chính Pháp. ^56
+Và thọ nhận dòng cam lộ Chính Pháp. ^0-56
 
 > རྫུ་འཕྲུལ་ཐོགས་མ་མེད་པ་ཡིས། །
 > མངོན་དགའི་ཞིང་དང་དཔལ་ལྡན་ཞིང༌། །
@@ -648,7 +649,7 @@ Trước các Đức Bất Động, Bảo Sinh, Bất Không Thành Tựu,
 Thỉnh cầu quán đảnh, gia trì và giới luật,
 Sau khi dâng lên muôn vàn phẩm vật cúng dường,
 Đến chiều tối trở về lại cõi Cực Lạc,
-Nguyện con lướt đi không vướng bóng gian nan. ^57
+Nguyện con lướt đi không vướng bóng gian nan. ^0-57
 
 > པོ་ཊ་ལ་དང་ལྕང་ལོ་ཅན། །
 > རྔ་ཡབ་གླིང་དང་ཨོ་རྒྱན་ཡུལ། །
@@ -660,7 +661,7 @@ Cõi Potala và cõi Alakavati,
 Châu Camara và xứ Oḍḍiyāna,
 Hàng trăm triệu cõi Tịnh độ Hóa thân,
 Bồ-tát Quán Thế Âm và Độ Mẫu,
-Hàng trăm triệu Kim Cang Thủ và Liên Hoa Sanh, ^58
+Hàng trăm triệu Kim Cang Thủ và Liên Hoa Sanh, ^0-58
 
 > མཇལ་ཞིང་མཆོད་པ་རྒྱ་མཚོས་མཆོད། །
 > དབང་དང་གདམས་ངག་ཟབ་མོ་ཞུ། །
@@ -670,7 +671,7 @@ Hàng trăm triệu Kim Cang Thủ và Liên Hoa Sanh, ^58
 Nguyện chiêm bái và dâng cúng dường như biển cả,
 Thỉnh cầu quán đảnh cùng giáo huấn thâm sâu,
 Rồi nhanh chóng trở về bổn thổ Cực Lạc,
-Nguyện con lướt đi không chút ngại ngần. ^59
+Nguyện con lướt đi không chút ngại ngần. ^0-59
 
 > ཤུལ་གྱི་ཉེ་དུ་གྲྭ་སློབ་སོགས། །
 > ལྷ་ཡི་མིག་གིས་གསལ་བར་མཐོང༌། །
@@ -680,7 +681,7 @@ Nguyện con lướt đi không chút ngại ngần. ^59
 Thân bằng quyến thuộc, đệ tử bỏ lại phía sau,
 Nguyện tỏ tường nhìn thấy bằng thiên nhãn,
 Che chở bảo bọc và ban xuống gia trì,
-Lúc họ lâm chung nguyện dẫn dắt về cõi ấy. ^60
+Lúc họ lâm chung nguyện dẫn dắt về cõi ấy. ^0-60
 
 > བསྐལ་བཟང་འདི་ཡི་བསྐལ་པའི་ཡུན། །
 > བདེ་བ་ཅན་གྱི་ཞག་གཅིག་སྟེ། །
@@ -690,7 +691,7 @@ Lúc họ lâm chung nguyện dẫn dắt về cõi ấy. ^60
 Trọn khoảng thời gian của một Hiền Kiếp này,
 Chỉ bằng một ngày ở cõi Cực Lạc,
 Vô lượng kiếp trôi qua không hề có cái chết,
-Nguyện con mãi mãi lưu trú cõi Tịnh này. ^61
+Nguyện con mãi mãi lưu trú cõi Tịnh này. ^0-61
 
 > བྱམས་པ་ནས་བཟུང་མོས་པའི་བར། །
 > བསྐལ་བཟང་འདི་ཡི་སངས་རྒྱས་རྣམས། །
@@ -706,7 +707,7 @@ Thị hiện ra đời ở cõi thế gian,
 Nguyện nương thần thông đi đến cõi đời này,
 Cúng dường chư Phật và lắng nghe diệu Pháp,
 Rồi sau đó quay lại cõi Tịnh độ Cực Lạc,
-Nguyện con lướt đi không chút ngại ngần. ^62
+Nguyện con lướt đi không chút ngại ngần. ^0-62
 
 > སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་བརྒྱ་སྟོང་ཕྲག །
 > བརྒྱད་ཅུ་རྩ་གཅིག་སངས་རྒྱས་ཞིང་ཀུན་གྱི། །
@@ -718,7 +719,7 @@ Trăm ngàn na-do-tha câu-chi chư Phật,
 Của tất cả tám mươi mốt cõi Tịnh độ,
 Muôn vàn công đức trang nghiêm đều hội tụ vào một,
 Thù thắng vô thượng hơn mọi cõi Tịnh độ khác,
-Nguyện con được thọ sinh về cõi Cực Lạc ấy. ^63
+Nguyện con được thọ sinh về cõi Cực Lạc ấy. ^0-63
 
 > རིན་ཆེན་ས་གཞི་ཁོད་སྙོམས་ལག་མཐིལ་ལྟར། །
 > ཡངས་ཤིང་རྒྱ་ཆེ་གསལ་ཞིང་འོད་ཟེར་འབར། །
@@ -728,7 +729,7 @@ Nguyện con được thọ sinh về cõi Cực Lạc ấy. ^63
 Mặt đất báu bằng phẳng như lòng bàn tay,
 Rộng rãi thênh thang, trong suốt tỏa hào quang,
 Đặt chân thì lún xuống, cất bước liền nâng lên,
-Nguyện thọ sinh về cõi êm ái và thênh thang ấy. ^64
+Nguyện thọ sinh về cõi êm ái và thênh thang ấy. ^0-64
 
 > རིན་ཆེན་དུ་མ་ལས་གྲུབ་དཔག་བསམ་ཤིང༌། །
 > ལོ་མ་དར་ཟབ་འབྲས་བུས་རིན་ཆེན་བརྒྱན། །
@@ -740,7 +741,7 @@ Cây như ý tạo thành từ muôn vàn châu báu,
 Lá bằng lụa là, quả bằng trân bảo điểm tô,
 Trên cây bầy chim hóa hiện hót vang tiếng thánh thót,
 Tuyên thuyết những âm thanh diệu Pháp thâm sâu và rộng lớn,
-Nguyện con thọ sinh về cõi Tịnh độ vô vàn diệu kỳ ấy. ^65
+Nguyện con thọ sinh về cõi Tịnh độ vô vàn diệu kỳ ấy. ^0-65
 
 > སྤོས་ཆུའི་ཆུ་ཀླུང་ཡན་ལག་བརྒྱད་ལྡན་མང༌། །
 > དེ་བཞིན་བདུད་རྩིའི་ཁྲུས་ཀྱི་རྫིང་བུ་རྣམས། །
@@ -756,7 +757,7 @@ Thềm bậc và lan can bao quanh bằng bảy loại trân bảo,
 Hoa sen tỏa ngát hương thơm và trĩu nặng quả lành,
 Từ hoa sen phóng chiếu ra vô lượng đạo hào quang,
 Trên đỉnh mỗi tia sáng điểm tô vô số hóa Phật,
-Nguyện con thọ sinh về cõi Tịnh độ vô cùng hy hữu ấy. ^66
+Nguyện con thọ sinh về cõi Tịnh độ vô cùng hy hữu ấy. ^0-66
 
 > མི་ཁོམ་བརྒྱད་དང་ངན་སོང་སྒྲ་མི་གྲགས། །
 > ཉོན་མོངས་དུག་ལྔ་དུག་གསུམ་ནད་དང་གདོན། །
@@ -768,7 +769,7 @@ Chẳng hề văng vẳng tên gọi tám nạn hay ác đạo,
 Năm độc, ba độc phiền não cùng với bệnh tật, ma quỷ,
 Kẻ thù hay sự nghèo khó, tranh đoạt đấu đá, v.v..
 Mọi khổ đau ở cõi ấy chưa từng bao giờ nghe đến,
-Nguyện con thọ sinh về cõi Tịnh độ ngập tràn đại lạc ấy. ^67
+Nguyện con thọ sinh về cõi Tịnh độ ngập tràn đại lạc ấy. ^0-67
 
 > བུད་མེད་མེད་ཅིང་མངལ་ནས་སྐྱེ་བ་མེད། །
 > ཀུན་ཀྱང་མེ་ཏོག་པདྨའི་སྦུབས་ནས་འཁྲུངས། །
@@ -782,7 +783,7 @@ Tất thảy đều hóa sinh từ bên trong búp hoa sen,
 Thân tướng mọi người không khác biệt, đều mang sắc vàng ròng,
 Đỉnh đầu có nhục kế, điểm tô trang nghiêm bằng các tướng hảo,
 Mọi người đều vẹn toàn năm thần thông và năm loại mắt,
-Nguyện con thọ sinh về cõi Tịnh độ vô lượng công đức ấy. ^68
+Nguyện con thọ sinh về cõi Tịnh độ vô lượng công đức ấy. ^0-68
 
 > རང་བྱུང་རིན་ཆེན་སྣ་ཚོགས་གཞལ་ཡས་ཁང༌། །
 > ཅི་འདོད་ལོངས་སྤྱོད་ཡིད་ལ་དྲན་པས་འབྱུང༌། །
@@ -798,7 +799,7 @@ Chẳng cần phải nhọc nhằn, mọi ước muốn đều thành tựu tự
 Không hề phân biệt ta người, chẳng còn bám chấp vào ngã,
 Mây cúng dường tùy tâm nguyện xuất hiện từ lòng bàn tay,
 Tất thảy cùng hỷ lạc trong vô thượng Đại thừa diệu Pháp,
-Nguyện con thọ sinh về cõi Tịnh độ cội nguồn mọi an vui ấy. ^69
+Nguyện con thọ sinh về cõi Tịnh độ cội nguồn mọi an vui ấy. ^0-69
 
 > དྲི་ཞིམ་རླུང་གིས་མེ་ཏོག་ཆར་ཆེན་འབེབས། །
 > ཤིང་དང་ཆུ་ཀླུང་པདྨོ་ཐམས་ཅད་ལས། །
@@ -812,7 +813,7 @@ Từ muôn vàn cỏ cây, sông ngòi và hoa sen,
 Thanh sắc, hương vị cùng xúc giác thảy đều làm vui thích tâm ý,
 Lớp lớp mây thọ dụng và cúng dường thường hằng tuôn chảy,
 Tuy không có nữ nhân nhưng vô số thiên nữ hóa hiện,
-Vô vàn thiên nữ cúng dường thường hằng dâng phẩm vật. ^70
+Vô vàn thiên nữ cúng dường thường hằng dâng phẩm vật. ^0-70
 
 > འདུག་པར་འདོད་ཚེ་རིན་ཆེན་གཞལ་ཡས་ཁང༌། །
 > ཉལ་བར་འདོད་ཚེ་རིན་ཆེན་ཁྲི་བཟང་སྟེང༌། །
@@ -832,7 +833,7 @@ Khi muốn lắng nghe liền vang lên âm thanh diệu Pháp thánh thót,
 Lúc không muốn thì chẳng mảy may lọt vào tai âm thanh nào,
 Ngay cả những ao hồ hay dòng sông chứa đầy nước cam lộ,
 Nóng hay lạnh thảy đều ứng hiện tùy theo tâm nguyện mong cầu,
-Nguyện con thọ sinh về cõi Tịnh độ như ý viên thành ấy. ^71
+Nguyện con thọ sinh về cõi Tịnh độ như ý viên thành ấy. ^0-71
 
 > ཞིང་དེར་རྫོགས་པའི་སངས་རྒྱས་འོད་དཔག་མེད། །
 > བསྐལ་པ་གྲངས་མེད་མྱ་ངན་མི་འདའ་བཞུགས། །
@@ -840,7 +841,7 @@ Nguyện con thọ sinh về cõi Tịnh độ như ý viên thành ấy. ^71
 
 Nơi cõi ấy, Đức Phật A Di Đà toàn giác,
 An trụ không nhập Niết-bàn vô lượng kiếp,
-Nguyện con được làm thị giả của Ngài chừng ấy thời gian. ^72
+Nguyện con được làm thị giả của Ngài chừng ấy thời gian. ^0-72
 
 > ནམ་ཞིག་འོད་དཔག་མེད་དེ་ཞི་བར་གཤེགས། །
 > བསྐལ་པ་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད། །
@@ -852,7 +853,7 @@ Khi Đức A Di Đà thị hiện bát Niết-bàn,
 Bằng lượng kiếp số nhiều như cát dòng sông Hằng,
 Khi giáo pháp của Ngài trụ thế dài gấp hai lần khoảng thời gian ấy,
 Nguyện con không xa rời bậc Nhiếp chính Bồ-tát Quán Thế Âm,
-Và thọ trì Chính Pháp trong suốt khoảng thời gian ấy. ^73
+Và thọ trì Chính Pháp trong suốt khoảng thời gian ấy. ^0-73
 
 > སྲོད་ལ་དམ་ཆོས་ནུབ་པའི་ཐོ་རངས་ལ། །
 > སྤྱན་རས་གཟིགས་དེ་མངོན་པར་སངས་རྒྱས་ནས། །
@@ -864,7 +865,7 @@ Lúc diệu Pháp lụi tàn vào hoàng hôn, thì rạng đông hôm sau,
 Đấng Quán Thế Âm sẽ hiện tiền thành tựu Phật quả,
 Trở thành Đức Phật tỏa hào quang siêu việt khắp mười phương,
 Xưng danh hiệu là Tích Tụ Cát Tường Vương,
-Khi ấy nguyện con được phụng sự, cúng dường và lắng nghe diệu Pháp. ^74
+Khi ấy nguyện con được phụng sự, cúng dường và lắng nghe diệu Pháp. ^0-74
 
 > སྐུ་ཚེ་བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་ནི། །
 > འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་དྲུག་བཞུགས་པའི་ཚེ། །
@@ -874,7 +875,7 @@ Khi ấy nguyện con được phụng sự, cúng dường và lắng nghe di�
 Thọ lượng của Người trải qua vô vàn vạn ức
 Sáu mươi sáu trăm ngàn đại kiếp trụ thế,
 Trong suốt thời gian ấy nguyện con thường hằng thị giả, phụng sự tôn kính,
-Và bằng năng lực đà-la-ni bất vong, nguyện con hộ trì diệu Pháp. ^75
+Và bằng năng lực đà-la-ni bất vong, nguyện con hộ trì diệu Pháp. ^0-75
 
 > མྱ་ངན་འདས་ནས་དེ་ཡི་བསྟན་པ་ནི། །
 > བསྐལ་པ་དུང་ཕྱུར་དྲུག་དང་བྱེ་བ་ཕྲག །
@@ -884,7 +885,7 @@ Và bằng năng lực đà-la-ni bất vong, nguyện con hộ trì diệu Phá
 Sau khi Người nhập niết-bàn, giáo pháp của Người
 Sẽ trụ thế sáu trăm triệu cùng vô số vạn
 Và ba mươi vạn đại kiếp, lúc ấy nguyện con hộ trì diệu Pháp,
-Và nguyện thường hằng chẳng rời xa Bồ-tát Đại Thế Chí. ^76
+Và nguyện thường hằng chẳng rời xa Bồ-tát Đại Thế Chí. ^0-76
 
 > དེ་ནས་མཐུ་ཆེན་ཐོབ་དེ་སངས་རྒྱས་ནས། །
 > དེ་བཞིན་གཤེགས་པ་རབ་ཏུ་བརྟན་པ་ནི། །
@@ -898,7 +899,7 @@ Trở thành Đức Như Lai Kiên Cố Tối Thắng,
 Xưng danh hiệu là Tích Tụ Bảo Công Đức Vương,
 Thọ lượng và thời kỳ giáo pháp trụ thế đều ngang bằng Đấng Quán Thế Âm,
 Nguyện con thường hằng làm thị giả hầu hạ Đức Phật ấy,
-Trọn đời dâng đồ cúng dường và hộ trì vạn diệu Pháp. ^77
+Trọn đời dâng đồ cúng dường và hộ trì vạn diệu Pháp. ^0-77
 
 > དེ་ནས་བདག་གི་ཚེ་འདི་བརྗེས་མ་ཐག །
 > ཞིང་ཁམས་དེ་འམ་དག་པའི་ཞིང་གཞན་དུ། །
@@ -906,7 +907,7 @@ Trọn đời dâng đồ cúng dường và hộ trì vạn diệu Pháp. ^77
 
 Đến khi thân mạng này của con vừa xả bỏ,
 Tại cõi Tịnh độ ấy hoặc một cõi Tịnh độ nào khác,
-Nguyện con chứng đắc quả vị vô thượng chánh đẳng chánh giác. ^78
+Nguyện con chứng đắc quả vị vô thượng chánh đẳng chánh giác. ^0-78
 
 > རྫོགས་སངས་རྒྱས་ནས་ཚེ་དཔག་མེད་པ་ལྟར། །
 > མཚན་ཐོས་ཙམ་གྱིས་འགྲོ་ཀུན་སྨིན་ཅིང་གྲོལ། །
@@ -916,7 +917,7 @@ Nguyện con chứng đắc quả vị vô thượng chánh đẳng chánh giác
 Khi đã vẹn toàn Phật quả, giống như Đức Vô Lượng Thọ,
 Chỉ vừa nghe danh hiệu cũng đủ khiến mọi chúng sinh chín muồi và giải thoát,
 Hóa hiện ra vô số hóa thân để dẫn dắt muôn loài, v.v..
-Nguyện con lợi ích vô lượng chúng sinh một cách tự nhiên chẳng cần nhọc sức. ^79
+Nguyện con lợi ích vô lượng chúng sinh một cách tự nhiên chẳng cần nhọc sức. ^0-79
 
 > དེ་བཞིན་གཤེགས་པའི་ཚེ་དང་བསོད་ནམས་དང༌། །
 > ཡོན་ཏན་ཡེ་ཤེས་གཟི་བརྗིད་ཚད་མེད་པ། །
@@ -938,7 +939,7 @@ Ngoại trừ quả báo chín muồi của nghiệp quá khứ,
 Bằng không với lửa, nước, độc tố, binh khí, dạ-xoa, la-sát, v.v..
 Đức Mâu Ni đã dạy rằng Ngài cứu độ khỏi mọi hiểm nguy.
 Nay con thọ trì danh hiệu và đảnh lễ Ngài,
-Khẩn nguyện cứu con khỏi mọi sợ hãi và khổ đau. ^80
+Khẩn nguyện cứu con khỏi mọi sợ hãi và khổ đau. ^0-80
 
 > བཀྲ་ཤིས་ཕུན་སུམ་ཚོགས་པར་བྱིན་གྱིས་རློབས། །
 > སངས་རྒྱས་སྐུ་གསུམ་བརྙེས་པའི་བྱིན་རླབས་དང༌། །
@@ -950,24 +951,24 @@ Xin ban gia trì cho cát tường viên mãn.
 Nhờ lực gia trì của chư Phật đã chứng đắc Tam thân,
 Nhờ lực gia trì của chân lý pháp tánh bất biến,
 Nhờ lực gia trì của Tăng đoàn hòa hợp không chia cắt,
-Nguyện cho lời phát nguyện này được thành tựu như ý! ^81
+Nguyện cho lời phát nguyện này được thành tựu như ý! ^0-81
 
 > དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །
 > ཏཏྱ་ཐཱ། །པཉྩ་ཌ་ཡ་ཨ་ཝ་བོ་དྷ་ན་ཡ་སྭཱ་ཧཱ། །
 
 Đảnh lễ Tam Bảo.
-Tadyatha Panca Driya Avabodhanaya Svaha. ^82
+Tadyatha Panca Driya Avabodhanaya Svaha. ^0-82
 
 > སྨོན་ལམ་འགྲུབ་པའི་གཟུངས་སོ། །
 
-Đây là đà-la-ni thành tựu mọi lời phát nguyện. ^83
+Đây là đà-la-ni thành tựu mọi lời phát nguyện. ^0-83
 
 > དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །
 > ན་མོ་མཉྫུ་ཤྲཱི་ཡེ། །ན་མོ༔སུཤྲཱི་ཡེ། །ན་མོ་ཨུཏྟ་མ་ཤྲཱི་ཡེ་སྭཱ་ཧཱ།།
 
 Đảnh lễ Tam Bảo.
-Namo Manjushriye Namo Sushriye Namo Uttama Shriye Svaha. ^84
+Namo Manjushriye Namo Sushriye Namo Uttama Shriye Svaha. ^0-84
 
 > ཞེས་བརྗོད་ནས་ཕྱག་གསུམ་འཚལ་ན་འབུམ་ཐེར་དུ་འགྱུར་བར་གསུངས། དེ་ནས་རབ་བརྒྱ་ཕྲག འབྲེང་ཅི་ནུས། ཐ་མ་ཡང་ཕྱག་བདུན་ཡན་འཚལ། རབ་འདི་མ་ཆགས་པ། འབྲིང་ལོ་ཟླ་ཙམ་མ་ཆགས་པ། ཐ་མ་ནམ་ཁོམ་སྐབས་སུ་ཁ་ནུབ་ཏུ་འགྱུ་ནས། བདེ་བ་ཅན་གྱི་ཞིང་ཁམས་ཡིད་ཁ་དྲན་ཅིང་འོད་དཔག་མེད་ལ་ཐལ་མོ་སྦྱར་ཏེ་དད་པ་རྩ་གཅིག་གིས་བཏོན་ན། ཚེ་འདིར་ཚེའི་བར་ཆད་སེལ། ཕྱི་མ་བདེ་བ་ཅན་དུ་སྐྱེ་བར་ཐེ་ཚོམ་མེད་དོ། འོད་མདོ་ཞིང་བཀོད་མདོ་དང་། པདྨ་དཀར་པོ་འཆི་མེད་རྔ་སྒྲ་སོགས་ཀྱི་དགོངས་པ་ཡིན། ཞེས་དགེ་སློང་རཱ་ག་ཨ་སྱས་སྦྱར་བས་འགྲོ་བ་སེམས་ཅན་མང་པོ་བདེ་བ་ཅན་དུ་སྐྱེ་བའི་རྒྱུ་གྱུར་ཅིག །
 
-Có lời dạy rằng sau khi tụng niệm những lời này, nếu đảnh lễ ba lần thì công đức sẽ tăng lên gấp trăm ngàn lần. Tiếp theo, bậc thượng đảnh lễ hàng trăm lạy, bậc trung đảnh lễ tùy khả năng, bậc hạ ít nhất cũng đảnh lễ từ bảy lạy trở lên. Bậc thượng trì tụng bài này không hề gián đoạn, bậc trung duy trì hàng năm hàng tháng, bậc hạ bất cứ lúc nào rảnh rỗi thì hướng mặt về phương Tây, tâm tưởng nhớ cõi Tịnh độ Cực Lạc, chắp tay trước Đức A Di Đà và trì tụng với niềm tin nhất tâm, thì đời này những chướng ngại thọ mạng sẽ được tịnh trừ, đời sau chắc chắn không chút nghi ngờ sẽ được vãng sinh về cõi Cực Lạc. Đây là ý chỉ của kinh Vô Lượng Quang, kinh Tịnh Độ Trang Nghiêm, kinh Bạch Liên Hoa, kinh Bất Tử Cổ Âm, v.v.. Nguyện bài nguyện do Tỳ-kheo Rāga Asya biên soạn này trở thành nhân duyên cho vô số chúng sinh được vãng sinh về cõi Cực Lạc. ^85
+Có lời dạy rằng sau khi tụng niệm những lời này, nếu đảnh lễ ba lần thì công đức sẽ tăng lên gấp trăm ngàn lần. Tiếp theo, bậc thượng đảnh lễ hàng trăm lạy, bậc trung đảnh lễ tùy khả năng, bậc hạ ít nhất cũng đảnh lễ từ bảy lạy trở lên. Bậc thượng trì tụng bài này không hề gián đoạn, bậc trung duy trì hàng năm hàng tháng, bậc hạ bất cứ lúc nào rảnh rỗi thì hướng mặt về phương Tây, tâm tưởng nhớ cõi Tịnh độ Cực Lạc, chắp tay trước Đức A Di Đà và trì tụng với niềm tin nhất tâm, thì đời này những chướng ngại thọ mạng sẽ được tịnh trừ, đời sau chắc chắn không chút nghi ngờ sẽ được vãng sinh về cõi Cực Lạc. Đây là ý chỉ của kinh Vô Lượng Quang, kinh Tịnh Độ Trang Nghiêm, kinh Bạch Liên Hoa, kinh Bất Tử Cổ Âm, v.v.. Nguyện bài nguyện do Tỳ-kheo Rāga Asya biên soạn này trở thành nhân duyên cho vô số chúng sinh được vãng sinh về cõi Cực Lạc. ^1-1-1

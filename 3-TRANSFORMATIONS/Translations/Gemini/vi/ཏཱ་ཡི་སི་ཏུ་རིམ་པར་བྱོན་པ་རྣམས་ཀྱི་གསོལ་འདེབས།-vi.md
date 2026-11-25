@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 11
 blocks_total: 11
 status: draft
+toc_id: jc3fLMY9xePaW6BfXjjIR
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Thần thông vô tận của muôn vàn điềm lành,
 Hóa hiện vi diệu trong cõi Phật như hải,
 Bản thể chư Phật, kho tàng đại bi duy nhất,
-Con nguyện cầu dưới gót sen Đạo sư Wangchuk Dorje. ^1
+Con nguyện cầu dưới gót sen Đạo sư Wangchuk Dorje. ^0-1
 
 > གང་གི་རང་བཞིན་ཆོས་དབྱིངས་ཁྱབ་པའི་གཟུགས། །
 > འགྲོ་བློ་མོས་པའི་ཤེས་གཞིར་རྟག་འཆར་བ། །
@@ -64,7 +65,7 @@ Con nguyện cầu dưới gót sen Đạo sư Wangchuk Dorje. ^1
 Bản tính Ngài là sắc thân biến mãn Pháp giới,
 Thường hiện thành cảnh giới cho chúng sinh tín tâm,
 Bản thể Tam Kim Cương, châu biến và bất biến,
-Con nguyện cầu dưới gót sen Đạo sư Choying Dorje. ^2
+Con nguyện cầu dưới gót sen Đạo sư Choying Dorje. ^0-2
 
 > དུས་གསུམ་རྒྱལ་བའི་སྤྱི་གཟུགས་ཀརྨ་པའི། །
 > རབ་འབྱམས་ཕྲིན་ལས་སྒྲུབ་ལ་དབང་བསྒྱུར་བ། །
@@ -74,7 +75,7 @@ Con nguyện cầu dưới gót sen Đạo sư Choying Dorje. ^2
 Bậc hiện thân chư Phật ba đời, Đức Karmapa,
 Bậc tự tại thành tựu những Phật hạnh vô biên,
 Chuỗi đản sinh trứ danh mang hồng danh Tai Situ,
-Con nguyện cầu các đời Hóa thân tuần tự giáng lâm. ^3
+Con nguyện cầu các đời Hóa thân tuần tự giáng lâm. ^0-3
 
 > རྒྱལ་ཚབ་བྱམས་མགོན་ཌོམྦི་ཧེ་རུ་ཀ །
 > གཟུགས་ཅན་སྙིང་པོས་རྗེས་བཟུང་འབངས་སྟོབས་ཆེན། །
@@ -84,7 +85,7 @@ Con nguyện cầu các đời Hóa thân tuần tự giáng lâm. ^3
 Nhiếp Chính Di Lặc Tôn, ngài Dombi Heruka,
 Đại thần uy dũng được vua Bimbisara nhiếp thọ,
 Vua Darika được ngài Saraha nhiếp thọ,
-Con nguyện cầu ba bậc chứng đắc Kim Cương địa. ^4
+Con nguyện cầu ba bậc chứng đắc Kim Cương địa. ^0-4
 
 > པདྨ་འབྱུང་གནས་རྗེས་བཟུང་གྱིམ་ཤང་ཞབས། །
 > རྩོད་མེད་ནཱ་རོས་རྗེས་བཟུང་དགྱེས་མཛད་དངོས། །
@@ -94,7 +95,7 @@ Con nguyện cầu ba bậc chứng đắc Kim Cương địa. ^4
 Đạo sư Gyim Shang được Liên Hoa Sanh nhiếp thọ,
 Hóa thân Hevajra được Naropa vô tranh nhiếp thọ,
 Ngài Wön Gompa được Dakpopa vô song nhiếp thọ,
-Con nguyện cầu ba bậc Cát Tường Heruka. ^5
+Con nguyện cầu ba bậc Cát Tường Heruka. ^0-5
 
 > དུས་གསུམ་མཁྱེན་པས་རྗེས་བཟུང་རས་ཆེན་ཞབས། །
 > ཀརྨ་པཀྵིས་རྗེས་བཟུང་ཡེ་ཤེས་དབང་། །
@@ -104,7 +105,7 @@ Con nguyện cầu ba bậc Cát Tường Heruka. ^5
 Đạo sư Rechen được Dusum Khyenpa nhiếp thọ,
 Ngài Yeshe Wang được Karma Pakshi nhiếp thọ,
 Ngài Rimgowa được Rangjung Dorje nhiếp thọ,
-Con nguyện cầu ba bậc Tự Tại Phật Hạnh. ^6
+Con nguyện cầu ba bậc Tự Tại Phật Hạnh. ^0-6
 
 > རོལ་པའི་རྡོ་རྗེས་རྗེས་བཟུང་ཏའི་ཞིང་ཆེ། །
 > དེ་བཞིན་གཤེགས་པས་རྗེས་བཟུང་ཆོས་རྒྱལ་མཚན། །
@@ -114,7 +115,7 @@ Con nguyện cầu ba bậc Tự Tại Phật Hạnh. ^6
 Ngài Tai Xingche được Rolpe Dorje nhiếp thọ,
 Ngài Chökyi Gyaltsen được Deshin Shekpa nhiếp thọ,
 Đạo sư Tashi Namgyal được Tongwa Donden nhiếp thọ,
-Con nguyện cầu ba bậc mang lại kết duyên lợi ích. ^7
+Con nguyện cầu ba bậc mang lại kết duyên lợi ích. ^0-7
 
 > རང་བྱུང་ཀུན་མཁྱེན་རྗེས་བཟུང་བཀྲ་ཤིས་མཚན། །
 > མི་བསྐྱོད་རྗེས་བཟུང་ཆོས་ཀྱི་གོ་ཆ་དང་། །
@@ -124,7 +125,7 @@ Con nguyện cầu ba bậc mang lại kết duyên lợi ích. ^7
 Ngài Tashi Tshen được đấng Toàn tri Rangjung nhiếp thọ,
 Ngài Chökyi Gocha được ngài Mikyö nhiếp thọ,
 Cùng ngài Chökyi Gyaltsen được Wangchuk Dorje nhiếp thọ,
-Con nguyện cầu ba bậc Trì Giữ Truyền Thống Giáo Pháp. ^8
+Con nguyện cầu ba bậc Trì Giữ Truyền Thống Giáo Pháp. ^0-8
 
 > ཆོས་དབྱིངས་རྡོ་རྗེས་རྗེས་བཟུང་མི་ཕམ་པ། །
 > ཡེ་ཤེས་རྡོ་རྗེས་རྗེས་བཟུང་ལེགས་བཤད་སྨྲ། །
@@ -134,7 +135,7 @@ Con nguyện cầu ba bậc Trì Giữ Truyền Thống Giáo Pháp. ^8
 Ngài Mipham được ngài Chöying Dorje nhiếp thọ,
 Ngài Lekshe Mawa được ngài Yeshe Dorje nhiếp thọ,
 Ngài Chökyi Jungne được ngài Jangchub Dorje nhiếp thọ,
-Con nguyện cầu ba bậc Bồ tát. ^9
+Con nguyện cầu ba bậc Bồ tát. ^0-9
 
 > གསོལ་བཏབ་མཐུ་ལས་བདག་སོགས་འགྲོ་བ་རྣམས། །
 > ཚོགས་གསུམ་རྡོ་རྗེའི་ས་ནོན་ཀརྨ་པའི། །
@@ -144,8 +145,8 @@ Con nguyện cầu ba bậc Bồ tát. ^9
 Nhờ oai lực nguyện cầu, nguyện con cùng chúng sinh,
 Chứng đắc Kim Cương địa của ba tập hội,
 Đạt tự tại thành tựu Phật hạnh của Đức Karmapa như ý nguyện,
-Và chứng đắc quả vị Trì Kim Cương của ba bí mật! ^10
+Và chứng đắc quả vị Trì Kim Cương của ba bí mật! ^0-10
 
 > ཅེས་རྒྱལ་མཆོག་བཅུ་པའི་ཞབས་འབྲིང་པ་བསྒོམ་ཆེན་ཀརྨ་ཤེས་རབ་ཀྱིས་གསོལ་འདེབས་མཁའ་ཁྱབ་ཅི་འདྲ་བའི་སྐྱེས་རབས་གསོལ་འདེབས་ཤིག་དགོས་ཞེས་ནན་ཆེར་བསྐུལ་བར་བརྟེན་སི་ཏུ་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱིས་བསམ་གཏན་ཡིད་འོང་གླིང་གི་དབང་ཕྱུག་ཕུག་ཏུ་སྦྱར་བའོ།།
 
-Bài nguyện này được ngài Situ Chökyi Gyaltsen biên soạn tại động Wangchuk ở Samten Yiong Ling, thể theo lời khẩn cầu tha thiết của vị thị giả thuộc Đức Karmapa thứ 10 là đại thiền giả Karma Sherab, rằng cần có một bài cầu nguyện các đời đản sinh tương tự như bài nguyện Khakhyab. ^11
+Bài nguyện này được ngài Situ Chökyi Gyaltsen biên soạn tại động Wangchuk ở Samten Yiong Ling, thể theo lời khẩn cầu tha thiết của vị thị giả thuộc Đức Karmapa thứ 10 là đại thiền giả Karma Sherab, rằng cần có một bài cầu nguyện các đời đản sinh tương tự như bài nguyện Khakhyab. ^1-1-1

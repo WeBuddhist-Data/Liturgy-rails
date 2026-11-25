@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 8
 blocks_total: 8
 status: draft
+toc_id: mweWjqbOho5isPJmmjAsH
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -54,7 +55,7 @@ status: draft
 Đối với việc kiến tạo tôn tượng Di Lặc tuyệt hảo,
 Nguyện những chúng hữu tình đã trợ duyên thành tựu,
 Đều được hầu cận dưới gót sen Chí tôn Di Lặc Từ Tôn,
-Thọ hưởng vinh quang của Chính Pháp Tối thượng thừa! ^1
+Thọ hưởng vinh quang của Chính Pháp Tối thượng thừa! ^0-1
 
 > ནམ་ཞིག་རྡོ་རྗེ་གདན་གྱི་རི་བོའི་སྤོར། །
 > བྱམས་མགོན་ཉིད་བྱེད་དབང་པོ་ཤར་བའི་ཚེ། །
@@ -64,7 +65,7 @@ Thọ hưởng vinh quang của Chính Pháp Tối thượng thừa! ^1
 Mai này trên đỉnh núi thiêng Kim Cương Tòa,
 Khi vầng thái dương Di Lặc Từ Tôn bừng sáng,
 Nguyện đóa sen trí tuệ của con hé nở,
-Thỏa mãn khát ngưỡng của muôn bầy ong thiện duyên! ^2
+Thỏa mãn khát ngưỡng của muôn bầy ong thiện duyên! ^0-2
 
 > དེ་ཚེ་རྒྱལ་བ་བྱམས་པ་རབ་ཏུ་དགྱེས། །
 > ཕྱག་གཡས་བདག་གི་མགོ་ལ་བཞག་བཞིན་དུ། །
@@ -74,7 +75,7 @@ Thỏa mãn khát ngưỡng của muôn bầy ong thiện duyên! ^2
 Khi ấy Đấng Chiến Thắng Di Lặc vô cùng hoan hỉ,
 Đặt bàn tay phải lên trên đỉnh đầu của con,
 Thọ ký cho con đạt Vô thượng Bồ-đề tối thắng,
-Nguyện con sớm chứng quả Phật vì lợi lạc chúng sinh! ^3
+Nguyện con sớm chứng quả Phật vì lợi lạc chúng sinh! ^0-3
 
 > བྱང་ཆུབ་སྒྲུབ་པའི་ཚེ་རབས་ཀུན་ཏུ་ཡང་། །
 > དུས་གསུམ་རྒྱལ་བ་སྲས་བཅས་ཐམས་ཅད་ཀྱི། །
@@ -84,7 +85,7 @@ Nguyện con sớm chứng quả Phật vì lợi lạc chúng sinh! ^3
 Trong vạn kiếp luân hồi thực hành Bồ-đề đạo,
 Hết thảy chư Phật ba đời cùng các trưởng tử,
 Đã từng hành trì biết bao diệu hạnh vô biên,
-Nguyện con gom tụ tất thảy để như lý tu hành! ^4
+Nguyện con gom tụ tất thảy để như lý tu hành! ^0-4
 
 > ལེགས་བཤད་རི་མོ་བཀྲ་བའི་ལུང་གི་གོས། །
 > རྣམ་དཔྱོད་གསེར་གྱི་ཡུ་བ་ལ་བརྟེན་ཅིང་། །
@@ -94,7 +95,7 @@ Nguyện con gom tụ tất thảy để như lý tu hành! ^4
 Tấm áo giáo pháp thêu hoa văn thiện thuyết rực rỡ,
 Căng vững vàng trên cán trượng hoàng kim tuệ phân biệt,
 Được trang hoàng hoàn hảo bằng đỉnh ngọc báu Tam học,
-Nguyện tràng phan chiến thắng Phật pháp giương khắp mười phương! ^5
+Nguyện tràng phan chiến thắng Phật pháp giương khắp mười phương! ^0-5
 
 > ཕན་བདེའི་འབྱུང་གནས་བསྟན་པ་དར་ཞིང་རྒྱས། །
 > བསྟན་འཛིན་སྐྱེས་བུ་ཐམས་ཅད་སྐུ་ཁམས་བཟང་། །
@@ -104,7 +105,7 @@ Nguyện tràng phan chiến thắng Phật pháp giương khắp mười phươ
 Nguyện Phật giáo - suối nguồn phước lạc - hưng thịnh lan tỏa,
 Nguyện các bậc trì giữ giáo pháp luôn thọ khương an,
 Cội nguồn sinh ra vạn niềm hạnh phúc cho hết thảy chúng sinh,
-Nguyện giáo pháp của Đức Phật mãi mãi rực sáng trường tồn! ^6
+Nguyện giáo pháp của Đức Phật mãi mãi rực sáng trường tồn! ^0-6
 
 > རྟག་ཏུ་བྱམས་པ་རྣམ་གསུམ་གོམས་པའི་མཐུས། །
 > བདུད་སྡེ་བྱམས་པའི་དཔུང་གིས་འཇོམས་པ་དང་། །
@@ -114,8 +115,8 @@ Nguyện giáo pháp của Đức Phật mãi mãi rực sáng trường tồn! 
 Nhờ oai lực thường hằng huân tập ba loại từ bi,
 Đánh bại mọi bè lũ ma quân bằng đạo quân từ ái,
 Và chở che muôn loài chúng sinh bằng sức mạnh lòng từ,
-Nguyện thọ nhận điềm cát tường của Đấng Chiến Thắng Di Lặc Từ Tôn! ^7
+Nguyện thọ nhận điềm cát tường của Đấng Chiến Thắng Di Lặc Từ Tôn! ^0-7
 
 > ཅེས་པ་རྗེ་ཐམས་ཅད་མཁྱེན་པ་དགེ་འདུན་གྲུབ་པས་མཛད་པའོ།། དགེའོ། །
 
-Lời nguyện này do Đấng Toàn tri Gendun Drub soạn thảo. Nguyện mang lại thiện lành! ^8
+Lời nguyện này do Đấng Toàn tri Gendun Drub soạn thảo. Nguyện mang lại thiện lành! ^1-1-1

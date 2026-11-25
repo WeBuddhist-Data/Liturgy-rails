@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "诸佛正法以及圣众前，直至菩提我皆皈依处。我以布施等所积资粮，为利众生愿成正觉果。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 10
+          },
+          {
+            "start": 10,
+            "end": 20
+          },
+          {
+            "start": 20,
+            "end": 30
+          },
+          {
+            "start": 30,
+            "end": 40
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

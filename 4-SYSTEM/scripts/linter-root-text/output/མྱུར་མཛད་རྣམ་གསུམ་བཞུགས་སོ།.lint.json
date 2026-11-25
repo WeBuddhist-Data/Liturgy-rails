@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:32.539010+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLEAD8C71390D7",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "མྱུར་མཛད་རྣམ་གསུམ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Three Praises to the Swift-Acting Protector"
+      },
+      {
+        "zh": "速疾怙主三讚"
+      },
+      {
+        "hi": "त्वरित रक्षक की तीन स्तुतियां"
+      },
+      {
+        "ne": "क्षिप्र-रक्षक महाकालका तीन स्तुति"
+      },
+      {
+        "mn": "Түргэн зохиогч гурван магтаал"
+      },
+      {
+        "vi": "Ba Lời Tán Thán Vị Hộ Chủ Tốc Tật"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P4CZ302229"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

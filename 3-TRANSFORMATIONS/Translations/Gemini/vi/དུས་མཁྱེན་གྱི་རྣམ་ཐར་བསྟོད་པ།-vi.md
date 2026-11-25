@@ -37,6 +37,7 @@ generated: 2026-09-07
 blocks_translated: 18
 blocks_total: 18
 status: draft
+toc_id: pVSYG4LooR9XTterpARnt
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -56,7 +57,7 @@ Emaho
 Bậc viên mãn tất thảy tâm nguyện
 Chủ tể hư không vô trung vô biên
 Toả chiếu ánh sáng quang minh đại bi
-Con khẩn cầu ngài Tsurphupa ^1
+Con khẩn cầu ngài Tsurphupa ^0-1
 
 > རྫོགས་སངས་གོ་འཕང་སྩོལ་མཛད་པ། །
 > རྗེ་བཙུན་མཆོག་ལ་ཕྱག་འཚལ་ཏེ། །
@@ -66,7 +67,7 @@ Con khẩn cầu ngài Tsurphupa ^1
 Đấng ban cho quả vị Chánh đẳng Chánh giác,
 Con kính lễ bậc Đạo sư tối thượng,
 Tại thánh địa Treshö của các bậc hóa thân,
-Ngài nhập vào thai tạng Trí tuệ Không Hành Nữ. ^2
+Ngài nhập vào thai tạng Trí tuệ Không Hành Nữ. ^0-2
 
 > ས་བཅུ་རྫོགས་ནས་སྐུ་འཁྲུངས་ཚེ། །
 > མཆོག་གི་སྤྲུལ་སྐུར་སྐྱེ་དགུ་དང་། །
@@ -76,7 +77,7 @@ Ngài nhập vào thai tạng Trí tuệ Không Hành Nữ. ^2
 Khi Ngài đản sinh đã viên mãn Thập địa,
 Hiện Hóa thân tối thượng, cùng muôn hữu tình,
 Và tất cả chúng sinh thảy đều cầu xin thành tựu,
-Kính lễ Ngài thị hiện Hóa thân vi diệu. ^3
+Kính lễ Ngài thị hiện Hóa thân vi diệu. ^0-3
 
 > ལོ་བརྒྱད་ལོན་ནས་གནོད་སྦྱིན་བཀུག །(དགུང་ལོ་བརྒྱད་པར་བྱང་རྒྱར་ཚོང་ལ་བྱོན་ནས་ཕྱུག་པོར་གྱུར་པའོ། )
 > བཅུ་གཅིག་ལོ་ལ་གཡུལ་ཆེན་བཟློག །(ནོར་དང་ཤ་གཉིས་ཀ་ཆགས་པའི་དམག་དཔུང་འཇོམས་པར་མཛད་དོ།)
@@ -86,7 +87,7 @@ Kính lễ Ngài thị hiện Hóa thân vi diệu. ^3
 Lên tám tuổi, Ngài nhiếp phục Dạ-xoa. (Vào năm tám tuổi, Ngài đi buôn ở phương Bắc và trở nên giàu có).
 Mười một tuổi, Ngài đẩy lui cuộc đại chiến. (Đánh tan đạo quân vấy đầy bạo lực và tham lam).
 Mười lăm tuổi, Ngài đoạn diệt kẻ thù của Đạo pháp. (Dùng pháp lực lấy lại những báu vật Tam Bảo bị kẻ khác cướp đoạt).
-Kính lễ Ngài, bậc điều phục muôn vàn ma quân. ^4
+Kính lễ Ngài, bậc điều phục muôn vàn ma quân. ^0-4
 
 > བཅུ་དྲུག་ལོ་ལ་རབ་ཏུ་བྱུང་། །
 > དགེ་སྦྱོང་ཆེན་པོའི་རྣམ་ཐར་བསྟན། །
@@ -96,7 +97,7 @@ Kính lễ Ngài, bậc điều phục muôn vàn ma quân. ^4
 Mười sáu tuổi, Ngài xuất gia,
 Thị hiện cuộc đời giải thoát của bậc Đại sa môn,
 Hộ trì kinh điển cùng truyền thống Phật pháp,
-Kính lễ Ngài kiến lập đại pháp luân. (Hoàn thành tâm nguyện của bậc Đạo sư tối thượng, thiết lập đại Tăng đoàn tại Gadrak). ^5
+Kính lễ Ngài kiến lập đại pháp luân. (Hoàn thành tâm nguyện của bậc Đạo sư tối thượng, thiết lập đại Tăng đoàn tại Gadrak). ^0-5
 
 > ཉི་ཤུའི་ལོ་ལ་དབུས་སུ་བྱོན། །
 > རིགས་པའི་གནས་ལ་མ་རྨོངས་པས། །
@@ -106,7 +107,7 @@ Kính lễ Ngài kiến lập đại pháp luân. (Hoàn thành tâm nguyện c�
 Hai mươi tuổi, Ngài du hành đến miền Ü,
 Với tâm không mê lầm nơi các minh xứ,
 Tỉnh thức trí tuệ liễu đạt mọi vạn pháp,
-Kính lễ Ngài, bậc Toàn trí vô lượng. ^6
+Kính lễ Ngài, bậc Toàn trí vô lượng. ^0-6
 
 > དཔལ་ཆེན་རྒྭ་ལོ་བཻ་རོ་དང་། །
 > ཇོ་མོ་བཀྲ་ཤིས་ཚེ་རིང་མ། །
@@ -116,7 +117,7 @@ Kính lễ Ngài, bậc Toàn trí vô lượng. ^6
 Đại sư vinh quang Galo, Vairo,
 Đức Jomo Tashi Tseringma,
 Đạo sư Lingkawa, Tshurton, và các bậc khác,
-Kính lễ tinh túy của tất cả dòng truyền thừa thực hành. ^7
+Kính lễ tinh túy của tất cả dòng truyền thừa thực hành. ^0-7
 
 > རྗེ་བཙུན་རས་ཆུང་བྱོན་པའི་ཚེ། །
 > མོས་པ་འཁྲུངས་ནས་སྤྱན་སྔར་བྱོན། །
@@ -126,7 +127,7 @@ Kính lễ tinh túy của tất cả dòng truyền thừa thực hành. ^7
 Khi Tôn giả Rechungpa quang lâm,
 Tâm chí thành bừng nở, Ngài đã diện kiến,
 Viên mãn đại lực của cả giáo lý chín muồi và giải thoát,
-Kính lễ Ngài, bậc thông đạt rốt ráo mọi giáo huấn. ^8
+Kính lễ Ngài, bậc thông đạt rốt ráo mọi giáo huấn. ^0-8
 
 > དྭགས་པོ་ཁུ་དབོན་མཇལ་བའི་ཚེ། །
 > ཆོས་སྐུ་སྤྲོས་བྲལ་རྗེན་པར་བུད། །
@@ -136,7 +137,7 @@ Kính lễ Ngài, bậc thông đạt rốt ráo mọi giáo huấn. ^8
 Khi diện kiến hai bác cháu vùng Dakpo,
 Pháp thân lìa hý luận hiển bày tỏ rạng,
 Viên mãn các chi phần Đại lạc hợp nhất,
-Chẳng còn trụ nơi tâm vọng tưởng phân biệt. ^9
+Chẳng còn trụ nơi tâm vọng tưởng phân biệt. ^0-9
 
 > གང་ཤར་ཕྱག་རྒྱ་ཆེན་པོར་རོལ། །
 > མ་རྟོགས་འགྲོ་ལ་ཐུགས་རྗེ་འཁྲུངས། །
@@ -146,7 +147,7 @@ Chẳng còn trụ nơi tâm vọng tưởng phân biệt. ^9
 Vạn pháp khởi sinh đều an trú trong Đại Ấn,
 Lòng đại bi thương xót chúng sinh chưa thấu đạt,
 Kính lễ Ngài, đấng Toàn tri Pháp vương.
-Tại Grama Trushi và các thánh địa khác, ^10
+Tại Grama Trushi và các thánh địa khác, ^0-10
 
 > ལུས་སྲོག་ལྟོས་མེད་བསྒྲུབ་པ་མཛད། །
 > མཆོག་དང་ཐུན་མོང་དངོས་གྲུབ་བརྙེས། །
@@ -156,7 +157,7 @@ Tại Grama Trushi và các thánh địa khác, ^10
 Ngài xả thân tu hành chẳng quản ngại thân mạng,
 Đạt được những thành tựu chung và tối thượng,
 Kính lễ Ngài, bậc tịnh tu viễn ly rốt ráo.
-Tsurphu chính là nền tảng của Đạo pháp, cùng với ^11
+Tsurphu chính là nền tảng của Đạo pháp, cùng với ^0-11
 
 > ཀརྨ་ཀཾ་པོ་གངས་ར་དང་། །
 > ཀཾ་ཁྱིམ་ལ་སོགས་གཙུག་ལག་བཀོད། །
@@ -166,7 +167,7 @@ Tsurphu chính là nền tảng của Đạo pháp, cùng với ^11
 Tu viện Karma, Kampo Gangra,
 Kamkhyim cùng các tịnh xá được kiến lập,
 Kính lễ Ngài kiến lập các trụ xứ dòng Kagyu.
-Trùng tu đạo tràng Daklha Gampo thiêng liêng, ^12
+Trùng tu đạo tràng Daklha Gampo thiêng liêng, ^0-12
 
 > འཚལ་པའི་འཁྲུགས་པ་མ་ལུས་བསྡུམས། །
 > འགྲོ་བ་རིགས་དྲུག་དབང་དུ་བསྡུས། །
@@ -176,7 +177,7 @@ Trùng tu đạo tràng Daklha Gampo thiêng liêng, ^12
 Chấm dứt hoàn toàn những xung đột tại Tsalpa,
 Nhiếp phục tất cả chúng sinh trong sáu cõi,
 Kính lễ Ngài, đấng Pháp vương đầy thần biến.
-Trao truyền cho các Hóa thân đại diện của chính mình, ^13
+Trao truyền cho các Hóa thân đại diện của chính mình, ^0-13
 
 > ཞྭ་ནག་ཅན་གྱི་སྐྱེ་བ་ཡིས། །
 > སངས་རྒྱས་ཀུན་གྱི་ཕྲིན་ལས་མཛད། །
@@ -186,7 +187,7 @@ Trao truyền cho các Hóa thân đại diện của chính mình, ^13
 Qua nhiều đời chuyển thế của dòng Hắc Mạo,
 Ngài hành trì Phật hạnh của tất cả chư Phật,
 Kính lễ Ngài, bậc Đạo sư dòng Karma Kagyu.
-Đấng Bảo hộ chúng sinh Sangye Repa, và ^14
+Đấng Bảo hộ chúng sinh Sangye Repa, và ^0-14
 
 > ལྷོ་པ་རྟ་སྒོམ་ལ་སོགས་པ། །
 > གྲུབ་ཐོབ་ཀུན་གྱི་གཏེར་གཅིག་པུ། །
@@ -196,7 +197,7 @@ Kính lễ Ngài, bậc Đạo sư dòng Karma Kagyu.
 Đại sư Lhopa Tagom cùng chư tôn khác,
 Bậc kho tàng duy nhất của mọi thành tựu giả,
 Kính lễ Ngài, đấng Pháp vương chứng ngộ rốt ráo.
-Hết thảy vạn pháp thảy đều là tự tính của Ngài, ^15
+Hết thảy vạn pháp thảy đều là tự tính của Ngài, ^0-15
 
 > ཁྱོད་ལ་རང་བཞིན་ཅུང་ཟད་མེད། །
 > ཀྱེ་མ་སྙིགས་མའི་གདུལ་བྱ་རྣམས། །
@@ -206,7 +207,7 @@ Hết thảy vạn pháp thảy đều là tự tính của Ngài, ^15
 Dù Ngài vốn chẳng mảy may tự tính nào tồn tại.
 Than ôi! Những kẻ hữu tình thời mạt pháp,
 Chẳng được diện kiến Ngài thật đáng xót thương thay.
-Dù bao nhiễm ô nặng nhẹ thảy đều được tịnh hóa, ^16
+Dù bao nhiễm ô nặng nhẹ thảy đều được tịnh hóa, ^0-16
 
 > ཁྱོད་དང་མཇལ་རྣམས་དོན་ཆེན་གྲུབ། །
 > ཁྱོད་ཀྱི་བྱིན་རླབས་ནུས་པ་ཡིས། །
@@ -220,8 +221,8 @@ Nương năng lực ân phúc gia trì của Ngài,
 Nguyện thấy mọi việc Ngài làm thảy đều vi diệu,
 Nguyện tin nhận mọi lời Ngài dạy thảy là chân lý,
 Nguyện tâm con hòa quyện làm một cùng tâm Ngài,
-Nguyện thành tựu công hạnh giải thoát và Phật sự của Ngài! ^17
+Nguyện thành tựu công hạnh giải thoát và Phật sự của Ngài! ^0-17
 
 > རྗེ་རོལ་པའི་རྡོ་རྗེའི་བསྟོད་པ་རྗེ་བརྒྱད་པས་མཛད་པ་བཞུགས། །
 
-Đây là bài tán thỉnh Đạo sư Rolpe Dorje do Đức Karmapa đời thứ Tám trước tác. ^18
+Đây là bài tán thỉnh Đạo sư Rolpe Dorje do Đức Karmapa đời thứ Tám trước tác. ^1-1-1

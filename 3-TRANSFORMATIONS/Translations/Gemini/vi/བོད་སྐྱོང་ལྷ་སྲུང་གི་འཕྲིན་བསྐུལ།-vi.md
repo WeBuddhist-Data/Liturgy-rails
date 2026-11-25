@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 6
 blocks_total: 6
 status: draft
+toc_id: UtKZrrTikitKJJNaqz5SU
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -62,7 +63,7 @@ Hỡi chư vị sơn thần, thổ địa an trụ và qua lại chốn này,
 Đặc biệt là Ngũ Tiên Nữ Tsering và hội chúng Tenma,
 Chín vị thần của cõi sinh tử và chư vị Hộ thần của các bậc quân vương v.v...
 Chư vị quyến thuộc thần linh hộ pháp uy mãnh bảo hộ xứ Tây Tạng!
-Bằng niềm thiết tha con khẩn cầu, xin hãy quang lâm an toạ và thụ hưởng. ^1
+Bằng niềm thiết tha con khẩn cầu, xin hãy quang lâm an toạ và thụ hưởng. ^0-1
 
 > རྫས་སྔགས་ཏིང་འཛིན་རོལ་བ་ལས་བྱུང་བའི། །
 > དཀར་གསུམ་མངར་གསུམ་ཕྱེ་མར་ཆང་ཕུད་སོགས། །
@@ -80,7 +81,7 @@ Trân bảo, lụa là, binh khí và các phẩm vật cúng dường đoan ngh
 Khói hương cúng dường tịnh trừ mọi ô uế và tội lỗi,
 Bằng lòng kính yêu sâu thẳm, con xin cất cao lời tôn vinh chư vị,
 Xin khẩn cầu, xin dâng cúng, nguyện viên mãn giới nguyện samaya, mong chư vị hoan hỉ,
-Mọi lỗi lầm do phóng dật và lười biếng sinh ra, con xin sám hối. ^2
+Mọi lỗi lầm do phóng dật và lười biếng sinh ra, con xin sám hối. ^0-2
 
 > ཡང་དག་ལྟ་དང་གཞན་ཕན་བྱང་ཆུབ་སེམས། །
 > ཐུབ་པའི་བཀའ་ལུང་བསླུ་བ་མེད་པའི་མཐུས། །
@@ -98,7 +99,7 @@ Tịnh chỉ hoàn toàn ác tâm thù hận và độc ác,
 Mau chóng đạt được tuệ nhãn phân biệt đúng sai thiện ác,
 Mọi bóng tối mạt pháp suy tàn thảy đều tiêu tan,
 Vinh quang rực rỡ của ánh sáng tự do Đạo - Đời thanh tịnh,
-Nhất định sẽ chiếu rọi, hỡi những người trì giữ samaya xin đừng thoái chí. ^3
+Nhất định sẽ chiếu rọi, hỡi những người trì giữ samaya xin đừng thoái chí. ^0-3
 
 > སྔོན་ཚེ་སློབ་དཔོན་མཚོ་སྐྱེས་རྡོ་རྗེ་དང་། །
 > རྒྱལ་བློན་སེམས་དཔའ་དུ་མས་བཀའ་བསྒོས་ཤིང་། །
@@ -116,7 +117,7 @@ Cúng dường và thiết tha khẩn cầu bằng tất cả sức mạnh tâm 
 Xin hãy dấy khởi đạo quân uy lực thần thông của tự thân,
 Cho chốn quê hương Xứ Tuyết chan hoà vinh quang an lạc,
 Mau chóng khai nở tất cả bốn loại phật sự,
-Ngay lúc này xin hãy thành tựu chớ chậm trễ! ^4
+Ngay lúc này xin hãy thành tựu chớ chậm trễ! ^0-4
 
 > ལྷག་པར་གངས་ཅན་མགོན་པོ་དང་། །
 > བསྟན་འཛིན་དམ་པའི་སྐུ་ཚེ་སྲིངས། །
@@ -126,8 +127,8 @@ Ngay lúc này xin hãy thành tựu chớ chậm trễ! ^4
 Đặc biệt xin cầu nguyện Đấng Hộ chủ Xứ Tuyết,
 Và các bậc trì giữ thánh pháp thọ mạng dài lâu,
 Tăng trưởng an lạc cho Phật pháp và chúng sinh bao la như hư không,
-Xin cho mọi ý nguyện thảy đều viên mãn tự nhiên. ^5
+Xin cho mọi ý nguyện thảy đều viên mãn tự nhiên. ^0-5
 
 > ཅེས་པ་འདི་ནི་༸རྒྱལ་དབང་༸སྐུ་ཕྲེང་བཅུ་བཞི་པ་ཆེན་པོས་བོད་རྒྱལ་ལོ་ ༢༡༠༠ ཆུ་གླང་ ཟླ་ ༡ ཚེས་ ༡ ཕྱི་ལོ་ ༡༩༧༣ ཟླ་ ༣ ཚེས་ ༥ ལ་མཛད་པའོ། །
 
-Lời khẩn nguyện này do Đức Đạt-lai Lạt-ma đời thứ 14 trước tác vào ngày 1 tháng 1 năm Thuỷ Ngưu, Hoàng lịch Tây Tạng năm 2100 (Tây lịch ngày 5 tháng 3 năm 1973). ^6
+Lời khẩn nguyện này do Đức Đạt-lai Lạt-ma đời thứ 14 trước tác vào ngày 1 tháng 1 năm Thuỷ Ngưu, Hoàng lịch Tây Tạng năm 2100 (Tây lịch ngày 5 tháng 3 năm 1973). ^1-1-1

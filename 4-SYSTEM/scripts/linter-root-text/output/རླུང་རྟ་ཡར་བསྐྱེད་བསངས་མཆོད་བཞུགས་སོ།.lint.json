@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:37.382016+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [
+    "author 'རིག་འཛིན་ཆེན་པོ་རིག་པའི་རྡོ་རྗེ།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL669DF944243D",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Smoke Offering for Raising Windhorse"
+      },
+      {
+        "zh": "增揚風馬煨桑供養文"
+      },
+      {
+        "hi": "वायु-अश्व वर्धन संग पूजा"
+      },
+      {
+        "ne": "लुङता बढाउने साङ पूजा"
+      },
+      {
+        "mn": "Хийморийн сан"
+      },
+      {
+        "vi": "Cúng Khói Tăng Trưởng Phong Mã"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}
