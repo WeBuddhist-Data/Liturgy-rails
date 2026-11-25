@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Audio/མཎྜལ།/audio/bo-jamyang-lodoe-recitation.md",
+                "file": "1-SOURCES/Text/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-jamyang-lodoe-recitation"
+              "title": "ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "c9e5398cf067246c",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།/audio/bo-jamyang-lodoe-recitation.md",
+    "1-SOURCES/Audio/མཎྜལ།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཐོག་མཐའ་མ་བཞུགས་སོ།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/དཔལ་རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
@@ -232,8 +234,6 @@
     "4-SYSTEM/reports/testing/segment-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.md",
     "4-SYSTEM/reports/testing/segment-maps/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.md",
     "4-SYSTEM/reports/testing/segment-maps/སྒྲོལ་མ་ཙིཏྟཱ་མ་ཎི་ལ་བརྟེན་པའི་ཐུན་མོང་མ་ཡིན་པའི་བླ་མའི་རྣལ་འབྱོར་ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ། །.md",
-    "4-SYSTEM/reports/testing/segment-maps/སྒྲོལ་བསྟོད་སྐྱབས་བདུན་མ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/ལམ་རིམ་སྨོན་ལམ་བཞུགས་སོ།.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
