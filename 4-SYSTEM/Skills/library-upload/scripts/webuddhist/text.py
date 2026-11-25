@@ -173,7 +173,14 @@ def collect(kind, paths):
 
 
 def _root_note(fm) -> Path | None:
-    s = str(fm.get("root_text") or "").strip()
+    """The root note a translation / commentary names: `root_text`, else `translation_of` /
+    `commentary_of` when that holds a note path or [[link]] (not a library text id)."""
+    s = ""
+    for k in ("root_text", "translation_of", "commentary_of"):
+        v = str(fm.get(k) or "").strip().strip("'\"")
+        if v and (k == "root_text" or "/" in v or v.endswith(".md") or "[[" in v):
+            s = v
+            break
     m = LINK_RE.search(s)
     s = (m.group(1) if m else s).strip()
     if not s:

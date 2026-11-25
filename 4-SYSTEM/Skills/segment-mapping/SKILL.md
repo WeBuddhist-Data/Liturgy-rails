@@ -115,6 +115,35 @@ Afterwards check the texts aligned to it: the re-sent alignment is the *live* on
 through the map; if a translation note's own pairs differ, `push --only alignment` makes it
 the note's.
 
+## Translations and commentaries: take the root's references
+
+A translation aligned 1:1 to its root (its block *i* renders root block *i*) should carry the
+root's block ids. When the root was renumbered (`1` -> `0-1`) and the translation was not, the
+library pairs them by position (`1 -> 0-1`) and nothing is broken, but the ids differ.
+`renumber_to_root.py` renames the translation's references to the root's, through the live
+alignment, content and boundaries untouched (method `renumber`, 1:1 by span):
+
+```
+python 4-SYSTEM/Skills/segment-mapping/scripts/renumber_to_root.py <notes or folders> --env dev                 # dry run
+python 4-SYSTEM/Skills/segment-mapping/scripts/renumber_to_root.py <notes or folders> --env dev --map --yes     # library
+python 4-SYSTEM/Skills/segment-mapping/scripts/renumber_to_root.py <notes or folders> --notes [--env prod] --yes  # the notes' ^anchors
+```
+
+- Library: per note, the map translation ref -> root ref comes from the live alignment (this
+  edition -> root) and must be 1:1 and cover every segment, else the note is skipped with the
+  reason. Snapshot (old ids, alignments, annotations) -> DELETE -> POST the same segments with
+  the root's references -> new ids -> alignments re-sent -> TOC / yigchungs / durchens /
+  footnotes checked (re-posted from the snapshot if gone). Same ledger map and, with `--map`,
+  the same `segment-id-maps/<note>.json` as `replace`. Prod needs `--confirm prod`, and
+  `--map`/`--no-map` after asking.
+- `--notes`: rewrites the body anchors `^1` -> `^0-1` (headings untouched), only when the
+  note's anchors are exactly the live references; run once (the notes are shared by every
+  environment), with the map from prod's alignment.
+- Do it only for roots whose segmentation is final: a root still `resegment-needed` changes
+  again, and its translations go with it.
+- These translation notes are not in the shared linter's format, so `library.py translation`
+  cannot build them; this script needs no parser (it renames what is live).
+
 ## Rules
 
 - Ask whether the map is needed before every send (`--map` / `--no-map`).
