@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.md",
-  "validated_at": "2026-11-24T18:03:34.909385+00:00",
+  "validated_at": "2026-11-25T15:08:39.142123+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
@@ -51,7 +51,8 @@
     ],
     "tag_ids": [
       "FZ5STsdU0eLvo7Nb2CpvH",
-      "ZPcgMZgVJxAMQ7rpfW72a"
+      "reYrCR4TFKpHbU8V2wH6d",
+      "zjHEBN2egpftHD7BRMQko"
     ]
   }
 }
