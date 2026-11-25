@@ -188,16 +188,28 @@ left alone, so a text never gets the same recitation twice.
    proven by replaying the server's span arithmetic. Alignments survive; recordings that
    follow the edition are named in the plan — check `audio status` afterwards.
 5. **Re-segmentation is one fixed sequence**, never "delete the segmentation and post a
-   new one": `DELETE …/segmentation` → `PATCH …/content` (one REPLACE of the whole content,
-   only if it changed) → `POST …/segmentation` → the annotations again. Each step is read
-   back before the next; a failure stops there and the ledger says how far it got.
+   new one": **segment map + snapshot** (judged by the `segment-mapping` skill's logic, saved
+   with the old segment ids and every alignment's pairs to
+   `4-SYSTEM/ledgers/<env>/segment-maps/<edition_id>.json` before anything is deleted) →
+   `DELETE …/segmentation` → `PATCH …/content` (one REPLACE of the whole content, only if it
+   changed) → `POST …/segmentation` → the new segment ids recorded in the map (the segment id
+   map: `4-SYSTEM/reports/<env>/segment-id-maps/<note>.json`, `{"segment": [{"old_segment_id",
+   "new_segment_id"}]}` with `"deleted"` for a gone segment, plus `<note>.detail.json` with
+   references and types) → every
+   dropped alignment PUT again through the map → the annotations again → cues checked. The
+   text id and edition id never change. Each step is read back before the next; a failure
+   stops there and the ledger and map say how far it got. Each old segment maps to at most
+   one new segment (a split maps to its first part; the rest stay unmapped). Show the
+   person the map's method and its non-1:1 rows (`segment-mapping` preview) before sending,
+   and **ask whether the old -> new id map is needed**: sending refuses without `--map` or
+   `--no-map` (dev/testing: usually not needed, `--map` for now while testing; prod: ask).
 6. **Before any re-segmentation the links are checked in both directions** — translations,
    commentaries, alignments, recordings, notes in the vault built on the text, or the text
    being itself a translation or commentary. **If anything is linked, `replace` refuses
    unless `--dev`.** Pass `--dev` only after the person has said they are a developer —
-   never on a guess. Re-segmenting breaks those links; a developer knows which repos
-   transclude the text, redoes the transclusions, and judges whether translations need
-   redoing (edits inside segments may leave them valid). Show them the refusal's list.
+   never on a guess. The tool re-sends the alignments through the segment map; what it cannot
+   reach — other repos' transclusions, anything outside the library storing segment ids — a
+   developer moves with the map's report. Show them the refusal's list.
 7. **`update` only adds tags**, never removes them: tags are also attached outside the notes.
    Removing one is its own step, `delete --only tags`, which removes exactly the tags status
    reports as `tags-extra` (on the library, not in the note's `tag_ids`). Before it — and
@@ -221,9 +233,10 @@ left alone, so a text never gets the same recitation twice.
 12. **A full replace is a developer's call.** `replace --dev --full-replace` runs the
     Rule 5 sequence on every named note, even one whose boundaries are unchanged and
     could be patched in place — e.g. when a developer wants every edition rebuilt, or
-    the segment types reset. It works only with `replace` and `--dev`, and breaks every
-    alignment to and from those notes: run `push --only alignment` afterwards, then
-    `status` / `verify`. Without it, Rule 4 holds: content edits go in place.
+    the segment types reset. It works only with `replace` and `--dev`; the alignments are
+    re-sent through the segment map (Rule 5) — check the aligned texts' `status` afterwards and
+    `push --only alignment` any whose note pairs differ. Without it, Rule 4 holds: content
+    edits go in place.
 13. **The frontmatter follows the server.** A frontmatter id is replaced only when the
     tool itself deleted it (a replaced table of contents) or `status` confirmed it is
     gone and names one successor (`ids-stale` → `update --only ids`). Any other id

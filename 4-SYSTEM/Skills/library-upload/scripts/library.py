@@ -17,8 +17,11 @@ Commands:
   update   PATCH / re-sync what changed    --only (text kinds): details, content, toc, yigchungs,
                                            durchens, footnotes, ids;  (audio): audio, recording
            (ids: frontmatter ids that are gone from the server get the server's current id)
-  replace  text kinds: re-segmentation — DELETE segmentation -> one full content REPLACE ->
-           POST segmentation -> annotations again; refused for a linked text unless --dev.
+  replace  text kinds: re-segmentation — segment map + snapshot (old ids, alignments) -> DELETE
+           segmentation -> one full content REPLACE -> POST segmentation -> new ids into the map ->
+           alignments re-sent through the map -> annotations again; refused for a linked text
+           unless --dev. Sending needs --map or --no-map: ask the person whether the old -> new
+           segment id map is needed (each old segment maps to at most one new one).
            audio: the file changed -> new recording on the same audio, old one deleted, cues again.
   delete   text kinds: --only alignment|toc|yigchungs|durchens|footnotes|tags (texts never;
            tags: only the tags on the environment that the note's tag_ids do not list; prints a
@@ -142,6 +145,12 @@ def main(argv=None):
                     help="replace only, with --dev: re-segment every named note (delete segmentation, replace the "
                          "whole content, post segmentation, annotations), even when in-place patching would do. "
                          "Breaks its alignments: push them again afterwards.")
+    mp = ap.add_mutually_exclusive_group()
+    mp.add_argument("--map", dest="seg_map", action="store_const", const=True,
+                    help="replace: the person needs the old -> new segment id map (report written)")
+    mp.add_argument("--no-map", dest="seg_map", action="store_const", const=False,
+                    help="replace: the person said the map is not needed (no report; the ledger still keeps "
+                         "the old ids, and the alignments are still carried over)")
     ap.add_argument("--yes", action="store_true", help="send the plan (without it nothing is sent)")
     ap.add_argument("--confirm", help="repeat the environment's name to write to a protected one (prod)")
     ap.add_argument("--confirm-remove-tags", action="store_true",
@@ -158,6 +167,12 @@ def main(argv=None):
         raise SystemExit(f"{env.name} is protected: add --confirm {env.name} to send")
     if a.full_replace and (a.command != "replace" or not a.dev):
         raise SystemExit("--full-replace works only with `replace` and --dev")
+    if a.seg_map is not None and (a.command != "replace" or a.kind == "audio"):
+        raise SystemExit("--map / --no-map go only with `text|translation|commentary replace`")
+    if a.command == "replace" and a.kind != "audio" and a.yes and a.seg_map is None:
+        raise SystemExit("Refused: re-segmenting gives every segment a new id. Ask the person whether the "
+                         "old -> new segment id map is needed (is anything outside the library pointing at "
+                         "these segments?), then add --map or --no-map. The dry run shows the map's method.")
     if a.command == "delete":
         if not a.paths:
             raise SystemExit("delete needs the notes named explicitly (no default to everything)")
@@ -191,7 +206,7 @@ def main(argv=None):
     else:
         from webuddhist import text as T
         ctx = T.Ctx(env=env, client=Client(env), ledger=Ledger(env.name, "texts"), dev=a.dev,
-                    full_replace=a.full_replace)
+                    full_replace=a.full_replace, seg_map=a.seg_map)
         states = T.assess_all(a.kind, a.paths, ctx, keep_edits=sending)
         mod, fix = T, T.FIX
 
