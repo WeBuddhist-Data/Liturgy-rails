@@ -21,14 +21,6 @@ channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 198277
 sha256: 00ecabc0ef9a8baf22f758f69eab779ab3581072d417ad582d37d7c717d46c6b
-converted_from:
-  audio_file: "1-SOURCES/Audio/དམིགས་བརྩེ་མ།/དམིགས་རྩེ་མ།.wav"
-  format: "WAV (PCM 16-bit, converted from the original ALAC M4A)"
-  codec: "PCM 16-bit little-endian"
-  bit_rate_kbps: 1536
-  file_size_bytes: 2342990
-  sha256: ac192c68de77396b60242ba4af330681a744abfca287b66b96f92a8908e063a9
-  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 file_creation_time: "2026-02-04T16:30:21.000000Z"
 ---
 

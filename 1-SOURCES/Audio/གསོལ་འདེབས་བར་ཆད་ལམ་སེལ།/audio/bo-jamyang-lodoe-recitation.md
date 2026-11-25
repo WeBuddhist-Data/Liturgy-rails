@@ -26,15 +26,6 @@ recordings:
     bit_rate_kbps: 128
     file_size_bytes: 11849731
     sha256: f469a13b73fd585fae754cba4beb6996a72579a45e8bb0041ad23fe6152d5bb5
-    converted_from:
-      file: 1-SOURCES/Audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།/audio/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.WAV
-      format: WAV (BWF)
-      codec: PCM 32-bit float little-endian
-      bit_depth: 32
-      bit_rate_kbps: 3072
-      file_size_bytes: 281105920
-      sha256: d5e25d00257ad667d1ab72ea302e13a1b3c0e6fb3a926f6ec0ef8fca11e5e0a9
-      converted: 2026-11-25, AAC 128 kbps, same length to the sample
     embedded_tags:
       encoded_by: ZOOM H1essential
       date: 2024-01-14

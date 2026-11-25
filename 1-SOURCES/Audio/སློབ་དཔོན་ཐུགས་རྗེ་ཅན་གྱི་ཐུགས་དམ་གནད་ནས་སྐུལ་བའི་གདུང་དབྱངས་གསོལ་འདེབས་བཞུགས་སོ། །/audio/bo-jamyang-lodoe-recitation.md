@@ -23,15 +23,6 @@ channels: 2
 bit_rate_kbps: 128
 file_size_bytes: 3994448
 sha256: fd012b77aef68b093172f725c7d4ef067bdbd4527a3a08aabe0d864d1c7cc704
-converted_from:
-  audio_file: "1-SOURCES/Audio/སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། །/སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་སྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས་བཞུགས་སོ། །.WAV"
-  format: "WAV (BWF)"
-  codec: "PCM 32-bit float little-endian"
-  bit_depth: 32
-  bit_rate_kbps: 3073
-  file_size_bytes: 94765056
-  sha256: 2e85598a24a1f485abd054949f0016cb03b91b7a52bba92728f67ec7012391f2
-  converted: "2026-11-25, AAC 128 kbps, same length to the sample"
 recording_time: "17:11:40"
 scene: "080224-171140"
 ---

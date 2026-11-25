@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/audio/bo-jamyang-lodoe-recitation.md",
+                "file": "0-INBOX/Text 1/ཀློང་ཆེན་སྙིང་ཐིག་གི་བླ་བརྒྱུད་གསོལ་འདེབས།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-jamyang-lodoe-recitation"
+              "title": "ཀློང་ཆེན་སྙིང་ཐིག་གི་བླ་བརྒྱུད་གསོལ་འདེབས།"
             }
           }
         ]
@@ -198,6 +198,9 @@
   },
   "active": "2e6fbab7ad9f43b6",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/སྒྲོལ་མ་ཉེར་གཅིག་གི་བསྟོད་པ།/audio/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.WAV",
+    "1-SOURCES/Audio/སྒྲོལ་མ་ཉེར་གཅིག་གི་བསྟོད་པ།/audio/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.m4a",
+    "1-SOURCES/Audio/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
     "1-SOURCES/Audio/ཀླུ་བསངས་ནོར་བུ་དགོས་འདོད་ཀུན་འབྱུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
@@ -225,15 +228,12 @@
     "4-SYSTEM/reports/testing/segment-maps/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།.md",
     "4-SYSTEM/reports/testing/segment-maps/རླུང་རྟ་ཡར་བསྐྱེད་བསངས་མཆོད་བཞུགས་སོ།.csv",
     "4-SYSTEM/reports/testing/segment-maps/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/རྒྱལ་བའི་དབང་པོ་ཀློང་ཆེན་རབ་འབྱམས་ལ་བསྟོད་པ།.csv",
     "4-SYSTEM/reports/testing/segment-maps/རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།.md",
     "4-SYSTEM/reports/testing/segment-maps/རྒྱ་ནག་པོའི་སྐག་ཟློག་ཅེས་བྱ་བ་བཞུགས་སོ།།.md",
     "4-SYSTEM/reports/testing/segment-maps/རི་བོ་བསངས་མཆོད་བཞུགས་སོ༔.md",
     "4-SYSTEM/reports/testing/segment-maps/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.md",
     "4-SYSTEM/reports/testing/segment-maps/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.md",
     "4-SYSTEM/reports/testing/segment-maps/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།.md",
-    "4-SYSTEM/reports/testing/segment-maps/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
     "0-INBOX/Untitled.canvas"
   ]
 }
