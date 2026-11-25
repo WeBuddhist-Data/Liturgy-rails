@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Hỡi Pháp vương Tam thân Thập trí,Cùng chư Đạo sư và Bản tôn,Không Hành, Hộ Pháp cùng tất thảy,Xin từ bi chứng minh hồi hướng.Trong đời này cùng muôn đời khác,Bằng cả thân, ngữ, ý của con,Bất kỳ thiện hạnh thanh tịnh nào,Đều vì lợi ích khắp chúng sinh,Nguyện chuyển phiền não thành đạo quả,Nguyện nhiếp phục thảy mọi huyễn tướng,Nguyện tự chứng đắc trọn Tam thân,Nguyện tựu Pháp thân tự lợi mình.Bằng hai Sắc thân độ tha nhân,Chừng nào luân hồi chưa trống không,Nguyện hạnh độ sinh bủa rộng khắp,Thị hiện tùy duyên mà hóa độ,Nguyện viên mãn đại hạnh lợi tha.Nguyện độ chúng sinh đúng thời cơ,Nguyện thiện xảo phương tiện duyên khởi,Nguyện ai kết duyên đều lợi lạc,Nguyện tát cạn biển khổ luân hồi,Nguyện đắc Pháp thân quang minh diệu.Như chư Phật trong khắp ba đời,Đã thực hành hồi hướng công đức,Nguyện con cũng hồi hướng viên thành.Chừng nào chưa đắc quả Phật đà,Nguyện sinh dòng cao, khỏe, sáng suốt,Trì giới, tỉnh giác, tu Chánh Pháp,Nguyện được muôn loài đều kính trọng,Nguyện mọi mong cầu đều viên mãn.Khi chưa đắc quả vị Bồ-đề,Mọi bệnh tật, ma quỷ, chướng ngại,Từ con người, dã thú, la sát,Đến hiểm họa từ bốn đại chủng,Nguyện tất thảy đều được tiêu trừ,Nguyện thọ mạng, phước đức tăng trưởng,Nguyện vinh quang, của cải đủ đầy,Nguyện danh tiếng sánh ngang hư không.Mọi hành động của thân, ngữ, ý,Làm việc chi cũng vì chúng sinh,Nguyện biển luân hồi sớm trống không,Nguyện đắc quả Phật đà viên mãn.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 33
+          },
+          {
+            "start": 33,
+            "end": 60
+          },
+          {
+            "start": 60,
+            "end": 94
+          },
+          {
+            "start": 94,
+            "end": 125
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 125,
+            "end": 158
+          },
+          {
+            "start": 158,
+            "end": 187
+          },
+          {
+            "start": 187,
+            "end": 220
+          },
+          {
+            "start": 220,
+            "end": 251
+          },
+          {
+            "start": 251,
+            "end": 289
+          },
+          {
+            "start": 289,
+            "end": 328
+          },
+          {
+            "start": 328,
+            "end": 362
+          },
+          {
+            "start": 362,
+            "end": 395
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 395,
+            "end": 425
+          },
+          {
+            "start": 425,
+            "end": 461
+          },
+          {
+            "start": 461,
+            "end": 495
+          },
+          {
+            "start": 495,
+            "end": 524
+          },
+          {
+            "start": 524,
+            "end": 557
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 557,
+            "end": 591
+          },
+          {
+            "start": 591,
+            "end": 631
+          },
+          {
+            "start": 631,
+            "end": 663
+          },
+          {
+            "start": 663,
+            "end": 696
+          },
+          {
+            "start": 696,
+            "end": 733
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 733,
+            "end": 764
+          },
+          {
+            "start": 764,
+            "end": 796
+          },
+          {
+            "start": 796,
+            "end": 833
+          },
+          {
+            "start": 833,
+            "end": 864
+          },
+          {
+            "start": 864,
+            "end": 902
+          },
+          {
+            "start": 902,
+            "end": 937
+          },
+          {
+            "start": 937,
+            "end": 974
+          },
+          {
+            "start": 974,
+            "end": 1007
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 1007,
+            "end": 1033
+          },
+          {
+            "start": 1033,
+            "end": 1067
+          },
+          {
+            "start": 1067,
+            "end": 1096
+          },
+          {
+            "start": 1096,
+            "end": 1126
+          },
+          {
+            "start": 1126,
+            "end": 1160
+          },
+          {
+            "start": 1160,
+            "end": 1199
+          },
+          {
+            "start": 1199,
+            "end": 1233
+          },
+          {
+            "start": 1233,
+            "end": 1271
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1271,
+            "end": 1302
+          },
+          {
+            "start": 1302,
+            "end": 1334
+          },
+          {
+            "start": 1334,
+            "end": 1371
+          },
+          {
+            "start": 1371,
+            "end": 1403
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      }
+    ]
+  }
+}

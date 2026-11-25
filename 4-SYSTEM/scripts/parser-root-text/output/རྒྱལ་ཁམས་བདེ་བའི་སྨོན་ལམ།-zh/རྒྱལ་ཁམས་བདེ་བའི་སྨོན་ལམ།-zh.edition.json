@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "嗡 阿 吽 班扎 咕噜 贝玛 悉地 吽众生皈依处 邬金仁波切与持明空行众会聚我等一心虔诚祈祷之祈请如所承诺 从法界慈悲垂念祈请以大悲心 垂视受苦之众生祈祷之 邬金仁波切祈请遣除违缘 诸母与空行众会平息一切不合时宜之衰损令内外器情世间之福乐广为增盛平息时局动乱、瘟疫、地震、虫害等平息一切有形无形之恶念与恶行所致之灾祸祈请平息一切违缘愿佛法弘扬 愿持教者长寿愿世界充满安乐之光辉此乃祈愿国土安乐之祈祷文，由吉祥噶玛巴所作，善哉！善哉！善哉！",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 19
+          },
+          {
+            "start": 19,
+            "end": 30
+          },
+          {
+            "start": 30,
+            "end": 38
+          },
+          {
+            "start": 38,
+            "end": 47
+          },
+          {
+            "start": 47,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "end": 75
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 75,
+            "end": 84
+          },
+          {
+            "start": 84,
+            "end": 98
+          },
+          {
+            "start": 98,
+            "end": 109
+          },
+          {
+            "start": 109,
+            "end": 123
+          },
+          {
+            "start": 123,
+            "end": 139
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 139,
+            "end": 158
+          },
+          {
+            "start": 158,
+            "end": 166
+          },
+          {
+            "start": 166,
+            "end": 178
+          },
+          {
+            "start": 178,
+            "end": 188
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 188,
+            "end": 219
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      }
+    ]
+  }
+}

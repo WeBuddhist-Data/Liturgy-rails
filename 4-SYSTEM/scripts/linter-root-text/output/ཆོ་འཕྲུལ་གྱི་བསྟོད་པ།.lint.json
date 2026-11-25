@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།.md",
+  "validated_at": "2026-11-24T18:03:24.767861+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL46CC3EE20D33",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཆོ་འཕྲུལ་གྱི་བསྟོད་པ།"
+    },
+    "alt_titles": [
+      {
+        "en": "In Praise of the Miracles"
+      },
+      {
+        "zh": "神變讚"
+      },
+      {
+        "hi": "महाप्रातिहार्य स्तुति"
+      },
+      {
+        "ne": "प्रातिहार्यको स्तुति"
+      },
+      {
+        "mn": "Рид хувилгааны магтаал"
+      },
+      {
+        "vi": "Lời Tán Thán Thần Biến"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P1518"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.md",
+  "validated_at": "2026-11-24T18:03:27.730309+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLA163F92DC91C",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Words to Delight the Guru Mañjughoṣa: A Prayer of Aspiration for the Flourishing and Spread of the Glorious Sakya Teachings"
+      },
+      {
+        "zh": "薩迦教法弘揚廣布祈願文——令文殊上師歡喜之教言"
+      },
+      {
+        "hi": "शाक्य धर्म के उत्कर्ष की प्रार्थना"
+      },
+      {
+        "ne": "साक्या शासन वृद्धिको प्रणिधान"
+      },
+      {
+        "mn": "Сажагийн шашин дэлгэрэх ерөөл"
+      },
+      {
+        "vi": "Lời Vui Lòng Đạo Sư Văn Thù: Lời Nguyện Hưng Thịnh Giáo Pháp Sakya"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P733"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

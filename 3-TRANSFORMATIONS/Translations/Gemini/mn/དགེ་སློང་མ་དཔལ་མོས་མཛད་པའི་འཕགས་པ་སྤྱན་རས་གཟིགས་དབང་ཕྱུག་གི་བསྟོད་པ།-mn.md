@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.md
 translation_of_text_id: 2wxqIwT27sFU6Sb5wKpZj
 translation_of_edition_id: VfsjlMbI79VL5bTOtaNzV
-text_id:
-edition_id:
+text_id: 2UZf2ucEuiW0x2dYoI6pM
+edition_id: RwP1bx2MJbOqY9Yagj2ni
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 11
 blocks_total: 11
 status: draft
+toc_id: umw4LbJBRpipMqKR5EOqD
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -152,4 +153,4 @@ status: draft
 
 > ཞེས་པའི་བསྟོད་པ་བྱིན་འདི་འདོན་ཐུབ་ན་བྱིན་རླབས་ཀྱི་ཚན་ཁ་གཞན་དང་མི་འདྲ་བར་གསུངས།
 
-Хэмээх энэхүү адистид төгөлдөр магтаалыг уншиж чадвал адистидын хүчин бусадтай адилгүй болохыг номлосон буй. ^11
+<small>Хэмээх энэхүү адистид төгөлдөр магтаалыг уншиж чадвал адистидын хүчин бусадтай адилгүй болохыг номлосон буй.</small> ^11

@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/ཡན་ལག་བདུན་པ།.md
 translation_of_text_id: Tqh7WbzjdF9mxrIx9qGGT
 translation_of_edition_id: BEviNp2GVbhwTAYVDoB1z
-text_id:
-edition_id:
+text_id: 5VfPK3FKqBkjNDridZE9x
+edition_id: 8acLhVb9DNdjdXbOvPqpg
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan

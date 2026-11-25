@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Bản tính quang minh chân đế thoát ly mọi cực đoan,Báo thân viên mãn rực rỡ tướng hảo tự thành tựu,Hóa thân thị hiện đa dạng tùy thuận chúng sinh căn cơ,Xin Đức Năng Nhân đại bi hải luôn thường che chở.Vũ điệu huyễn hóa bi trí lực của tất thảy chư Phật,Đã giáng sinh làm vinh quang cho chúng sinh xứ Purgyal Tây Tạng,Bậc Đại Thành Tựu Tsokye Dorje vô vàn đại ân,Nay khẩn thiết thỉnh cầu xin Ngài từ bi nhiếp thọ!Hiện thân của Ngũ Thân với đoạn chứng thảy đều viên mãn,Dù Ngài trụ xả bình đẳng không thiên vị thân sơ,Nhưng nhờ duyên khởi mãnh liệt thuận căn cơ chúng sinh cần hóa độ,Ngài chính là đấng hộ trì nương tựa của chúng sinh xứ Tuyết.Đặc biệt khi phụ tử vương Trisong Detsen,Đã thỉnh cầu Ngài từ bi nhiếp thọ toàn cõi Tây Tạng,Nếu lời hứa nguyện bất biến của Ngài xưa kia là chân thật,Thì trong thời khắc này thỉnh cầu Ngài xót thương che chở!Khốn cùng, đọa đày trong khổ đau bị áp bức vô nghĩa,Trong nỗi kinh hoàng sợ hãi mạng sống bị đe dọa bởi ác tâm,Cõi thế gian đã biến thành tựa như thành phố của Diêm vương,Những chúng sinh xứ Tuyết mộ đạo này đã phạm tội lỗi gì?Dẫu biết đây là quả báo của ác nghiệp đã gieo từ nhiều kiếp,Khổ đau khôn cùng phải gánh chịu ròng rã hơn ba thập kỷ,Nghĩ đến hoàn cảnh bi đát đọa đày mà chúng con đang nếm trải,Xin Ngài đặc biệt tưởng nhớ đến, ôi Kho tàng Đại bi!Ôi, sức mạnh của ác nghiệp quả thực vô cùng to lớn!Nhưng oai lực gia trì của tín tâm, chí nguyện và lòng vị tha,Cũng vô biên vững mạnh, nên cội phúc của mọi thiện hạnh sở cầu,Mong Ngài tác thành sức mạnh duyên khởi để mau chóng kết quả!Nhờ Đạo sư, Tam Bảo và chư Hộ pháp thệ nguyện hộ trì Tây Tạng,Nhờ uy lực gia trì từ tín tâm và giới nguyện của chúng sinh xứ Tuyết,Nhờ sức mạnh chân thật của luật nhân quả hiển không chẳng hề dối lừa,Nguyện mọi mong cầu khát ngưỡng thảy đều sớm ngày viên mãn!",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 50
+          },
+          {
+            "start": 50,
+            "end": 98
+          },
+          {
+            "start": 98,
+            "end": 152
+          },
+          {
+            "start": 152,
+            "end": 201
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 201,
+            "end": 252
+          },
+          {
+            "start": 252,
+            "end": 316
+          },
+          {
+            "start": 316,
+            "end": 361
+          },
+          {
+            "start": 361,
+            "end": 411
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 411,
+            "end": 467
+          },
+          {
+            "start": 467,
+            "end": 515
+          },
+          {
+            "start": 515,
+            "end": 581
+          },
+          {
+            "start": 581,
+            "end": 641
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 641,
+            "end": 682
+          },
+          {
+            "start": 682,
+            "end": 734
+          },
+          {
+            "start": 734,
+            "end": 792
+          },
+          {
+            "start": 792,
+            "end": 850
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 850,
+            "end": 902
+          },
+          {
+            "start": 902,
+            "end": 961
+          },
+          {
+            "start": 961,
+            "end": 1021
+          },
+          {
+            "start": 1021,
+            "end": 1077
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 1077,
+            "end": 1137
+          },
+          {
+            "start": 1137,
+            "end": 1193
+          },
+          {
+            "start": 1193,
+            "end": 1254
+          },
+          {
+            "start": 1254,
+            "end": 1306
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1306,
+            "end": 1357
+          },
+          {
+            "start": 1357,
+            "end": 1418
+          },
+          {
+            "start": 1418,
+            "end": 1481
+          },
+          {
+            "start": 1481,
+            "end": 1542
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1542,
+            "end": 1604
+          },
+          {
+            "start": 1604,
+            "end": 1673
+          },
+          {
+            "start": 1673,
+            "end": 1742
+          },
+          {
+            "start": 1742,
+            "end": 1801
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

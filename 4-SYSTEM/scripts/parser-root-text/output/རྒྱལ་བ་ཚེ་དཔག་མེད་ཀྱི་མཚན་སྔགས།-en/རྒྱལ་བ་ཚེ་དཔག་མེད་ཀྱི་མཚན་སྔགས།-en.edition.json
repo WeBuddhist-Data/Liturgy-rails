@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Amitāyus, the principal guide of the world,Who subdues all forms of untimely death,Refuge for those who suffer without a protector,To the Buddha Amitāyus, I prostrate.Oṃ amaraṇi jīvantīye svāhā.When the signs of untimely death are seen,May I immediately see the form of the Protector Amitāyus clearly,And having vanquished the Lord of Death,May I swiftly attain the state of an immortal vidyādhara.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 43
+          },
+          {
+            "start": 43,
+            "end": 83
+          },
+          {
+            "start": 83,
+            "end": 131
+          },
+          {
+            "start": 131,
+            "end": 167
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 167,
+            "end": 194
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 194,
+            "end": 236
+          },
+          {
+            "start": 236,
+            "end": 301
+          },
+          {
+            "start": 301,
+            "end": 341
+          },
+          {
+            "start": 341,
+            "end": 398
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

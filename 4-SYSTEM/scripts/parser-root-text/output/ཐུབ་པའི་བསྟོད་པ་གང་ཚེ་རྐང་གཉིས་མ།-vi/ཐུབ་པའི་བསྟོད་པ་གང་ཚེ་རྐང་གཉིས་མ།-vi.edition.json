@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Khi Ngài, bậc tối tôn giữa loài hai chân, đản sinh,Bước bảy bước sen ngọc trên mặt đại địa này,Ngài tuyên thuyết: \"Ta là tối thượng chốn thế gian\",Con xin kính lễ Ngài, đấng trí tuệ toàn tri.Trước tiên giáng trần từ cõi trời Đâu Suất,Ngự vào thánh thai mẫu hậu chốn vương cung,Đấng Năng Nhân đản sinh tại vườn Lâm Tỳ Ni,Con xin kính lễ Thế Tôn, đấng Thiên trung Thiên.Nơi bảo điện nguy nga, được bảo mẫu thị phụng,Nơi kinh thành Thích Ca, Ngài dạo chơi du ngoạn,Tại thành Ca Tỳ La, Ngài thành lập gia thất,Con xin kính lễ tôn thân vô song trong ba cõi.Thị hiện tấm lòng yếm ly nơi bốn cửa thành,Cắt bỏ mái tóc xuất gia trước tháp Thanh Tịnh,Tu hành khổ hạnh bên dòng sông Ni Liên Thiền,Con xin kính lễ Ngài, đấng viễn ly hai chướng.Tại thành Vương Xá, nhiếp phục con voi say,Tại thành Quảng Nghiêm, khỉ vương dâng cúng mật,Tại xứ Ma Kiệt Đà, Năng Nhân hiện Chánh giác,Con xin kính lễ Ngài, đấng tuệ giác chói ngời.Tại thành Ba La Nại, Ngài chuyển bánh xe Pháp,Tại khu rừng Kỳ Đà, thị hiện đại thần biến,Tại thành Câu Thi Na, thị tịch nhập Niết bàn,Con xin kính lễ Ngài, đấng tâm như hư không.Qua xưng tán đức Thế Tôn, bậc Giáo chủ đạo pháp,Bằng bài tán tụng tóm lược các công hạnh này,Nguyện đem công đức khiến hành vi mọi chúng sinh,Đều trở nên đồng đẳng với hạnh bậc Thiện Thệ.Bài tán tụng này do Đạo sư Pawo trước tác.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 51
+          },
+          {
+            "start": 51,
+            "end": 95
+          },
+          {
+            "start": 95,
+            "end": 147
+          },
+          {
+            "start": 147,
+            "end": 191
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 191,
+            "end": 234
+          },
+          {
+            "start": 234,
+            "end": 277
+          },
+          {
+            "start": 277,
+            "end": 320
+          },
+          {
+            "start": 320,
+            "end": 368
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 368,
+            "end": 414
+          },
+          {
+            "start": 414,
+            "end": 462
+          },
+          {
+            "start": 462,
+            "end": 506
+          },
+          {
+            "start": 506,
+            "end": 552
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 552,
+            "end": 595
+          },
+          {
+            "start": 595,
+            "end": 641
+          },
+          {
+            "start": 641,
+            "end": 686
+          },
+          {
+            "start": 686,
+            "end": 732
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 732,
+            "end": 775
+          },
+          {
+            "start": 775,
+            "end": 823
+          },
+          {
+            "start": 823,
+            "end": 868
+          },
+          {
+            "start": 868,
+            "end": 914
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 914,
+            "end": 960
+          },
+          {
+            "start": 960,
+            "end": 1003
+          },
+          {
+            "start": 1003,
+            "end": 1048
+          },
+          {
+            "start": 1048,
+            "end": 1092
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1092,
+            "end": 1140
+          },
+          {
+            "start": 1140,
+            "end": 1185
+          },
+          {
+            "start": 1185,
+            "end": 1234
+          },
+          {
+            "start": 1234,
+            "end": 1279
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1279,
+            "end": 1321
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

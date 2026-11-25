@@ -4,7 +4,7 @@ title_en: "The Seven Branches — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/ཡན་ལག་བདུན་པ།]]"
 root_text_title: "ཡན་ལག་བདུན་པ།"
@@ -25,6 +25,7 @@ file_size_bytes: 166697472
 sha256: 74fcbd8a394adb24a9b745d2e7d0843437cbd5185917425d48283d954d9e026c
 recording_time: "05:30:55"
 scene: "110224-053055"
+license: cc-by
 ---
 
 # ཡན་ལག་བདུན་པ། — Jamyang Lodoe

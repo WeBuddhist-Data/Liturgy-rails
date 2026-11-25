@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:33.805195+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "1 no-break space U+00A0 in the source (body line 15) — the parser normalises it; clean the source with clean-whitespace/clean_whitespace.py"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL6FDADE554BB2",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཇམ་དབྱངས་ཀྱི་བསྟོད་པ་གང་བློ་མ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities"
+      },
+      {
+        "zh": "文殊讚"
+      },
+      {
+        "hi": "मंजुश्री स्तोत्र"
+      },
+      {
+        "ne": "मञ्जुश्री स्तुति (गाङ् लो मा)"
+      },
+      {
+        "mn": "Манзуширын магтаал Ганлома"
+      },
+      {
+        "vi": "Tán Xưng Văn Thù Sư Lợi"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P0AT0378"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

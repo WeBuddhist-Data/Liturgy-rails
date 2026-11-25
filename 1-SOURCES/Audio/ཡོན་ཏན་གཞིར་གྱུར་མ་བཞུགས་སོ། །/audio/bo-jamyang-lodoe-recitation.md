@@ -4,7 +4,7 @@ title_en: "The Foundation of All Good Qualities — recitation by Jamyang Lodoe"
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/ཡོན་ཏན་གཞིར་གྱུར་མ་བཞུགས་སོ།]]"
 root_text_title: "ཡོན་ཏན་གཞིར་གྱུར་མ་བཞུགས་སོ།"
@@ -25,6 +25,7 @@ file_size_bytes: 137490432
 sha256: 9b1f4d80d4cd60f438e19872f67ace84ecfb0765722649781d5df6c20c86c367
 recording_time: "17:49:59"
 scene: "030224-174959"
+license: cc-by
 ---
 
 # ཡོན་ཏན་གཞིར་གྱུར་མ་བཞུགས་སོ། — Jamyang Lodoe

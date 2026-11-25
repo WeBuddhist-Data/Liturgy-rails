@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་གྱི་མདོ།.md",
+  "validated_at": "2026-11-24T18:03:34.358655+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA18280",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་མདོ།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Noble Sūtra of Recalling the Three Jewels"
+      },
+      {
+        "zh": "隨念三寶經"
+      },
+      {
+        "hi": "आर्य रत्नत्रयानुस्मृति सूत्र"
+      },
+      {
+        "ne": "त्रिरत्न अनुस्मृति सूत्र"
+      },
+      {
+        "mn": "Гурван эрдэнийг даган дурдахын судар"
+      },
+      {
+        "vi": "Kinh Tùy Niệm Tam Bảo"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P0AT0029"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

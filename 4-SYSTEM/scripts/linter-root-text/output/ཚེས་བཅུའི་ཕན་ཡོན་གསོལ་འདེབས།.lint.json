@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
+  "validated_at": "2026-11-24T18:03:33.163722+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "A Prayer Invoking the Benefits of the Festival of the Tenth Day"
+      },
+      {
+        "zh": "初十功德祈請文"
+      },
+      {
+        "hi": "दसवें दिन के पर्व के लाभ की प्रार्थना"
+      },
+      {
+        "ne": "दशमी तिथिको महिमा प्रार्थना"
+      },
+      {
+        "mn": "Шинийн арвны ач тусын залбирал"
+      },
+      {
+        "vi": "Lời Cầu Nguyện Công Đức Ngày Mùng Mười"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P314"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

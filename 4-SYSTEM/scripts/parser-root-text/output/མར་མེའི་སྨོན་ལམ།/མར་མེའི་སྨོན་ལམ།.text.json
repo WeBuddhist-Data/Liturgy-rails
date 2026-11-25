@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL4389F049FBB1",
+  "title": {
+    "bo": "མར་མེའི་སྨོན་ལམ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Light Offering Prayer"
+    },
+    {
+      "zh": "供燈祈願文"
+    },
+    {
+      "hi": "दीप अर्पण प्रार्थना"
+    },
+    {
+      "ne": "दीप दान प्रार्थना"
+    },
+    {
+      "mn": "Зул өргөх ерөөл"
+    },
+    {
+      "vi": "Lời Nguyện Cúng Dường Đèn"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P967"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

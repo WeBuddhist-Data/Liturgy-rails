@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL8A53E099CA7F",
+  "title": {
+    "bo": "མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Praise to the Six-Armed Mahākāla"
+    },
+    {
+      "zh": "六臂怙主讚"
+    },
+    {
+      "hi": "छह भुजाओं वाले महाकाल की स्तुति"
+    },
+    {
+      "ne": "षड्भुज महाकालको स्तुति"
+    },
+    {
+      "mn": "Зургаан гарт Гомбо сахиусны магтаал"
+    },
+    {
+      "vi": "Lời Tán Thán Lục Tý Mahakala"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P84"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

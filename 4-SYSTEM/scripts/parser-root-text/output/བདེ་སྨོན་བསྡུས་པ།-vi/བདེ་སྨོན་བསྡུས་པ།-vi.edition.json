@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Emaho!Đức Phật A Di Đà vô cùng vi diệu,Bên phải là Đức Đại Bi Quán Thế Âm,Bên trái là Bồ Tát Đại Thế Chí,Vô lượng quyến thuộc Phật, Bồ Tát bao quanh.Niềm an lạc vi diệu không thể nghĩ bàn,Nơi cõi Tịnh độ mang tên là Cực Lạc,Ngay khi con và chúng sinh xả báo thân,Không bị gián đoạn bởi một kiếp sống nào,Nguyện vãng sinh chiêm bái tôn nhan Di Đà!Những lời phát nguyện con dâng lên tại đây,Cúi mong chư Phật, Bồ Tát khắp mười phương,Ban gia trì viên thành không chút chướng ngại.Tadyatha Pancadriya Avabodhani SvahaBài cầu nguyện này được chính Đức Phật A Di Đà đích thân tuyên thuyết cho Đạo sư hóa thân Mingyur Dorje vào năm mười ba tuổi, ngày mùng bảy tháng Saga Dawa năm Hỏa Dậu, khi ngài diện kiến Tôn chủ cùng quyến thuộc.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 6
+          },
+          {
+            "start": 6,
+            "end": 39
+          },
+          {
+            "start": 39,
+            "end": 74
+          },
+          {
+            "start": 74,
+            "end": 105
+          },
+          {
+            "start": 105,
+            "end": 149
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 149,
+            "end": 188
+          },
+          {
+            "start": 188,
+            "end": 224
+          },
+          {
+            "start": 224,
+            "end": 263
+          },
+          {
+            "start": 263,
+            "end": 304
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 304,
+            "end": 346
+          },
+          {
+            "start": 346,
+            "end": 389
+          },
+          {
+            "start": 389,
+            "end": 432
+          },
+          {
+            "start": 432,
+            "end": 478
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 478,
+            "end": 514
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 514,
+            "end": 727
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      }
+    ]
+  }
+}

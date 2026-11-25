@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/བཀའ་ཐང་བསྡུས་པ།.md
 translation_of_text_id: m8kpgFXb7t5Osl15i0zG3
 translation_of_edition_id: MmmIPtqPu3eq9j5wr3swv
-text_id:
-edition_id:
+text_id: nypWnrqJXfHu5i0j4a5oo
+edition_id: txnZynQMGg2qVjsWok4ty
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
@@ -31,6 +31,7 @@ generated: 2026-08-27
 blocks_translated: 25
 blocks_total: 25
 status: draft
+toc_id: EdElWHcBL52gpbyHnFSOO
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -834,4 +835,4 @@ Having established the people of Tibet in happiness, I shall now depart." ^24
 
 > ཞེས་གསུངས་ཞལ་ལྷ་ནུབ་ཏུ་གཟིགས་སོ༔ ས་མ་ཡ༔ རྒྱ་རྒྱ་རྒྱ༔ གཏེར་སྟོན་ཨོ་རྒྱན་གླིང་པས་བསམ་ཡས་མཆིམས་ཕུ་ནས་གཏེར་ནས་སྤྱན་དྲངས་པའོ༔
 
-Having spoken thus, he turned his face to look toward the west. Samaya. Gya Gya Gya. This was retrieved as a treasure from Samyé Chimphu by the tertön Orgyen Lingpa. ^25
+<small>Having spoken thus, he turned his face to look toward the west. Samaya. Gya Gya Gya. This was retrieved as a treasure from Samyé Chimphu by the tertön Orgyen Lingpa.</small> ^25

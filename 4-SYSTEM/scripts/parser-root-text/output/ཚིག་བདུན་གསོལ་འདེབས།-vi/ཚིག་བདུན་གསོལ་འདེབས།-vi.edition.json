@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "HumNơi biên giới tây bắc xứ Oḍḍiyāna,Trên đài nhụy của đóa hoa sen,Chứng đắc thành tựu tối thắng diệu kỳ,Lừng danh là Đức Liên Hoa Sanh,Bao quanh bởi vô số quyến thuộc Không Hành Nữ,Con nguyện noi theo gót Ngài tu hành,Thỉnh Ngài quang giáng ban truyền gia trì.Guru Padma Siddhi Hum",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 3
+          },
+          {
+            "start": 3,
+            "end": 37
+          },
+          {
+            "start": 37,
+            "end": 67
+          },
+          {
+            "start": 67,
+            "end": 105
+          },
+          {
+            "start": 105,
+            "end": 136
+          },
+          {
+            "start": 136,
+            "end": 182
+          },
+          {
+            "start": 182,
+            "end": 219
+          },
+          {
+            "start": 219,
+            "end": 261
+          },
+          {
+            "start": 261,
+            "end": 282
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

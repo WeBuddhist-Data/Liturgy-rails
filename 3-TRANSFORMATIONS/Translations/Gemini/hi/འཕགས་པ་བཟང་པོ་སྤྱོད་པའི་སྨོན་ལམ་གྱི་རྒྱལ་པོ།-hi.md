@@ -9,10 +9,10 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.md
 translation_of_text_id: HfTEGGmFOf7N5AMd05vq4
 translation_of_edition_id: MRWJADM7XHzkWre7muf0q
-text_id:
-edition_id:
-tags: [practice/chant, tradition/vajrayana]
-tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
+text_id: 7VWrJsKgA6CfyzkIOmhUS
+edition_id: wyN69qsOQ5DiZJ2inYayl
+tags: [practice/chant, reYrCR4TFKpHbU8V2wH6d, tradition/mahayana]
+tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, reYrCR4TFKpHbU8V2wH6d, zjHEBN2egpftHD7BRMQko]
 source_language: tibetan
 target_language: hindi
 lang_tag: hi
@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 66
 blocks_total: 66
 status: draft
+toc_id: tPH0705ofl2J1ZRqDDyCR
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.

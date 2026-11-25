@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.md
 translation_of_text_id: 2wxqIwT27sFU6Sb5wKpZj
 translation_of_edition_id: VfsjlMbI79VL5bTOtaNzV
-text_id:
-edition_id:
+text_id: Opm358Y5n9am7cGhrtUBM
+edition_id: M43QKcqzt5cTLFaGHbI9L
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 11
 blocks_total: 11
 status: draft
+toc_id: dq8Qo8Ck123DgYHBBTDJP
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -152,4 +153,4 @@ status: draft
 
 > ཞེས་པའི་བསྟོད་པ་བྱིན་འདི་འདོན་ཐུབ་ན་བྱིན་རླབས་ཀྱི་ཚན་ཁ་གཞན་དང་མི་འདྲ་བར་གསུངས།
 
-ऐसा कहा गया है कि यदि इस अधिष्ठानयुक्त स्तुति का पाठ किया जा सके, तो इसके अधिष्ठान का प्रभाव अन्यों से विलक्षण होता है। ^11
+<small>ऐसा कहा गया है कि यदि इस अधिष्ठानयुक्त स्तुति का पाठ किया जा सके, तो इसके अधिष्ठान का प्रभाव अन्यों से विलक्षण होता है।</small> ^11

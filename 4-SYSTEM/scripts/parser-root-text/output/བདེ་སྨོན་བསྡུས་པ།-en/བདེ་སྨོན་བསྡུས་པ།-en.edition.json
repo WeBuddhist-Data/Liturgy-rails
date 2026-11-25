@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Emaho!Wondrous Buddha Amitābha,To the right, the Lord of Great Compassion,And to the left, the Bodhisattva of Great Might,Surrounded by an assembly of countless Buddhas and Bodhisattvas.In that realm known as Sukhāvatī,A land of immeasurable, wondrous bliss and happiness,As soon as I and others pass away from this life,Without being interrupted by any other birth,May I be born there and behold the face of Amitābha!This aspiration prayer that I have offered in this way—May all the Buddhas and Bodhisattvas of the ten directionsGrant their blessings so that this may be accomplished without hindrance.Tadyathā pañcendriyāvabodhani svāhā.This was spoken directly by the Buddha Amitābha when the Tulku Mingyur Dorje, at the age of thirteen, in the Fire Bird year, on the seventh day of the Saga Dawa month, had a vision of the central deity and his retinue.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 6
+          },
+          {
+            "start": 6,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "end": 74
+          },
+          {
+            "start": 74,
+            "end": 122
+          },
+          {
+            "start": 122,
+            "end": 186
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 186,
+            "end": 219
+          },
+          {
+            "start": 219,
+            "end": 272
+          },
+          {
+            "start": 272,
+            "end": 321
+          },
+          {
+            "start": 321,
+            "end": 366
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 366,
+            "end": 418
+          },
+          {
+            "start": 418,
+            "end": 473
+          },
+          {
+            "start": 473,
+            "end": 531
+          },
+          {
+            "start": 531,
+            "end": 604
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 604,
+            "end": 640
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 640,
+            "end": 858
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      }
+    ]
+  }
+}

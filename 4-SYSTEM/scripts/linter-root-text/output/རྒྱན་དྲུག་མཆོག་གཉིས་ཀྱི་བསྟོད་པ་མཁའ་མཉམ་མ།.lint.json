@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།.md",
+  "validated_at": "2026-11-24T18:03:36.091611+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLD8B44CC57097",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་བསྟོད་པ་མཁའ་མཉམ་མ།"
+    },
+    "alt_titles": [
+      {
+        "en": "In Praise of the Six Ornaments and Two Supreme Ones"
+      },
+      {
+        "zh": "二勝六莊嚴讚"
+      },
+      {
+        "hi": "षड्-अलंकार एवं द्वय-उत्कृष्ट स्तुति"
+      },
+      {
+        "ne": "षड् अलङ्कार र दुई श्रेष्ठको स्तुति"
+      },
+      {
+        "mn": "Зургаан чимэг, хоёр дээдийн магтаал"
+      },
+      {
+        "vi": "Tán Xưng Nhị Thắng Lục Trang Nghiêm"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P60"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

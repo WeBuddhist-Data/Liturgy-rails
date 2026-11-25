@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/བདེ་སྨོན་བསྡུས་པ།.md",
+  "validated_at": "2026-11-24T18:03:29.491226+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLF75A151235F6",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བདེ་སྨོན་བསྡུས་པ།"
+    },
+    "alt_titles": [
+      {
+        "en": "Brief Sukhāvatī Aspiration"
+      },
+      {
+        "zh": "簡短極樂願文"
+      },
+      {
+        "hi": "संक्षिप्त सुखावती प्रार्थना"
+      },
+      {
+        "ne": "संक्षिप्त सुखावती प्रणिधान"
+      },
+      {
+        "mn": "Дэваажингийн товч ерөөл"
+      },
+      {
+        "vi": "Bài Nguyện Vãng Sanh Cực Lạc Rút Gọn"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P649"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

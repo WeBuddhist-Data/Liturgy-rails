@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL057B69D51FFD",
+  "title": {
+    "bo": "དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །"
+  },
+  "alt_titles": [
+    {
+      "en": "A Daily Practice of the Meditation and Recitation of Glorious Guhyasamāja"
+    },
+    {
+      "zh": "吉祥密集金剛修誦日修儀軌"
+    },
+    {
+      "hi": "गुह्यसमाज दैनिक ध्यान और जप"
+    },
+    {
+      "ne": "गुह्यसमाज नित्य पाठ"
+    },
+    {
+      "mn": "Сандуйн өдөр тутмын бясалгал, уншлага"
+    },
+    {
+      "vi": "Nghi Quỹ Tu Trì Bí Mật Tập Hội Hằng Ngày"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1638"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

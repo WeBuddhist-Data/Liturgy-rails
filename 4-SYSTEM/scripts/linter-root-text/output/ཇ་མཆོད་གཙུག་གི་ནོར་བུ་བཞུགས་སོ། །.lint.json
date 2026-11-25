@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །.md",
+  "validated_at": "2026-11-24T18:03:24.746214+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL871487E3688E",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཇ་མཆོད་གཙུག་གི་ནོར་བུ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Tea Offering: The Crown Jewel"
+      },
+      {
+        "zh": "供茶儀軌·頂髻寶珠"
+      },
+      {
+        "hi": "मुकुट मणि : चाय अर्पण"
+      },
+      {
+        "ne": "चिया अर्पण: चूडामणि"
+      },
+      {
+        "mn": "Оройн чандмань цайны өргөл"
+      },
+      {
+        "vi": "Nghi Quỹ Cúng Trà: Bảo Châu Trên Đảnh"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P2666"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

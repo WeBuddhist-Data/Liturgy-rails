@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL40085092536D",
+  "title": {
+    "bo": "ཚིག་བདུན་གསོལ་འདེབས།"
+  },
+  "alt_titles": [
+    {
+      "en": "The Seven-Line Prayer"
+    },
+    {
+      "zh": "蓮師七句祈請文"
+    },
+    {
+      "hi": "सात पंक्तियों वाली प्रार्थना"
+    },
+    {
+      "ne": "गुरु रिन्पोछेको सात-हरफे प्रार्थना"
+    },
+    {
+      "mn": "Бадамжунай багшийн долоон мөрт залбирал"
+    },
+    {
+      "vi": "Bài Cầu Nguyện Bảy Câu"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P4956"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

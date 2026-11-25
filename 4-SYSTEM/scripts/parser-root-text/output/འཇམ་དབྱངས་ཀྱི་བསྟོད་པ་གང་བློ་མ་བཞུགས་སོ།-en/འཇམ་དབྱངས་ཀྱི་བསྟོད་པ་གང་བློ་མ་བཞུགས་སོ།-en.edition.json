@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Homage to the Guru and the Protector Mañjuśrī!You whose intelligence is utterly pure and brilliant like the sun, free from the clouds of the two obscurations,Because you perceive the full extent of all objects of knowledge just as they are, you hold a volume of scripture at your heart.For all the multitudes of beings who are imprisoned in the jail of cyclic existence, shrouded in the darkness of ignorance and tormented by suffering,You have a love like that for an only child; your speech is endowed with the sixty melodious qualities.It resounds powerfully like thunder, awakening us from the sleep of the afflictions and releasing us from the iron chains of karma,And you brandish the sword that dispels the darkness of ignorance and cuts through all the sprouts of suffering.Pure from the beginning, having reached the end of the ten bhūmis, your body is complete with all qualities, O foremost of the Bodhisattvas;Adorned with the hundred and twelve marks, I bow to Mañjughoṣa, who dispels the darkness of my mind.oṃ arapacana dhīḥO compassionate one, with the radiant light of your supreme wisdom,Completely clear away the darkness of ignorance in my mind,So that I may realize the scriptures of the Buddha’s word and the treatises,Please grant me the brilliance of intelligence and confidence.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 46
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 46,
+            "end": 158
+          },
+          {
+            "start": 158,
+            "end": 286
+          },
+          {
+            "start": 286,
+            "end": 436
+          },
+          {
+            "start": 436,
+            "end": 539
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 539,
+            "end": 670
+          },
+          {
+            "start": 670,
+            "end": 782
+          },
+          {
+            "start": 782,
+            "end": 922
+          },
+          {
+            "start": 922,
+            "end": 1022
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 1022,
+            "end": 1039
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 1039,
+            "end": 1106
+          },
+          {
+            "start": 1106,
+            "end": 1165
+          },
+          {
+            "start": 1165,
+            "end": 1241
+          },
+          {
+            "start": 1241,
+            "end": 1303
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      }
+    ]
+  }
+}

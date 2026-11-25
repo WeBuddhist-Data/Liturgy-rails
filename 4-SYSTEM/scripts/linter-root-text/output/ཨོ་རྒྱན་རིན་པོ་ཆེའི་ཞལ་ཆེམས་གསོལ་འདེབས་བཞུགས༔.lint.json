@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.md",
+  "validated_at": "2026-11-24T18:03:39.760220+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLA1BCA0C9C847",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔"
+    },
+    "alt_titles": [
+      {
+        "en": "The Testament Prayer to Orgyen Rinpoche"
+      },
+      {
+        "zh": "鄔金仁波切遺教祈請文"
+      },
+      {
+        "hi": "ओर्ज्ञेन रिनपोछे की अंतिम उपदेश प्रार्थना"
+      },
+      {
+        "ne": "उग्येन रिन्पोछेको अन्तिम वचन प्रार्थना"
+      },
+      {
+        "mn": "Ожэн Ринбүчигийн гэрээслэл залбирал"
+      },
+      {
+        "vi": "Lời Khẩn Cầu Di Giáo Của Orgyen Rinpoche"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P564"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

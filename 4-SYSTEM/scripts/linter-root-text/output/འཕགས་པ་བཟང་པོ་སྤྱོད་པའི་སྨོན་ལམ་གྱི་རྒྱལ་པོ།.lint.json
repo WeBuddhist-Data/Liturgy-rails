@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.md",
+  "validated_at": "2026-11-24T18:03:34.909385+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0RT3711",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།"
+    },
+    "alt_titles": [
+      {
+        "en": "The King of Aspiration Prayers: Samantabhadra's Aspiration to Good Actions"
+      },
+      {
+        "zh": "普賢行願品"
+      },
+      {
+        "hi": "भद्रचर्या प्रणिधान राज"
+      },
+      {
+        "ne": "भद्रचर्या प्राणिधान"
+      },
+      {
+        "mn": "Сайн явдалт ерөөлийн хаан"
+      },
+      {
+        "vi": "Phổ Hiền Hạnh Nguyện Phẩm"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P0AT0029"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

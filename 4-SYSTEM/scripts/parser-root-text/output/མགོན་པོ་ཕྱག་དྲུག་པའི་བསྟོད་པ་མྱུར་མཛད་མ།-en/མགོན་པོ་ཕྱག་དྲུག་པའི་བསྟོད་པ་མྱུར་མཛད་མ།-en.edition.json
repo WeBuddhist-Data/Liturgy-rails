@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Homage to the Swift-Acting Avalokiteśvara!With anklets on his feet, he tramples upon Vināyaka.Great Black One, wearing a tiger-skin lower garment,Fully adorned with six arms and ornaments of snakes.The first right hand holds a curved knife, the middle a rosary,And the last fiercely rattles a ḍāmaru.The left hands hold a skull-cup and a trident,And likewise, grasping a lasso, they bind.His wrathful mouth bares its fangs,His three eyes are fierce, and his hair blazes upward.His forehead is well-anointed with sindūra,And his crown is firmly sealed by the King Akṣobhya.He wears a necklace of fifty blood-dripping human heads,And his head is adorned with five dry jeweled skulls.You who come from the tree to accept this torma,To the glorious Six-Armed One, I prostrate and offer praise.May you protect the solemn teachings of the Buddha,Exalt the majestic status of the Three Jewels,And for us—master, disciples, and retinue—Pacify all adverse conditions and obstacles,And please swiftly bestow the accomplishments we desire.This was composed by the glorious Śavaripa when he beheld the face of the Protector.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 42
+          },
+          {
+            "start": 42,
+            "end": 94
+          },
+          {
+            "start": 94,
+            "end": 146
+          },
+          {
+            "start": 146,
+            "end": 198
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 198,
+            "end": 261
+          },
+          {
+            "start": 261,
+            "end": 300
+          },
+          {
+            "start": 300,
+            "end": 346
+          },
+          {
+            "start": 346,
+            "end": 388
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 388,
+            "end": 423
+          },
+          {
+            "start": 423,
+            "end": 477
+          },
+          {
+            "start": 477,
+            "end": 520
+          },
+          {
+            "start": 520,
+            "end": 572
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 572,
+            "end": 628
+          },
+          {
+            "start": 628,
+            "end": 681
+          },
+          {
+            "start": 681,
+            "end": 729
+          },
+          {
+            "start": 729,
+            "end": 789
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 789,
+            "end": 840
+          },
+          {
+            "start": 840,
+            "end": 886
+          },
+          {
+            "start": 886,
+            "end": 928
+          },
+          {
+            "start": 928,
+            "end": 972
+          },
+          {
+            "start": 972,
+            "end": 1028
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 1028,
+            "end": 1112
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      }
+    ]
+  }
+}

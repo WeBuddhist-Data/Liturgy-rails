@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "无缘大悲宝藏观世音，无垢智慧之主文殊师利，摧伏魔军无余秘密主，雪域智者顶严宗喀巴，洛桑扎巴足下我祈请。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 10
+          },
+          {
+            "start": 10,
+            "end": 21
+          },
+          {
+            "start": 21,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "end": 41
+          },
+          {
+            "start": 41,
+            "end": 51
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      }
+    ]
+  }
+}

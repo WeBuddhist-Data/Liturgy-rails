@@ -19,6 +19,8 @@ the root. States (a note can have several):
   toc|yigchungs|durchens|footnotes-missing   none on the environment         -> push --only <kind>
   toc|yigchungs|durchens|footnotes-differs   not the note's                  -> update --only <kind>
   toc|yigchungs|durchens|footnotes-extra     on the environment, none in the note -> delete --only <kind>
+  tags-extra           tags on the environment the note's tag_ids do not list -> delete --only tags
+                       (update only ever adds tags; removing one is this separate, named step)
   alignment-missing / alignment-differs      -> push --only alignment
   alignment-reversed   aligned root -> this text; the library wants this text (source edition)
                        -> root (target edition)  -> push --only alignment (deletes it, sends it the right way)
@@ -40,6 +42,7 @@ is refused unless --dev. Texts and editions are never deleted.
 """
 from __future__ import annotations
 
+import json
 import re
 import sys
 import time
@@ -69,6 +72,7 @@ FIX = {
     "link-differs": "cannot be patched (set only at creation): ask a developer",
     "edition-mismatch": "check by hand (verify)", "gone": "check by hand (verify)", "blocked": "fix the note",
     "ids-stale": "update --only ids",
+    "tags-extra": "delete --only tags (ask first: a tag may have been attached outside the vault on purpose)",
 }
 for _a in ANNOTATIONS:
     FIX[f"{_a}-missing"] = f"push --only {_a}"
@@ -412,8 +416,37 @@ def b_spans_equal_types_differ(b_spans, l_spans, b_types, l_types):
     return len(b_types) == len(l_types) and b_types != l_types
 
 
-def _norm_contrib(cs):
-    return sorted((c.get("type"), c.get("id") or c.get("bdrc_id") or c.get("bdrc"), c.get("role")) for c in cs or [])
+def _contrib_ids(c):
+    return {v for v in (c.get("id"), c.get("bdrc_id"), c.get("bdrc"), c.get("ai_id")) if v}
+
+
+def _same_contribs(want, live):
+    """True when every contribution in the note matches one on the server: same type and role,
+    and the same person by any id they share. A note names a person by BDRC id (`bdrc_id: P4956`)
+    while the server returns its own person id plus that bdrc_id, so ids are matched as sets."""
+    want, rest = list(want or []), list(live or [])
+    if len(want) != len(rest):
+        return False
+    for w in want:
+        hit = next((l for l in rest if l.get("type") == w.get("type") and l.get("role") == w.get("role")
+                    and _contrib_ids(w) & _contrib_ids(l)), None)
+        if hit is None:
+            return False
+        rest.remove(hit)
+    return True
+
+
+def _norm_alts(alts):
+    return sorted(json.dumps(a, ensure_ascii=False, sort_keys=True) for a in alts or [])
+
+
+def _extra_tags(it: Item) -> list:
+    """Tags on the environment that the note's tag_ids do not list. Empty when the note lists no
+    tags at all (a translation inherits its root's tags and carries none of its own to compare)."""
+    want = (it.p.get("text") or {}).get("tag_ids") or []
+    if not want or not it.live_text:
+        return []
+    return [t for t in it.live_text.get("tag_ids") or [] if t not in want]
 
 
 def _details_diff(it: Item) -> dict:
@@ -424,7 +457,7 @@ def _details_diff(it: Item) -> dict:
             continue
         lv = live.get(k)
         if k == "contributions":
-            if _norm_contrib(v) != _norm_contrib(lv):
+            if not _same_contribs(v, lv):
                 out[k] = v
         elif k == "tag_ids":
             # Additive only: tags are also attached outside the notes (a tagging pass, the
@@ -432,6 +465,10 @@ def _details_diff(it: Item) -> dict:
             missing = [t for t in v if t not in (lv or [])]
             if missing:
                 out[k] = list(lv or []) + missing
+        elif k == "alt_titles":
+            # The server stores alt titles in its own order; only the set of entries matters.
+            if _norm_alts(v) != _norm_alts(lv):
+                out[k] = v
         elif v != lv:
             out[k] = v
     return out
@@ -551,6 +588,9 @@ def _classify(it: Item, ctx: Ctx):
     diff = _details_diff(it)
     if diff:
         f["details-changed"] = "differs: " + ", ".join(diff)
+    extra = _extra_tags(it)
+    if extra:
+        f["tags-extra"] = "on the environment, not in the note's tag_ids: " + ", ".join(extra)
     state, detail = _compare_edition(it)
     if state != "ok":
         f[state] = detail
@@ -631,10 +671,21 @@ def links(it: Item, ctx: Ctx) -> list:
         if al:
             out.append(f"{len(al)} alignment(s) with other editions")
         recs = items(ctx.client.get(f"/v2/editions/{it.edition_id}/recordings"))
-        with_cues = [r["id"] for r in recs if items(ctx.client.get(f"/v2/recordings/{r['id']}/cues"))]
+        with_cues, unknown = [], []
+        for r in recs:
+            try:
+                if items(ctx.client.get(f"/v2/recordings/{r['id']}/cues")):
+                    with_cues.append(r["id"])
+            except ApiError as exc:
+                if exc.status not in (404, 405):
+                    raise
+                unknown.append(r["id"])        # this environment's API cannot list cues (yet)
         if with_cues:
             out.append(f"{len(with_cues)} recording(s) with cues: {', '.join(with_cues)}")
-        elif recs:
+        if unknown:
+            out.append(f"{len(unknown)} recording(s) whose cues cannot be read on {ctx.env.name}: "
+                       f"{', '.join(unknown)} (treat as linked)")
+        if recs and not with_cues and not unknown:
             out.append(f"{len(recs)} recording(s) follow this edition (no cues)")
     if it.kind == "text":
         dep = _vault_dependents(it.key)
@@ -822,6 +873,22 @@ def _delete_ann(it, ctx, a):
     return f"{a} deleted"
 
 
+def _delete_tags(it, ctx, extra):
+    """PATCH tag_ids to the live list minus `extra`; read back. The server passes a root's tags on
+    to its translations, so removing one from a root removes it from them too."""
+    c = ctx.client
+    live = c.get(f"/v2/texts/{it.text_id}").get("tag_ids") or []
+    keep = [t for t in live if t not in extra]
+    c.patch(f"/v2/texts/{it.text_id}", {"tag_ids": keep})
+    back = c.get(f"/v2/texts/{it.text_id}").get("tag_ids") or []
+    if set(back) != set(keep):
+        raise ApiError(f"tags read back {back}, expected {keep}")
+    e = ctx.ledger.entry(it.key)
+    e.setdefault("deleted", []).append({"what": "tags", "tag_ids": list(extra), "date": time.strftime("%Y-%m-%d")})
+    ctx.ledger.save()
+    return f"removed {', '.join(extra)}; {len(back)} tag(s) left"
+
+
 def _delete_alignment(it, ctx):
     src, tgt = it.live_ends()                   # whichever direction the environment holds
     ctx.client.delete(f"/v2/editions/{src}/alignments/{tgt}")
@@ -997,14 +1064,21 @@ def plan_replace(states, ctx):
 
 def plan_delete(states, ctx, only):
     plans = []
-    allowed = set(ANNOTATIONS) | {"alignment"}
+    allowed = set(ANNOTATIONS) | {"alignment", "tags"}
     for it in states:
         p = NotePlan(title=it.title, link=it.link)
         if only - allowed:
-            p.problem = "only alignment, toc, yigchungs, durchens or footnotes can be deleted (texts never)"
+            p.problem = "only alignment, toc, yigchungs, durchens, footnotes or tags can be deleted (texts never)"
         elif not it.edition_id or it.live_text is None:
             p.problem = f"nothing from this note on {ctx.env.name}"
         else:
+            if "tags" in only:
+                extra = _extra_tags(it)
+                if extra:
+                    tr = len(it.live_text.get("translations") or [])
+                    cascade = f"; the server also removes them from its {tr} translation(s)" if tr else ""
+                    p.steps.append(Step(f"PATCH /v2/texts/{it.text_id}  (remove tag(s) {', '.join(extra)}{cascade})",
+                                        lambda it=it, extra=extra: _delete_tags(it, ctx, extra)))
             for a in ANNOTATIONS:
                 live = (it.live_ann or {}).get(a)
                 if a in only and live:

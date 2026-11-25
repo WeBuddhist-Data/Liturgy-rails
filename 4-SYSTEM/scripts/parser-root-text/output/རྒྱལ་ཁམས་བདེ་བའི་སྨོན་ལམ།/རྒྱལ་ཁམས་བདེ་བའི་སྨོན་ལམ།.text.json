@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XL62684C87CFF3",
+  "title": {
+    "bo": "རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ།"
+  },
+  "alt_titles": [
+    {
+      "en": "Aspiration for the Country's Welfare"
+    },
+    {
+      "zh": "國土安樂祈願文"
+    },
+    {
+      "hi": "राष्ट्र कल्याण प्रणिधान"
+    },
+    {
+      "ne": "राष्ट्र कल्याण प्रार्थना"
+    },
+    {
+      "mn": "Улс орон энх амгалан оршихуйн ерөөл"
+    },
+    {
+      "vi": "Cầu Nguyện Quốc Thái Dân An"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P563"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

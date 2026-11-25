@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.md
 translation_of_text_id: 2wxqIwT27sFU6Sb5wKpZj
 translation_of_edition_id: VfsjlMbI79VL5bTOtaNzV
-text_id:
-edition_id:
+text_id: WAJSJ1oYQVRFsS3pHmVE7
+edition_id: RO6Yv05854BMO3nHJ7O5Q
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
@@ -31,6 +31,7 @@ generated: 2026-08-28
 blocks_translated: 11
 blocks_total: 11
 status: draft
+toc_id: gynKFFjf4VJtuSwhFNP1Y
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -146,4 +147,4 @@ status: draft
 
 > ཞེས་པའི་བསྟོད་པ་བྱིན་འདི་འདོན་ཐུབ་ན་བྱིན་རླབས་ཀྱི་ཚན་ཁ་གཞན་དང་མི་འདྲ་བར་གསུངས།
 
-据云，若能持诵此赞颂，其加持之威力与众不同。 ^11
+<small>据云，若能持诵此赞颂，其加持之威力与众不同。</small> ^11

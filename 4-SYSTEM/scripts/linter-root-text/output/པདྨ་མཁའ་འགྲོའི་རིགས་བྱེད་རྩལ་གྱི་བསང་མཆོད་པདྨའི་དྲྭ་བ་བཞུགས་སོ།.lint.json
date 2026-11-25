@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/པདྨ་མཁའ་འགྲོའི་རིགས་བྱེད་རྩལ་གྱི་བསང་མཆོད་པདྨའི་དྲྭ་བ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:28.347590+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL3608DB7391B2",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "པདྨ་མཁའ་འགྲོའི་རིགས་བྱེད་རྩལ་གྱི་བསང་མཆོད་པདྨའི་དྲྭ་བ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Sang Offering to Kurukullā"
+      },
+      {
+        "zh": "蓮花空行作明佛母煨桑供養‧蓮花網"
+      },
+      {
+        "hi": "कुरुकुल्ला की सांग पूजा"
+      },
+      {
+        "ne": "कुरुकुल्ला साङ पूजा"
+      },
+      {
+        "mn": "Ригжидма охин тэнгэрийн сан тахилга"
+      },
+      {
+        "vi": "Cúng Dường Khói Kurukulla: Mạng Lưới Liên Hoa"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P252"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

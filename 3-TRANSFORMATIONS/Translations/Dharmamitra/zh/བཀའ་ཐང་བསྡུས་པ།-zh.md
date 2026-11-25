@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/བཀའ་ཐང་བསྡུས་པ།.md
 translation_of_text_id: m8kpgFXb7t5Osl15i0zG3
 translation_of_edition_id: MmmIPtqPu3eq9j5wr3swv
-text_id:
-edition_id:
+text_id: pVdiu8snUCAImtkeQa1Vd
+edition_id: hJcuDVdtO7dKfQ6kocB2M
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
@@ -31,6 +31,7 @@ generated: 2026-08-28
 blocks_translated: 25
 blocks_total: 25
 status: draft
+toc_id: XCfpgsEhp8X4g8eQ0SHZm
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -834,4 +835,4 @@ status: draft
 
 > ཞེས་གསུངས་ཞལ་ལྷ་ནུབ་ཏུ་གཟིགས་སོ༔ ས་མ་ཡ༔ རྒྱ་རྒྱ་རྒྱ༔ གཏེར་སྟོན་ཨོ་རྒྱན་གླིང་པས་བསམ་ཡས་མཆིམས་ཕུ་ནས་གཏེར་ནས་སྤྱན་དྲངས་པའོ༔
 
-如是宣說已，聖容轉向西方。 三昧耶。 印、印、印。 此乃伏藏師鄔金林巴（O rgyan gling pa）於桑耶欽普（Bsam yas mchims phu）之伏藏中迎請而出。 ^25
+<small>如是宣說已，聖容轉向西方。 三昧耶。 印、印、印。 此乃伏藏師鄔金林巴（O rgyan gling pa）於桑耶欽普（Bsam yas mchims phu）之伏藏中迎請而出。</small> ^25

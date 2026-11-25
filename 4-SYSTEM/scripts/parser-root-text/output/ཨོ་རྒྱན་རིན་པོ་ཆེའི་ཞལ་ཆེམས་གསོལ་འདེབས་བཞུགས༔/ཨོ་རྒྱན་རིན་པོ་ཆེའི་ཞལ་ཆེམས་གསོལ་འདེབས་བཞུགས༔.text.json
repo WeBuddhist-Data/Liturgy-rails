@@ -1,0 +1,40 @@
+{
+  "bdrc": "WA0XLA1BCA0C9C847",
+  "title": {
+    "bo": "ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔"
+  },
+  "alt_titles": [
+    {
+      "en": "The Testament Prayer to Orgyen Rinpoche"
+    },
+    {
+      "zh": "鄔金仁波切遺教祈請文"
+    },
+    {
+      "hi": "ओर्ज्ञेन रिनपोछे की अंतिम उपदेश प्रार्थना"
+    },
+    {
+      "ne": "उग्येन रिन्पोछेको अन्तिम वचन प्रार्थना"
+    },
+    {
+      "mn": "Ожэн Ринбүчигийн гэрээслэл залбирал"
+    },
+    {
+      "vi": "Lời Khẩn Cầu Di Giáo Của Orgyen Rinpoche"
+    }
+  ],
+  "language": "bo",
+  "category_id": "LCorCb2K98p3TICt3UCDm",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P564"
+    }
+  ],
+  "tag_ids": [
+    "FZ5STsdU0eLvo7Nb2CpvH",
+    "ZPcgMZgVJxAMQ7rpfW72a"
+  ]
+}

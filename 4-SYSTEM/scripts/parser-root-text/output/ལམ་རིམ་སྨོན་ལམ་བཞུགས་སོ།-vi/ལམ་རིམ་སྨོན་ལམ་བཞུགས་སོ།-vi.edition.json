@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Nhờ nỗ lực dài lâu tích lũy hai tư lương,Rộng lớn bao la tựa như cõi hư không,Độ thoát mọi chúng sinh tuệ nhãn mù vô minh,Nguyện con trở thành Đấng Tối Thắng Đạo Sư.Nguyện mọi đời kiếp chưa đạt đến quả vị,Được Đức Văn Thù rủ lòng thương nhiếp thọ,Tìm thấy Đạo thù thắng vẹn toàn giáo pháp,Tinh tấn hành trì làm hoan hỷ chư Phật.Tinh yếu đường tu đúng như con thực chứng,Dùng phương tiện thiện xảo với tâm đại bi,Xua tan bóng tối vô minh tâm chúng sinh,Nguyện giữ giáo pháp chư Phật mãi trường tồn.Nơi nào Chánh pháp tối thượng chưa chiếu rọi,Hoặc nơi Chánh pháp đã truyền nhưng suy tàn,Bằng tâm đại bi mãnh liệt luôn rung động,Nguyện con hiển lộ kho tàng lợi lạc này.Nhờ công hạnh vi diệu của Phật, Bồ Tát,Cùng các thứ lớp Đạo Bồ đề khéo thành tựu,Ban vinh diệu cho tâm người nguyện giải thoát,Nguyện giữ gìn Phật sự dài lâu muôn đời.Những ai tạo thuận duyên tu hành thiện đạo,Cùng người và phi nhân xua tan nghịch duyên,Nguyện trong mọi kiếp chẳng bao giờ xa rời,Con đường thanh tịnh được chư Phật tán dương.Khi tinh tấn hành trì mười hạnh Đại Thừa,Và dũng mãnh tu tập đúng theo chánh pháp,Nguyện các đấng oai lực thường xuyên che chở,Nguyện đại dương kiết tường tỏa khắp mười phương.Bài nguyện này do Đức Tsongkhapa vĩ đại soạn thảo.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 41
+          },
+          {
+            "start": 41,
+            "end": 78
+          },
+          {
+            "start": 78,
+            "end": 122
+          },
+          {
+            "start": 122,
+            "end": 165
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 165,
+            "end": 205
+          },
+          {
+            "start": 205,
+            "end": 247
+          },
+          {
+            "start": 247,
+            "end": 289
+          },
+          {
+            "start": 289,
+            "end": 328
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 328,
+            "end": 370
+          },
+          {
+            "start": 370,
+            "end": 412
+          },
+          {
+            "start": 412,
+            "end": 452
+          },
+          {
+            "start": 452,
+            "end": 497
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 497,
+            "end": 542
+          },
+          {
+            "start": 542,
+            "end": 586
+          },
+          {
+            "start": 586,
+            "end": 627
+          },
+          {
+            "start": 627,
+            "end": 667
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 667,
+            "end": 706
+          },
+          {
+            "start": 706,
+            "end": 748
+          },
+          {
+            "start": 748,
+            "end": 794
+          },
+          {
+            "start": 794,
+            "end": 834
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 834,
+            "end": 877
+          },
+          {
+            "start": 877,
+            "end": 921
+          },
+          {
+            "start": 921,
+            "end": 964
+          },
+          {
+            "start": 964,
+            "end": 1009
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 1009,
+            "end": 1050
+          },
+          {
+            "start": 1050,
+            "end": 1091
+          },
+          {
+            "start": 1091,
+            "end": 1136
+          },
+          {
+            "start": 1136,
+            "end": 1185
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 1185,
+            "end": 1235
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

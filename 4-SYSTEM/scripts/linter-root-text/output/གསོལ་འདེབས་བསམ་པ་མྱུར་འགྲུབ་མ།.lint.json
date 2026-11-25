@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.md",
+  "validated_at": "2026-11-24T18:03:24.074803+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XLD5D380DB4ECE",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Prayer that Swiftly Fulfils All Wishes"
+      },
+      {
+        "zh": "蓮師願望速成祈請文"
+      },
+      {
+        "hi": "सर्व मनोकामना शीघ्र पूर्ण करने वाली प्रार्थना"
+      },
+      {
+        "ne": "सबै इच्छा शीघ्र पूरा गर्ने प्रार्थना"
+      },
+      {
+        "mn": "Хүслийг түргэн бүтээгч залбирал"
+      },
+      {
+        "vi": "Bài Cầu Nguyện Nhanh Chóng Thành Tựu Tâm Nguyện"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P4956"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

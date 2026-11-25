@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Bậc Đạo sư tối thắng của thế gian, Phật Vô Lượng Thọ,Đấng tồi phục mọi ác nạn chết yểu không chừa sót,Nơi quy y cho những kẻ khổ đau không người che chở,Con xin đảnh lễ Đức Phật Vô Lượng Thọ.Om Amarani Jivantiye SvahaKhi nhìn thấy những điềm báo của cái chết yểu,Ngay khoảnh khắc ấy, kim thân Đấng Hộ chủ Vô Lượng Thọ,Nguyện con được nhìn thấy thật rõ ràng mà hàng phục Tử Thần,Và mau chóng chứng đắc quả vị Trì Minh bất tử.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 53
+          },
+          {
+            "start": 53,
+            "end": 102
+          },
+          {
+            "start": 102,
+            "end": 153
+          },
+          {
+            "start": 153,
+            "end": 191
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 191,
+            "end": 217
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 217,
+            "end": 263
+          },
+          {
+            "start": 263,
+            "end": 318
+          },
+          {
+            "start": 318,
+            "end": 378
+          },
+          {
+            "start": 378,
+            "end": 424
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

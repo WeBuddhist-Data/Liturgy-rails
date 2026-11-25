@@ -20,7 +20,9 @@ Commands:
   replace  text kinds: re-segmentation — DELETE segmentation -> one full content REPLACE ->
            POST segmentation -> annotations again; refused for a linked text unless --dev.
            audio: the file changed -> new recording on the same audio, old one deleted, cues again.
-  delete   text kinds: --only alignment|toc|yigchungs|durchens|footnotes (texts never);
+  delete   text kinds: --only alignment|toc|yigchungs|durchens|footnotes|tags (texts never;
+           tags: only the tags on the environment that the note's tag_ids do not list; prints a
+           warning and sends only with --confirm-remove-tags, after the person has confirmed);
            audio: --only cues|recording|audio. The notes must be named.
   verify   deep read-only check
 
@@ -48,6 +50,15 @@ from webuddhist.ledger import Ledger  # noqa: E402
 from webuddhist.plan import execute  # noqa: E402
 
 WRITE = {"push", "update", "replace", "delete"}
+REMOVE_TAGS_WARNING = """\
+WARNING — removing tags from the library
+  * A tag on the library that the note does not list may have been attached on purpose outside
+    the vault (a tagging pass, or someone correcting it by hand). If the library is right, update
+    the note's `tags` / `tag_ids` instead of removing the tag.
+  * Removing a tag from a root text also removes it from every translation of that text.
+  * Sending needs --yes and --confirm-remove-tags (and --confirm prod on prod), and only after the
+    person has seen exactly which tags go and said yes.
+"""
 TEXT_KINDS = ("text", "translation", "commentary")
 ANN = ("toc", "yigchungs", "durchens", "footnotes")
 ONLY = {
@@ -59,7 +70,7 @@ for _k in TEXT_KINDS:
     _push = ("text", "edition", *ANN) + (("alignment",) if _k != "text" else ())
     ONLY[(_k, "push")] = (_push, _push)
     ONLY[(_k, "update")] = (("details", "content", *ANN, "ids"), ("details", "content", *ANN, "ids"))
-    ONLY[(_k, "delete")] = ((*ANN,) + (("alignment",) if _k != "text" else ()), ())
+    ONLY[(_k, "delete")] = ((*ANN, "tags") + (("alignment",) if _k != "text" else ()), ())
 
 
 def parse_only(kind, command, value):
@@ -133,6 +144,8 @@ def main(argv=None):
                          "Breaks its alignments: push them again afterwards.")
     ap.add_argument("--yes", action="store_true", help="send the plan (without it nothing is sent)")
     ap.add_argument("--confirm", help="repeat the environment's name to write to a protected one (prod)")
+    ap.add_argument("--confirm-remove-tags", action="store_true",
+                    help="delete --only tags: the person has read the warning and confirmed removing the tags")
     ap.add_argument("--report", nargs="?", const="", metavar="FILE",
                     help="write a Markdown report (default: 4-SYSTEM/reports/<env>/<kind>-<command>.md)")
     a = ap.parse_args(argv)
@@ -151,7 +164,16 @@ def main(argv=None):
         if not a.only:
             raise SystemExit("delete needs --only")
     only = parse_only(a.kind, a.command, a.only)
-    run_info = "library.py " + " ".join(sys.argv[1:] if argv is None else argv)
+    removing_tags = a.command == "delete" and "tags" in only
+    if a.confirm_remove_tags and not removing_tags:
+        raise SystemExit("--confirm-remove-tags goes only with `delete --only tags`")
+    if removing_tags:
+        print(REMOVE_TAGS_WARNING)
+        if a.yes and not a.confirm_remove_tags:
+            raise SystemExit("Refused: removing tags needs the person's confirmation. Show them the plan "
+                             "(run without --yes) and this warning; only after they confirm, add "
+                             "--confirm-remove-tags.")
+    run_info ="library.py " + " ".join(sys.argv[1:] if argv is None else argv)
     sections, outcome = [], None
     sending = a.command in WRITE and a.yes
 

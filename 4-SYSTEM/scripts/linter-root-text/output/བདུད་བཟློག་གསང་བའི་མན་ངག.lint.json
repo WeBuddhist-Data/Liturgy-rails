@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/བདུད་བཟློག་གསང་བའི་མན་ངག.md",
+  "validated_at": "2026-11-24T18:03:29.504271+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 2 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL87C4E06812C7",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བདུད་བཟློག་གསང་བའི་མན་ངག"
+    },
+    "alt_titles": [
+      {
+        "en": "The Secret Pith Instruction for Averting Maras"
+      },
+      {
+        "zh": "回遮魔障祕訣"
+      },
+      {
+        "hi": "मार निवारण का गुप्त उपदेश"
+      },
+      {
+        "ne": "मार हटाउने गोप्य उपदेश"
+      },
+      {
+        "mn": "Шулмыг буцаах нууц увдис"
+      },
+      {
+        "vi": "Khẩu Quyết Bí Mật Đẩy Lùi Ma Chướng"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P252"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

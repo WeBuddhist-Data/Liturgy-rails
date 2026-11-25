@@ -4,7 +4,7 @@ title_en: "The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes —
 file_type: audio
 language: Tibetan
 lang_tag: bo
-artist: Jamyang Lodoe
+artist: Jamyang Lodoe [op:ttTU5oD1uwtnGAjZ09IqN]
 performance_type: recitation
 root_text: "[[1-SOURCES/Text/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།]]"
 root_text_title: "བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།"
@@ -25,6 +25,7 @@ file_size_bytes: 243730944
 sha256: 24931c5e07e726bbb8ec92ff62240b43560e242a6c3a4724e118a48e730f392b
 recording_time: "18:26:55"
 scene: "100224-182655"
+license: cc-by
 ---
 
 # བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ། — Jamyang Lodoe

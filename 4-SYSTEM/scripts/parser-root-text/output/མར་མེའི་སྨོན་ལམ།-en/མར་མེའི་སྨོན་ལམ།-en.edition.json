@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "With light capable of illuminating the three-thousandfold world system,With an immeasurable garland of divine butter lamps,To those residing in the infinite realms of the ten directions,I make offerings to the gurus, the Victorious Ones, and their heirs.Through this virtue, may I abandon my accumulated sins and downfalls,And eliminate all the darkness of cognitive and emotional obscurations;Having attained the supreme light of the eyes and clairvoyances,May I accomplish the great benefit of infinite sentient beings.From this day forth and throughout all my future lives,Having upheld the treasury of the sublime Dharma of all the Victors,Through the illumination of the Dharma, free from worldly motives,May I dispel the darkness of the ignorance of beings.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 71
+          },
+          {
+            "start": 71,
+            "end": 123
+          },
+          {
+            "start": 123,
+            "end": 186
+          },
+          {
+            "start": 186,
+            "end": 254
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 254,
+            "end": 323
+          },
+          {
+            "start": 323,
+            "end": 394
+          },
+          {
+            "start": 394,
+            "end": 458
+          },
+          {
+            "start": 458,
+            "end": 521
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 521,
+            "end": 576
+          },
+          {
+            "start": 576,
+            "end": 644
+          },
+          {
+            "start": 644,
+            "end": 710
+          },
+          {
+            "start": 710,
+            "end": 763
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

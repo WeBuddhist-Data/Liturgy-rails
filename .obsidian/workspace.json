@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "8badb52c61ee049e",
+    "id": "b82190083e665030",
     "type": "split",
     "children": [
       {
-        "id": "4b63a86b1450219a",
+        "id": "5bc562fe2af5277c",
         "type": "tabs",
         "children": [
           {
-            "id": "bb142080751bc038",
+            "id": "02bf6569a50fd7a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/Text 1/ཡན་ལག་བདུན་པ་མཎྜལ་དང་བཅས་པ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ཡན་ལག་བདུན་པ་མཎྜལ་དང་བཅས་པ།"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4135415961ce7682",
+    "id": "29f272306b8c817b",
     "type": "split",
     "children": [
       {
-        "id": "9bdfe33fe7a06bf6",
+        "id": "83ef3fa26ec1877b",
         "type": "tabs",
         "children": [
           {
-            "id": "74bd95f2146a1a4c",
+            "id": "9c7ec04c4e7073cc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "94f1f594a4cf715e",
+            "id": "4c2b8f074d274690",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "6b21396d10b7293a",
+            "id": "e51084ffd2d0d89f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,24 +83,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.9000244140625
+    "width": 366.16668701171875
   },
   "right": {
-    "id": "a62d1a29f3f6d9a4",
+    "id": "735dbc7de09aa087",
     "type": "split",
     "children": [
       {
-        "id": "c27306e33aca28d0",
+        "id": "93c04e59c7c5b77c",
         "type": "tabs",
         "children": [
           {
-            "id": "6252f7a1135ed5ce",
+            "id": "cf725ba0277319ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "0-INBOX/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -108,11 +113,12 @@
             }
           },
           {
-            "id": "eabf11469c848b75",
+            "id": "b825b3cd0ab11756",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0-INBOX/Text 2/@དཔལ་ས་སྐྱ་པའི་སྔོན་འགྲོའི་ངག་འདོན་ཁྱེར་བདེ་ཀུན་ཚང་།.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,7 +127,7 @@
             }
           },
           {
-            "id": "62c896af34b87a73",
+            "id": "81eacd9b767624a9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +142,7 @@
             }
           },
           {
-            "id": "33fec75319841ca5",
+            "id": "2decca3b67035f9d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,11 +156,12 @@
             }
           },
           {
-            "id": "b965739712aa6c6c",
+            "id": "b89ad9079e12b3fb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "0-INBOX/Text 2/@དཔལ་ས་སྐྱ་པའི་སྔོན་འགྲོའི་ངག་འདོན་ཁྱེར་བདེ་ཀུན་ཚང་།.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,7 +171,7 @@
             }
           },
           {
-            "id": "3ec047b4d4b36409",
+            "id": "cbf0e09142ce0e65",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -178,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,44 +199,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb142080751bc038",
+  "active": "cbf0e09142ce0e65",
   "lastOpenFiles": [
-    "1-SOURCES/text-without-audio.md",
-    "1-SOURCES/Text/པོ་བསྟོད།.md",
-    "1-SOURCES/Text/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
-    "1-SOURCES/Text/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་རྣམ་གྲོལ་མ་བཞུགས་སོ།.md",
-    "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.WAV",
-    "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས་བཞུགས།.WAV",
     "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/otr",
     "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།/audio",
     "1-SOURCES/Audio/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།",
-    "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།.WAV",
     "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/otr",
     "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio",
     "1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །",
-    "1-SOURCES/Text/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས། །.md",
-    "1-SOURCES/text-list.md",
-    "0-INBOX/Text 2/@འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་ཆོ་ག་ཞེས་བྱ་བའི་གཟུངས།.md",
-    "0-INBOX/Text 1/འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པ་བཞུགས།.md",
-    "0-INBOX/Text 1/འཕགས་པ་ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།.md",
-    "0-INBOX/Text 1/འཕགས་པ་བྱམས་མགོན་གྱི་བསྟོད་པ།.md",
-    "0-INBOX/Text 1/འཕགས་པ་བྱམས་པའི་སྨོན་ལམ།.md",
-    "1-SOURCES/Text/གངས་ཅན་ཤིང་རྟ་ཉེར་ལྔའི་གསོལ་འདེབས།.md",
-    "4-SYSTEM/Skills/convert-audio/SKILL.md",
-    "4-SYSTEM/Skills/library-upload/SKILL.md",
-    "1-SOURCES/Audio/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས།/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/ཀརྨ་པའི་གསོལ་འདེབས་རྒྱལ་ཀུན་ཕྲིན་ལས་གཟུགས་ཅན་མ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/གནས་བཅུའི་བསྟོད་པ་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
-    "1-SOURCES/Audio/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ། །/audio/bo-jamyang-lodoe-recitation.md",
+    "0-INBOX/Text 1/ཡང་གསང་བདུད་འདུལ་གྲོ་ལོད་ཀྱི་རྒྱུན་ཁྱེར་སྙིང་པོར་དྲིལ་བ།.md",
+    "0-INBOX/Text 1/འོད་དཔག་མེད་ཀྱི་སྒྲུབ་ཐབས་བདེ་ཆེན་མྱུར་ལམ།.md",
+    "0-INBOX/Text 1/འོད་དཔག་མེད་ཀྱི་བསྟོད་པ་ཞིང་མཆོག་སྒོ་འབྱེད་མ།.md",
+    "0-INBOX/Text 1/འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་རིག་འཛིན་བརྒྱུད་པའི་སྐོང་བཤགས་ཌཱ་ཀིའི་ཐོལ་གླུ།.md",
+    "0-INBOX/Text 1/འབྱུང་བཞི་གཏོར་མ་གཏོང་ཚུལ།.md",
+    "0-INBOX/Text 1/@འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་མཚན་སྔགས།.md",
+    "0-INBOX/Text 1/འཕགས་ཡུལ་རིག་འཛིན་བརྒྱད་ཀྱི་གསོལ་འདེབས་བྱིན་རླབས་ཆུ་རྒྱུན།.md",
+    "0-INBOX/Text 1/འཕགས་མ་སྒྲོལ་མའི་ཚོགས་མཆོད་ཤིན་ཏུ་བསྡུས་པ་དངོས་གྲུབ་སྙིང་པོ།.md",
+    "0-INBOX/Text 1/འཕགས་བསྟོད།.md",
+    "0-INBOX/Text 1/འཕགས་པའི་གསོལ་འདེབས་ཞལ་མཐོང་མ།.md",
+    "0-INBOX/Text 1/འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་ཆོ་ག་ཞེས་བྱ་བའི་གཟུངས།.md",
+    "0-INBOX/Text 1/ཀྱེ་རྡོར་ལམ་དུས་མ་ནོར་དོན་གསལ།.md",
+    "0-INBOX/@ཡུལ་ལྷའི་བསྟོད་པ།.md",
+    "0-INBOX/Text 2/ཡུམ་རྐྱང་གི་འཕོ་བ་མྱུར་འདྲེན་ཐུགས་རྗེའི་ལྕགས་ཀྱུ་དང། ལག་མཆོད་བྱ་ཚུལ། (འདི་ཞལ་འདོན་ཡིན་མིན་བརྟག).md",
+    "0-INBOX/Text 2/ཡུམ་ཀ་མཚོ་རྒྱལ་བདེ་ཆེན་རྒྱལ་མོའི་རྩ་བའི་སྒྲུབ་པ་བདེ་ཆེན་དཔལ་ཕྲེང་།.md",
+    "0-INBOX/Text 1/ཡན་ལག་བདུན་པ།.md",
+    "0-INBOX/Text 2/ཡན་ལག་བདུན་པ།.md",
+    "0-INBOX/Text 1/ཡན་ལག་བདུན་པ་མཎྜལ་དང་བཅས་པ།.md",
+    "0-INBOX/Text 2/འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+    "0-INBOX/Text 2/འབྱུང་བཞི་གཏོར་མ་གཏོང་ཚུལ་བཞུགས་སོ། །.md",
+    "0-INBOX/Text 2/འཕགས་ཡུལ་རིག་འཛིན་མཆོག་བརྒྱད་ཀྱི་གསོལ་འདེབས་བྱིན་རླབས་ཆུ་རྒྱུན།.md",
+    "0-INBOX/Text 2/འཕགས་པ་ཕུང་པོ་གསུམ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།_.md",
+    "0-INBOX/Text 2/འཕགས་བསྟོད།_.md",
     "4-SYSTEM/scripts/otr_to_mapping.py",
-    "4-SYSTEM/Skills/library-upload/scripts/linter-audio/README.md",
+    "1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/otr/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །.otr",
+    "1-SOURCES/Audio/དཔལ་གསང་བ་འདུས་པའི་བསྒོམ་བཟླས་རྒྱུན་འཁྱེར་བཞུགས་སོ། །/otr",
+    "1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/otr/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ། །.otr",
+    "1-SOURCES/Audio/དགོངས་གཅིག་ལྷན་ཐབས་བཞུགས་སོ།/otr",
     "0-INBOX/Text 1/འཕགས་པ་རྒྱལ་མཚན་གྱི་རྩེ་མོ།.md",
-    "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྩེགས་པ།.md",
-    "0-INBOX/Text 1/འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ་བཞུགས་སོ། །.md",
-    "0-INBOX/Text 1/འཕགས་པ་ཕྱོགས་བཅུའི་མུན་པ་རྣམ་པར་སེལ་བ།.md",
-    "0-INBOX/Text 1/འཕགས་པ་ཕུང་བོ་གསུམ་པ་ཞེས་བྱ་བའི་མདོ།.md",
-    "0-INBOX/Untitled.canvas"
+    "4-SYSTEM/scripts/audio_notes_to_m4a.py"
   ]
 }

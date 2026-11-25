@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "文殊降魔除障法，宣说遣魔秘诀要。外境所现莫随转，内中俗念浪涛涌。若与正法大相违，不由自主魔之相。识得之后勤遣除，顶上总集三皈依。观修上师本尊一，积资祈请心相融。心间月轮金刚上，种子咒字放光芒。智火炽燃焚自身，观为空性于此中，自身观为本尊身，视诸世间如幻化。以对众生平等慈，化作遍满白光芒，思惟一切具胜乐，皆是自心觉性力。觉性本初未造作，离诸造作因缘中。空明本然无执持，离于遮遣建立住。战胜障碍诸魔众，成就殊胜共悉地。萨玛雅。此乃昔日于宗萨地区，十一月初八日所作。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 8
+          },
+          {
+            "start": 8,
+            "end": 16
+          },
+          {
+            "start": 16,
+            "end": 24
+          },
+          {
+            "start": 24,
+            "end": 32
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 32,
+            "end": 40
+          },
+          {
+            "start": 40,
+            "end": 48
+          },
+          {
+            "start": 48,
+            "end": 56
+          },
+          {
+            "start": 56,
+            "end": 64
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 64,
+            "end": 72
+          },
+          {
+            "start": 72,
+            "end": 80
+          },
+          {
+            "start": 80,
+            "end": 88
+          },
+          {
+            "start": 88,
+            "end": 96
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 96,
+            "end": 104
+          },
+          {
+            "start": 104,
+            "end": 112
+          },
+          {
+            "start": 112,
+            "end": 120
+          },
+          {
+            "start": 120,
+            "end": 128
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 128,
+            "end": 136
+          },
+          {
+            "start": 136,
+            "end": 144
+          },
+          {
+            "start": 144,
+            "end": 152
+          },
+          {
+            "start": 152,
+            "end": 160
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 160,
+            "end": 168
+          },
+          {
+            "start": 168,
+            "end": 176
+          },
+          {
+            "start": 176,
+            "end": 184
+          },
+          {
+            "start": 184,
+            "end": 192
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 192,
+            "end": 200
+          },
+          {
+            "start": 200,
+            "end": 208
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 208,
+            "end": 231
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

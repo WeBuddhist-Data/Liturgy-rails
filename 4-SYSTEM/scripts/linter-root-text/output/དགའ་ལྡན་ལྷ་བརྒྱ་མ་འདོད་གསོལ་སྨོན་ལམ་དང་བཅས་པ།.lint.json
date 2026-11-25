@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།.md",
+  "validated_at": "2026-11-24T18:03:26.542485+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "author 'དཀོན་མཆོག་འཇིགས་མེད་དབང་པོ་ཡེ་ཤེས་བརྩོན་འགྲུས་གྲགས་པ།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL69CB3149154A",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དགའ་ལྡན་ལྷ་བརྒྱ་མ་འདོད་གསོལ་སྨོན་ལམ་དང་བཅས་པ།"
+    },
+    "alt_titles": [
+      {
+        "en": "The Hundred Deities of Tushita"
+      },
+      {
+        "zh": "兜率百尊"
+      },
+      {
+        "hi": "तुषित के सौ देवता"
+      },
+      {
+        "ne": "तुषिताका सय देवताहरू"
+      },
+      {
+        "mn": "Ганданлажаа"
+      },
+      {
+        "vi": "Trăm Vị Tôn Cõi Đâu Suất"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

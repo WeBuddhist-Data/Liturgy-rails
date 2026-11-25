@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Cội quy y không luống dối, Tam Bảo và Tam Căn,Đặc biệt là Đấng Hộ tôn Xứ Tuyết Quán Thế Âm,Chí tôn Độ Mẫu và Đạo sư Liên Hoa Sanh,Con khẩn cầu các ngài, xin nhớ lại thệ nguyện xưa,Ban gia trì cho lời nguyện cầu này được hoàn toàn viên mãn.Thời mạt pháp chúng sinh mang ác tâm ác hạnh,Do nhân duyên tứ đại trong ngoài đều rối loạn,Sinh bệnh dịch người và gia súc chưa từng nghe,Nạn tinh tú, long vương, quỷ thần cùng hắc ám,Sương, sấm, tuyết, mất mùa, binh đao cùng tranh đoạt.Mưa gió chẳng hòa, Xứ Tuyết hạn hán tai ương,Nạn động đất, hỏa hoạn cùng tứ đại hiểm nguy,Đặc biệt ngoại xâm phá hoại giáo pháp thiêng liêng,Xin mọi tai họa tổn ác tại Xứ Tuyết này,Đều chóng được tiêu trừ và tận diệt tận gốc.Hết thảy chúng sinh người cùng với phi nhân,Nơi tâm thức Bồ-đề tâm tối thượng trân quý,Tự nhiên khởi sinh, xa lìa ác tâm ác hạnh,Cùng mang trọn tâm từ ái yêu thương lẫn nhau,Khắp cõi Tây Tạng thọ hưởng vinh quang an lạc,Nguyện giáo pháp Đức Phật hưng thịnh mãi trường tồn.Nhờ năng lực chân thật của Tam Căn, chư Phật và Phật tử,Cùng cội nguồn thiện căn trong luân hồi và niết-bàn,Và oai lực từ diệu tâm thanh tịnh của chúng con,Nguyện quả báu của vạn lời khẩn cầu đều viên mãn.Đạo sư Jamyang Khyentse Wangpo từng phán: \"Thời buổi hiện nay đầy biến động lớn lao và khôn lường. Bản thân ta trì tụng Lời nguyện An bình cho Tây Tạng này sáu lần mỗi ngày, nên việc ông làm như thế cũng vô cùng quan trọng.\" Theo thánh huấn này, tôi đã biên chép lại để nhắc nhở chính mình. Nguyện mọi sự thảy đều viên thành như vậy!",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 46
+          },
+          {
+            "start": 46,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "end": 130
+          },
+          {
+            "start": 130,
+            "end": 180
+          },
+          {
+            "start": 180,
+            "end": 239
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 239,
+            "end": 284
+          },
+          {
+            "start": 284,
+            "end": 330
+          },
+          {
+            "start": 330,
+            "end": 377
+          },
+          {
+            "start": 377,
+            "end": 423
+          },
+          {
+            "start": 423,
+            "end": 476
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 476,
+            "end": 521
+          },
+          {
+            "start": 521,
+            "end": 566
+          },
+          {
+            "start": 566,
+            "end": 617
+          },
+          {
+            "start": 617,
+            "end": 657
+          },
+          {
+            "start": 657,
+            "end": 701
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 701,
+            "end": 745
+          },
+          {
+            "start": 745,
+            "end": 788
+          },
+          {
+            "start": 788,
+            "end": 830
+          },
+          {
+            "start": 830,
+            "end": 875
+          },
+          {
+            "start": 875,
+            "end": 921
+          },
+          {
+            "start": 921,
+            "end": 973
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 973,
+            "end": 1029
+          },
+          {
+            "start": 1029,
+            "end": 1081
+          },
+          {
+            "start": 1081,
+            "end": 1129
+          },
+          {
+            "start": 1129,
+            "end": 1178
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 1178,
+            "end": 1511
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      }
+    ]
+  }
+}

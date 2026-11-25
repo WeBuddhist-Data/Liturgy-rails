@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ།.md",
+  "validated_at": "2026-11-24T18:03:25.363978+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": "WA0XL03E7156CE101",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཐབས་མཁས་ཐུགས་རྗེ་མ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "Praise of the Buddha"
+      },
+      {
+        "zh": "釋迦牟尼佛禮讚文"
+      },
+      {
+        "hi": "भगवान बुद्ध की स्तुति"
+      },
+      {
+        "ne": "बुद्धका बाह्र लिलाहरूको स्तुति"
+      },
+      {
+        "mn": "Бурхан багшийн магтаал"
+      },
+      {
+        "vi": "Lời Tán Thán Mười Hai Hạnh Nguyện Đức Phật"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P16"
+      }
+    ],
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}

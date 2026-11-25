@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "在无生法界之中，圣母度母尊安住。愿赐一切众生乐，祈请救护我等脱离一切怖畏。未识自性即法身，心随烦恼所转故，流转轮回众生辈，祈请圣母救护之。正法未于心中生，唯随名言文字转，受诸恶见所欺诳，祈请真实圣母救护之。自心深奥难证悟，见后未能勤修习，散乱于诸恶行中，祈请正念圣母救护之。自心本觉无二智，因执二取习气故，无论如何皆被缚，祈请无二圣母救护之。虽已安住真实义，不明因果缘起法，于所知义生愚痴，祈请遍知圣母救护之。离戏犹如虚空性，一切与彼无分别，然于学人位阶中，祈请圆满佛母救护之。此乃三界法王、胜者直贡巴、三界怙主吉天颂恭，于阿琼洞亲见圣救度母七尊时所作之祈请文，世称“七救护颂”，传闻加持力极大。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 8
+          },
+          {
+            "start": 8,
+            "end": 16
+          },
+          {
+            "start": 16,
+            "end": 24
+          },
+          {
+            "start": 24,
+            "end": 37
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 37,
+            "end": 45
+          },
+          {
+            "start": 45,
+            "end": 53
+          },
+          {
+            "start": 53,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "end": 69
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 69,
+            "end": 77
+          },
+          {
+            "start": 77,
+            "end": 85
+          },
+          {
+            "start": 85,
+            "end": 93
+          },
+          {
+            "start": 93,
+            "end": 103
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 103,
+            "end": 111
+          },
+          {
+            "start": 111,
+            "end": 119
+          },
+          {
+            "start": 119,
+            "end": 127
+          },
+          {
+            "start": 127,
+            "end": 137
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 137,
+            "end": 145
+          },
+          {
+            "start": 145,
+            "end": 153
+          },
+          {
+            "start": 153,
+            "end": 161
+          },
+          {
+            "start": 161,
+            "end": 171
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      },
+      {
+        "lines": [
+          {
+            "start": 171,
+            "end": 179
+          },
+          {
+            "start": 179,
+            "end": 187
+          },
+          {
+            "start": 187,
+            "end": 195
+          },
+          {
+            "start": 195,
+            "end": 205
+          }
+        ],
+        "type": "verse",
+        "reference": "6"
+      },
+      {
+        "lines": [
+          {
+            "start": 205,
+            "end": 213
+          },
+          {
+            "start": 213,
+            "end": 221
+          },
+          {
+            "start": 221,
+            "end": 229
+          },
+          {
+            "start": 229,
+            "end": 239
+          }
+        ],
+        "type": "verse",
+        "reference": "7"
+      },
+      {
+        "lines": [
+          {
+            "start": 239,
+            "end": 298
+          }
+        ],
+        "type": "verse",
+        "reference": "8"
+      }
+    ]
+  }
+}

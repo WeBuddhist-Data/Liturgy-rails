@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/བཀའ་ཐང་བསྡུས་པ།.md
 translation_of_text_id: m8kpgFXb7t5Osl15i0zG3
 translation_of_edition_id: MmmIPtqPu3eq9j5wr3swv
-text_id:
-edition_id:
+text_id: z4KBHrC7wlJKxUNg2Lr0t
+edition_id: QcG8xd0pMhIHrBOsSaQSt
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 25
 blocks_total: 25
 status: draft
+toc_id: mlrToCr2CEKZY22WGqy9l
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -840,4 +841,4 @@ status: draft
 
 > ཞེས་གསུངས་ཞལ་ལྷ་ནུབ་ཏུ་གཟིགས་སོ༔ ས་མ་ཡ༔ རྒྱ་རྒྱ་རྒྱ༔ གཏེར་སྟོན་ཨོ་རྒྱན་གླིང་པས་བསམ་ཡས་མཆིམས་ཕུ་ནས་གཏེར་ནས་སྤྱན་དྲངས་པའོ༔
 
-Хэмээн зарлиглаж тэргүүнээ баруун өмнө зүгт харуулав. Самаяа. Тамга тамга тамга. Тэрсдүн Үржин Линба бээр Самъяа Чимпүгээс сангаас урин залсан бөлгөө. ^25
+<small>Хэмээн зарлиглаж тэргүүнээ баруун өмнө зүгт харуулав. Самаяа. Тамга тамга тамга. Тэрсдүн Үржин Линба бээр Самъяа Чимпүгээс сангаас урин залсан бөлгөө.</small> ^25

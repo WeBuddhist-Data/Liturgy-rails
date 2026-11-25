@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://ai.google.dev"
+  },
+  "content": "Om, nguyện mọi sự đều cát tường!Lưới chuỗi chớp giật giữa mây trắng rạng ngời,Bậc đoạt ý như điểm tô cho bầu trời,Hiện thân yểu điệu giữa ngàn thiếu nữ Càn-thát-bà,Nữ thần hằng rủ lòng thương, xin hãy giáng lâm!Khuôn mặt sen hồng cùng đôi mắt ong dao động,Ánh trăng lấp lánh trên chóp đỉnh tóc xanh huyền,Hỡi Nữ thần Diệu Âm trong vũ điệu duyên dáng uy nghi,Cúi xin ban cho con sức mạnh tột cùng của ngữ âm!Ánh mắt như nai hiền trong vũ điệu đùa vui,Bậc đoạt ý mà mắt ngắm nhìn chẳng bao giờ thỏa,Lòng từ bi như mẫu thân, nguyện ngài khiến khẩu ngữ của con,Trở nên tuyệt hảo hệt như Ngữ Tự Tại Nữ Thần!Vẻ đẹp kiều diễm vượt cả vinh quang vầng trăng thu tỏ,Thanh âm uy trấn lấn át cả Phạm âm vi diệu,Thâm sâu khó dò như tận đáy biển khơi mênh mông,Con xin đảnh lễ Thân Ngữ Ý của Nữ thần Diệu Âm!Bài tán thán này được soạn bởi Đức Je Lobsang Drakpa.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 32
+          },
+          {
+            "start": 32,
+            "end": 78
+          },
+          {
+            "start": 78,
+            "end": 114
+          },
+          {
+            "start": 114,
+            "end": 164
+          },
+          {
+            "start": 164,
+            "end": 211
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 211,
+            "end": 256
+          },
+          {
+            "start": 256,
+            "end": 305
+          },
+          {
+            "start": 305,
+            "end": 358
+          },
+          {
+            "start": 358,
+            "end": 407
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 407,
+            "end": 450
+          },
+          {
+            "start": 450,
+            "end": 497
+          },
+          {
+            "start": 497,
+            "end": 557
+          },
+          {
+            "start": 557,
+            "end": 602
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      },
+      {
+        "lines": [
+          {
+            "start": 602,
+            "end": 656
+          },
+          {
+            "start": 656,
+            "end": 699
+          },
+          {
+            "start": 699,
+            "end": 747
+          },
+          {
+            "start": 747,
+            "end": 794
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      },
+      {
+        "lines": [
+          {
+            "start": 794,
+            "end": 847
+          }
+        ],
+        "type": "verse",
+        "reference": "5"
+      }
+    ]
+  }
+}

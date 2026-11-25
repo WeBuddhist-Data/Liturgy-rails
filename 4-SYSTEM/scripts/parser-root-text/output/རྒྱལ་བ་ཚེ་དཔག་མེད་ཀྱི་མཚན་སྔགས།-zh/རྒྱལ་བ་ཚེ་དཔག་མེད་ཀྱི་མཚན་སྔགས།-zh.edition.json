@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "世間導師無量壽，能除一切非時死，無依苦難眾生怙，禮敬無量壽佛尊。嗡 阿瑪拉尼 濟萬得耶 梭哈。若見非時死相時，即刻顯現無量壽，明見尊身滅死主，願速證得不死持明。",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 8
+          },
+          {
+            "start": 8,
+            "end": 16
+          },
+          {
+            "start": 16,
+            "end": 24
+          },
+          {
+            "start": 24,
+            "end": 32
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 32,
+            "end": 47
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 47,
+            "end": 55
+          },
+          {
+            "start": 55,
+            "end": 63
+          },
+          {
+            "start": 63,
+            "end": 71
+          },
+          {
+            "start": 71,
+            "end": 80
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

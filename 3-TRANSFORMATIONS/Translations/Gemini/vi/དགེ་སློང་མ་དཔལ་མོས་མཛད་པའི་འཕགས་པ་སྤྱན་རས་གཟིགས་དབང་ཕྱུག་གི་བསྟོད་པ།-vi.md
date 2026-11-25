@@ -9,8 +9,8 @@ track_type: machine-baseline
 translation_of: 1-SOURCES/Text/དགེ་སློང་མ་དཔལ་མོས་མཛད་པའི་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་བསྟོད་པ།.md
 translation_of_text_id: 2wxqIwT27sFU6Sb5wKpZj
 translation_of_edition_id: VfsjlMbI79VL5bTOtaNzV
-text_id:
-edition_id:
+text_id: Xf97MdC4dsE3OgdiuLiOR
+edition_id: KaQpqyDIaNIPKb96HRtS8
 tags: [practice/chant, tradition/vajrayana]
 tag_ids: [FZ5STsdU0eLvo7Nb2CpvH, ZPcgMZgVJxAMQ7rpfW72a]
 source_language: tibetan
@@ -37,6 +37,7 @@ generated: 2026-09-06
 blocks_translated: 11
 blocks_total: 11
 status: draft
+toc_id: olokqihVPK42asQo4vX81
 ---
 
 > [!warning] Machine baseline — not a rails-governed translation.
@@ -152,4 +153,4 @@ Sẽ thành tựu mọi sở cầu thế gian và xuất thế gian. ^10
 
 > ཞེས་པའི་བསྟོད་པ་བྱིན་འདི་འདོན་ཐུབ་ན་བྱིན་རླབས་ཀྱི་ཚན་ཁ་གཞན་དང་མི་འདྲ་བར་གསུངས།
 
-Tương truyền rằng nếu có thể trì tụng bài tán thán ân phúc này, năng lực gia trì sẽ thù thắng không gì sánh bằng. ^11
+<small>Tương truyền rằng nếu có thể trì tụng bài tán thán ân phúc này, năng lực gia trì sẽ thù thắng không gì sánh bằng.</small> ^11

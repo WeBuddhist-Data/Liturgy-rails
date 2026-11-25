@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://dharmamitra.org"
+  },
+  "content": "Great Indian scholar, so kind to Tibet,Padmākara, your form is beyond birth and death;Now you act as the subduer of the rakshasas in the southwest,To Orgyen Rinpoche, I pay homage.Oṃ āḥ hūṃ vajra guru padma siddhi hūṃ.Guru Rinpoche, Buddha of the three times,Lord of all accomplishments, at the feet of the Great Blissful One,Wrathful power that subdues demons and dispels all obstacles,I pray to you: please grant your blessings.Pacify outer, inner, and secret obstacles,And grant your blessings so that my intentions are spontaneously fulfilled.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 39
+          },
+          {
+            "start": 39,
+            "end": 86
+          },
+          {
+            "start": 86,
+            "end": 147
+          },
+          {
+            "start": 147,
+            "end": 180
+          }
+        ],
+        "type": "verse",
+        "reference": "1"
+      },
+      {
+        "lines": [
+          {
+            "start": 180,
+            "end": 218
+          }
+        ],
+        "type": "verse",
+        "reference": "2"
+      },
+      {
+        "lines": [
+          {
+            "start": 218,
+            "end": 259
+          },
+          {
+            "start": 259,
+            "end": 326
+          },
+          {
+            "start": 326,
+            "end": 387
+          },
+          {
+            "start": 387,
+            "end": 430
+          },
+          {
+            "start": 430,
+            "end": 472
+          },
+          {
+            "start": 472,
+            "end": 547
+          }
+        ],
+        "type": "verse",
+        "reference": "3"
+      }
+    ]
+  }
+}

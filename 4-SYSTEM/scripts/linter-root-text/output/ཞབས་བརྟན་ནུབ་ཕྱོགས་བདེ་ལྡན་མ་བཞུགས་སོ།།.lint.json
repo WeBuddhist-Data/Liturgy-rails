@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།.md",
+  "validated_at": "2026-11-24T18:03:33.731594+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://webuddhist.com'",
+    "toc: 3 headers found"
+  ],
+  "warnings": [
+    "author 'གནས་ཆུང་ཆོས་རྒྱལ་ཆེན་པོ།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0XL95BF5FA27C15",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ། །"
+    },
+    "alt_titles": [
+      {
+        "en": "The Long-Life Prayer 'In the Blissful Realm of the West"
+      },
+      {
+        "zh": "〈西方安樂剎土〉長壽祈請文"
+      },
+      {
+        "hi": "'पश्चिम के सुखद लोक में' दीर्घायु प्रार्थना"
+      },
+      {
+        "ne": "दीर्घायु प्रार्थना: 'पश्चिमको सुखावती भुवनमा'"
+      },
+      {
+        "mn": "Баруун зүгийн амгалан төгөлдөр хэмээх насны залбирал"
+      },
+      {
+        "vi": "Lời Cầu Nguyện Trường Thọ Từ Cõi Tây Phương An Lạc"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "LCorCb2K98p3TICt3UCDm",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "FZ5STsdU0eLvo7Nb2CpvH",
+      "ZPcgMZgVJxAMQ7rpfW72a"
+    ]
+  }
+}
