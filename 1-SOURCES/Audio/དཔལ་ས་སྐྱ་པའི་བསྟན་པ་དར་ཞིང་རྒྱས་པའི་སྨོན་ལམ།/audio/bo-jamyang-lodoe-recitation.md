@@ -14,7 +14,7 @@ production_software: ZOOM H1essential (field recorder)
 source_description: Single recording of the recitation of the Prayer for the Flourishing of the Sakya Teachings by Jamyang Lodoe. Recorded on a ZOOM H1essential on 2024-01-18 (from the BWF tags embedded in the file).
 recordings:
   - id: recitation
-    file: 1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།.m4a
+    file: 1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ།/audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ།.m4a
     version: recitation
     accompaniment: false
     duration: 00:07:18.17
@@ -42,11 +42,11 @@ One recording of the root text [[1-SOURCES/Text/དཔལ་ས་སྐྱ་�
 
 | Version    | File | Duration | Format |
 | ---------- | ---- | -------- | ------ |
-| Recitation | `དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།.m4a` | 7:18.17 | AAC 128 kbps / 48 kHz, stereo |
+| Recitation | `དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ།.m4a` | 7:18.17 | AAC 128 kbps / 48 kHz, stereo |
 
 ## Recitation
 
-![[1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །/audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།.m4a]]
+![[1-SOURCES/Audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ།/audio/དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ།.m4a]]
 
 ## Mapping
 
