@@ -57,7 +57,7 @@ Om, nguyện mọi sự đều cát tường!
 Lưới chuỗi chớp giật giữa mây trắng rạng ngời,
 Bậc đoạt ý như điểm tô cho bầu trời,
 Hiện thân yểu điệu giữa ngàn thiếu nữ Càn-thát-bà,
-Nữ thần hằng rủ lòng thương, xin hãy giáng lâm! ^1
+Nữ thần hằng rủ lòng thương, xin hãy giáng lâm! ^0-1
 
 > པདྨའི་བཞིན་ལ་གཡོ་ལྡན་བུང་བའི་མིག།
 > མཐོན་མཐིང་རལ་བའི་རྩེ་ན་འོད་དཀར་ཅན།
@@ -67,7 +67,7 @@ Nữ thần hằng rủ lòng thương, xin hãy giáng lâm! ^1
 Khuôn mặt sen hồng cùng đôi mắt ong dao động,
 Ánh trăng lấp lánh trên chóp đỉnh tóc xanh huyền,
 Hỡi Nữ thần Diệu Âm trong vũ điệu duyên dáng uy nghi,
-Cúi xin ban cho con sức mạnh tột cùng của ngữ âm! ^2
+Cúi xin ban cho con sức mạnh tột cùng của ngữ âm! ^0-2
 
 > རོལ་རྩེད་གར་གྱི་ཉམས་ལྡན་རི་དྭགས་མིག།
 > མིག་གིས་ལྟ་བས་མི་ངོམས་ཡིད་འཕྲོག་མ།
@@ -77,7 +77,7 @@ Cúi xin ban cho con sức mạnh tột cùng của ngữ âm! ^2
 Ánh mắt như nai hiền trong vũ điệu đùa vui,
 Bậc đoạt ý mà mắt ngắm nhìn chẳng bao giờ thỏa,
 Lòng từ bi như mẫu thân, nguyện ngài khiến khẩu ngữ của con,
-Trở nên tuyệt hảo hệt như Ngữ Tự Tại Nữ Thần! ^3
+Trở nên tuyệt hảo hệt như Ngữ Tự Tại Nữ Thần! ^0-3
 
 > སྟོན་ཟླ་རྒྱས་པའི་དཔལ་ལས་ལྷག་པར་མཛེས།
 > ཚངས་དབྱངས་སྙན་པའི་གདངས་ཀྱང་ཟིལ་གྱིས་གནོན།
@@ -87,8 +87,8 @@ Trở nên tuyệt hảo hệt như Ngữ Tự Tại Nữ Thần! ^3
 Vẻ đẹp kiều diễm vượt cả vinh quang vầng trăng thu tỏ,
 Thanh âm uy trấn lấn át cả Phạm âm vi diệu,
 Thâm sâu khó dò như tận đáy biển khơi mênh mông,
-Con xin đảnh lễ Thân Ngữ Ý của Nữ thần Diệu Âm! ^4
+Con xin đảnh lễ Thân Ngữ Ý của Nữ thần Diệu Âm! ^0-4
 
 > ཅེས་པ་འདི་རྗེ་བློ་བཟང་གྲགས་པས་མཛད་པའོ། །
 
-Bài tán thán này được soạn bởi Đức Je Lobsang Drakpa. ^5
+Bài tán thán này được soạn bởi Đức Je Lobsang Drakpa. ^1-1-1

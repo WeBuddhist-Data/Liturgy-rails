@@ -55,7 +55,7 @@ toc_id: ELDcYMZtMsJUWYdj9TXuB
 Từ lòng đại bi huân tập vì nguyện lợi lạc chúng sinh,
 Bằng thần thông giáo hoá chỉ dạy duy nhất thiện pháp,
 Khéo thành tựu ý nguyện an vui lợi lạc tịch tĩnh,
-Nguyện Đấng Đạo Sư đủ Mười Lực luôn luôn hộ trì. ^1
+Nguyện Đấng Đạo Sư đủ Mười Lực luôn luôn hộ trì. ^0-1
 
 > བདེ་སྡུག་འདོད་དང་མི་འདོད་རང་གཞན་ཀུན། །
 > མཉམ་ཉིད་བདག་པས་གཞན་རྣམས་གཙོ་བའི་ཕྱིར།།
@@ -65,7 +65,7 @@ Nguyện Đấng Đạo Sư đủ Mười Lực luôn luôn hộ trì. ^1
 Vui khổ muốn và không muốn của tự tha thảy đều,
 Hoàn toàn bình đẳng, vì đặt người khác trọng hơn mình,
 Bồ-đề tâm dẫn dắt người khác đến sự an vui,
-Nguyện thâm nhập vào tâm mọi chúng sinh khắp hư không. ^2
+Nguyện thâm nhập vào tâm mọi chúng sinh khắp hư không. ^0-2
 
 > དེའི་མཐུས་གྲོགས་དག་བྱམས་དང་བརྩེ་བ་ཡིས། །
 > ཉེ་བར་བཟུང་ནས་ཞི་སྙོམས་བདེན་པའི་ལམ། །
@@ -75,7 +75,7 @@ Nguyện thâm nhập vào tâm mọi chúng sinh khắp hư không. ^2
 Nhờ năng lực ấy, bằng tình yêu thương và từ bi,
 Gìn giữ nhau thân thiết trên con đường chân lý bình đẳng,
 Trong vinh quang tốt đẹp ban tặng niềm hỷ lạc cho tất cả,
-Nguyện dành trọn thời gian hỷ lạc tu hành pháp ấy. ^3
+Nguyện dành trọn thời gian hỷ lạc tu hành pháp ấy. ^0-3
 
 > གང་གི་མཚན་ཡང་རྒྱལ་བའི་བྱིན་རླབས་པའི། །
 > དམན་ལ་ལྷག་པར་བརྩེ་བ་ཐུགས་རྗེའི་གཏེར། །
@@ -85,7 +85,7 @@ Nguyện dành trọn thời gian hỷ lạc tu hành pháp ấy. ^3
 Ngài mang hồng danh được chư Phật ban gia trì,
 Kho tàng đại bi đặc biệt yêu thương kẻ hèn kém,
 Bằng khúc ca sầu bi tín tâm nhớ nghĩ đến Ngài,
-Khi khẩn thiết kêu cầu, xin luôn luôn nhiếp thọ con. ^4
+Khi khẩn thiết kêu cầu, xin luôn luôn nhiếp thọ con. ^0-4
 
 > ཐུབ་པའི་ལུང་གིས་བསྔགས་པའི་གངས་ལྗོངས་ཀྱི། །
 > རྣམ་གསུམ་མེས་དབོན་དམ་པའི་རྗེས་ཞུགས་པ། །
@@ -95,7 +95,7 @@ Khi khẩn thiết kêu cầu, xin luôn luôn nhiếp thọ con. ^4
 Ở xứ tuyết được tán thán bởi lời tiên tri của Đức Phật,
 Bước theo dấu chân của ba vị Tôn Vương thánh thiện,
 Nhờ sức gia trì từ tín tâm của nhân dân cùng nòi giống,
-Xin nguyện mọi mong cầu hiện tại và tương lai viên thành. ^5
+Xin nguyện mọi mong cầu hiện tại và tương lai viên thành. ^0-5
 
 > ཚེ་རབས་ཀུན་ཏུ་བྱང་ཆུབ་སེམས་མཆོག་དང་། །
 > ཡང་དག་ལྟ་ལ་གོམས་པར་བྱས་པ་ལས། །
@@ -105,7 +105,7 @@ Xin nguyện mọi mong cầu hiện tại và tương lai viên thành. ^5
 Trong mọi đời kiếp bằng Bồ-đề tâm tối thắng,
 Cùng với chánh kiến được thực hành huân tập,
 Làm tịch diệt tam độc, tập khí và quả báo,
-Nguyện mau chóng đạt quả vị Đại Bồ-đề an lạc vĩnh hằng. ^6
+Nguyện mau chóng đạt quả vị Đại Bồ-đề an lạc vĩnh hằng. ^0-6
 
 > ལྟོས་ནས་གྲུབ་པའི་རྟེན་འབྱུང་སྒྱུ་མའི་གཤིས། །
 > ནམ་ཡང་བསླུ་མེད་ཆོས་ཉིད་བདེན་པ་དང་། །
@@ -115,8 +115,8 @@ Nguyện mau chóng đạt quả vị Đại Bồ-đề an lạc vĩnh hằng. ^
 Bản tính huyễn hóa của duyên khởi nương tựa mà thành,
 Cùng chân lý Pháp giới không bao giờ dối gạt,
 Và sức mạnh chân thật của tâm thanh tịnh thiện lành,
-Nguyện mọi điều ước nguyện được thành tựu một cách dễ dàng. ^7
+Nguyện mọi điều ước nguyện được thành tựu một cách dễ dàng. ^0-7
 
 > ཅེས་པ་འདི་ནི་ྋརྒྱལ་དབང་ྋསྐུ་ཕྲེང་བཅུ་བཞི་པ་ཆེན་པོས་བོད་རྒྱལ་ལོ་ ༢༡༠༧ ས་ག་ཟླ་བ་ཚེས་ ༡༥ དང་། ཕྱི་ལོ་ ༡༩༨༠ ཟླ་ ༥ ཚེས་ ༢༩ ཉིན་མཛད་པའོ། ། །
 
-Lời này được Đức Đạt Lai Lạt Ma đời thứ mười bốn soạn vào ngày 15 tháng Saka Dawa, năm Tây Tạng 2107, nhằm ngày 29 tháng 5 năm 1980. ^8
+Lời này được Đức Đạt Lai Lạt Ma đời thứ mười bốn soạn vào ngày 15 tháng Saka Dawa, năm Tây Tạng 2107, nhằm ngày 29 tháng 5 năm 1980. ^1-1-1

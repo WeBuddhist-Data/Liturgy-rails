@@ -49,7 +49,7 @@ toc_id: cyZPykXp6X3NmSouLxELA
 Hrīḥ! O Protector of the Western Realm of Bliss,
 And the Wish-Fulfilling Wheel, Vijayā, and the rest,
 From the clouds of compassion of the deathless host of deities,
-Rain down this very day the great shower of the essence of life and accomplishments. ^1
+Rain down this very day the great shower of the essence of life and accomplishments. ^0-1
 
 > རིས་བྲལ་འགྲོ་ལ་རྗེས་བརྩེ་ཕན་བདེའི་ནོར། །
 > སྩོལ་མཛད་མཆོག་སྤྲུལ་མཐོང་བ་དོན་ལྡན་རྗེ། །
@@ -59,7 +59,7 @@ Rain down this very day the great shower of the essence of life and accomplishme
 With love for all beings without partiality, you bestow the jewel of benefit and happiness,
 O supreme emanation, Lord whose very sight is meaningful,
 May your lotus feet, the sustainer of the teachings and beings of the Land of Snows,
-Remain firm and unwavering for a hundred eons. ^2
+Remain firm and unwavering for a hundred eons. ^0-2
 
 > མགོན་ཁྱོད་བསྟན་འགྲོའི་དོན་ལས་མཛད་པ་གཞན། །
 > གུད་ན་མེད་ཕྱིར་སྙིགས་དུས་འགྲོ་བ་རྣམས། །
@@ -69,7 +69,7 @@ Remain firm and unwavering for a hundred eons. ^2
 Protector, since you have no other activity than the benefit of the teachings and beings,
 In order to guide the beings of this degenerate age,
 May your body, adorned with the major and minor marks,
-Remain steadfast, like an unchanging vajra. ^3
+Remain steadfast, like an unchanging vajra. ^0-3
 
 > གངས་ཅན་འཛིན་མའི་ལྟོ་བར་གདོང་ལྔའི་ཁྲིར། །
 > ཞབས་པད་གཡོ་མེད་བསྐལ་བརྒྱར་རབ་བཞུགས་ནས། །
@@ -79,7 +79,7 @@ Remain steadfast, like an unchanging vajra. ^3
 Upon the lion throne in the heart of the Land of Snows,
 May your lotus feet remain firmly for a hundred eons,
 And may you lead all Tibetan subjects and beings without exception to the ground of benefit and happiness,
-So that your intended aspirations may be spontaneously fulfilled. ^4
+So that your intended aspirations may be spontaneously fulfilled. ^0-4
 
 > དཔལ་ལྡན་ལྷ་མོ་རྒྱལ་ཆེན་སྐུ་ལྔ་སོགས། །
 > བསྟན་སྲུང་རྒྱ་མཚོའི་མཐུ་སྟོབས་ཉིན་བྱེད་ཀྱིས། །
@@ -89,8 +89,8 @@ So that your intended aspirations may be spontaneously fulfilled. ^4
 May the glorious Shri Devi, the Great King Pehar, and the Five Bodies,
 With the sun-like power and might of the ocean of Dharma protectors,
 Uproot the darkness of unruly spirits,
-And perform the activity that causes the thousand-petaled lotus of our aspirations to bloom. ^5
+And perform the activity that causes the thousand-petaled lotus of our aspirations to bloom. ^0-5
 
 > ཅེས་པ་འདི་ནི་གངས་ཅན་མགོན་པོ་ཐམས་ཅད་མཁྱེན་གཟིགས་ཆེན་པོ་བསྟན་འགྲོའི་དོན་དུ་སྲིད་པ་མ་སྟོངས་ཀྱི་བར་དུ་ཡང་སྲིད་བྱོན་དང་འབྱོན་གྱུར་རྣམས་ལ་ཆོས་སྐྱོང་ཆེན་པོས་(གནས་ཆུང་སྤྲུལ་པའི་ཆོས་སྐྱོང་)རྡོ་རྗེའི་བཀའ་ལུང་ནས་ཞབས་བརྟན་དུ་སྩལ་བའོ།། །།
 
-This was offered as a prayer for the long life of the Great Omniscient Protector of the Land of Snows, through the vajra-prophecy of the Great Dharma Protector (the emanated Dharma Protector of Nechung), for the sake of the teachings and beings, until the end of cyclic existence, regarding his past and future reincarnations. ^6
+This was offered as a prayer for the long life of the Great Omniscient Protector of the Land of Snows, through the vajra-prophecy of the Great Dharma Protector (the emanated Dharma Protector of Nechung), for the sake of the teachings and beings, until the end of cyclic existence, regarding his past and future reincarnations. ^1-1-1

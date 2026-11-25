@@ -55,7 +55,7 @@ toc_id: t1NnbYFKLlivtMkCkC0F5
 Trên đỉnh đầu thân phàm của con, ngự trên toà sen mặt trăng,
 Kho tàng đại bi, Đấng Phật Mẫu Độ Mẫu,
 Bất khả phân với bậc Căn bản Đạo sư đại ân,
-Sắc thân trắng hồng, thanh xuân trọn vẹn các tướng hảo. ^1
+Sắc thân trắng hồng, thanh xuân trọn vẹn các tướng hảo. ^0-1
 
 > ཕྱག་གཡས་ཆོས་འཆད་རྡོ་རྗེ་པད་དཀར་དང་། །
 > གཡོན་པས་དྲིལ་བུ་དང་བཅས་པདྨ་དཀར། །
@@ -65,7 +65,7 @@ Sắc thân trắng hồng, thanh xuân trọn vẹn các tướng hảo. ^1
 Tay phải kết ấn thuyết Pháp cầm chày kim cương và bạch liên hoa,
 Tay trái cầm linh vũ cùng cành bạch liên hoa,
 Những đóa hoa sen cầm trên tay nở rộ ngang tầm tai,
-Khoác ba y giải thoát, trang nghiêm với chiếc mũ paṇḍita sắc vàng. ^2
+Khoác ba y giải thoát, trang nghiêm với chiếc mũ paṇḍita sắc vàng. ^0-2
 
 > རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་འོད་གུར་དབུས་ན་བཞུགས། །
 > ཐུགས་ཀར་ལྷག་པའི་ལྷ་མོ་མར་གད་མདོག །
@@ -75,7 +75,7 @@ Khoác ba y giải thoát, trang nghiêm với chiếc mũ paṇḍita sắc và
 Ngài an tọa trong tư thế kim cương giữa vầng lều ánh sáng.
 Nơi luân xa tim là đấng Tôn thần sắc xanh ngọc lục bảo,
 Tay phải ban thắng nguyện, tay trái cầm hoa utpala,
-Bàn tay kết ấn biểu trưng cho Tam Bảo đặt tại luân xa tim. ^3
+Bàn tay kết ấn biểu trưng cho Tam Bảo đặt tại luân xa tim. ^0-3
 
 > དར་དང་རིན་ཆེན་རྒྱན་གྱིས་མཛེས་པར་ཀླུབས། །
 > གཡས་བརྐྱངས་གཡོན་བསྐུམས་འོད་གུར་དབུས་བཞུགས་པའི། །
@@ -85,7 +85,7 @@ Bàn tay kết ấn biểu trưng cho Tam Bảo đặt tại luân xa tim. ^3
 Ngài trang nghiêm trong y phục lụa là và trang sức bằng ngọc báu.
 Chân phải duỗi chân trái co, an tọa giữa vầng lều ánh sáng,
 Nơi luân xa tim Ngài, chủng tử chữ TAM sắc xanh lục tỏa ánh quang minh rực rỡ,
-Hiện thân dung thông thành bản thể của ba đấng Tát-đỏa. ^4
+Hiện thân dung thông thành bản thể của ba đấng Tát-đỏa. ^0-4
 
 > གནས་ལྔར་ཨོཾ་ཨཱཿ་ཧཱུྃ་དང་སྭཱ་ཧཱས་མཚན། །
 > སྣང་སྟོང་ཡེ་ཤེས་རང་སྣང་རིག་རྩལ་གསལ། །
@@ -95,7 +95,7 @@ Hiện thân dung thông thành bản thể của ba đấng Tát-đỏa. ^4
 Năm luân xa được an trí bởi các chủng tử Om Ah Hum và Svaha.
 Hiển không trí tuệ chói ngời như sự tự hiển lộ của diệu giác.
 Ánh sáng từ luân xa tim thỉnh mời vạn luỹ cội quy y,
-Triệu thỉnh và hòa tan, Ngài trở thành bậc hiện thân của tất thảy. ^5
+Triệu thỉnh và hòa tan, Ngài trở thành bậc hiện thân của tất thảy. ^0-5
 
 > སྤྱི་གཙུག་ནོར་བུར་བྱང་ཆུབ་བར་དུ་བཞུགས། །
 > སྒོ་གསུམ་གུས་པའི་ཡིད་ཀྱིས་ཕྱག་འཚལ་ལོ། །
@@ -105,7 +105,7 @@ Triệu thỉnh và hòa tan, Ngài trở thành bậc hiện thân của tất 
 Xin Ngài an ngự như viên ngọc báu trên đỉnh đầu con cho đến khi đạt quả Bồ-đề.
 Bằng lòng chí thành của ba nghiệp, con xin kính lễ.
 Con xin cúng dường muôn vàn lễ vật thực bày và tâm hóa hiện.
-Con xin sám hối mọi ác nghiệp và tội đọa tích lũy từ vô thủy. ^6
+Con xin sám hối mọi ác nghiệp và tội đọa tích lũy từ vô thủy. ^0-6
 
 > སྐྱེ་འཕགས་དགེ་བ་ཀུན་ལ་རྗེས་ཡི་རང་། །
 > ཟབ་ཅིང་རྒྱ་ཆེའི་ཆོས་འཁོར་བསྐོར་དུ་གསོལ། །
@@ -115,7 +115,7 @@ Con xin sám hối mọi ác nghiệp và tội đọa tích lũy từ vô thủ
 Con xin tùy hỷ mọi công đức của phàm phu và thánh chúng.
 Xin thỉnh chuyển pháp luân thâm diệu và quảng đại.
 Con xin hồi hướng công đức của tự tha hướng về đại Bồ-đề.
-Nơi luân xa tim, xoay quanh Thiền định Tát-đỏa, ^7
+Nơi luân xa tim, xoay quanh Thiền định Tát-đỏa, ^0-7
 
 > ཡི་གེ་བཅུ་པའི་སྔགས་ཀྱིས་བསྐོར་བར་གྱུར། །( བར་བསམས་ལ།)ཨོཾ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་སྭཱཧཱ། (ཅི་ནུས་བཟླས་མཐར། གསོལ་འདེབས་ཀྱི་ཚུལ་དུ་བླ་མའི་མཚན་སྔགས་བརྒྱའམ་ཉེར་གཅིག་རེ་བཟླ།)
 > གདུང་ཤུགས་དྲག་པོས་གསོལ་བ་བཏབ་པའི་མཐུས། །
@@ -125,7 +125,7 @@ Nơi luân xa tim, xoay quanh Thiền định Tát-đỏa, ^7
 Được bao quanh bởi chuỗi chân ngôn mười âm tiết. (Quán tưởng như vậy:) Om Tare Tuttare Ture Svaha. (Sau khi trì tụng tùy lực, tụng danh chú của Đạo sư 100 hoặc 21 biến như lời khẩn cầu.)
 Nhờ oai lực của những lời khẩn nguyện với lòng tha thiết tín tâm,
 Ánh quang minh từ thân, ngữ, ý của Đạo sư,
-Với ba sắc trắng, đỏ, xanh, hòa tan vào ba luân xa của chính con. ^8
+Với ba sắc trắng, đỏ, xanh, hòa tan vào ba luân xa của chính con. ^0-8
 
 > སྡིག་སྒྲིབ་ཀུན་སྦྱངས་བུམ་གསང་ཤེར་དབང་ཐོབ། །
 > སླར་ཡང་སྭཱཧཱ་གཉིས་ལས་སྣ་ཚོགས་འོད། །
@@ -135,7 +135,7 @@ Với ba sắc trắng, đỏ, xanh, hòa tan vào ba luân xa của chính con.
 Tịnh hóa mọi tội chướng, thọ nhận quán đảnh bình, bí mật và trí tuệ.
 Một lần nữa, từ hai chủng tử Svaha tỏa chiếu muôn luồng ánh sáng,
 Phóng quang và hòa tan vào năm luân xa của chính con,
-Thọ nhận bốn quán đảnh và gieo mầm năng lực thành tựu Bốn thân. ^9
+Thọ nhận bốn quán đảnh và gieo mầm năng lực thành tựu Bốn thân. ^0-9
 
 > དཔལ་ལྡན་རྩ་བའི་བླ་མ་རིན་པོ་ཆེ། །
 > བདག་གི་སྙིང་གར་པདྨོའི་སྟེང་བཞུགས་ལ། །
@@ -145,8 +145,8 @@ Thọ nhận bốn quán đảnh và gieo mầm năng lực thành tựu Bốn t
 Bậc Đạo sư cội gốc vinh quang và trân quý,
 Xin Ngài an tọa trên đài sen nơi luân xa tim con,
 Dùng lòng đại ân từ bi mà nhiếp thọ lấy con,
-Xin ban cho con những thành tựu của thân, ngữ, ý. ^10
+Xin ban cho con những thành tựu của thân, ngữ, ý. ^0-10
 
 > ཞེས་དབང་བཞི་ལེན་པ་དང༌། །སྙིང་ཞུགས་ཀྱི་དམིགས་པ་རྣམས་བྱ། བླ་མའི་རྣལ་འབྱོར་འདི་ནི་ལམ་གྱི་སྲོག་ཤིང་ངམ། ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ལྟ་བུ་མེད་དུ་མི་རུང་བ་ཡིན་ཞིང༌། བྱིན་རླབས་དང་དངོས་གྲུབ་ཐམས་ཅད་བླ་མ་ལ་བརྟེན་ནས་འབྱུང་བས་ངེས་པར་ཉམས་སུ་བླང་བར་བྱའོ།། །།
 
-Như vậy, hãy thọ nhận bốn quán đảnh và thực hành các quán tưởng Đạo sư an nhập vào luân xa tim. Pháp Đạo sư du già này là sinh lực của đạo lộ, hay thềm bậc thăng tiến đến giải thoát không thể thiếu, và vì tất thảy gia trì cùng thành tựu đều nương nơi Đạo sư mà hiện khởi, nên nhất định phải tinh tấn thực hành. ^11
+Như vậy, hãy thọ nhận bốn quán đảnh và thực hành các quán tưởng Đạo sư an nhập vào luân xa tim. Pháp Đạo sư du già này là sinh lực của đạo lộ, hay thềm bậc thăng tiến đến giải thoát không thể thiếu, và vì tất thảy gia trì cùng thành tựu đều nương nơi Đạo sư mà hiện khởi, nên nhất định phải tinh tấn thực hành. ^1-1

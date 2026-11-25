@@ -59,7 +59,7 @@ Hỡi Oḍḍiyāna Rinpoche, đấng cứu hộ chúng sinh,
 Cùng với hội chúng Trì Minh và Không Hành,
 Chúng con nhất tâm thành kính cầu nguyện,
 Đúng như thệ nguyện, từ pháp giới xin xót thương đoái tưởng,
-Xin rủ lòng đại bi nhìn xem chúng sinh khốn cùng. ^1
+Xin rủ lòng đại bi nhìn xem chúng sinh khốn cùng. ^0-1
 
 > གསོལ་བ་འདེབས་སོ་ཨོ་རྒྱན་རིན་པོ་ཆེ། །
 > རྐྱེན་ངན་ཟློག་ཅིག་མ་དང་མཁའ་འགྲོའི་ཚོགས། །
@@ -71,7 +71,7 @@ Chúng con khẩn cầu Oḍḍiyāna Rinpoche,
 Xin hội chúng Mẫu và Không Hành đẩy lùi ác duyên,
 Nguyện mọi suy vi bất hòa của thời thế thảy lắng dịu,
 Sự trù phú trong ngoài của khí thế gian và hữu tình thế gian thảy hưng thịnh,
-Loạn lạc, dịch bệnh, động đất, nạn sâu hại, v.v., ^2
+Loạn lạc, dịch bệnh, động đất, nạn sâu hại, v.v., ^0-2
 
 > གཟུགས་ཅན་གཟུགས་མེད་བསམ་སྦྱོར་ངན་པའི་དཔལ། །
 > མི་མཐུན་ཕྱོགས་ཀུན་ཞི་བར་མཛད་དུ་གསོལ། །
@@ -81,8 +81,8 @@ Loạn lạc, dịch bệnh, động đất, nạn sâu hại, v.v., ^2
 Cùng thế lực của ác tâm và ác hạnh từ các loài hữu hình hay vô hình,
 Cúi xin Ngài ban ân tịnh hóa tất thảy những chướng duyên này!
 Nguyện Giáo pháp hoằng dương, chư bậc trì giữ giáo pháp thọ mạng miên trường,
-Nguyện khắp thế gian tràn ngập ánh vinh quang của hỷ lạc, thái bình! ^3
+Nguyện khắp thế gian tràn ngập ánh vinh quang của hỷ lạc, thái bình! ^0-3
 
 > ཅེས་རྒྱལ་ཁམས་བདེ་བའི་སྨོན་ལམ་དཔལ་ཀརྨ་པས་བྲིས་པ་དགེ། །།དགེ། །དགེའོ།། །།
 
-Lời cầu nguyện vạn quốc an bình này được soạn bởi Đức Karmapa vinh quang. Thiện lành! Thiện lành! Cát tường thay! ^4
+Lời cầu nguyện vạn quốc an bình này được soạn bởi Đức Karmapa vinh quang. Thiện lành! Thiện lành! Cát tường thay! ^1-1-1

@@ -30,8 +30,22 @@ import urllib.request
 from pathlib import Path
 
 URL = "https://studio.webuddhist.com/api/v1/cms/admin/id-remap/segments"
-VAULT = Path(__file__).resolve().parents[4]
 TOKEN_NAMES = ("bearer_token", "BEARER_TOKEN")
+
+
+def _vault() -> Path:
+    """The vault this runs in: $VAULT_ROOT, else the nearest folder (from the current directory
+    up) holding both 1-SOURCES/ and 4-SYSTEM/ — the same rule as library-upload."""
+    if os.environ.get("VAULT_ROOT"):
+        return Path(os.environ["VAULT_ROOT"]).resolve()
+    for start in (Path.cwd().resolve(), Path(__file__).resolve()):
+        for d in [start, *start.parents]:
+            if (d / "1-SOURCES").is_dir() and (d / "4-SYSTEM").is_dir():
+                return d
+    return Path.cwd().resolve()
+
+
+VAULT = _vault()
 
 
 def token() -> str | None:

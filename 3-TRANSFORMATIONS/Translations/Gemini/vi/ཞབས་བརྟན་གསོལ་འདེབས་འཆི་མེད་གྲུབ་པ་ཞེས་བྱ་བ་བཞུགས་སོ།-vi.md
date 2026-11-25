@@ -55,7 +55,7 @@ toc_id: OZPJ7vKDvLIU4WdjUmDUd
 Bản thể Pháp thân trí tuệ tối thắng vô chướng ngại,
 Ngữ sáu mươi tư âm điệu phù hợp căn cơ chúng sinh,
 Tâm tịch diệt nhị nguyên soi tỏ khắp vạn pháp,
-Con thành kính đảnh lễ đấng Pháp vương Toàn tri. ^1
+Con thành kính đảnh lễ đấng Pháp vương Toàn tri. ^0-1
 
 > མཐའ་ཀླས་བདེ་གཤེགས་གསུང་གི་གསང་བའི་མཛོད། །
 > སོ་སོར་ཀུན་རྟོག་ཡེ་ཤེས་སྒྱུ་མའི་འཕྲུལ། །
@@ -65,7 +65,7 @@ Con thành kính đảnh lễ đấng Pháp vương Toàn tri. ^1
 Kho tàng bí mật Ngữ của vô lượng chư Thiện Thệ,
 Sự huyễn hóa của Diệu quan sát trí,
 Vũ điệu đại bi của đức Vô Lượng Quang,
-Từ tận đáy lòng con chí thành cung kính đảnh lễ. ^2
+Từ tận đáy lòng con chí thành cung kính đảnh lễ. ^0-2
 
 > བློ་བཟང་རྒྱལ་བའི་དབང་པོ་ཙོང་ཁ་པའི།།
 > རྣམ་དཀར་འཕྲིན་ལས་ལྷུན་གྲུབ་ཆོས་ཀྱི་རྗེ། །
@@ -75,7 +75,7 @@ Từ tận đáy lòng con chí thành cung kính đảnh lễ. ^2
 Đấng Đạo sư Pháp vương Tsongkhapa Lobsang bách thắng,
 Đấng Pháp chủ với thiện hạnh thanh tịnh viên mãn tự nhiên,
 Bậc nắm giữ cờ xí vinh quang của giáo pháp Hiển Mật,
-Con hằng đảnh lễ dưới gót sen đấng Quy y tối thắng. ^3
+Con hằng đảnh lễ dưới gót sen đấng Quy y tối thắng. ^0-3
 
 > མཁའ་ཁྱབ་འགྲོ་ལ་དམིགས་མེད་སྙིང་རྗེ་ཡིས། །
 > ཞི་བདེ་འདོད་པའི་འཆིང་བ་གཏན་སྤངས་ནས། །
@@ -85,7 +85,7 @@ Con hằng đảnh lễ dưới gót sen đấng Quy y tối thắng. ^3
 Bằng lòng đại bi vô lượng thương xót chúng sinh khắp hư không,
 Đoạn trừ hoàn toàn mọi trói buộc vào an lạc tịch diệt,
 Hiện hàng vạn Sắc thân tùy duyên độ như bóng nguyệt,
-Thành tâm kính lễ vũ điệu soi bóng trên mặt hồ tâm thanh tịnh. ^4
+Thành tâm kính lễ vũ điệu soi bóng trên mặt hồ tâm thanh tịnh. ^0-4
 
 > མགོན་ཁྱོད་དཔག་མེད་བསྐལ་པའི་སྔོན་རོལ་ནས། །
 > གཙང་བདེ་རྟག་བདག་དམ་པའི་ཕ་རོལ་ཏུ། །
@@ -95,7 +95,7 @@ Thành tâm kính lễ vũ điệu soi bóng trên mặt hồ tâm thanh tịnh.
 Hỡi đấng Đạo sư, Ngài từ vô lượng kiếp xa xưa,
 Đã vượt đến bờ giác tối thắng của Thường, Lạc, Ngã, Tịnh,
 Nhưng vì lòng đại bi thiết tha gắn bó cùng chúng sinh,
-Sự hóa hiện Sắc thân tùy duyên độ thật không thể nghĩ bàn. ^5
+Sự hóa hiện Sắc thân tùy duyên độ thật không thể nghĩ bàn. ^0-5
 
 > བེེཌཱུར་ས་གཞིར་ལྷ་དབང་གཟུགས་བརྙན་བཞིན། །
 > དད་སོགས་དྲི་མེད་ཡོན་ཏན་གོམས་པ་ལས། །
@@ -105,7 +105,7 @@ Sự hóa hiện Sắc thân tùy duyên độ thật không thể nghĩ bàn. ^
 Tựa như hình bóng của Đế Thích hiện trên mặt đất lưu ly,
 Từ việc huân tập vô vàn công đức vô cấu như đức tin,
 Thân tùy duyên hóa độ cùng các công đức thiện hạnh,
-Tùy theo căn cơ chúng sinh mà hiện hình, con xin thành tâm kính lễ. ^6
+Tùy theo căn cơ chúng sinh mà hiện hình, con xin thành tâm kính lễ. ^0-6
 
 > འབད་བརྩོན་བྲལ་ཡང་ལྷ་ཡི་རྔ་བཞིན་དུ། །
 > འཆད་རྩོད་རྩོམ་པའི་ལེགས་བཤད་སྒྲ་དབྱངས་ཀྱིས། །
@@ -115,7 +115,7 @@ Tùy theo căn cơ chúng sinh mà hiện hình, con xin thành tâm kính lễ.
 Dù không nỗ lực tạo tác nhưng tựa như chiếc trống trời,
 Âm vang diệu thuyết qua giảng dạy, biện luận và trước tác,
 Tiêu trừ hoàn toàn dịch bệnh vô minh trong tâm thức chúng sinh,
-Đảnh lễ đấng khai mở bữa tiệc hoan hỷ của lợi lạc và an vui. ^7
+Đảnh lễ đấng khai mở bữa tiệc hoan hỷ của lợi lạc và an vui. ^0-7
 
 > རང་བཞིན་གྱིས་དག་ཉོན་མོངས་བག་ཆགས་ཟད། །
 > གཉིས་སྣང་སྤྲོས་པ་ཉེ་བར་ཞི་བས་ཁྱབ། །
@@ -125,7 +125,7 @@ Tiêu trừ hoàn toàn dịch bệnh vô minh trong tâm thức chúng sinh,
 Bản tính vốn dĩ thanh tịnh đã đoạn tận mọi tập khí phiền não,
 Sự tịch diệt hoàn toàn hý luận nhị nguyên trùm khắp muôn phương,
 Bằng trí tuệ thấu suốt tính bình đẳng nhất vị của sinh tử và niết bàn,
-Thiện hạnh vô niệm chiếu soi cùng lúc tựa ánh mặt trời. ^8
+Thiện hạnh vô niệm chiếu soi cùng lúc tựa ánh mặt trời. ^0-8
 
 > དེ་སླད་གསང་གསུམ་མི་ཟད་རྒྱན་གྱི་མཛོད། །
 > མཚན་དཔེའི་ལང་ཚོར་སྨིན་པའི་བཅོམ་ལྡན་འདས། །
@@ -135,7 +135,7 @@ Thiện hạnh vô niệm chiếu soi cùng lúc tựa ánh mặt trời. ^8
 Vì thế, lạy đấng với kho tàng trang nghiêm vô tận của tam mật,
 Đấng Thế Tôn đã chín muồi trong vẻ thanh xuân của các tướng tốt,
 Tựa như đấng bảo hộ cõi Sắc Cứu Cánh với trọn vẹn năm điều chắc chắn,
-Nguyện Ngài hằng kiên trụ bất động cho đến tận cùng thời kiếp. ^9
+Nguyện Ngài hằng kiên trụ bất động cho đến tận cùng thời kiếp. ^0-9
 
 > མཐའ་ཀླས་ཞིང་གི་སྲས་བཅས་རྒྱལ་རྣམས་ཀྱི། །
 > བྱིན་རླབས་འཆི་མེད་གྲུབ་པའི་བདུད་རྩི་ཡིས། །
@@ -145,7 +145,7 @@ Nguyện Ngài hằng kiên trụ bất động cho đến tận cùng thời ki
 Nhờ dòng cam lồ trường thọ thành tựu từ lực gia trì,
 Của chư Phật cùng chư Bồ-tát trong vô lượng cõi nước,
 Cúi xin đấng Đạo sư an tọa trên tòa kim cương thường trụ vô úy,
-Kiên cố vững bền trong tự tánh bất biến mãi không phai. ^10
+Kiên cố vững bền trong tự tánh bất biến mãi không phai. ^0-10
 
 > སྟེང་ཕྱོགས་ཡོན་ཏན་བཀོད་པའི་འཇིག་རྟེན་གཙོ། །
 > ཚེ་དང་ཡེ་ཤེས་དཔག་མེད་སྣང་བའི་མཛོད། །
@@ -155,7 +155,7 @@ Kiên cố vững bền trong tự tánh bất biến mãi không phai. ^10
 Lạy chúa tể của thế giới trang nghiêm công đức phương trên,
 Kho tàng chiếu sáng vô lượng của thọ mạng và trí tuệ,
 Với những thiện hạnh tiến hành đúng theo ý nguyện của Ngài,
-Nguyện chẳng bao giờ có sự chia cách hay đổi thay. ^11
+Nguyện chẳng bao giờ có sự chia cách hay đổi thay. ^0-11
 
 > རིང་ནས་བསྟན་འགྲོར་སྨན་པའི་ཐུགས་བསྐྱེད་ཀྱིས། །
 > བཞེད་དགུ་མ་ལུས་ལྷུན་གྱིས་འགྲུབ་པ་དང་། །
@@ -165,7 +165,7 @@ Nguyện chẳng bao giờ có sự chia cách hay đổi thay. ^11
 Bởi Bồ-đề tâm vì lợi ích giáo pháp và chúng sinh đã phát từ vô thủy,
 Nguyện mọi tâm nguyện của Ngài đều tự nhiên viên mãn không sót,
 Và trọn vẹn mọi ý hướng trong tâm trí của Ngài,
-Nguyện hết thảy chúng sinh luôn luôn thành tựu được như thế. ^12
+Nguyện hết thảy chúng sinh luôn luôn thành tựu được như thế. ^0-12
 
 > རྒྱལ་ཀུན་འཕྲིན་ལས་ཕུང་པོ་གཅིག་བསྡུས་པ།  །
 > བཅོམ་ལྡན་ཏཱ་རེ་འཕགས་མའི་བྱིན་རླབས་ཀྱིས། །
@@ -175,7 +175,7 @@ Nguyện hết thảy chúng sinh luôn luôn thành tựu được như thế. 
 Là hiện thân dung hội mọi thiện hạnh của tất cả chư Phật,
 Nhờ năng lực gia trì của đấng Thế Tôn Thánh nữ Tara,
 Nguyện mọi phước báu của đạo pháp và thế gian không sót chút nào,
-Đều được thành tựu dễ dàng mà không mảy may chướng ngại. ^13
+Đều được thành tựu dễ dàng mà không mảy may chướng ngại. ^0-13
 
 > གང་གི་སྐྱེ་བའི་འཕྲེང་བ་རིམ་བྱོན་གྱི། །
 > རྨད་བྱུང་རྣམ་ཐར་གཙང་མའི་བདེན་བྱིན་དང་། །
@@ -185,8 +185,8 @@ Nguyện mọi phước báu của đạo pháp và thế gian không sót chút
 Bởi chân lực gia trì từ những công hạnh thanh tịnh vi diệu,
 Của vô số chuỗi hóa thân tiếp nối giáng thế của Ngài,
 Cùng uy lực của chư Đạo sư, Bản tôn và Tam bảo không luống dối,
-Nguyện mọi ý nguyện thảy đều viên thành như ý. ^14
+Nguyện mọi ý nguyện thảy đều viên thành như ý. ^0-14
 
 > ཅེས་རིགས་དང་དཀྱིལ་འཁོར་ཀུན་གྱི་ཁྱབ་བདག་རྡོ་རྗེ་སེམས་དཔའ་པཎ་ཆེན་ཐམས་ཅད་མཁྱེན་པའི་ཡང་སྤྲུལ༧བློ་བཟང་འཕྲིན་ལས་ལྷུན་གྲུབ་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་ཞབས་པད་རིང་དུ་བརྟན་ཅིང་བཞེད་དོན་གེགས་མེད་བདེ་བླག་ཏུ་འགྲུབ་པའི་གསོལ་འདེབས་སྨོན་ཚིག་འདི་ལྟ་བུ་ཞིག་དགོས་ཞེས༧གང་གི་འཕྲིན་ལས་ཀྱི་ཞབས་འདེགས་པ་ནང་སྒང་སྐུ་ངོ་ལྷན་རྒྱས་ནས་དངོས་སྐྱེས་དང་བཅས་བསྐུལ་པ་དང་། རང་གིས་ཀྱང་དད་མོས་ཀྱིས་མཚམས་སྦྱར་ཏེ། སྙོམས་ལས་པ་འཇིགས་མེད་འཕྲིན་ལས་རྒྱ་མཚོས་སྟོད་འགྲེལ་ལྟར་ན། ཉི་སྒྲོལ་བྱེད་ཅེས་པ་ཤིང་སྤྲེལ་ནག་ཟླའི་ཡར་གྱི་ཚེས་གཅིག་ལ་རང་སྤྱིལ་དམ་ཆོས་དགའ་ཚལ་ནས་གུས་པས་གསོལ་བ་བཏབས་པའོ། །
 
-Lời khẩn nguyện trường thọ và viên thành vô ngại mọi ý nguyện của đấng Chủ tể muôn bộ Phật và Mạn-đà-la, Đức Kim Cang Tát Đỏa, bậc hóa thân thù thắng của Đấng Toàn tri Panchen Lobsang Trinley Lhundrup Chokyi Gyaltsen Palzangpo, được soạn chiếu theo lời thỉnh cầu kính dâng cùng lễ vật từ các viên chức nội thị phụng sự thiện hạnh của Ngài. Từ niềm sùng kính của tự tâm, kẻ lười nhác Jigmey Trinley Gyatso đã thành tâm tác xướng lời nguyện này tại tịnh thất Damchoe Gatsal, vào ngày mùng một tuần trăng thượng huyền tháng Tư năm Mộc Hầu, gọi là năm Giải Cứu Mặt Trời theo truyền thống lịch pháp. ^15
+Lời khẩn nguyện trường thọ và viên thành vô ngại mọi ý nguyện của đấng Chủ tể muôn bộ Phật và Mạn-đà-la, Đức Kim Cang Tát Đỏa, bậc hóa thân thù thắng của Đấng Toàn tri Panchen Lobsang Trinley Lhundrup Chokyi Gyaltsen Palzangpo, được soạn chiếu theo lời thỉnh cầu kính dâng cùng lễ vật từ các viên chức nội thị phụng sự thiện hạnh của Ngài. Từ niềm sùng kính của tự tâm, kẻ lười nhác Jigmey Trinley Gyatso đã thành tâm tác xướng lời nguyện này tại tịnh thất Damchoe Gatsal, vào ngày mùng một tuần trăng thượng huyền tháng Tư năm Mộc Hầu, gọi là năm Giải Cứu Mặt Trời theo truyền thống lịch pháp. ^1-1-1

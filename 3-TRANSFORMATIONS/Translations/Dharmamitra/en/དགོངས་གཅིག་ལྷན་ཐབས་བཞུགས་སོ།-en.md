@@ -51,7 +51,7 @@ Namo Guru.
 In the stainless realm of the essence of awakening,
 The self-arisen Victor, the perfectly complete Buddha,
 Who turned the peerless wheel of Dharma,
-To the Lord of Sages, 'Bri-gung Rin-chen, I pay homage. ^1
+To the Lord of Sages, 'Bri-gung Rin-chen, I pay homage. ^0-1
 
 > དམ་པ་མཆོག་དེའི་ཞལ་གྱི་པདྨ་ནས། །
 > ལེགས་འོང་ཐུན་མོང་མ་ཡིན་རྡོ་རྗེའི་གསུང་། །
@@ -61,7 +61,7 @@ To the Lord of Sages, 'Bri-gung Rin-chen, I pay homage. ^1
 From the lotus mouth of that supreme holy one,
 The excellent, uncommon vajra speech,
 The essence of nectar, the root of the forty supplements,
-Bestows the glory of happiness and joy upon those who desire it. ^2
+Bestows the glory of happiness and joy upon those who desire it. ^0-2
 
 > ཕྱོགས་དུས་རྒྱལ་བ་ཀུན་གྱི་བསྟན་པ་གཅིག །
 > ཐེག་དང་གྲུབ་མཐའ་ཐམས་ཅད་རྟེན་འབྲེལ་ཡིན། །
@@ -71,7 +71,7 @@ Bestows the glory of happiness and joy upon those who desire it. ^2
 The teachings of all Victors of the directions and times are one;
 All vehicles and tenet systems are dependently originated.
 The eighty thousand heaps of Dharma were taught as antidotes to mental afflictions;
-Within each one, the twelve branches of the scriptures are complete. ^3
+Within each one, the twelve branches of the scriptures are complete. ^0-3
 
 > དེ་བཞིན་སྡེ་སྣོད་གཅིག་ལའང་གསུམ་ཀ་འདུས། །
 > འཁོར་འདས་ཐམས་ཅད་ཕུན་ཚོགས་ལྔ་ཡིས་བསྡུས། །
@@ -81,7 +81,7 @@ Within each one, the twelve branches of the scriptures are complete. ^3
 Likewise, all three collections are included within each one.
 All of samsara and nirvana are contained within the five perfections.
 The common and the uncommon belong to the Abhidharma collection.
-Non-Buddhists and Bön have no opportunity to see the truth. ^4
+Non-Buddhists and Bön have no opportunity to see the truth. ^0-4
 
 > ཐར་པ་ཆ་མཐུན་འགའ་ཞིག་ཡོད་ཀྱང་རུང་། །
 > སྡོམ་དང་སྙིང་རྗེ་ཕྱི་རོལ་པ་ལའང་ཡོད། །
@@ -91,7 +91,7 @@ Non-Buddhists and Bön have no opportunity to see the truth. ^4
 It is possible that they possess some aspects conducive to liberation,
 Yet vows and compassion exist even among non-Buddhists.
 Through the Vehicle of Characteristics, one attains buddhahood in a single lifetime;
-By the procedure of Dharma and practice, buddhahood is one. ^5
+By the procedure of Dharma and practice, buddhahood is one. ^0-5
 
 > སྡོམ་གསུམ་གོང་ནས་གོང་དུ་དོག་ཏུ་འགྲོ། །
 > མཐར་ཐུག་ས་ཚུན་ཚོགས་ལམ་ངོ་བོས་བགྲོད། །
@@ -101,7 +101,7 @@ By the procedure of Dharma and practice, buddhahood is one. ^5
 The three vows become increasingly more rigorous;
 One proceeds through the essence of the path of accumulation up to the ultimate stage.
 Because they possess the cause, listeners and self-realized buddhas become buddhas;
-Because it is free from elaborations, it is maintained that samsara has no end. ^6
+Because it is free from elaborations, it is maintained that samsara has no end. ^0-6
 
 > ཆོས་ཀུན་སོ་ཐར་སྡོམ་གསུམ་རེ་རེར་འདུ། །
 > སྡེ་བ་ཀུན་གྱི་རྩ་བ་ལུང་སྡེ་བཞི། །
@@ -111,7 +111,7 @@ Because it is free from elaborations, it is maintained that samsara has no end. 
 All Dharma teachings are included within each of the three vows;
 The root of all schools is the four scriptural transmissions.
 Even when one damages them in a dream, faults ensue;
-It has happened that one who attained the pure stages went to the lower realms. ^7
+It has happened that one who attained the pure stages went to the lower realms. ^0-7
 
 > རྒྱུ་སྤྱད་གྱུར་ན་ས་བཅུ་པ་ཡང་ལྟུང་། །
 > ཉམས་ལེན་རྨད་བྱུང་རྣལ་འབྱོར་ནང་གི་ཚོགས་། །
@@ -121,7 +121,7 @@ It has happened that one who attained the pure stages went to the lower realms. 
 If one commits the cause, even one on the tenth stage will fall;
 The marvelous practice is the yogi’s inner feast offering.
 All meditative concentration is vajra-like;
-The Secret Mantra belongs to the three collections, or is their essence. ^8
+The Secret Mantra belongs to the three collections, or is their essence. ^0-8
 
 > རྟོགས་ཀྱང་བརྒྱུད་པ་ཟབ་ཕྱིར་ཆོ་ག་དགོས། །
 > ལྷ་གཅིག་གིས་ཀྱང་ཕྲིན་ལས་ཐམས་ཅད་འགྲུབ། །
@@ -131,7 +131,7 @@ The Secret Mantra belongs to the three collections, or is their essence. ^8
 Even if one is realized, one needs rituals, because the lineage is profound;
 Even through one deity, all activities are accomplished.
 The primary deity holds the characteristics of all deities;
-On the four occasions, it is never the case that the root pledges are allowed to be broken. ^9
+On the four occasions, it is never the case that the root pledges are allowed to be broken. ^0-9
 
 > ལྷ་ལ་ཅིག་ཅར་འཇུག་པ་ཟབ་མོའི་གནད། །
 > རྟེན་འབྲེལ་འཚོགས་ལས་གྲུབ་པར་ཤེས་པ་དགོས། །
@@ -141,7 +141,7 @@ On the four occasions, it is never the case that the root pledges are allowed to
 Instantaneous entry into the deity is a profound key point;
 One must know it is accomplished from a gathering of interdependent factors.
 Austerity is a debasement because it labels the body as ordinary;
-Extensive rituals are necessary without differentiating the provisional and the definitive. ^10
+Extensive rituals are necessary without differentiating the provisional and the definitive. ^0-10
 
 > དེ་ཡིས་འདུལ་ན་བསྡུས་པ་ཡང་ནི་བཞེད། །
 > བསྲུང་བའི་འཁོར་ལོ་རྨད་བྱུང་བྱང་ཆུབ་སེམས། །
@@ -151,7 +151,7 @@ Extensive rituals are necessary without differentiating the provisional and the 
 If one is tamed by it, concise rituals are also accepted;
 The marvelous protective sphere is bodhicitta.
 Instructions on the channels and energies are more potent in the vinaya;
-By the power of blessings, one can also see the all-ground at other times. ^11
+By the power of blessings, one can also see the all-ground at other times. ^0-11
 
 > རྩ་རླུང་ཐིག་ལེ་སྙིགས་མ་དུག་བཅས་ཟབ། །
 > རྡོ་རྗེ་ཐེག་པའི་ལམ་རིམ་བསླབ་པ་གསུམ། །
@@ -161,7 +161,7 @@ By the power of blessings, one can also see the all-ground at other times. ^11
 Channels, energies, and essential drops that are poisoned with impurities are profound;
 The gradual path of the Vajrayana is the three trainings.
 The six transcendent practices are the path for all three vehicles;
-The mutual pledges of the master and the disciple are the same in being equal. ^12
+The mutual pledges of the master and the disciple are the same in being equal. ^0-12
 
 > དགེ་བའི་ངོ་བོས་ཕྱག་ཆེན་སྒྲིབ་མི་སྲིད། །
 > བྲལ་བའི་འབྲས་བུ་ཐམས་ཅད་རྒྱུ་དང་བཅས། །
@@ -171,7 +171,7 @@ The mutual pledges of the master and the disciple are the same in being equal. ^
 It is impossible that activities of a virtuous nature obscure mahamudra;
 All results of separation have causes.
 The mixing of the two spaces is the clear realization of listeners;
-It is profound to not hold the wind energies but to let them be loose. ^13
+It is profound to not hold the wind energies but to let them be loose. ^0-13
 
 > རྣམ་ཤེས་བླ་མ་འོད་གསལ་འཕོ་བའི་མཆོག །
 > བྱང་ཆུབ་སེམས་ཀྱི་རང་གཟུགས་སངས་རྒྱས་ཡིན། །
@@ -181,7 +181,7 @@ It is profound to not hold the wind energies but to let them be loose. ^13
 The unity of the consciousness, the guru, and the clear light is the supreme transference of consciousness;
 Buddha is the manifestation of bodhicitta.
 Thus his intention reaches the limit of space;
-This is not easy to understand even for those who have attained mastery. ^14
+This is not easy to understand even for those who have attained mastery. ^0-14
 
 > འདབ་ལྡན་མཁའ་ལྡིང་དབང་པོ་སྤྱན་སྔ་བའི། །
 > མཁྱེན་སྤྱོད་གཤོག་ཡངས་རླབས་ཀྱིས་བགྲོད་པ་གང་། །
@@ -191,7 +191,7 @@ This is not easy to understand even for those who have attained mastery. ^14
 The winged lord of garuḍas, who stands before us,
 Traverses with the strong movement of his vast wisdom wings;
 Although the masters of the past have made this clear,
-I have added these supplements to benefit those of lower intellect. ^15
+I have added these supplements to benefit those of lower intellect. ^0-15
 
 > ཚིགས་སུ་བཅད་པ་ཡིད་བཞིན་ནོར་བུའི་ཕྲེང་། །
 > དཔྱོད་ལྡན་དགའ་བའི་དོ་ཤལ་འདི་བསྟར་བས། །
@@ -205,8 +205,8 @@ A necklace of delight for the wise to wear;
 By the blazing splendor of the thousands of virtues of this well-done work,
 May the darkness of beings’ obscurations be instantaneously uprooted,
 And may they attain the fortune to enjoy the nectar of the blossoming lotus garden
-Of the two gatherings of scriptures and realization. ^16
+Of the two gatherings of scriptures and realization. ^0-16
 
 > ཅེས་པ་རྗེ་བླ་མ་དྷརྨ་སཱུརྻས་བརྩམས་པའོ།། །།
 
-This was composed by the noble guru Dharma Sūrya. ^17
+This was composed by the noble guru Dharma Sūrya. ^1-1-1

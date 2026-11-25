@@ -49,7 +49,7 @@ toc_id: UT2EordOn75hBtoRKyVa9
 Through whatever two collections I have gathered by striving for a long time,
 Which are as vast as the expanse of space,
 May I become a sovereign guide and conqueror for all beings,
-Whose eyes of wisdom are blinded by ignorance. ^1
+Whose eyes of wisdom are blinded by ignorance. ^0-1
 
 > དེར་མ་སོན་པའི་ཚེ་རབས་ཀུན་ཏུ་ཡང་། །
 > འཇམ་པའི་དབྱངས་ཀྱིས་བརྩེ་བས་རྗེས་བཟུང་སྟེ། །
@@ -59,7 +59,7 @@ Whose eyes of wisdom are blinded by ignorance. ^1
 In all my lifetimes until I reach that state,
 May I be cared for by Mañjughoṣa’s compassion,
 And having found the supreme path containing the complete stages of the teachings,
-May I please the Victors through its practice. ^2
+May I please the Victors through its practice. ^0-2
 
 > རང་གིས་ཇི་བཞིན་རྟོགས་པའི་ལམ་གྱི་གནད།།
 > ཤུགས་དྲག་བརྩེ་བས་དྲངས་པའི་ཐབས་མཁས་ཀྱིས། །
@@ -69,7 +69,7 @@ May I please the Victors through its practice. ^2
 Using the essential points of the path as I have understood them,
 And through skillful means impelled by intense compassion,
 Having dispelled the darkness of the minds of beings,
-May I uphold the Victor’s teachings for a long time. ^3
+May I uphold the Victor’s teachings for a long time. ^0-3
 
 > བསྟན་པ་རིན་ཆེན་མཆོག་གིས་མ་ཁྱབ་པའམ། །
 > ཁྱབ་ཀྱང་ཉམས་པར་གྱུར་པའི་ཕྱོགས་དེར་ནི། །
@@ -79,7 +79,7 @@ May I uphold the Victor’s teachings for a long time. ^3
 In those regions where the supreme, precious teaching has not spread,
 Or where it has spread but then declined,
 With a mind deeply moved by great compassion,
-May I make that treasury of benefit and happiness shine forth. ^4
+May I make that treasury of benefit and happiness shine forth. ^0-4
 
 > སྲས་བཅས་རྒྱལ་བའི་རྨད་བྱུང་འཕྲིན་ལས་ལས། །
 > ལེགས་གྲུབ་བྱང་ཆུབ་ལམ་གྱི་རིམ་པས་ཀྱང་། །
@@ -89,7 +89,7 @@ May I make that treasury of benefit and happiness shine forth. ^4
 Through the wondrous activities of the Victors and their heirs,
 May the well-accomplished stages of the path to enlightenment
 Bestow glory upon the minds of those who seek liberation,
-And may the deeds of the Victors be sustained for a long time. ^5
+And may the deeds of the Victors be sustained for a long time. ^0-5
 
 > ལམ་བཟང་བསྒྲིག་པའི་མཐུན་རྐྱེན་སྒྲུབ་བྱེད་ཅིང་། །
 > འགལ་རྐྱེན་སེལ་བྱེད་མི་དང་མི་མིན་ཀུན། །
@@ -99,7 +99,7 @@ And may the deeds of the Victors be sustained for a long time. ^5
 May all humans and non-humans who establish the conducive conditions for the excellent path,
 And who dispel its obstacles,
 Never be separated in all their lives
-From the pure path praised by the Victors. ^6
+From the pure path praised by the Victors. ^0-6
 
 > གང་ཚེ་ཐེག་པ་མཆོག་ལ་ཆོས་སྤྱོད་བཅུས། །
 > ཚུལ་བཞིན་སྒྲུབ་ལ་བརྩོན་པ་དེ་ཡི་ཚེ། །
@@ -109,8 +109,8 @@ From the pure path praised by the Victors. ^6
 Whenever I strive to practice the supreme vehicle
 In accordance with the ten Dharma activities,
 May the powerful ones always grant their assistance,
-And may an ocean of auspiciousness pervade all directions. ^7
+And may an ocean of auspiciousness pervade all directions. ^0-7
 
 > ཅེས་པ་འདི་ནི་ྋརྗེ་ཙོང་ཁ་པ་ཆེན་པོས་མཛད་པའོ།། །།
 
-This was composed by the Great Je Tsongkhapa. ^8
+This was composed by the Great Je Tsongkhapa. ^1-1-1

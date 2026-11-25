@@ -57,7 +57,7 @@ Om Ah Hum Hrih
 Trong cung điện Đại Lạc tự tại rực rỡ,
 Thân trí tuệ của Diệu Quan Sát Trí chứng ngộ Lạc - Không,
 Từ tự tánh hoa sen vô trước đầy hỉ lạc,
-Vinh quang đại quang minh của ánh dương Kim Cương. ^1
+Vinh quang đại quang minh của ánh dương Kim Cương. ^0-1
 
 > ཆོས་སྐུ་སྣང་བ་མཐའ་ཡས་རྡོ་རྗེ་ཆོས། །
 > འཇིག་རྟེན་དབང་ཕྱུག་ཐུགས་རྗེའི་རྗེས་ཆགས་གཟུགས། །
@@ -67,7 +67,7 @@ Vinh quang đại quang minh của ánh dương Kim Cương. ^1
 Pháp thân Vô Lượng Quang và Kim Cương Pháp,
 Quán Thế Âm hiện sắc thân từ bi ái nhiễm,
 Đức Liên Hoa Vương nhiếp thọ cả luân hồi và niết bàn,
-Đại Uy Đức Heruka hàng phục mọi hiện hữu. ^2
+Đại Uy Đức Heruka hàng phục mọi hiện hữu. ^0-2
 
 > གསང་བ་ཡེ་ཤེས་བཛྲ་ཝཱ་ར་ཧི། །
 > བདེ་མཆོག་འདོད་པའི་རྒྱལ་པོ་བདེ་ཆེན་གཏེར། །
@@ -77,7 +77,7 @@ Quán Thế Âm hiện sắc thân từ bi ái nhiễm,
 Bí Mật Trí Tuệ Vajravarahi,
 Thắng Lạc Dục Vương tạng báu của Đại Lạc,
 Kurukulle mê hoặc tâm trí mọi chúng sinh,
-Bậc tự tại của ấn khế tối thắng và thế gian, trong vũ điệu Lạc - Không. ^3
+Bậc tự tại của ấn khế tối thắng và thế gian, trong vũ điệu Lạc - Không. ^0-3
 
 > དབང་མཛད་རྡོ་རྗེ་དཔའ་བོ་ཌཀྐིའི་ཚོགས། །
 > སྣང་སྟོང་མཉམ་པ་ཆེན་པོའི་ངང་ཉིད་དུ། །
@@ -87,7 +87,7 @@ Bậc tự tại của ấn khế tối thắng và thế gian, trong vũ điệ
 Hội chúng Daka và Dakini Kim Cương nhiếp thọ,
 Trong trạng thái đại bình đẳng của Hiện và Không,
 Vũ điệu Kim Cương thân làm chấn động cả ba cõi,
-Tiếng cười Kim Cương ngữ vô ngại nhiếp thọ cả tam giới. ^4
+Tiếng cười Kim Cương ngữ vô ngại nhiếp thọ cả tam giới. ^0-4
 
 > འོད་ཟེར་དམར་པོས་འཁོར་འདས་ཡོངས་ལ་ཁྱབ། །
 > སྲིད་ཞིའི་དྭངས་བཅུད་གཡོ་ཞིང་སྡུད་པར་བྱེད། །
@@ -97,7 +97,7 @@ Tiếng cười Kim Cương ngữ vô ngại nhiếp thọ cả tam giới. ^4
 Ánh hồng quang chiếu khắp luân hồi và niết bàn,
 Lay động và thâu nhiếp tinh hoa của luân hồi và tịch diệt,
 Bằng tâm Đại Ái Nhiễm Kim Cương,
-Ban cho hai loại thành tựu và mọi mong cầu tối thắng, ^5
+Ban cho hai loại thành tựu và mọi mong cầu tối thắng, ^0-5
 
 > རྡོ་རྗེ་ལྕགས་ཀྱུ་ཞགས་པ་ཆེན་པོ་ཡིས། །
 > སྣང་སྲིད་བདེ་བ་ཆེན་པོ་སྡོམ་བྱེད་པ། །
@@ -107,7 +107,7 @@ Ban cho hai loại thành tựu và mọi mong cầu tối thắng, ^5
 Bằng Kim Cương Câu và Đại Quyến Sách,
 Trói buộc vạn hữu vào cảnh giới Đại Lạc,
 Các ngài thị hiện vũ điệu của lưới huyễn hóa vô biên,
-An tọa chói lọi đông đúc như những vỏ hạt vừng bung nở: ^6
+An tọa chói lọi đông đúc như những vỏ hạt vừng bung nở: ^0-6
 
 > རབ་འབྱམས་རྩ་གསུམ་དབང་གི་ལྷ་ཚོགས་ལ། །
 > གུས་པས་གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །
@@ -117,8 +117,8 @@ An tọa chói lọi đông đúc như những vỏ hạt vừng bung nở: ^6
 Trước hải hội chư tôn nhiếp thọ vô biên của Tam Căn Bản,
 Con chí thành cầu khẩn, nguyện xin thương xót gia trì.
 Mọi vinh quang của thành tựu tối thắng, thế gian và các ước nguyện,
-Xin ban cho con thành tựu nhiếp thọ vô ngại vạn pháp! ^7
+Xin ban cho con thành tựu nhiếp thọ vô ngại vạn pháp! ^0-7
 
 > ཅེས་པའང་རབ་ཚེས་ས་ཡོས་ཟླ་༧ཚེས་༡ལ་དྷཱི་མིང་པས་སྤེལ་བ། གསོལ་བ་བཏབ་ན་གང་ཟག་སུ་ཡང་རུང་སྟེ་དབང་གི་ལས་ཀུན་ཇི་ལྟར་བསམ་པ་བཞིན་འགྲུབ་པར་གདོན་མི་ཟའོ། དར་དམར་ལ་བྲིས་ཏེ་ཕྱར་བའམ་མེ་རླུང་ལ་འཁོར་ལོ་བྱས་ཀྱང་འགྲུབ་བོ། །མངྒ་ལམ།། །།
 
-Bài nguyện này được viết bởi Dhih (Mipham) vào ngày 1 tháng 7 năm Thổ Mão. Bất kỳ ai chí thành cầu nguyện bằng bài này chắc chắn sẽ thành tựu mọi sự nghiệp nhiếp thọ đúng như tâm nguyện. Dù viết trên lụa đỏ rồi treo lên đón gió, hay làm thành kinh luân quay bằng hơi nóng của ngọn lửa và gió cũng đều mang lại thành tựu. Mangalam! ^8
+Bài nguyện này được viết bởi Dhih (Mipham) vào ngày 1 tháng 7 năm Thổ Mão. Bất kỳ ai chí thành cầu nguyện bằng bài này chắc chắn sẽ thành tựu mọi sự nghiệp nhiếp thọ đúng như tâm nguyện. Dù viết trên lụa đỏ rồi treo lên đón gió, hay làm thành kinh luân quay bằng hơi nóng của ngọn lửa và gió cũng đều mang lại thành tựu. Mangalam! ^1-1-1

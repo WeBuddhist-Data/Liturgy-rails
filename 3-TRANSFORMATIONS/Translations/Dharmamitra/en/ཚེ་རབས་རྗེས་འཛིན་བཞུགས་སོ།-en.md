@@ -49,7 +49,7 @@ toc_id: hAz17KvRCxbQxHE8t4nnd
 Through the familiarity of a heart that wishes to benefit wandering beings,
 By the miracle of teaching the path that is solely virtuous,
 You are skilled in fulfilling the desired goals of peace, coolness, and benefit;
-O Guide, possessor of the ten powers, protect us at all times. ^1
+O Guide, possessor of the ten powers, protect us at all times. ^0-1
 
 > བདེ་སྡུག་འདོད་དང་མི་འདོད་རང་གཞན་ཀུན། །
 > མཉམ་ཉིད་བདག་པས་གཞན་རྣམས་གཙོ་བའི་ཕྱིར།།
@@ -59,7 +59,7 @@ O Guide, possessor of the ten powers, protect us at all times. ^1
 Since all beings, whether self or other, are equal in desiring happiness
 And not desiring suffering, and because others are more important than oneself,
 May the bodhicitta that establishes others in benefit and bliss
-Enter the hearts of all living beings throughout the expanse of space. ^2
+Enter the hearts of all living beings throughout the expanse of space. ^0-2
 
 > དེའི་མཐུས་གྲོགས་དག་བྱམས་དང་བརྩེ་བ་ཡིས། །
 > ཉེ་བར་བཟུང་ནས་ཞི་སྙོམས་བདེན་པའི་ལམ། །
@@ -69,7 +69,7 @@ Enter the hearts of all living beings throughout the expanse of space. ^2
 Through the power of this, may friends be held close with love and compassion,
 And may we pass our time practicing the path of equanimity and truth,
 The excellent glory that bestows joy and happiness upon all,
-Acting in whatever way is most beneficial. ^3
+Acting in whatever way is most beneficial. ^0-3
 
 > གང་གི་མཚན་ཡང་རྒྱལ་བའི་བྱིན་རླབས་པའི། །
 > དམན་ལ་ལྷག་པར་བརྩེ་བ་ཐུགས་རྗེའི་གཏེར། །
@@ -79,7 +79,7 @@ Acting in whatever way is most beneficial. ^3
 You whose very name is the blessing of the Victorious Ones,
 O Treasury of Compassion with special love for the lowly,
 When urged by the yearning melody of devotion that remembers you,
-Please care for us at all times. ^4
+Please care for us at all times. ^0-4
 
 > ཐུབ་པའི་ལུང་གིས་བསྔགས་པའི་གངས་ལྗོངས་ཀྱི། །
 > རྣམ་གསུམ་མེས་དབོན་དམ་པའི་རྗེས་ཞུགས་པ། །
@@ -89,7 +89,7 @@ Please care for us at all times. ^4
 Following the holy ancestral sovereigns of the Land of Snows,
 Extolled by the prophecies of the Sage,
 By the power and blessings of the faith and sacred commitment of our people,
-May our immediate and long-term aspirations be spontaneously fulfilled. ^5
+May our immediate and long-term aspirations be spontaneously fulfilled. ^0-5
 
 > ཚེ་རབས་ཀུན་ཏུ་བྱང་ཆུབ་སེམས་མཆོག་དང་། །
 > ཡང་དག་ལྟ་ལ་གོམས་པར་བྱས་པ་ལས། །
@@ -99,7 +99,7 @@ May our immediate and long-term aspirations be spontaneously fulfilled. ^5
 In all lifetimes, through the supreme mind of awakening
 And the cultivation of the correct view,
 May the three poisons and their habitual tendencies be pacified,
-And may you swiftly touch the ground of great, eternal bliss. ^6
+And may you swiftly touch the ground of great, eternal bliss. ^0-6
 
 > ལྟོས་ནས་གྲུབ་པའི་རྟེན་འབྱུང་སྒྱུ་མའི་གཤིས། །
 > ནམ་ཡང་བསླུ་མེད་ཆོས་ཉིད་བདེན་པ་དང་། །
@@ -109,8 +109,8 @@ And may you swiftly touch the ground of great, eternal bliss. ^6
 By the nature of illusion, dependent origination established through reliance,
 The truth of the infallible reality of phenomena,
 And the power of the truth of pure, noble intention,
-May the aims of this aspiration be easily fulfilled. ^7
+May the aims of this aspiration be easily fulfilled. ^0-7
 
 > ཅེས་པ་འདི་ནི་ྋརྒྱལ་དབང་ྋསྐུ་ཕྲེང་བཅུ་བཞི་པ་ཆེན་པོས་བོད་རྒྱལ་ལོ་ ༢༡༠༧ ས་ག་ཟླ་བ་ཚེས་ ༡༥ དང་། ཕྱི་ལོ་ ༡༩༨༠ ཟླ་ ༥ ཚེས་ ༢༩ ཉིན་མཛད་པའོ། ། །
 
-This was composed by the Fourteenth Dalai Lama on the 15th day of the Saga Dawa month in the Tibetan Royal Year 2107, corresponding to May 29, 1980. ^8
+This was composed by the Fourteenth Dalai Lama on the 15th day of the Saga Dawa month in the Tibetan Royal Year 2107, corresponding to May 29, 1980. ^1-1-1

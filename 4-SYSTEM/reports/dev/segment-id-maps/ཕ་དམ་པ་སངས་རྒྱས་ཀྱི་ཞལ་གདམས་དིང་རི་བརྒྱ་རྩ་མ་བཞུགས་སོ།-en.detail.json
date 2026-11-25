@@ -1,0 +1,376 @@
+{
+ "edition_id": "QUikmPyCunNdZuHZrxJoq",
+ "segment": [
+  {
+   "old_segment_id": "kLY6Phiow13wjdUxgmnCk",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "IPTETjrPHbjRhmiUL00H4",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "QwiYDd5RtmrltSS7zFiwM",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "GWOO7gRfUHL3zTQAj1HHp",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "T1eWNwbEFDa9Yq1xOjMUv",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "WIvLpHbHb59QSjloNBddi",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "MTBoIhbjAE0v9qYdOZzyR",
+   "old_reference": "4",
+   "old_type": "verse",
+   "new_segment_id": "qxFdqqzbBXR40Wngx2RnP",
+   "new_reference": "0-4"
+  },
+  {
+   "old_segment_id": "lrH1WIIroaoK1YULdaCSn",
+   "old_reference": "5",
+   "old_type": "verse",
+   "new_segment_id": "TgzN7bnZigWHDcyYrRyoO",
+   "new_reference": "0-5"
+  },
+  {
+   "old_segment_id": "gr9pDMj3TFQUsLWKzFzkC",
+   "old_reference": "6",
+   "old_type": "verse",
+   "new_segment_id": "4cXWQ0RmNZFS7zARlAa2T",
+   "new_reference": "0-6"
+  },
+  {
+   "old_segment_id": "GK0ybqftlUuSsfz27vJ7S",
+   "old_reference": "7",
+   "old_type": "verse",
+   "new_segment_id": "2ebZOp66Nuz4nnKzCPrqr",
+   "new_reference": "0-7"
+  },
+  {
+   "old_segment_id": "QhYTfheiZQP6j7WmAxoOu",
+   "old_reference": "8",
+   "old_type": "verse",
+   "new_segment_id": "niXp71dgnDNRH0JFbM7Wl",
+   "new_reference": "0-8"
+  },
+  {
+   "old_segment_id": "GsNI9sDXHcXQaslOZ9TNh",
+   "old_reference": "9",
+   "old_type": "verse",
+   "new_segment_id": "1NEaNEPVSGv8Gl3jwFO62",
+   "new_reference": "0-9"
+  },
+  {
+   "old_segment_id": "QefJoSH952dhEweeyzuQG",
+   "old_reference": "10",
+   "old_type": "verse",
+   "new_segment_id": "P6pbZGwzYV46NcCl5JDYQ",
+   "new_reference": "0-10"
+  },
+  {
+   "old_segment_id": "ZoCyDtDPKOA3uHUMzWyUM",
+   "old_reference": "11",
+   "old_type": "verse",
+   "new_segment_id": "HqZu60JsEyrnPUHGXU62f",
+   "new_reference": "0-11"
+  },
+  {
+   "old_segment_id": "q36jyBvT1Gy1xx0UKekU0",
+   "old_reference": "12",
+   "old_type": "verse",
+   "new_segment_id": "7c6s0piP1YI2yJOugbjs6",
+   "new_reference": "0-12"
+  },
+  {
+   "old_segment_id": "YjKZp5jmqrz3tDI1qeNZr",
+   "old_reference": "13",
+   "old_type": "verse",
+   "new_segment_id": "gooXq9clT6d3HdNCbLJvB",
+   "new_reference": "0-13"
+  },
+  {
+   "old_segment_id": "ZHXRjxnSXKqPKdHnzZZ6V",
+   "old_reference": "14",
+   "old_type": "verse",
+   "new_segment_id": "OtPM4PZLkMDWpdwVmHcGk",
+   "new_reference": "0-14"
+  },
+  {
+   "old_segment_id": "b8T257Yu6HF2sBJD8qQW2",
+   "old_reference": "15",
+   "old_type": "verse",
+   "new_segment_id": "qZyzoewxFvOUuckfpyRwl",
+   "new_reference": "0-15"
+  },
+  {
+   "old_segment_id": "vdnAR2PXsJuFhL5BUEZq3",
+   "old_reference": "16",
+   "old_type": "verse",
+   "new_segment_id": "vgBvnnZ2udoLb3owwOALQ",
+   "new_reference": "0-16"
+  },
+  {
+   "old_segment_id": "ZmV6Z2jhgdHia5otE0knG",
+   "old_reference": "17",
+   "old_type": "verse",
+   "new_segment_id": "UoA8E9YNMZN5fvMYpwVYZ",
+   "new_reference": "0-17"
+  },
+  {
+   "old_segment_id": "sAo9JftkuXpUt52AEUWDq",
+   "old_reference": "18",
+   "old_type": "verse",
+   "new_segment_id": "lcBxF8tV1UvJukhIp75ds",
+   "new_reference": "0-18"
+  },
+  {
+   "old_segment_id": "ykdXlT3yIrNhr5Le7D6Wg",
+   "old_reference": "19",
+   "old_type": "verse",
+   "new_segment_id": "w8o4d9IXg3VJ6QRAi3ARQ",
+   "new_reference": "0-19"
+  },
+  {
+   "old_segment_id": "jOYWX796eXeElB6aRmmEW",
+   "old_reference": "20",
+   "old_type": "verse",
+   "new_segment_id": "3xysTpjk8Amwr2tO6WjVd",
+   "new_reference": "0-20"
+  },
+  {
+   "old_segment_id": "DYufCwvTPakh7WQlxoTiO",
+   "old_reference": "21",
+   "old_type": "verse",
+   "new_segment_id": "9y7IGtXIdyqLFgDJRkkn0",
+   "new_reference": "0-21"
+  },
+  {
+   "old_segment_id": "qbSD8Z9DWpQ9QyifXXkh6",
+   "old_reference": "22",
+   "old_type": "verse",
+   "new_segment_id": "xAjfDhyct08NQYhqvwM3Y",
+   "new_reference": "0-22"
+  },
+  {
+   "old_segment_id": "c2GmDR4wlGAGWEePORPIA",
+   "old_reference": "23",
+   "old_type": "verse",
+   "new_segment_id": "IXuIl8LzjalDj4B0pJ3q8",
+   "new_reference": "0-23"
+  },
+  {
+   "old_segment_id": "l3F7ZyRuLcfLyGnGE1W5V",
+   "old_reference": "24",
+   "old_type": "verse",
+   "new_segment_id": "yCN8oKSDIR9n3uYizgAyH",
+   "new_reference": "0-24"
+  },
+  {
+   "old_segment_id": "ccNMowuR1mRahDApNKfzE",
+   "old_reference": "25",
+   "old_type": "verse",
+   "new_segment_id": "cwj74cJozhcrqiEu85ek2",
+   "new_reference": "0-25"
+  },
+  {
+   "old_segment_id": "z7SdRA7xpmUTUgcf7t8gf",
+   "old_reference": "26",
+   "old_type": "verse",
+   "new_segment_id": "PK6unZ8q0Gs66jUvGygOo",
+   "new_reference": "0-26"
+  },
+  {
+   "old_segment_id": "BDbDj5XczG6HoGkvxbYss",
+   "old_reference": "27",
+   "old_type": "verse",
+   "new_segment_id": "YedhIHXDBZ6THp1C9c3DA",
+   "new_reference": "0-27"
+  },
+  {
+   "old_segment_id": "kEr6C6Fzla51dPCJ9Qxsg",
+   "old_reference": "28",
+   "old_type": "verse",
+   "new_segment_id": "6OMPbmWyJq8onQh0oW5Vb",
+   "new_reference": "0-28"
+  },
+  {
+   "old_segment_id": "CtSyUl34XC2Xh2OAnyEi7",
+   "old_reference": "29",
+   "old_type": "verse",
+   "new_segment_id": "Gs1AltWIEwTB6AwKGrjhY",
+   "new_reference": "0-29"
+  },
+  {
+   "old_segment_id": "sICD6pZ6yM6OGtMvF5K61",
+   "old_reference": "30",
+   "old_type": "verse",
+   "new_segment_id": "L6bcsfG1mAeg5z6RYQdLK",
+   "new_reference": "0-30"
+  },
+  {
+   "old_segment_id": "jAvhEPC8iuSh8Nejfjf2h",
+   "old_reference": "31",
+   "old_type": "verse",
+   "new_segment_id": "6qGdhqNdQC8tqbFhLKz2U",
+   "new_reference": "0-31"
+  },
+  {
+   "old_segment_id": "mHt7VXkslbOoS8zRTV7fG",
+   "old_reference": "32",
+   "old_type": "verse",
+   "new_segment_id": "StfcATAHkJ62VfA7ghV94",
+   "new_reference": "0-32"
+  },
+  {
+   "old_segment_id": "TQGagjNL1U5PyGNWKCYaT",
+   "old_reference": "33",
+   "old_type": "verse",
+   "new_segment_id": "8I8gi02jkAWXjuMP3wuGq",
+   "new_reference": "0-33"
+  },
+  {
+   "old_segment_id": "ndTaYmcuasvjQVMOktFet",
+   "old_reference": "34",
+   "old_type": "verse",
+   "new_segment_id": "2hrKkaIiM8xUzjOM5sGxI",
+   "new_reference": "0-34"
+  },
+  {
+   "old_segment_id": "Rpt4JcLhFvJZ9ZM23BcHN",
+   "old_reference": "35",
+   "old_type": "verse",
+   "new_segment_id": "on5AFeUc1vFNxSdFIg5jq",
+   "new_reference": "0-35"
+  },
+  {
+   "old_segment_id": "gDqFfVTMpCttBmquEYvNZ",
+   "old_reference": "36",
+   "old_type": "verse",
+   "new_segment_id": "nghh2zRu6THZ9gq56AAd1",
+   "new_reference": "0-36"
+  },
+  {
+   "old_segment_id": "NUgS5s7Ec5BOmJE4iCXlF",
+   "old_reference": "37",
+   "old_type": "verse",
+   "new_segment_id": "voUVaF7TsellmybcRs2Vi",
+   "new_reference": "0-37"
+  },
+  {
+   "old_segment_id": "gtt1sischlXAwvMvLTQVT",
+   "old_reference": "38",
+   "old_type": "verse",
+   "new_segment_id": "Jqp8TPnzvXpBQn7BnJek4",
+   "new_reference": "0-38"
+  },
+  {
+   "old_segment_id": "peraSQ772cziIs8SLsV8E",
+   "old_reference": "39",
+   "old_type": "verse",
+   "new_segment_id": "tWUVtchdHew3vZoyrlNSr",
+   "new_reference": "0-39"
+  },
+  {
+   "old_segment_id": "huEUbprf5UiFWI2IgRqYc",
+   "old_reference": "40",
+   "old_type": "verse",
+   "new_segment_id": "EHYdT0r8dLSJXbA20sUGN",
+   "new_reference": "0-40"
+  },
+  {
+   "old_segment_id": "aSbh5y1v51JBlerCDr5Te",
+   "old_reference": "41",
+   "old_type": "verse",
+   "new_segment_id": "PWUiTzBK6DTShLyN2dsMI",
+   "new_reference": "0-41"
+  },
+  {
+   "old_segment_id": "FzndAdzXpEiulfWqLkWUB",
+   "old_reference": "42",
+   "old_type": "verse",
+   "new_segment_id": "S7R9xhNlHmZqCutUGvAVm",
+   "new_reference": "0-42"
+  },
+  {
+   "old_segment_id": "8okGe5PXutJcbFCCobPwl",
+   "old_reference": "43",
+   "old_type": "verse",
+   "new_segment_id": "UtunFIuScQkb5xwac1snF",
+   "new_reference": "0-43"
+  },
+  {
+   "old_segment_id": "AuGkaTsXsQ8mjv9LcTy5B",
+   "old_reference": "44",
+   "old_type": "verse",
+   "new_segment_id": "sbSGgzG43wTO6DL7kPjAK",
+   "new_reference": "0-44"
+  },
+  {
+   "old_segment_id": "64bMga7X8ypYTTP9n2sPY",
+   "old_reference": "45",
+   "old_type": "verse",
+   "new_segment_id": "riUxHMZAr8H0ze95XSLJl",
+   "new_reference": "0-45"
+  },
+  {
+   "old_segment_id": "1XBIwJoQJwTQDsDj0sfqd",
+   "old_reference": "46",
+   "old_type": "verse",
+   "new_segment_id": "p0KCPOnotNQ3oWDcKhKI8",
+   "new_reference": "0-46"
+  },
+  {
+   "old_segment_id": "9BG1QNJ6RN3tAwEw5BhTF",
+   "old_reference": "47",
+   "old_type": "verse",
+   "new_segment_id": "QxRKL31Beo5O8Xj5609Bq",
+   "new_reference": "0-47"
+  },
+  {
+   "old_segment_id": "Qyzncxko9D6K8LyVTXlN5",
+   "old_reference": "48",
+   "old_type": "verse",
+   "new_segment_id": "LJDs74JYuZNx9jQL5zFKw",
+   "new_reference": "0-48"
+  },
+  {
+   "old_segment_id": "NmV2KzXbdWZKGrXgovV0f",
+   "old_reference": "49",
+   "old_type": "verse",
+   "new_segment_id": "YjnEhCcAOXUbJQmTvM616",
+   "new_reference": "0-49"
+  },
+  {
+   "old_segment_id": "sOYcky0I8C6nbgDPOfLg1",
+   "old_reference": "50",
+   "old_type": "verse",
+   "new_segment_id": "To8wsjZhfQ1uSmpO7cthq",
+   "new_reference": "0-50"
+  },
+  {
+   "old_segment_id": "QDiY0cX4wNp1GR0WVJDSz",
+   "old_reference": "51",
+   "old_type": "verse",
+   "new_segment_id": "FWMbXuj4vGcIDPDLzMjuO",
+   "new_reference": "0-51"
+  },
+  {
+   "old_segment_id": "tEYjmUztXZl9GRsGSBVV5",
+   "old_reference": "52",
+   "old_type": "verse",
+   "new_segment_id": "JtfAlfMrQ9t6Xp1Y1NqR8",
+   "new_reference": "0-52"
+  },
+  {
+   "old_segment_id": "5SjsBJGT2qSOM2jD3YGlA",
+   "old_reference": "53",
+   "old_type": "verse",
+   "new_segment_id": "NKnYCHUQGEjlvjU6gFswc",
+   "new_reference": "1-1-1"
+  }
+ ]
+}

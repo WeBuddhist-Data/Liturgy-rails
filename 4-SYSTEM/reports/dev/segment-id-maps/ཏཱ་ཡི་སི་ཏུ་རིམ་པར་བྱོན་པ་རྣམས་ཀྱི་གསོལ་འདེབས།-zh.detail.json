@@ -1,0 +1,82 @@
+{
+ "edition_id": "xqpDqRNgGXtOqrTd777Tx",
+ "segment": [
+  {
+   "old_segment_id": "yslxrSpXJEMj4dpw07nOe",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "DA0bYFv1ErsbAiZQijFuv",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "4aWw7DyXgqfwoAlfpaBWe",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "T08cCZJfDP9Z93L8as8I5",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "Pe8gWoirqoQnJIIUIiAcj",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "ocNdzEXDsUN09476ZVXGr",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "OqMGERYMWzr3ZhcvjlLSb",
+   "old_reference": "4",
+   "old_type": "verse",
+   "new_segment_id": "mqaCGGdxKmhOogTgDYlaN",
+   "new_reference": "0-4"
+  },
+  {
+   "old_segment_id": "YWGPp6tEq5EVIrmCJt38R",
+   "old_reference": "5",
+   "old_type": "verse",
+   "new_segment_id": "kXqTDqTKmdo2snw04qceq",
+   "new_reference": "0-5"
+  },
+  {
+   "old_segment_id": "aHHpIqs5tKzjT9H39ttzc",
+   "old_reference": "6",
+   "old_type": "verse",
+   "new_segment_id": "pzQ3mqnjNF98GQgkI1el3",
+   "new_reference": "0-6"
+  },
+  {
+   "old_segment_id": "novlDoU45lNjDR7S45oSb",
+   "old_reference": "7",
+   "old_type": "verse",
+   "new_segment_id": "EnwN4wpKOMbqPxZNXo8Og",
+   "new_reference": "0-7"
+  },
+  {
+   "old_segment_id": "QDvHDayhIwqlgfpv363Fy",
+   "old_reference": "8",
+   "old_type": "verse",
+   "new_segment_id": "XWUyeB940vPH2z3CTm4oh",
+   "new_reference": "0-8"
+  },
+  {
+   "old_segment_id": "wjG41I4Ib4sFMiXDhnjZE",
+   "old_reference": "9",
+   "old_type": "verse",
+   "new_segment_id": "GfQTpurbROqxhlJx6xKtV",
+   "new_reference": "0-9"
+  },
+  {
+   "old_segment_id": "8GWFKDsBzNQnF6ue9Ksmo",
+   "old_reference": "10",
+   "old_type": "verse",
+   "new_segment_id": "8xZ8Dspe31dekWcgnq4M5",
+   "new_reference": "0-10"
+  },
+  {
+   "old_segment_id": "5w1PfuvU5NX8Y5tEzYQrI",
+   "old_reference": "11",
+   "old_type": "verse",
+   "new_segment_id": "DXBtLi6tjFOBpQ9NeUYQk",
+   "new_reference": "1-1-1"
+  }
+ ]
+}

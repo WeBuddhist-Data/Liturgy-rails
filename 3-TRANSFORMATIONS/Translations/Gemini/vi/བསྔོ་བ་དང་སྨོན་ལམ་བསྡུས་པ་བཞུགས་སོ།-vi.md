@@ -57,7 +57,7 @@ Emaho!
 Xin chư Phật và Bồ Tát mười phương rủ lòng thương tưởng!
 Lấy đây làm biểu tượng cho công đức con tích lũy trong ba đời,
 Cùng gom góp lại hồi hướng trước tiên cho mẹ cha,
-Và tất thảy những ai từng kết thiện duyên hay ác duyên. ^1
+Và tất thảy những ai từng kết thiện duyên hay ác duyên. ^0-1
 
 > ཀུན་ཀྱང་དགེ་འདིས་བདེ་བ་མཆོག་ཐོབས་ནས། །
 > ཚོ་གཅིག་སངས་རྒྱས་འཁོར་བ་དོང་སྤྲུགས་ཤིག །
@@ -67,7 +67,7 @@ Và tất thảy những ai từng kết thiện duyên hay ác duyên. ^1
 Nguyện nhờ công đức này, tất cả đều đạt được đại lạc,
 Ngay trong một đời thành Phật, tát cạn đáy luân hồi!
 Mọi tư lương thiện pháp trong đời này của con,
-Xin được ấn chứng bởi thiền định vô duyên thanh tịnh. ^2
+Xin được ấn chứng bởi thiền định vô duyên thanh tịnh. ^0-2
 
 > མ་རིག་འཁོར་བར་འཁྱམས་པའི་འགྲོ་བ་ལ། །
 > སྲས་བཅས་རྒྱལ་བའི་བསྔོ་བཞིན་བསྔོ་བར་བགྱིའོ། །
@@ -77,7 +77,7 @@ Xin được ấn chứng bởi thiền định vô duyên thanh tịnh. ^2
 Hướng về chúng sinh đang lang thang trong luân hồi vô minh,
 Con xin hồi hướng y như chư Phật và Bồ Tát đã hồi hướng.
 Nhờ năng lực chân thật của Đạo sư, chư Phật và Bồ Tát,
-Nguyện mọi chúng sinh đều chứng đắc tinh túy Bồ-đề! ^3
+Nguyện mọi chúng sinh đều chứng đắc tinh túy Bồ-đề! ^0-3
 
 > ཆོས་ཉིད་ནམ་མཁའ་མཛོད་ཀྱི་གསང་ལམ་ནས། །
 > འཁོར་འདས་རིག་པ་རྗེན་པའི་གཤིས་ལུགས་རྟོགས། །
@@ -87,7 +87,7 @@ Nguyện mọi chúng sinh đều chứng đắc tinh túy Bồ-đề! ^3
 Qua mật đạo của Pháp giới hư không tạng,
 Liễu ngộ bản tính của luân hồi, niết bàn bằng giác tính trần trụi,
 Từ vô thủy Pháp thân và Trí tuệ vốn không xa lìa,
-Bằng thiện căn này, con xin hồi hướng cho vô biên chúng sinh. ^4
+Bằng thiện căn này, con xin hồi hướng cho vô biên chúng sinh. ^0-4
 
 > འགྲོ་རྣམས་མ་རིག་སྒྲིབ་པ་ཡོངས་སངས་ཏེ། །
 > སྐུ་གསུམ་བྱང་ཆུབ་ས་ལ་ཕྱིན་པར་ཤོག །
@@ -97,7 +97,7 @@ Bằng thiện căn này, con xin hồi hướng cho vô biên chúng sinh. ^4
 Nguyện chúng sinh gột sạch hoàn toàn màn vô minh che chướng,
 Và đạt đến địa vị giác ngộ của Tam thân!
 Qua mật đạo giác tính Pháp giới của con,
-Bằng tư lương công đức vô lậu, vô duyên theo tam luân thể không, ^5
+Bằng tư lương công đức vô lậu, vô duyên theo tam luân thể không, ^0-5
 
 > གང་བསགས་ཕམ་མཁའ་མཉམ་འགྲོ་ལ་བསྔོ། །
 > འགྲོ་རྣམས་སྡུག་བསྔལ་དང་བྲལ་སངས་རྒྱས་ཤོག །
@@ -107,7 +107,7 @@ Bằng tư lương công đức vô lậu, vô duyên theo tam luân thể khôn
 Mọi công đức tích lũy xin hồi hướng cho chúng sinh bao la như hư không!
 Nguyện chúng sinh thoát khỏi khổ đau và thành tựu Phật quả!
 Ác nghiệp và khổ đau của muôn loài, con xin nguyện gánh chịu,
-Dung nhập vào sự phô diễn của tịnh quang bản sơ không che chướng! ^6
+Dung nhập vào sự phô diễn của tịnh quang bản sơ không che chướng! ^0-6
 
 > ཨ་ཧོ།
 > ནམ་མཁའི་མཐར་ཐུགས་ཡིད་ཅན་འགྲོ་བ་རྣམས། །
@@ -119,7 +119,7 @@ Aho!
 Hữu tình chúng sinh rộng khắp vô biên cõi hư không,
 Cho đến tận khi tất thảy đều viên thành Phật quả,
 Mọi thiện hạnh vô lượng qua ba nghiệp của con,
-Nguyện trở thành cội nguồn nuôi dưỡng muôn loài chúng sinh! ^7
+Nguyện trở thành cội nguồn nuôi dưỡng muôn loài chúng sinh! ^0-7
 
 > འགྲོ་བ་མ་རིག་རྨོངས་པའི་མུན་ཁམས་སུ། །
 > ཡེ་ཤེས་རིག་པའི་ཉི་མ་གསལ་བར་ཤོག །
@@ -129,7 +129,7 @@ Nguyện trở thành cội nguồn nuôi dưỡng muôn loài chúng sinh! ^7
 Trong chốn u tối của chúng sinh vô minh mê lầm,
 Nguyện mặt trời Trí tuệ Giác tính bừng sáng rực rỡ!
 Với tất cả chúng sinh đang bị thiêu đốt bởi khổ đau,
-Nguyện ánh trăng từ bi thanh lương tuôn rơi xoa dịu! ^8
+Nguyện ánh trăng từ bi thanh lương tuôn rơi xoa dịu! ^0-8
 
 > དེ་བཞིན་འཕགས་པའི་ནོར་གྱི་དབུལ་ཕོང་རྣམས། །
 > ཡོན་ཏན་བྱང་ཆུབ་ཡིད་བཞིན་གོ་ཐོབ་ཤོག །
@@ -139,7 +139,7 @@ Nguyện ánh trăng từ bi thanh lương tuôn rơi xoa dịu! ^8
 Cũng như vậy, với những chúng sinh đang bần cùng thiếu thốn thánh tài,
 Nguyện thảy đều chứng đắc công đức Bồ-đề như viên ngọc như ý!
 Tóm lại, với tất cả cha mẹ chúng sinh rộng khắp cõi hư không,
-Trước mỗi người đều hiện ra mọi thọ dụng y như ước nguyện, ^9
+Trước mỗi người đều hiện ra mọi thọ dụng y như ước nguyện, ^0-9
 
 > སྡུག་བསྔལ་ཀུན་སེལ་སྤྲུལ་པའི་སྟོན་བ་མཆོག །
 > གྲངས་མེད་བསམ་གྱི་མི་ཁྱབ་སྦྲུལ་བྱས་ནས། །
@@ -149,7 +149,7 @@ Trước mỗi người đều hiện ra mọi thọ dụng y như ước nguy�
 Cùng với Đạo sư Hóa thân vô thượng xua tan mọi nỗi khổ niềm đau,
 Hóa hiện ra vô số vô lượng không thể nghĩ bàn,
 Tạm thời tiêu trừ mọi thống khổ và an lập trong hạnh phúc,
-Rốt ráo nguyện tát cạn luân hồi trong cả ba cõi! ^10
+Rốt ráo nguyện tát cạn luân hồi trong cả ba cõi! ^0-10
 
 > ཧོ། གདོད་ནས་ཀ་དག་ཡེ་གྲོལ་གཞི་དབྱིངས་ནས། །
 > རང་བྱུང་རིག་པ་རྣམ་གྲོལ་གསང་བའི་ལམ། །
@@ -159,8 +159,8 @@ Rốt ráo nguyện tát cạn luân hồi trong cả ba cõi! ^10
 Hô! Từ Pháp giới căn bản vốn bản lai thanh tịnh và tự giải thoát,
 Qua mật đạo giải thoát vẹn toàn của giác tính tự sinh,
 Trong trạng thái không cội gốc, vắng bặt ý niệm về tự tha và tam luân,
-Nguyện thảy chứng đắc quả vị vinh quang của Bồ-đề Tam thân! ^11
+Nguyện thảy chứng đắc quả vị vinh quang của Bồ-đề Tam thân! ^0-11
 
 > ཅེས་པའང་ཀུན་རྨོངས་གསེར་ཐང་བ་ས་ག་རའི་མིང་འཛིན་པས་བརྩེ་བརྒྱ་དགོན་ནས་མེ་བྱི་ཟླ་བ་བཅུ་གཉིས་ཚེས་ཉེར་གཉིས་ལ་མྱུར་བར་བྲིས་པའོ། །
 
-Lời này được viết vội bởi kẻ si mê mang tên Gserthang Sagara tại tu viện Brtse brgya, vào ngày hai mươi hai tháng mười hai năm Hỏa Thử. ^12
+Lời này được viết vội bởi kẻ si mê mang tên Gserthang Sagara tại tu viện Brtse brgya, vào ngày hai mươi hai tháng mười hai năm Hỏa Thử. ^1-1-1

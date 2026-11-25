@@ -49,7 +49,7 @@ toc_id: orJNuchncRAWmtpfnFsHd
 BHRŪṂ! Within the vast vessel of the essence of various jewels,
 The samaya substances of all desirable things in worldly existence,
 Blessed by the three syllables into the nectar of wisdom,
-Are gathered as a cloud of offerings of every possible desire. ^1
+Are gathered as a cloud of offerings of every possible desire. ^0-1
 
 > བླ་མ་ཡི་དམ་ཌཱཀྐི་ཆོས་སྲུང་དང༌༔
 > ཕྱོགས་བཅུ་རྒྱལ་བའི་དཀྱིལ་འཁོར་ཇི་སྙེད་དང༌༔
@@ -59,7 +59,7 @@ Are gathered as a cloud of offerings of every possible desire. ^1
 To the gurus, yidams, ḍākinīs, and Dharma protectors,
 To all the mandalas of the Victors in the ten directions,
 To the local deities of Jambudvīpa, the beings of the six realms, and the guests of karmic debts,
-And especially to those who snatch away my life-span and steal my life-force, ^2
+And especially to those who snatch away my life-span and steal my life-force, ^0-2
 
 > ནད་གཏོང་བར་ཆད་རྩོམ་པའི་འབྱུང་པོ་དང༌༔
 > རྨི་ལམ་རྟགས་མཚན་ངན་དང་ལྟས་ངན་རིགས༔
@@ -69,7 +69,7 @@ And especially to those who snatch away my life-span and steal my life-force, ^2
 To the elemental spirits who inflict disease and create obstacles,
 To those who cause bad dreams, evil signs, and various ill omens,
 To the malevolent eight classes of spirits and masters of magical interference,
-And to those with karmic debts of food, dwelling, and wealth, ^3
+And to those with karmic debts of food, dwelling, and wealth, ^0-3
 
 > གྲིབ་བདག་སྨྱོ་འདྲེ་ཕོ་གཤིན་མོ་གཤིན་དང༌༔
 > གྲི་བོ་ཐེའུ་རང་གྲོང་སྲིན་འདྲེ་མོ་བཅས༔
@@ -79,7 +79,7 @@ And to those with karmic debts of food, dwelling, and wealth, ^3
 To the lords of pollution, demons of insanity, and the spirits of the male and female dead,
 Along with the ghouls, the'u-rang, and the village-haunting rakshasas and female demons:
 Repaying my karmic debts, they are consumed in the scarlet fire,
-As a rain of whatever each desires, all that they wish for. ^4
+As a rain of whatever each desires, all that they wish for. ^0-4
 
 > ཇི་སྲིད་ནམ་མཁའ་གནས་ཀྱི་བར་ཉིད་དུ༔
 > འདོད་པའི་ཡོན་ཏན་ཟད་པ་མེད་པར་བསྔོ༔
@@ -89,7 +89,7 @@ As a rain of whatever each desires, all that they wish for. ^4
 For as long as space itself endures,
 May these inexhaustible qualities of desire be dedicated!
 May all my misdeeds and obscurations accumulated throughout the three times,
-And any misuse of offerings made to the Three Jewels out of faith or for the deceased, be purified! ^5
+And any misuse of offerings made to the Three Jewels out of faith or for the deceased, be purified! ^0-5
 
 > སྦྱིན་སྲེག་མེ་མཆོད་འདི་ཡིས་དག་གྱུར་ཅིག༔
 > མེ་ལྕེ་སྣང་སྲིད་གང་བའི་རྡུལ་ཕྲན་རེས༔
@@ -99,7 +99,7 @@ And any misuse of offerings made to the Three Jewels out of faith or for the dec
 May this fire offering of burnt substances bring purification!
 May each atom of these flames that fill all of appearance and existence
 Become an inexhaustible mass of Samantabhadra’s offering clouds,
-Pervading the entirety of the Buddha realms! ^6
+Pervading the entirety of the Buddha realms! ^0-6
 
 > མེ་ལྕེ་ཡེ་ཤེས་འོད་ལྔའི་མཆོད་སྦྱིན་ཟེར༔
 > རིགས་དྲུག་མནར་མེད་གནས་སུ་ཁྱབ་གྱུར་པས༔
@@ -109,11 +109,11 @@ Pervading the entirety of the Buddha realms! ^6
 This is called the sacrificial offering of the five-colored wisdom light of the flames;
 As it pervades the realms of the six classes of beings down to the Avīci hell,
 May the three realms of saṃsāra be liberated into the rainbow body of light,
-And may all beings awaken within the heart of enlightenment! ^7
+And may all beings awaken within the heart of enlightenment! ^0-7
 
 > ཨོཾ་ཨཱཿཧཱུྂ༔ (ཞེས་བརྒྱ་སྟོང་འབུམ་ཕྲག་མང་པོས་འབུལ་བར་བྱའོ༔)
 
-Oṃ āḥ hūṃ (one should offer this many hundreds, thousands, or hundreds of thousands of times.) ^8
+Oṃ āḥ hūṃ (one should offer this many hundreds, thousands, or hundreds of thousands of times.) ^0-8
 
 > སྐུ་གསུམ་དག་པ་སྣོད་ཀྱི་གཞལ་ཡས་སུ༔
 > ཆོས་ལོངས་སྤྲུལ་གསུམ་སྣང་སྲིད་གཟུགས་ཕུང་རྣམས༔
@@ -123,7 +123,7 @@ Oṃ āḥ hūṃ (one should offer this many hundreds, thousands, or hundreds o
 In the celestial palace of the vessel-world, purified as the three kāyas,
 The forms and aggregates of appearance and existence—the dharmakāya, saṃbhogakāya, and nirmāṇakāya—
 Melt into nectar, filling the atmosphere with rainbow light;
-The essence of the untainted nectar of saṃsāra and nirvāṇa: ^9
+The essence of the untainted nectar of saṃsāra and nirvāṇa: ^0-9
 
 > ཐོག་མེད་དུས་ནས་ད་ལྟ་ཡན་ཆད་དུ༔
 > སྣང་སྲིད་མགྲོན་དུ་གྱུར་པ་ཡོངས་ལ་བསྔོ༔
@@ -133,7 +133,7 @@ The essence of the untainted nectar of saṃsāra and nirvāṇa: ^9
 I dedicate to all who have been guests of appearance and existence
 From beginningless time until the present;
 Having perfected the qualities of the paths, stages, and fruition,
-And dispelled all obstacles to the view, meditation, and conduct, ^10
+And dispelled all obstacles to the view, meditation, and conduct, ^0-10
 
 > རྨད་བྱུང་ཀུན་བཟང་ཐུགས་ཀྱི་མཁའ་དབྱིངས་སུ༔
 > གཞོན་ནུ་བུམ་སྐུར་གཏན་སྲིད་ཟིན་པར་ཤོག༔
@@ -143,7 +143,7 @@ And dispelled all obstacles to the view, meditation, and conduct, ^10
 Within the wondrous expanse of Samantabhadra’s wisdom mind,
 May we seize the eternal stronghold of the youthful vase body!
 Until the great ocean of saṃsāra is finally emptied,
-May we attain buddhahood in the Akaniṣṭha Lotus Net! ^11
+May we attain buddhahood in the Akaniṣṭha Lotus Net! ^0-11
 
 > ཕུང་ཁམས་བསྲེག་རྫས་བཀྲག་མདངས་གཟི་བརྗིད་འབར༔
 > དཀར་དམར་བྱང་སེམས་བསྲེག་རྫས་བདེ་སྟོང་འབར༔
@@ -153,7 +153,7 @@ May we attain buddhahood in the Akaniṣṭha Lotus Net! ^11
 The offering substances of the aggregates and elements blaze with brilliant, majestic splendor;
 The offering substances of white and red bodhicitta blaze as bliss and emptiness;
 The offering substances of emptiness and compassion fill the dharmadhātu;
-Within the ground of the five vajra lights of appearance and existence, saṃsāra and nirvāṇa: ^12
+Within the ground of the five vajra lights of appearance and existence, saṃsāra and nirvāṇa: ^0-12
 
 > ལྷུན་གྲུབ་རྫོགས་སངས་རྒྱས་པའི་བསྲེག་རྫས་འབུལ༔
 > སྔོན་གྱི་ལན་ཆགས་ཐམས་ཅད་བྱང་གྱུར་ཅིག༔
@@ -163,7 +163,7 @@ Within the ground of the five vajra lights of appearance and existence, saṃsā
 I offer the ritual substances of spontaneously accomplished perfect buddhahood.
 May all my past karmic debts be purified!
 I confess so that they do not remain in my present mindstream;
-May they not become a cycle of obscuration in the future! ^13
+May they not become a cycle of obscuration in the future! ^0-13
 
 > སོ་ཐར་བྱང་སེམས་རིག་པ་འཛིན་པ་ཡི༔
 > སྡོམ་བཅས་བསླབ་པ་གསང་སྔགས་དམ་ཚིག་རིགས༔
@@ -173,7 +173,7 @@ May they not become a cycle of obscuration in the future! ^13
 Regarding the vows of individual liberation, the bodhisattva path, and the vidyādharas,
 I confess all violations of the vows, trainings, and secret mantra samayas;
 Whether committed consciously or unwittingly, I openly admit them;
-May all illness, harmful influences, obscurations, and impurities be purified! ^14
+May all illness, harmful influences, obscurations, and impurities be purified! ^0-14
 
 > ནད་མུག་མཚོན་གྱི་བསྐལ་པ་ཞི་གྱུར་ཅིག༔
 > མཐའ་མི་དབུས་སུ་འོང་བའི་བསུན་མ་ཟློག༔
@@ -183,7 +183,7 @@ May all illness, harmful influences, obscurations, and impurities be purified! ^
 May the eons of plague, famine, and warfare be pacified!
 Avert the incursions of border-dwelling invaders into the central land!
 Avert the obstacles to inviting the Dharma-practicing Lamas!
-Avert the evil omens of inauspiciousness in the land of Tibet! ^15
+Avert the evil omens of inauspiciousness in the land of Tibet! ^0-15
 
 > གཟའ་ཀླུ་རྒྱལ་པོས་སྲོག་དབུགས་སྡུད་པ་ཟློག༔
 > འཇིགས་པ་ཆེན་པོ་བརྒྱད་དང་བཅུ་དྲུག་ཟློག༔
@@ -193,8 +193,8 @@ Avert the evil omens of inauspiciousness in the land of Tibet! ^15
 Avert the planetary spirits, nagas, and kings who steal the breath of life!
 Avert the eight great fears and the sixteen fears!
 Avert all inauspiciousness for us and our retinue!
-Avert the power, strength, and capacity of the dam-si and gong-po spirits! Samaya! ^16
+Avert the power, strength, and capacity of the dam-si and gong-po spirits! Samaya! ^0-16
 
 > ཞེས་ཤིང་སྣ་ཚོགས་པའི་བསངས་ཁ་བརྒྱ་དང་བརྒྱད། སྦྱིན་སྲེག་གི་ཆོ་ག་ལས་བྱུང་བ་ལྟར། རི་བོ་བསངས་མཆོད་འདིས་འཆི་བསླུ་དང་། དཀོར་སྦྱོང་། བར་ཆད་ཀྱི་རིགས་སེལ་བ་རྡོ་རྗེ་ཕ་ལམ་ལྟ་བུ་འདི། སྦས་ཡུལ་འབྲས་མོ་གཤོངས་ཀྱི་གནས་སྒོ་འབྱེད་པའི་ཆ་ལག་ཏུ་མཁའ་འགྲོས་གནང་བ་བཞིན་ནོར་འཁྲུལ་མེད་པར་སྦྱར་བའོ།། །།
 
-Thus, with one hundred and eight types of incense made from various woods, as derived from the fire offering ritual, this Mountain Smoke Offering—which ransoms death, purifies the misuse of offerings, and dispels all types of obstacles like a vajra diamond—was composed without error, as instructed by the dakinis, to serve as a supplement for opening the gates to the hidden land of Demojong. ^17
+Thus, with one hundred and eight types of incense made from various woods, as derived from the fire offering ritual, this Mountain Smoke Offering—which ransoms death, purifies the misuse of offerings, and dispels all types of obstacles like a vajra diamond—was composed without error, as instructed by the dakinis, to serve as a supplement for opening the gates to the hidden land of Demojong. ^1-1

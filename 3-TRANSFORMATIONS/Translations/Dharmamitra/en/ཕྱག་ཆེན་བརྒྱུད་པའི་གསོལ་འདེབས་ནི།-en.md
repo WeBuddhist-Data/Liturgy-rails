@@ -49,7 +49,7 @@ toc_id: QPoIJaIcMsyiF6KoJmhUU
 Namo Mahāmudrāyai!
 In the spontaneously present celestial palace of the three kāyas,
 To the glorious Primordial Buddha, the chief of all families,
-The all-pervading Lord Vajradhara, I pray. ^1
+The all-pervading Lord Vajradhara, I pray. ^0-1
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -59,7 +59,7 @@ The all-pervading Lord Vajradhara, I pray. ^1
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^2
+The path of union. ^0-2
 
 > ཞིང་རབ་འབྱམས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །
 > དུས་གསུམ་གྱི་རྒྱལ་བ་བསྐྱེད་པའི་ཡབ། །
@@ -67,7 +67,7 @@ The path of union. ^2
 
 Throughout the infinite realms of the ten directions,
 To the Father who gives birth to the Victors of the three times,
-The Noble Mañjuśrī of supreme wisdom, I pray. ^3
+The Noble Mañjuśrī of supreme wisdom, I pray. ^0-3
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -77,7 +77,7 @@ The Noble Mañjuśrī of supreme wisdom, I pray. ^3
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^4
+The path of union. ^0-4
 
 > ཡུལ་བྱང་ཕྱོགས་ཁ་བ་ཅན་ལྗོངས་འདིར། །
 > ཐུབ་བསྟན་ལ་ཐུབ་དབང་གཉིས་པའི་རྗེ། །
@@ -85,7 +85,7 @@ The path of union. ^4
 
 In this northern Land of Snows,
 To the second Lord of Sages for the teachings of the Thubpa,
-The venerable Lobsang Drakpa, I pray. ^5
+The venerable Lobsang Drakpa, I pray. ^0-5
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -95,7 +95,7 @@ The venerable Lobsang Drakpa, I pray. ^5
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^6
+The path of union. ^0-6
 
 > འཇམ་དབྱངས་ཀྱི་སྲས་པོ་ཙོང་ཁ་པའི། །
 > སྒྲུབ་བརྒྱུད་ཀྱི་བསྟན་པ་འཛིན་པའི་གཙོ། །
@@ -103,7 +103,7 @@ The path of union. ^6
 
 To Tsongkhapa, the spiritual son of Mañjughoṣa,
 The foremost holder of the practice lineage teachings,
-The realized Jampal Gyatso, I pray. ^7
+The realized Jampal Gyatso, I pray. ^0-7
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -113,7 +113,7 @@ The realized Jampal Gyatso, I pray. ^7
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^8
+The path of union. ^0-8
 
 > སྙན་བརྒྱུད་ཀྱི་གདམས་པའི་མཛོད་ཕྱེ་ནས། །
 > སྐལ་ལྡན་གྱི་གདུལ་བྱ་སྨིན་མཛད་པའི། །
@@ -121,7 +121,7 @@ The path of union. ^8
 
 Having opened the treasury of the oral lineage instructions,
 To the one who matures fortunate disciples,
-Bapo Chökyi Gyaltsen, I pray. ^9
+Bapo Chökyi Gyaltsen, I pray. ^0-9
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -131,7 +131,7 @@ Bapo Chökyi Gyaltsen, I pray. ^9
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^10
+The path of union. ^0-10
 
 > རིམ་གཉིས་ཀྱི་རྣལ་འབྱོར་མཐར་ཕྱིན་ནས། །
 > འཆི་མེད་ཀྱི་རིག་འཛིན་སྐུ་བརྙེས་པའི། །
@@ -139,7 +139,7 @@ The path of union. ^10
 
 Having perfected the yoga of the two stages,
 And having attained the body of a deathless vidyādhara,
-To the supreme siddha Dharma Vajra, I pray. ^11
+To the supreme siddha Dharma Vajra, I pray. ^0-11
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -149,7 +149,7 @@ To the supreme siddha Dharma Vajra, I pray. ^11
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^12
+The path of union. ^0-12
 
 > ཆོས་བརྒྱད་ཀྱི་འཆིང་བས་མ་གོས་པར། །
 > ངེས་དོན་གྱི་བསྟན་པའི་རྒྱལ་མཚན་འཛིན། །
@@ -157,7 +157,7 @@ The path of union. ^12
 
 Untainted by the fetters of the eight worldly concerns,
 Holding the victory banner of the teachings of definitive meaning,
-To Blo bzang don yod grub pa, I pray. ^13
+To Blo bzang don yod grub pa, I pray. ^0-13
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -167,7 +167,7 @@ To Blo bzang don yod grub pa, I pray. ^13
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^14
+The path of union. ^0-14
 
 > སྐུ་གསུམ་གྱི་ཕོ་བྲང་ཉམས་དགའ་བར། །
 > ངུར་སྨྲིག་གི་གར་གྱིས་འགྲོ་ཀུན་འདྲེན། །
@@ -175,7 +175,7 @@ The path of union. ^14
 
 Within the delightful palace of the three kāyas,
 Leading all beings through the dance of the saffron robes,
-To the scholar-siddha Saṅs rgyas ye shes, I pray. ^15
+To the scholar-siddha Saṅs rgyas ye shes, I pray. ^0-15
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -185,7 +185,7 @@ To the scholar-siddha Saṅs rgyas ye shes, I pray. ^15
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^16
+The path of union. ^0-16
 
 > རྗེ་གྲུབ་ཐོབ་གོང་མའི་གདན་ས་རུ། །
 > དད་ལྡན་གྱི་གདུལ་བྱའི་དཔལ་དུ་ཤར། །
@@ -193,7 +193,7 @@ The path of union. ^16
 
 In the seat of the former realized masters,
 Arising as a glorious boon for fortunate disciples,
-To my kind root guru, I pray. ^17
+To my kind root guru, I pray. ^0-17
 
 > རྒྱུད་བདག་འཛིན་འཁྲི་བ་ཆོད་པ་དང༌། །
 > བྱམས་སྙིང་རྗེ་བྱང་སེམས་འབྱོངས་པ་དང༌། །
@@ -203,7 +203,7 @@ To my kind root guru, I pray. ^17
 Grant your blessings to sever the entanglement of self-grasping,
 To master love, compassion, and the mind of enlightenment,
 And to swiftly attain the supreme Mahāmudrā,
-The path of union. ^18
+The path of union. ^0-18
 
 > རྗེ་བླ་མ་སངས་རྒྱས་སུ་མཐོང་བ་དང༌། །
 > གནས་འཁོར་བ་ལ་ཞེན་པ་ལོག་པ་དང༌། །
@@ -217,8 +217,8 @@ Turning away from attachment to cyclic existence,
 And taking up the burden of liberating all beings,
 Grant your blessings to swiftly attain
 That glorious Mahāmudrā, the path of union,
-Both common and uncommon. ^19
+Both common and uncommon. ^0-19
 
 > ཞེས་པའང་དགེ་སློང་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱིས་སྨྲས་སོ། །སརྦ་མངྒ་ལམ།། །།
 
-This was spoken by the bhikṣu Blo bzang chos kyi rgyal mtshan. Sarva maṅgalam. ^20
+This was spoken by the bhikṣu Blo bzang chos kyi rgyal mtshan. Sarva maṅgalam. ^1-1-1

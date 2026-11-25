@@ -49,7 +49,7 @@ toc_id: eCZoSgHTiMEXIeHtNSBMn
 
 > རྃ་ཡྃ་ཁཾ། བཟང་མཆོད་ཟག་པ་མེད་པ་འདོད་ཡོན་བདུད་རྩིའི་སྤྲིན་ཆེན་པོར་གྱུར་བར་བསམ་ཞིང་། ཨོཾ་ཨཱཿཧཱུྃ༔གིས་རྒྱ་ཆེར་སྤེལ་ལ།
 
-Ram Yam Kham. Quán tưởng phẩm vật cúng dường tốt lành vô lậu hóa thành đám mây cam lồ diệu dục vĩ đại; trì tụng Om Ah Hum để gia tăng sự rộng lớn. ^1
+Ram Yam Kham. Quán tưởng phẩm vật cúng dường tốt lành vô lậu hóa thành đám mây cam lồ diệu dục vĩ đại; trì tụng Om Ah Hum để gia tăng sự rộng lớn. ^0-1
 
 > ཀྱེེ༔ བསངས་མཆོད་ཕུན་སུམ་ཚོགས་པ་འདི༔
 > སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་དང་༔
@@ -65,7 +65,7 @@ Dâng lên Phật, Pháp, và Tăng bảo,
 Hộ pháp, Tài thần, Chủ phục tàng và các vị khác,
 Hỡi chư vị hằng che chở và bảo vệ con,
 Xin hãy thọ nhận tịnh khói cúng dường rộng lớn này,
-Và làm bạn đồng hành, giúp phong mã vươn cao! ^2
+Và làm bạn đồng hành, giúp phong mã vươn cao! ^0-2
 
 > ཀྱེེ༔ དབུས་ཀྱི་ཕྱོགས་ན་གནས་པའི་ལྷ༔
 > རླུང་རྟ་དར་བའི་དགྲ་ལྷ་ནི༔
@@ -79,7 +79,7 @@ Hỡi Chiến thần giúp phong mã vươn cao,
 Mã vương Balaha tối thắng,
 Con xin tịnh khói cúng dường Chiến thần diệu tốc vô song,
 Xin hãy làm cho phong mã của con vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^3
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-3
 
 > ཀྱེེ༔ ཤར་གྱི་ཕྱོགས་ན་གནས་པའི་ལྷ༔
 > རླུང་རྟ་དར་བའི་དགྲ་ལྷ་ནི༔
@@ -93,7 +93,7 @@ Hỡi Chiến thần giúp phong mã vươn cao,
 Tuyết sư trắng với bờm ngọc lam,
 Con xin tịnh khói cúng dường Chiến thần đại hùng đại lực,
 Xin hãy làm cho phong mã của con vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^4
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-4
 
 > ཀྱེེ༔ ལྷོ་ཡི་ཕྱོགས་ན་གནས་པའི་ལྷ༔
 > རླུང་རྟ་དར་བའི་དགྲ་ལྷ་ནི༔
@@ -107,7 +107,7 @@ Hỡi Chiến thần giúp phong mã vươn cao,
 Rồng ngọc lam với vây bằng đồng,
 Con xin tịnh khói cúng dường Chiến thần với tiếng gầm chấn động,
 Xin hãy làm cho phong mã của con vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^5
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-5
 
 > ཀྱཻ༔ ནུབ་ཀྱི་ཕྱོགས་ན་གནས་པའི་ལྷ༔
 > རླུང་རྟ་དར་བའི་དགྲ་ལྷ་ནི༔
@@ -121,7 +121,7 @@ Hỡi Chiến thần giúp phong mã vươn cao,
 Mãnh hổ với muôn ngàn đốm vằn,
 Con xin tịnh khói cúng dường Chiến thần uy vũ mãnh liệt,
 Xin hãy làm cho phong mã của con vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^6
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-6
 
 > ཀྱཻ༔ བྱང་གི་ཕྱོགས་ན་གནས་པའི་ལྷ༔
 > རླུང་རྟ་དར་བའི་དགྲ་ལྷ་ནི༔
@@ -135,7 +135,7 @@ Hỡi Chiến thần giúp phong mã vươn cao,
 Đại bàng Garuda với ngọc báu trên đỉnh đầu,
 Con xin tịnh khói cúng dường Chiến thần dũng mãnh uy quyền,
 Xin hãy làm cho phong mã của con vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^7
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-7
 
 > ཀྱེེ༔ ཕྱོགས་བཞི་མཚམས་ན་གནས་པའི་ལྷ༔
 > འབྱུང་བ་ལྔ་ཡི་ལྷ་རྣམས་བསངས༔
@@ -151,7 +151,7 @@ Xin hãy làm cho phong mã ngũ hành vươn cao,
 Xin hãy nâng đỡ phong mã đang suy vi!
 Con xin tịnh khói cúng dường chư thần bát quái,
 Xin hãy làm cho phong mã bát quái vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^8
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-8
 
 > སྨེ་བ་དགུ་ཡི་ལྷ་རྣམས་བསངས༔
 > སྨེ་བའི་རླུང་རྟ་དར་བར་མཛོད༔
@@ -165,7 +165,7 @@ Xin hãy làm cho phong mã cửu cung vươn cao,
 Xin hãy nâng đỡ phong mã đang suy vi!
 Con xin tịnh khói cúng dường chư thần niên nguyệt nhật thời,
 Xin hãy làm cho phong mã niên nguyệt vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^9
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-9
 
 > འགོ་བའི་ལྷ་དང་སྐྱོབ་པའི་ལྷ༔
 > ཕོ་ལྷ་མོ་ལྷ་ཞང་ལྷ་དང༔
@@ -177,7 +177,7 @@ Chư thần hộ mệnh và chư thần hộ trì,
 Phụ thần, Mẫu thần và Cữu thần,
 Con xin tịnh khói cúng dường tất cả Kiên thần và Thân thần,
 Xin hãy làm cho phong mã của con vươn cao,
-Xin hãy nâng đỡ phong mã đang suy vi! ^10
+Xin hãy nâng đỡ phong mã đang suy vi! ^0-10
 
 > བསྐྱེད་ཅིག་རླུང་རྟ་ཡར་ལ་བསྐྱེད༔
 > ལུས་ལ་གཟི་འོད་དཔའ་རྩལ་བསྐྱེདཿ
@@ -189,7 +189,7 @@ Xin hãy khơi dậy, hãy khơi dậy phong mã bay cao!
 Xin hãy khơi dậy oai quang và dũng lực nơi thân,
 Xin hãy khơi dậy năng lực chân ngữ nơi khẩu,
 Xin hãy khơi dậy thiền định an lạc nơi tâm,
-Xin hãy tịnh hoá mọi tật bệnh, ma quỷ và chướng ngại! ^11
+Xin hãy tịnh hoá mọi tật bệnh, ma quỷ và chướng ngại! ^0-11
 
 > ཚེ་བསོད་སྟོབས་འབྱོར་འཕེལ་ཞིང་རྒྱས༔
 > སྣང་སྲིད་དབང་བསྡུས་དགྲ་བགེགས་སྒྲོལ༔
@@ -199,7 +199,7 @@ Xin hãy tịnh hoá mọi tật bệnh, ma quỷ và chướng ngại! ^11
 Xin hãy tăng trưởng thọ mạng, phước đức, oai quyền và tài bảo,
 Xin hãy thâu nhiếp vạn hữu và hàng phục mọi kẻ thù ma quỷ,
 Xin hãy giương cao tràng phan chiến thắng muôn phương,
-Xin hãy làm cho mọi sở nguyện đều được viên thành! ^12
+Xin hãy làm cho mọi sở nguyện đều được viên thành! ^0-12
 
 > རྒྱལ་ལོ་རྒྱལ་ལོ་ལྷ་རྒྱལ་ལོ༔
 > བདག་ཅག་ལྷ་ངོ་རྒྱལ་གྱུར་ཅིག།
@@ -209,12 +209,12 @@ Xin hãy làm cho mọi sở nguyện đều được viên thành! ^12
 Chiến thắng! Chiến thắng! Chư thần chiến thắng!
 Nguyện cho chư thần của chúng con được đại thắng!
 Xin hãy hàng phục phe hắc ám và các loài ma quỷ,
-Xin hãy viên thành mọi công hạnh mà chúng con phó thác! ^13
+Xin hãy viên thành mọi công hạnh mà chúng con phó thác! ^0-13
 
 > ཨོཾ་སརྦ་བྷི་ཛ་ཡ༔ ས་མ་ཡ་གྷི་ཛ་ཡ་པ་དྷི་པི་ཏྲི་ཁྱིའུ་སརྦ་འདུ་འདུ་ཧོ༔
 
-Om Sarva Bhizaya Samaya Ghizaya Padhi Pitri Khiu Sarva Dudu Ho ^14
+Om Sarva Bhizaya Samaya Ghizaya Padhi Pitri Khiu Sarva Dudu Ho ^0-14
 
 > ཞེས་རླུང་རྟ་སྡེ་བཞིའི་སྔགས་རིན་པོ་ཆེས་བྲིས་པའམ་རྒྱ་སྣག་གིས་བྲིས་ནས་ལུས་ལ་འཆང་ན་ལུས་ངག་ཡིད་ཀྱི་ཚེ་དཔལ་བསྐྱེད༔ བཙུན་པ་ཡིན་ན་ཡོན་ཏན་རྒྱས༔ སྐྱེ་བོ་ཡིན་ན་བསམ་དོན་འགྲུབ༔ ཚེ་དང་དགྲ་ལས་རབ་རྒྱལ་ལོ༔ ཅེས་པ་འདིའང་རིག་འཛིན་ཆེན་པོ་རོལ་པའི་རྡོ་རྗེའི་གཏེར་ལས་འབྱུང་ངོ་༔ གཏེར་རྒྱ༔ དགེའོ།། །།
 
-Nếu viết chân ngôn của bốn bộ phong mã này bằng mực báu hoặc mực Tàu rồi mang trên thân, thọ mạng và phúc vinh của thân, khẩu, ý sẽ thăng hoa. Nếu là tu sĩ, công đức sẽ tăng trưởng. Nếu là thế nhân, sở nguyện sẽ viên thành. Sẽ đại thắng về thọ mạng và vượt qua mọi kẻ thù! Văn bản này được xuất sinh từ kho tàng phục tạng của bậc Đại Trì minh vương Rolpai Dorje. Phục tạng ấn! Nguyện cát tường! ^15
+Nếu viết chân ngôn của bốn bộ phong mã này bằng mực báu hoặc mực Tàu rồi mang trên thân, thọ mạng và phúc vinh của thân, khẩu, ý sẽ thăng hoa. Nếu là tu sĩ, công đức sẽ tăng trưởng. Nếu là thế nhân, sở nguyện sẽ viên thành. Sẽ đại thắng về thọ mạng và vượt qua mọi kẻ thù! Văn bản này được xuất sinh từ kho tàng phục tạng của bậc Đại Trì minh vương Rolpai Dorje. Phục tạng ấn! Nguyện cát tường! ^1-1

@@ -38,17 +38,18 @@ output/
 
 ### Segment types
 
-The shape of the block is checked first, then its ID:
+The shape of the block is checked first, then where it sits, then its ID:
 
 | Test | Type | Example |
 |------|------|---------|
 | **Two or more lines with no empty line between them** | `verse` | a quoted verse, one line per unit |
+| Under a colophon heading (`མཇུག་བྱང`), until the next heading at its level or above | `back_matter` | `## མཇུག་བྱང། ^2-0` → `### མཛད་བྱང། ^2-1-0` → `^2-1-1` |
 | ID starts with `T` or `t` | `top_segment` | `^T-1` |
 | Any part is an uppercase Roman numeral | `front_matter` | `^I-1`, `^2-I-3` |
 | Any part is lowercase letters only | `back_matter` | `^a-1` |
 | Anything else | the document default | `^1-1`, `^1-2x3`, `^1-U4` |
 
-**Verse wins over the ID.** A verse in the front matter or the colophon is `verse`, not `front_matter` or `back_matter`: those mark where a block sits, and the block's shape says what it is. The ID types only blocks that are not verse.
+**Verse wins.** A verse stanza in the front matter or the colophon is `verse`, not `front_matter` or `back_matter`: those mark where a block sits, and the block's shape says what it is. Any other block in a མཇུག་བྱང section is `back_matter` (headings listed in `BACK_MATTER_HEADINGS`); the ID types the rest.
 
 The document default is `verse`. It is `paragraph` when the file has `commentary_of`, or is a translation whose `root_text` is a commentary.
 

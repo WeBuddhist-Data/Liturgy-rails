@@ -48,7 +48,7 @@ toc_id: qXRRPQWxFuFweg4L8bFBb
 Inexhaustible emanations of manifold excellence,
 Engaged in wondrous displays across oceans of buddha-fields,
 Sole essence of all Victors, treasury of compassion,
-At the feet of Dbang-phyug Rdo-rje, I pray. ^1
+At the feet of Dbang-phyug Rdo-rje, I pray. ^0-1
 
 > གང་གི་རང་བཞིན་ཆོས་དབྱིངས་ཁྱབ་པའི་གཟུགས། །
 > འགྲོ་བློ་མོས་པའི་ཤེས་གཞིར་རྟག་འཆར་བ། །
@@ -58,7 +58,7 @@ At the feet of Dbang-phyug Rdo-rje, I pray. ^1
 Whose nature is a form pervading the expanse of phenomena,
 Constantly appearing as the basis of knowledge for the aspirations of beings,
 The actual three vajras, all-pervasive and unchanging,
-At the feet of Chos-dbyings Rdo-rje, I pray. ^2
+At the feet of Chos-dbyings Rdo-rje, I pray. ^0-2
 
 > དུས་གསུམ་རྒྱལ་བའི་སྤྱི་གཟུགས་ཀརྨ་པའི། །
 > རབ་འབྱམས་ཕྲིན་ལས་སྒྲུབ་ལ་དབང་བསྒྱུར་བ། །
@@ -68,7 +68,7 @@ At the feet of Chos-dbyings Rdo-rje, I pray. ^2
 Universal embodiment of the Victors of the three times, the Karma-pa,
 Who holds mastery over the accomplishment of infinite enlightened activities,
 To the lineage of incarnations renowned as Ta'i Si-tu,
-Who have appeared in succession, I pray. ^3
+Who have appeared in succession, I pray. ^0-3
 
 > རྒྱལ་ཚབ་བྱམས་མགོན་ཌོམྦི་ཧེ་རུ་ཀ །
 > གཟུགས་ཅན་སྙིང་པོས་རྗེས་བཟུང་འབངས་སྟོབས་ཆེན། །
@@ -78,7 +78,7 @@ Who have appeared in succession, I pray. ^3
 Regent Maitreya and Ḍombī Heruka,
 The powerful subject cared for by Gzugs-can-snying-po,
 And Dārika, cared for by Saraha—
-To these three who have attained the vajra-ground, I pray. ^4
+To these three who have attained the vajra-ground, I pray. ^0-4
 
 > པདྨ་འབྱུང་གནས་རྗེས་བཟུང་གྱིམ་ཤང་ཞབས། །
 > རྩོད་མེད་ནཱ་རོས་རྗེས་བཟུང་དགྱེས་མཛད་དངོས། །
@@ -88,7 +88,7 @@ To these three who have attained the vajra-ground, I pray. ^4
 Gyim-shang-zhabs, cared for by Padmasambhava,
 The actual Dgyes-mdzad, cared for by the uncontested Nāro,
 Dbon-sgom-pa, cared for by the Incomparable Dwags-po—
-To these three glorious Herukas, I pray. ^5
+To these three glorious Herukas, I pray. ^0-5
 
 > དུས་གསུམ་མཁྱེན་པས་རྗེས་བཟུང་རས་ཆེན་ཞབས། །
 > ཀརྨ་པཀྵིས་རྗེས་བཟུང་ཡེ་ཤེས་དབང་། །
@@ -98,7 +98,7 @@ To these three glorious Herukas, I pray. ^5
 Ras-chen-zhabs, cared for by the Knower of the Three Times,
 Ye-shes-dbang, cared for by Karma-pakshi,
 Ri-mgo-ba, cared for by Rang-byung-rdo-rje—
-To these three who have mastered enlightened activity, I pray. ^6
+To these three who have mastered enlightened activity, I pray. ^0-6
 
 > རོལ་པའི་རྡོ་རྗེས་རྗེས་བཟུང་ཏའི་ཞིང་ཆེ། །
 > དེ་བཞིན་གཤེགས་པས་རྗེས་བཟུང་ཆོས་རྒྱལ་མཚན། །
@@ -108,7 +108,7 @@ To these three who have mastered enlightened activity, I pray. ^6
 Tai-zhing-che, cared for by Rol-pa'i-rdo-rje,
 Chos-rgyal-mtshan, cared for by the Tathāgata,
 Bkra-shis-rnam-rgyal-zhabs, cared for by Don-ldan—
-To these three who make every connection meaningful, I pray. ^7
+To these three who make every connection meaningful, I pray. ^0-7
 
 > རང་བྱུང་ཀུན་མཁྱེན་རྗེས་བཟུང་བཀྲ་ཤིས་མཚན། །
 > མི་བསྐྱོད་རྗེས་བཟུང་ཆོས་ཀྱི་གོ་ཆ་དང་། །
@@ -118,7 +118,7 @@ To these three who make every connection meaningful, I pray. ^7
 Bkra-shis-mtshan, cared for by the All-Knowing Rang-byung,
 Chos-kyi-go-cha, cared for by Mi-bskyod-rdo-rje,
 Chos-kyi-rgyal, cared for by Dbang-phyug-rdo-rje—
-To these three who uphold the tradition of the teachings, I pray. ^8
+To these three who uphold the tradition of the teachings, I pray. ^0-8
 
 > ཆོས་དབྱིངས་རྡོ་རྗེས་རྗེས་བཟུང་མི་ཕམ་པ། །
 > ཡེ་ཤེས་རྡོ་རྗེས་རྗེས་བཟུང་ལེགས་བཤད་སྨྲ། །
@@ -128,7 +128,7 @@ To these three who uphold the tradition of the teachings, I pray. ^8
 Mi-pham-pa, cared for by Chos-dbyings-rdo-rje,
 Legs-bshad-smra, cared for by Ye-shes-rdo-rje,
 Chos-kyi-'byung, cared for by Byang-chub-rdo-rje—
-To these three bodhisattvas, I pray. ^9
+To these three bodhisattvas, I pray. ^0-9
 
 > གསོལ་བཏབ་མཐུ་ལས་བདག་སོགས་འགྲོ་བ་རྣམས། །
 > ཚོགས་གསུམ་རྡོ་རྗེའི་ས་ནོན་ཀརྨ་པའི། །
@@ -138,8 +138,8 @@ To these three bodhisattvas, I pray. ^9
 By the power of this prayer, may I and all beings,
 Attain the level of the Karmapa, who has reached the vajra-ground of the three collections,
 And having gained mastery to transform enlightened activity as we desire,
-May we attain the state of holding the vajra of the three secrets. ^10
+May we attain the state of holding the vajra of the three secrets. ^0-10
 
 > ཅེས་རྒྱལ་མཆོག་བཅུ་པའི་ཞབས་འབྲིང་པ་བསྒོམ་ཆེན་ཀརྨ་ཤེས་རབ་ཀྱིས་གསོལ་འདེབས་མཁའ་ཁྱབ་ཅི་འདྲ་བའི་སྐྱེས་རབས་གསོལ་འདེབས་ཤིག་དགོས་ཞེས་ནན་ཆེར་བསྐུལ་བར་བརྟེན་སི་ཏུ་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱིས་བསམ་གཏན་ཡིད་འོང་གླིང་གི་དབང་ཕྱུག་ཕུག་ཏུ་སྦྱར་བའོ།།
 
-At the earnest request of the meditator Karma Shes-rab, attendant to the Tenth Gyalwang, that a prayer be composed similar to the supplication for Mkha'-khyab, this was written by Si-tu Chos-kyi-rgyal-mtshan in the Wangchuk Cave of Bsam-gtan-yid-'ong-gling. ^11
+At the earnest request of the meditator Karma Shes-rab, attendant to the Tenth Gyalwang, that a prayer be composed similar to the supplication for Mkha'-khyab, this was written by Si-tu Chos-kyi-rgyal-mtshan in the Wangchuk Cave of Bsam-gtan-yid-'ong-gling. ^1-1-1

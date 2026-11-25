@@ -34,8 +34,8 @@ line_parity_failures: 0
 style_instruction: "Translate this Tibetan liturgical text into Hindi, line by line: render each Tibetan line as exactly one Hindi line, in the same order, keeping the same number of lines as the source. Write in Devanagari. Use the established Hindi/Sanskrit Buddhist vocabulary (बुद्ध, धर्म, संघ, बोधिचित्त, त्रिकाय, गुरु, शरण, पुण्य, परिणामना) rather than coining new terms or borrowing Hindu-devotional or Christian idiom; where Hindi Buddhist usage has a settled term, prefer it. Devotional but clear register, suitable for recitation, in natural Hindi word order rather than a calque of the Tibetan. Keep mantra syllables and dhāraṇīs as Devanagari transliteration of the Sanskrit (e.g. ॐ मणि पद्मे हूँ), never translated. Render buddhas, bodhisattvas and deities by their Sanskrit names in Devanagari (अवलोकितेश्वर, तारा, पद्मसम्भव, मञ्जुश्री); transliterate Tibetan personal names and place names. Do not add commentary, notes, or explanation."
 rails_used: none
 generated: 2026-09-06
-blocks_translated: 24
-blocks_total: 24
+blocks_translated: 25
+blocks_total: 25
 status: draft
 toc_id: DcmbS5qJuRNDxg39KAubT
 ---
@@ -521,8 +521,6 @@ toc_id: DcmbS5qJuRNDxg39KAubT
 > ནང་གི་བར་ཆད་ནང་དུ་སོལ༔
 > གསང་བའི་བར་ཆད་དབྱིངས་སུ་སོལ༔
 > གུས་པས་ཕྱག་འཚལ་སྐྱབས་སུ་མཆི༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
 
 अपनी करुणा से मुझे अधिष्ठान प्रदान करें,
 अपने प्रेम से मेरा और अन्यों का मार्गदर्शन करें,
@@ -531,6 +529,10 @@ toc_id: DcmbS5qJuRNDxg39KAubT
 बाहरी विघ्नों को बाहर ही दूर करें,
 भीतरी विघ्नों को भीतर ही दूर करें,
 गुह्य विघ्नों को धर्मधातु में विलीन करें,
-मैं भक्तिपूर्वक वन्दना करता हूँ और शरण में जाता हूँ।
+मैं भक्तिपूर्वक वन्दना करता हूँ और शरण में जाता हूँ। ^24
+
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
+
 ॐ आह हूँ वज्र गुरु पद्म सिद्धि हूँ।
-ॐ आह हूँ वज्र गुरु पद्म थोत्रेंग त्सल वज्र समय जः सिद्धि फल हूँ आह। ^24
+ॐ आह हूँ वज्र गुरु पद्म थोत्रेंग त्सल वज्र समय जः सिद्धि फल हूँ आह। ^25

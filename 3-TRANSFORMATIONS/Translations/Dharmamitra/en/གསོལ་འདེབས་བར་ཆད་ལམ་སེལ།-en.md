@@ -27,8 +27,8 @@ context_blocks: 3
 style_instruction: "Translate this Tibetan verse of praise line by line: render each Tibetan line as one line of the target language, in the same order, and keep the same number of lines as the source. Devotional but clear register. Keep mantra syllables and proper names in transliteration rather than translating them. Do not add commentary, notes, or explanation."
 rails_used: none
 generated: 2026-08-26
-blocks_translated: 24
-blocks_total: 24
+blocks_translated: 25
+blocks_total: 25
 status: draft
 toc_id: VoyFZBGyHkKrJTaHT8EY9
 ---
@@ -514,8 +514,6 @@ You definitively dispel the obstacles to the attainment of enlightenment. ^23
 > ནང་གི་བར་ཆད་ནང་དུ་སོལ༔
 > གསང་བའི་བར་ཆད་དབྱིངས་སུ་སོལ༔
 > གུས་པས་ཕྱག་འཚལ་སྐྱབས་སུ་མཆི༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
 
 Through your compassion, grant me your blessings.
 Through your love, lead me and others along the path.
@@ -524,6 +522,10 @@ Through your power, dispel the obstacles for me and others.
 Dispel outer obstacles externally.
 Dispel inner obstacles internally.
 Dispel secret obstacles into the basic expanse.
-With devotion, I prostrate and go for refuge.
+With devotion, I prostrate and go for refuge. ^24
+
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
+
 oṃ āḥ hūṃ vajra guru padma siddhi hūṃ
-oṃ āḥ hūṃ vajra guru padma thötreng tsal vajra samaya jaḥ siddhi phala hūṃ āḥ ^24
+oṃ āḥ hūṃ vajra guru padma thötreng tsal vajra samaya jaḥ siddhi phala hūṃ āḥ ^25

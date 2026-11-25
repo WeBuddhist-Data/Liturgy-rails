@@ -1,0 +1,82 @@
+{
+ "edition_id": "cjz2fvs1rV24Uq5M6rTIp",
+ "segment": [
+  {
+   "old_segment_id": "wBNhAwJDsNFGJTVM1w9ke",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "xGNWg5eD8oJZ6islUL1gU",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "pdGVRbR7NmhbimMDcZCHt",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "FFlEGOVPkuHmAN3oM6P0p",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "Q8MCnOS8GJBnyqtPoe3ze",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "nTmUlB2BgN2TJtYYjioa8",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "15teiQL99sbdqM1btp7Pg",
+   "old_reference": "4",
+   "old_type": "verse",
+   "new_segment_id": "bVNmK2rNHgKpUMaem6Kki",
+   "new_reference": "0-4"
+  },
+  {
+   "old_segment_id": "USInlCbPxrwyLj1kNUqsp",
+   "old_reference": "5",
+   "old_type": "verse",
+   "new_segment_id": "ENnQpffl8UFXhGPHTtMID",
+   "new_reference": "0-5"
+  },
+  {
+   "old_segment_id": "EYPXscJLh46S6lxEvwrTh",
+   "old_reference": "6",
+   "old_type": "verse",
+   "new_segment_id": "S1L7JdkVYPRP8jOGFs47P",
+   "new_reference": "0-6"
+  },
+  {
+   "old_segment_id": "ecEk2ZSW6PNQW7aiG8y3N",
+   "old_reference": "7",
+   "old_type": "verse",
+   "new_segment_id": "kW4nQpdAi373wOc9tnB87",
+   "new_reference": "0-7"
+  },
+  {
+   "old_segment_id": "tgdQSGtadRuRrGm8SA9oX",
+   "old_reference": "8",
+   "old_type": "verse",
+   "new_segment_id": "yYsu3TEfASg8fbTImjYqX",
+   "new_reference": "0-8"
+  },
+  {
+   "old_segment_id": "0Ej7NDY3ti6AEdH0AJ45B",
+   "old_reference": "9",
+   "old_type": "verse",
+   "new_segment_id": "V4SJnA8fGRprOnoJ3OBzA",
+   "new_reference": "0-9"
+  },
+  {
+   "old_segment_id": "XAyYd0mQIZnVpMok0x3DM",
+   "old_reference": "10",
+   "old_type": "verse",
+   "new_segment_id": "qNsmqi8drSr6GCdljHv7p",
+   "new_reference": "0-10"
+  },
+  {
+   "old_segment_id": "DDAvTkwou1MmqY1EzDYAv",
+   "old_reference": "11",
+   "old_type": "verse",
+   "new_segment_id": "aEi3HMRWDNaXWDVm8u5B1",
+   "new_reference": "1-1-1"
+  }
+ ]
+}

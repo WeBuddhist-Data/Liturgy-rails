@@ -49,7 +49,7 @@ toc_id: 11z8H0bA39XM6fX4klqs7
 Homage to the Swift-Acting Avalokiteśvara!
 With anklets on his feet, he tramples upon Vināyaka.
 Great Black One, wearing a tiger-skin lower garment,
-Fully adorned with six arms and ornaments of snakes. ^1
+Fully adorned with six arms and ornaments of snakes. ^0-1
 
 > གཡས་པ་གྲི་གུག་བར་བས་འཕྲེང་བ་འཛིན། །
 > ཐ་མ་ཌཱ་མ་རུ་ནི་དྲག་ཏུ་འཁྲོལ། །
@@ -59,7 +59,7 @@ Fully adorned with six arms and ornaments of snakes. ^1
 The first right hand holds a curved knife, the middle a rosary,
 And the last fiercely rattles a ḍāmaru.
 The left hands hold a skull-cup and a trident,
-And likewise, grasping a lasso, they bind. ^2
+And likewise, grasping a lasso, they bind. ^0-2
 
 > དྲག་པོའི་ཞལ་ནི་མཆེ་བ་རྣམ་པར་གཙིགས། །
 > སྤྱན་གསུམ་དྲག་པོ་དབུ་སྐྲ་གྱེན་དུ་འབར། །
@@ -69,7 +69,7 @@ And likewise, grasping a lasso, they bind. ^2
 His wrathful mouth bares its fangs,
 His three eyes are fierce, and his hair blazes upward.
 His forehead is well-anointed with sindūra,
-And his crown is firmly sealed by the King Akṣobhya. ^3
+And his crown is firmly sealed by the King Akṣobhya. ^0-3
 
 > ཁྲག་འཛག་མི་མགོ་ལྔ་བཅུའི་དོ་ཤལ་ཅན། །
 > རིན་ཆེན་ཐོད་སྐམ་ལྔ་ཡིས་དབུ་ལ་བརྒྱན། །
@@ -79,7 +79,7 @@ And his crown is firmly sealed by the King Akṣobhya. ^3
 He wears a necklace of fifty blood-dripping human heads,
 And his head is adorned with five dry jeweled skulls.
 You who come from the tree to accept this torma,
-To the glorious Six-Armed One, I prostrate and offer praise. ^4
+To the glorious Six-Armed One, I prostrate and offer praise. ^0-4
 
 > སངས་རྒྱས་བསྟན་པ་གཉན་པོ་བསྲུང་བ་དང་། །
 > དཀོན་མཆོག་དབུ་འཕང་གཉན་པོ་བསྟོད་པ་དང་། །
@@ -91,8 +91,8 @@ May you protect the solemn teachings of the Buddha,
 Exalt the majestic status of the Three Jewels,
 And for us—master, disciples, and retinue—
 Pacify all adverse conditions and obstacles,
-And please swiftly bestow the accomplishments we desire. ^5
+And please swiftly bestow the accomplishments we desire. ^0-5
 
 > དཔལ་ལྡན་ཤ་ཝ་རི་དབང་ཕྱུག་གིས་མགོན་པོ་ཞལ་གཟིགས་དུས་མཛད་པའོ།།
 
-This was composed by the glorious Śavaripa when he beheld the face of the Protector. ^6
+This was composed by the glorious Śavaripa when he beheld the face of the Protector. ^1-1-1

@@ -49,7 +49,7 @@ toc_id: eRub6530oX7EiAGj05KZh
 Out of compassion, through the desire to benefit wandering beings,
 You attained the supreme protection of abandonment and realization, O God of Gods!
 To the one who leads all beings through the teaching of dependent origination,
-To the Lord of Sages, the Sun of Speakers, I bow my head in homage. ^1
+To the Lord of Sages, the Sun of Speakers, I bow my head in homage. ^0-1
 
 > རྒྱལ་ཡུམ་དགོངས་དོན་མཐའ་བྲལ་དེ་ཉིད་དོན། །
 > རྟེན་འབྱུང་རིགས་ཚུལ་ཟབ་མོས་གསལ་མཁས་པའི། །
@@ -59,7 +59,7 @@ To the Lord of Sages, the Sun of Speakers, I bow my head in homage. ^1
 The ultimate meaning of reality, free from extremes, the intent of the Mother of Victors,
 You skillfully clarified through the profound logical methods of dependent origination;
 Just as the Victor prophesied, the pioneer of the Middle Way system of the Supreme Vehicle—
-I pray to the feet of Nāgārjuna, the elucidator. ^2
+I pray to the feet of Nāgārjuna, the elucidator. ^0-2
 
 > དེ་སྲས་ཐུ་བོ་མཁས་ཤིང་གྲུབ་པའི་མཆོག །
 > ནང་གྲུབ་མཐའ་རྒྱ་མཚོའི་ཕ་མཐར་སོན། །
@@ -69,7 +69,7 @@ I pray to the feet of Nāgārjuna, the elucidator. ^2
 To his eldest spiritual son, the supreme learned and accomplished one,
 Who reached the further shore of the ocean of inner and outer tenets,
 The glorious crown jewel of all who uphold Nāgārjuna’s tradition—
-To the Bodhisattva Āryadeva, I pray! ^3
+To the Bodhisattva Āryadeva, I pray! ^0-3
 
 > འཕགས་པའི་དགོངས་པ་རྟེན་འབྱུང་མཐར་ཐུག་དོན། །
 > བཏགས་ཡོད་མིང་རྐྱང་ཙམ་གྱི་ཟབ་མོའི་གནད། །
@@ -79,7 +79,7 @@ To the Bodhisattva Āryadeva, I pray! ^3
 You who clarified the ultimate meaning of dependent origination, the intent of the Āryas,
 And the profound, essential point of mere nominality and mere imputation,
 Having departed to the state of supreme accomplishment,
-To the feet of Buddhapālita, I pray! ^4
+To the feet of Buddhapālita, I pray! ^0-4
 
 > བདེན་པའི་དངོས་པོ་སྐྱེ་སོགས་མཐའ་བཀག་ཅིང་། །
 > ཚད་མ་མཐུན་སྣང་ཕྱི་དོན་བཞེད་པ་ཡི། །
@@ -89,7 +89,7 @@ To the feet of Buddhapālita, I pray! ^4
 You who refuted the extremes of the production of truly existent things and so forth,
 To the one who asserts valid cognition and commonly appearing external objects,
 The complete Pandita who established the system of tenets,
-To the master Bhāvaviveka, I pray. ^5
+To the master Bhāvaviveka, I pray. ^0-5
 
 > རྟེན་འབྲེལ་རྐྱེན་ཉིད་འདི་པ་ཙམ་ཉིད་ཀྱིས། །
 > མཐའ་གཉིས་སེལ་བའི་སྣང་སྟོང་དབུ་མའི་ཚུལ། །
@@ -99,7 +99,7 @@ To the master Bhāvaviveka, I pray. ^5
 Through the mere conditionality of dependent origination,
 The Middle Way system of appearance and emptiness that clears away the two extremes—
 Skilled in teaching the profound and vast, the complete path of Sutra and Mantra,
-To the one who expanded [the teachings], Candrakīrti, I pray. ^6
+To the one who expanded [the teachings], Candrakīrti, I pray. ^0-6
 
 > ངོ་མཚར་རྨད་བྱུང་སྙིང་རྗེ་ཆེན་པོའི་ལམ། །
 > ཟབ་དང་རྒྱ་ཆེའི་རིགས་ཚུལ་རྣམ་མང་གིས། །
@@ -109,7 +109,7 @@ To the one who expanded [the teachings], Candrakīrti, I pray. ^6
 Through the wondrous and marvelous path of great compassion,
 And through many varied modes of reasoning, both profound and vast,
 You are skilled in teaching the assembly of fortunate disciples—
-To the Bodhisattva Śāntideva, I pray. ^7
+To the Bodhisattva Śāntideva, I pray. ^0-7
 
 > གདུལ་བྱའི་ཁམས་བཞིན་གཉིས་སྟོང་དབུ་མའི་ལམ། །
 > སྲོལ་གཏོད་དབུ་ཚད་རིགས་ཚུལ་འབྱེད་མཁས་ཤིང་། །
@@ -119,7 +119,7 @@ To the Bodhisattva Śāntideva, I pray. ^7
 Skilled in teaching the Middle Way path of twofold emptiness according to the dispositions of disciples,
 You established the tradition and were expert in distinguishing the reasoning of the Middle Way and Valid Cognition;
 To the one who propagated the Buddha’s teachings in the Land of Snows,
-To the Great Abbot Śāntarakṣita, I pray. ^8
+To the Great Abbot Śāntarakṣita, I pray. ^0-8
 
 > མཐའ་བྲལ་དབུ་མའི་ལྟ་དང་ཞི་ལྷག་ཟུང་། །
 > སྒོམ་རིམ་མདོ་རྒྱུད་བཞིན་དུ་ལེགས་བཀྲལ་ནས། །
@@ -129,7 +129,7 @@ To the Great Abbot Śāntarakṣita, I pray. ^8
 The Middle Way view free from extremes, the union of calm abiding and special insight,
 Having perfectly explained the stages of meditation according to the sutras and tantras,
 You who clearly elucidated the unerring teachings of the Buddha in the Land of Snows—
-To the feet of Kamalaśīla, I pray. ^9
+To the feet of Kamalaśīla, I pray. ^0-9
 
 > བྱམས་པས་རྗེས་བཟུང་ཐེག་ཆེན་སྡེ་སྣོད་ཀུན། །
 > ལེགས་པར་སྤེལ་མཁས་རྒྱ་ཆེན་ལམ་སྟོན་ཞིང་། །
@@ -139,7 +139,7 @@ To the feet of Kamalaśīla, I pray. ^9
 Cared for by Maitreya and skilled in propagating all the Mahāyāna scriptures,
 You who reveal the path of vast conduct,
 To the one who, as prophesied by the Victor, opened the chariot-way of the Vijñaptimātra tradition,
-To the feet of Asaṅga, I pray. ^10
+To the feet of Asaṅga, I pray. ^0-10
 
 > ཆོས་མངོན་སྡེ་བདུན་གཉིས་སྟོང་སྲོལ་བཟུང་ནས། །
 > བྱེ་མདོ་རྣམ་རིག་གྲུབ་མཐའ་གསལ་མཛད་པ། །
@@ -149,7 +149,7 @@ To the feet of Asaṅga, I pray. ^10
 Having upheld the tradition of the seven treatises of Abhidharma and the two thousand sections,
 You clarified the philosophical systems of Vaibhāṣika, Sautrāntika, and Vijñānavāda;
 Supreme among scholars, renowned as a second Buddha—
-I pray to the feet of the master Vasubandhu. ^11
+I pray to the feet of the master Vasubandhu. ^0-11
 
 > ཐུབ་པའི་གཞུང་ལུགས་དངོས་སྟོབས་རིགས་པ་ཡིས། །
 > སྟོན་ཕྱིར་ཚད་མའི་སྒོ་བརྒྱ་ལེགས་ཕྱེ་ནས། །
@@ -159,7 +159,7 @@ I pray to the feet of the master Vasubandhu. ^11
 Through the power of reasoning based on the facts of the Buddha’s scriptures,
 You opened wide a hundred gates of valid cognition to reveal the truth;
 To the logician who grants the eye of discerning intelligence,
-I pray to the feet of Dignāga. ^12
+I pray to the feet of Dignāga. ^0-12
 
 > ཕྱི་ནང་ཚད་མའི་གནད་ཀུན་ལེགས་དགོངས་ཤིང་། །
 > མདོ་སེམས་ཟབ་རྒྱས་ལམ་ཀུན་རིགས་ལམ་ནས། །
@@ -169,7 +169,7 @@ I pray to the feet of Dignāga. ^12
 Having thoroughly contemplated all the essential points of inner and outer logic,
 And being skilled in teaching the marvelous system of Dharma that imparts certainty
 Regarding all the profound and vast paths of the Sūtra and Cittamātra schools through the path of reasoning—
-I pray to the feet of Dharmakīrti. ^13
+I pray to the feet of Dharmakīrti. ^0-13
 
 > ཐོགས་མེད་སྐུ་མཆོད་ལས་འོངས་ཤེར་ཕྱིན་དོན། །
 > ཡོད་མེད་མཐའ་བྲལ་དབུ་མའི་སྲོལ་བཞིན་དུ། །
@@ -179,7 +179,7 @@ I pray to the feet of Dharmakīrti. ^13
 The meaning of the Perfection of Wisdom, which comes from the brothers Asaṅga and Vasubandhu,
 According to the Middle Way tradition that is free from the extremes of existence and non-existence,
 You lit the lamp that illuminates the meaning of the Ornament’s text;
-I pray to the feet of Ārya Vimuktisena. ^14
+I pray to the feet of Ārya Vimuktisena. ^0-14
 
 > ཡུམ་དོན་འབྱེད་ལ་རྒྱལ་བའི་ལུང་བསྟན་ཐོབ། །
 > མི་ཕམ་མགོན་པོའི་མན་ངག་ཇི་བཞིན་དུ། །
@@ -189,7 +189,7 @@ I pray to the feet of Ārya Vimuktisena. ^14
 You received the Victor’s prophecy to reveal the meaning of the Mother;
 In accordance with the pith instructions of the Protector Maitreya,
 You clarified the supreme scriptures of the three Mothers of Prajñāpāramitā—
-I pray to the master Haribhadra. ^15
+I pray to the master Haribhadra. ^0-15
 
 > འདུལ་བ་འབུམ་སྡེའི་དགོངས་དོན་ལེགས་བསྡུས་ནས། །
 > ཐམས་ཅད་ཡོད་སྨྲའི་ལུགས་བཞིན་སོ་སོ་ཐར། །
@@ -199,7 +199,7 @@ I pray to the master Haribhadra. ^15
 Having perfectly summarized the intended meaning of the hundreds of thousands of sections of the Vinaya,
 In accordance with the system of the Sarvāstivādins, you taught the Pratimokṣa without error;
 You who became the supreme, learned one who excellently imparts these teachings—
-At the feet of Guṇaprabha, I pray. ^16
+At the feet of Guṇaprabha, I pray. ^0-16
 
 > བསླབ་གསུམ་ཡོན་ཏན་ནོར་བུའི་མཛོད་ལ་དབང༌། །
 > འདུལ་བསྟན་དྲི་མེད་རིང་དུ་སྤེལ་བའི་སླད། །
@@ -209,7 +209,7 @@ At the feet of Guṇaprabha, I pray. ^16
 You have mastery over the jewel-like treasury of the qualities of the three trainings;
 For the sake of spreading the stainless Vinaya teachings far and wide,
 You perfectly elucidated the meaning of the vast scriptures—supreme holder of the Vinaya,
-At the feet of Śākyaprabha, I pray. ^17
+At the feet of Śākyaprabha, I pray. ^0-17
 
 > ཐུབ་གསུང་ཟབ་རྒྱས་བཀའ་སྲོལ་མ་ལུས་པ། །
 > སྐྱེས་བུ་གསུམ་གྱི་ལམ་དུ་འདོམས་མཛད་དེ། །
@@ -219,7 +219,7 @@ At the feet of Śākyaprabha, I pray. ^17
 All the traditions of the Buddha’s profound and vast speech, without exception,
 You instructed in the paths of the three types of beings;
 The kind lord who caused the Buddha's teachings to flourish in the Land of Snows—
-To Jo-wo Atiśa, I pray. ^18
+To Jo-wo Atiśa, I pray. ^0-18
 
 > དེ་ལྟར་འཛམ་གླིང་རྒྱན་གྱུར་མཁས་པའི་ཕུལ། །
 > ངོ་མཚར་ལེགས་བཤད་འབྱུང་གནས་མཆོག་རྣམས་ལ། །
@@ -229,7 +229,7 @@ To Jo-wo Atiśa, I pray. ^18
 Thus, to these supreme scholars who are the ornaments of the world,
 To these sublime sources of marvelous and elegant instructions,
 Through praying with a mind of unwavering faith,
-Bless me that my mindstream may be matured and liberated. ^19
+Bless me that my mindstream may be matured and liberated. ^0-19
 
 > གཞི་ཡི་གནས་ཚུལ་བདེན་གཉིས་དོན་ཤེས་པས། །
 > བདེན་བཞིས་འཁོར་བ་འཇུག་ལྡོག་ཇི་བཞིན་ངེས། །
@@ -239,7 +239,7 @@ Bless me that my mindstream may be matured and liberated. ^19
 By understanding the two truths, the mode of being of the ground,
 May I become certain of how one enters and exits cyclic existence through the four truths;
 May my faith in the Three Jewels, induced by valid cognition, be firm;
-Grant your blessings so that the root of the path to liberation may be established. ^20
+Grant your blessings so that the root of the path to liberation may be established. ^0-20
 
 > སྡུག་ཀུན་ཉེར་ཞིའི་ཐར་པ་དོན་གཉེར་བའི། །
 > ངེས་འབྱུང་བློ་དང་འགྲོ་རྣམས་སྐྱོབ་འདོད་པའི། །
@@ -249,7 +249,7 @@ Grant your blessings so that the root of the path to liberation may be establish
 Seeking liberation, the total pacification of suffering and its origins,
 With the mind of renunciation and the desire to protect all beings,
 Rooted in a compassion that extends to the very limits of every direction,
-Grant your blessings so that I may master uncontrived bodhichitta. ^21
+Grant your blessings so that I may master uncontrived bodhichitta. ^0-21
 
 > ཤིང་རྟ་ཆེན་པོའི་གཞུང་གི་དོན་རྣམས་ལ། །
 > ཐོས་བསམ་སྒོམ་པས་ཕ་རོལ་ཕྱིན་པ་དང༌། །
@@ -259,7 +259,7 @@ Grant your blessings so that I may master uncontrived bodhichitta. ^21
 Regarding the meanings of the treatises of the great pioneers,
 Through the perfection of hearing, contemplation, and meditation,
 And for all the paths of the profound points of the Vajrayana,
-Grant your blessings that I may easily find certainty. ^22
+Grant your blessings that I may easily find certainty. ^0-22
 
 > སྐྱེ་ཞིང་སྐྱེ་བར་བསླབ་གསུམ་ལྡན་པའི་རྟེན། །
 > ལེགས་ཐོབ་བཤད་དང་སྒྲུབ་པས་ལུང་རྟོགས་བསྟན། །
@@ -269,7 +269,7 @@ Grant your blessings that I may easily find certainty. ^22
 In birth after birth, with a physical basis possessing the three trainings,
 Through the study and practice of the teachings of scripture and realization,
 May I uphold and propagate the Dharma, and like the great pioneers,
-May I carry out the activities of the Buddha's teachings. ^23
+May I carry out the activities of the Buddha's teachings. ^0-23
 
 > འདུལ་སྡེ་ཀུན་ཏུ་ཐོས་བསམ་བཤད་སྒྲུབ་ཀྱི། །
 > བྱ་བས་དུས་འདའ་ལོག་འཚོ་ཡོངས་སྤངས་པའི། །
@@ -279,7 +279,7 @@ May I carry out the activities of the Buddha's teachings. ^23
 In all monastic communities, may the time be spent in the activities of study, reflection, teaching, and practice,
 And having completely abandoned wrong livelihoods,
 Through the proliferation of holy scholars and realized masters,
-May the great earth of this world be forever made beautiful. ^24
+May the great earth of this world be forever made beautiful. ^0-24
 
 > དེ་མཐུས་མདོ་སྔགས་ཡོངས་རྫོགས་ས་ལམ་བགྲོད། །
 > དོན་གཉིས་ལྷུན་གྲུབ་རྣམ་མཁྱེན་རྒྱལ་བ་ཡི། །
@@ -289,8 +289,8 @@ May the great earth of this world be forever made beautiful. ^24
 By the power of this, may I traverse the paths and stages of the complete Sutra and Mantra,
 And having swiftly attained the state of an omniscient Victor,
 Who spontaneously accomplishes the two benefits,
-For as long as space exists, may I act for the benefit of all beings. ^25
+For as long as space exists, may I act for the benefit of all beings. ^0-25
 
 > ཅེས་པ་འདི་བཞིན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱིས་ལེགས་པར་བསྟན་པའི་ཟབ་པ་དང་རྒྱ་ཆེ་བའི་ཆོས་ཚུལ་འདི་དག་ལ་རྒྱ་གར་འཕགས་པའི་ཡུལ་གྱི་མཁས་པའི་དབང་པོ་གོང་སྨོས་དེ་དག་གིས་རྣམ་དཔྱོད་ལྡན་པའི་སྐྱེས་བུའི་བློ་མིག་རྣམ་པར་འབྱེད་པའི་ལེགས་བཤད་རྨད་དུ་བྱུང་བ་ཇི་སྙེད་ཅིག་མཛད་དེ་མི་ལོ་ཉི་སྟོང་ལྔ་བརྒྱ་ལྔ་བཅུར་ཉེ་བའི་དུས་ད་ལྟ་བར་ཐོས་བསམ་སྒོམ་པའི་གཞུང་དུ་ཉམས་པ་མེད་པར་ཡོད་པས་མཁས་པའི་དབང་པོ་དེ་དག་གི་བཀའ་དྲིན་རྗེས་སུ་དྲན་པ་དང་། མི་ཕྱེད་དད་པས་དེ་དག་གི་རྗེས་སུ་སློབ་པར་སྨོན་ཅིང་། དེང་དུས་འཛམ་གླིང་ཁྱོན་འདིར་ཚན་རིག་དང་། འཕྲུལ་ཆས་དངོས་པོ་ཡར་རྒྱས་ཚད་མཐོར་ཕྱིན་ཏེ་འདི་སྣང་འདུ་འཛིའི་རྣམ་གཡེང་འཁྲུག་ཆེའི་སྐབས་འདིར། རང་རེ་སངས་རྒྱས་ཀྱི་རྗེས་འཇུག་པ་རྣམས་སངས་རྒྱས་ཀྱི་ཆོས་ཚུལ་ལ་ཤེས་ནས་དད་པ་ཐོབ་པ་ཞིག་དགོས་གལ་ཤིན་ཏུ་ཆེ་བས་གཟུ་བོའི་བློས་ཐེ་ཚོམ་གྱི་སྒོ་ནས་ཞིབ་མོར་བརྟགས་ཤིང་དཔྱད་དེ་རྒྱུ་མཚན་འཚོལ་བ་དང་། རྒྱུ་མཚན་མཐོང་ནས་ཤེས་རབ་ཀྱི་གྲོགས་དང་བཅས་པའི་དད་པ་སྐྱེ་བ་ལ། ཡོངས་གྲགས་རྒྱན་དྲུག་མཆོག་གཉིས་དང་། སངས་རྒྱས་བསྐྱངས་དང་། འཕགས་པ་གྲོལ་སྡེ་ལ་སོགས་པའི་ཟབ་རྒྱས་ཀྱི་གཞུང་ཕུལ་དུ་ཕྱིན་པ་འདི་དག་མེད་དུ་མི་རུང་མཐོང་ནས་རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་སྐུ་ཐང་བྲིས་སྲོལ་སྔར་ནས་ཡོད་མུས་ཐོག་ཟབ་རྒྱས་ཀྱི་བླ་བརྒྱུད་གཞན་དགུ་བསྣན་ཏེ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་བྲིས་སྐུ་གསར་བཞེངས་དང་འབྲེལ། མཁས་པའི་སྐྱེས་མཆོག་དེ་དག་ལ་སྙིང་ནས་གུས་པའི་གསོལ་འདེབས་འདི་འདྲ་ཞིག་འབྲི་འདུན་བྱུང་བ་དང༌། དོན་གཉེར་ཅན་ཆོས་གྲོགས་འགའ་ཞིག་ནས་ཀྱང་སྐུལ་མ་བྱུང་བར་བརྟེན། དཔལ་ནཱ་ལེནྡྲའི་པཎ་གྲུབ་བཅུ་བདུན་གྱི་གསོལ་འདེབས་དད་གསུམ་གསལ་བྱེད་ཅེས་པ་འདི་དག་མཁས་པའི་དབང་པོ་དེ་དག་གི་ལེགས་བཤད་ལ་བཅོས་མིན་ཡིད་ཆེས་ཀྱི་དད་པ་ཐོབ་ཅིང་། མཁས་པ་དེ་དག་གི་ལེགས་བཤད་སློབ་གཉེར་གྲལ་མཐར་འཁོད་པ། ཤཱཀྱའི་དགེ་སློང་བསྟན་འཛིན་རྒྱ་མཚོས། གནས་བརྟན་སྡེ་པའི་ལུགས་ཀྱི་སྟོན་པ་བདེ་བར་གཤེགས་ནས་ལོ་གྲངས་ ༢༥༤༥ བོད་རབ་བྱུང་བཅུ་བདུན་པའི་ལྕགས་སྦྲུལ་ཟླ་ ༡༡ ཚེས་ ༡ ཕྱི་ལོ་ ༢༠༠༡ ཟླ་ ༡༢ ཚེས་ ༡༥ ཉིན། རྒྱ་གར་ཧི་མ་ཅལ་མངའ་སྡེའི་ཀང་ར་རྫོང་ཁོངས། དྷ་རམ་ས་ལ་ཐེག་ཆེན་ཆོས་གླིང་དུ་གྲུབ་པར་བགྱིས་པ་དགེ་བར་གྱུར་ཅིག།
 
-In this way, because the profound and vast Dharma teachings, which were excellently taught by the Buddha, the Blessed One, have been preserved without decline to this present day—nearly two thousand five hundred and fifty years later—through the marvelous and excellent explanations composed by the aforementioned masters of the noble land of India, who opened the eyes of wisdom for beings endowed with discernment, I have felt a desire to write this prayer of heartfelt reverence for those supreme scholars, both out of remembrance of their kindness and as a wish to follow them with unwavering faith; and, prompted by the encouragement of some earnest Dharma friends, in this current age where the world has reached a high level of development in science and material technology, and where there is great distraction and turmoil from the busyness of worldly life, it is of utmost importance that we followers of the Buddha gain faith in the Buddha's teachings through understanding, and thus, by examining and investigating thoroughly with an impartial mind and a spirit of inquiry, and by seeking reasons, to give rise to faith accompanied by the companion of wisdom, I have seen that these supreme and profound, vast treatises—such as the renowned Six Ornaments and Two Supreme Ones, as well as those by Buddhapālita, Āryavimuktisena, and others—are indispensable, and so, in addition to the existing tradition of painting the Six Ornaments and Two Supreme Ones, I have added nine other masters of the profound and vast lineage to complete the new creation of the painted images of the seventeen great scholars of Nālandā, and in connection with this, I, the Śākya monk Tenzin Gyatso, who have attained a sincere and unfeigned faith in the excellent explanations of those masters and who have taken my place in the ranks of those studying their excellent explanations, have completed this work, entitled "A Prayer to the Seventeen Great Scholars of Glorious Nālandā: Illuminating the Threefold Faith," at Thegchen Chöling in Dharamsala, Kangra District, Himachal Pradesh, India, on the first day of the eleventh month of the Iron Snake year of the seventeenth Tibetan sexagenary cycle, corresponding to December 15, 2001, which is 2545 years after the passing of the Teacher of the Theravāda tradition, may it be virtuous. ^26
+In this way, because the profound and vast Dharma teachings, which were excellently taught by the Buddha, the Blessed One, have been preserved without decline to this present day—nearly two thousand five hundred and fifty years later—through the marvelous and excellent explanations composed by the aforementioned masters of the noble land of India, who opened the eyes of wisdom for beings endowed with discernment, I have felt a desire to write this prayer of heartfelt reverence for those supreme scholars, both out of remembrance of their kindness and as a wish to follow them with unwavering faith; and, prompted by the encouragement of some earnest Dharma friends, in this current age where the world has reached a high level of development in science and material technology, and where there is great distraction and turmoil from the busyness of worldly life, it is of utmost importance that we followers of the Buddha gain faith in the Buddha's teachings through understanding, and thus, by examining and investigating thoroughly with an impartial mind and a spirit of inquiry, and by seeking reasons, to give rise to faith accompanied by the companion of wisdom, I have seen that these supreme and profound, vast treatises—such as the renowned Six Ornaments and Two Supreme Ones, as well as those by Buddhapālita, Āryavimuktisena, and others—are indispensable, and so, in addition to the existing tradition of painting the Six Ornaments and Two Supreme Ones, I have added nine other masters of the profound and vast lineage to complete the new creation of the painted images of the seventeen great scholars of Nālandā, and in connection with this, I, the Śākya monk Tenzin Gyatso, who have attained a sincere and unfeigned faith in the excellent explanations of those masters and who have taken my place in the ranks of those studying their excellent explanations, have completed this work, entitled "A Prayer to the Seventeen Great Scholars of Glorious Nālandā: Illuminating the Threefold Faith," at Thegchen Chöling in Dharamsala, Kangra District, Himachal Pradesh, India, on the first day of the eleventh month of the Iron Snake year of the seventeenth Tibetan sexagenary cycle, corresponding to December 15, 2001, which is 2545 years after the passing of the Teacher of the Theravāda tradition, may it be virtuous. ^1-1-1

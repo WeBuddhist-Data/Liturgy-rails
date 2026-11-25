@@ -49,7 +49,7 @@ toc_id: TON9mn0rAzzv4lDVMIbsT
 Mañjuśrī, subduer of the demon-enemy,
 I explain the secret pith instruction to repel the demon.
 Externally, do not let what appears hold power over you;
-Internally, the waves of conceptual thought are turbulent. ^1
+Internally, the waves of conceptual thought are turbulent. ^0-1
 
 > ཆོས་ཀྱི་ལམ་དང་ཆེར་འགལ་བ། །
 > དབང་མེད་རྒྱུ་བ་བདུད་ཀྱི་རྟགས། །
@@ -59,7 +59,7 @@ Internally, the waves of conceptual thought are turbulent. ^1
 Whatever greatly contradicts the path of Dharma,
 Moving without control, is the sign of a demon.
 Once recognized, strive to repel it;
-At the crown of the head, all refuges are gathered. ^2
+At the crown of the head, all refuges are gathered. ^0-2
 
 > བླ་མ་ཡི་དམ་དབྱེར་མེད་བསྒོམ། །
 > ཚོགས་བསགས་གསོལ་བཏབ་ཐུགས་ཡིད་བསྲེ། །
@@ -69,7 +69,7 @@ At the crown of the head, all refuges are gathered. ^2
 Meditate on the Guru and Yidam as inseparable;
 Accumulate merit, pray, and mingle your mind with theirs.
 At the heart, upon a moon and vajra,
-The seed-syllable and mantra rays of light— ^3
+The seed-syllable and mantra rays of light— ^0-3
 
 > ཡེ་ཤེས་མེ་འབར་རང་ལུས་བསྲེག །
 > སྟོང་པར་བསམས་ལ་དེའི་ངང་ལས། །
@@ -79,7 +79,7 @@ The seed-syllable and mantra rays of light— ^3
 The fire of primordial wisdom blazes, burning your own body;
 Contemplate emptiness, and from that state,
 Meditate on yourself as the Yidam deity;
-View all of existence as like an illusion. ^4
+View all of existence as like an illusion. ^0-4
 
 > ཀུན་ལ་མཉམ་པའི་བྱམས་པ་ཡིས། །
 > ཀུན་ཁྱབ་འོད་ཟེར་དཀར་པོའི་ཚུལ། །
@@ -89,7 +89,7 @@ View all of existence as like an illusion. ^4
 With love that is equal toward all,
 In the manner of all-pervading white light rays,
 Imagine all beings possess supreme happiness;
-Everything is the dynamic energy of one's own mind, rigpa. ^5
+Everything is the dynamic energy of one's own mind, rigpa. ^0-5
 
 > རིག་པ་མ་བཅོས་གཉུག་མ་ལ། །
 > བཟོ་བཅོས་རྒྱུ་རྐྱེན་མཐའ་དབུས་བྲལ། །
@@ -99,14 +99,14 @@ Everything is the dynamic energy of one's own mind, rigpa. ^5
 Rest in the unaltered, innate rigpa,
 Free from fabrication, causes, conditions, center, or edge.
 In the state of fresh, empty, and lucid non-grasping,
-Remain in a manner free from negation or affirmation. ^6
+Remain in a manner free from negation or affirmation. ^0-6
 
 > བར་ཆད་བདུད་ལས་རྣམ་རྒྱལ་ཞིང་། །
 > མཆོག་ཐུན་དངོས་གྲུབ་འགྲུབ་པར་འགྱུར། །
 
 Be completely victorious over the maras of obstacles,
-And you shall attain the supreme and common accomplishments. ^7
+And you shall attain the supreme and common accomplishments. ^0-7
 
 > ས་མ་ཡ༔ སྔར་རྫོང་གསར་སྐོར་ཞིག་ཏུ་ཟླ་བ་བཅུ་གཅིག་པའི་ཚེས་བརྒྱད་ལའོ།
 
-Samaya. Written on the eighth day of the eleventh month at the old Dzongsar monastery. ^8
+Samaya. Written on the eighth day of the eleventh month at the old Dzongsar monastery. ^1-1

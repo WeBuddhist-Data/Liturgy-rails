@@ -57,7 +57,7 @@ The local deities and lords of the soil who dwell and roam here and there,
 And in particular, the Five Long-Life Sisters and the host of Tenma goddesses,
 The nine gods of existence, the soul-gods of the lords, and so forth,
 All you powerful protectors and guardians of Tibet, with your retinues,
-I call out with longing: please come here and take your seats as guests. ^1
+I call out with longing: please come here and take your seats as guests. ^0-1
 
 > རྫས་སྔགས་ཏིང་འཛིན་རོལ་བ་ལས་བྱུང་བའི། །
 > དཀར་གསུམ་མངར་གསུམ་ཕྱེ་མར་ཆང་ཕུད་སོགས། །
@@ -75,7 +75,7 @@ And collections of precious silks, weapons, and offerings,
 Together with the incense-offering that clears away all impurities and faults,
 With a heart full of affection and holding your status high,
 I supplicate and offer; please be pleased and fulfill your pledges,
-And whatever faults I have committed through heedlessness and laziness, I confess. ^2
+And whatever faults I have committed through heedlessness and laziness, I confess. ^0-2
 
 > ཡང་དག་ལྟ་དང་གཞན་ཕན་བྱང་ཆུབ་སེམས། །
 > ཐུབ་པའི་བཀའ་ལུང་བསླུ་བ་མེད་པའི་མཐུས། །
@@ -93,7 +93,7 @@ Have their malicious and cruel thoughts completely pacified;
 May they swiftly gain the eye of wisdom that discerns what to adopt and what to reject,
 And with the darkness of the age’s decline entirely cleared away,
 The glory of the pure light of freedom in Dharma and politics
-Will surely dawn; do not be discouraged, you who hold the pledge. ^3
+Will surely dawn; do not be discouraged, you who hold the pledge. ^0-3
 
 > སྔོན་ཚེ་སློབ་དཔོན་མཚོ་སྐྱེས་རྡོ་རྗེ་དང་། །
 > རྒྱལ་བློན་སེམས་དཔའ་དུ་མས་བཀའ་བསྒོས་ཤིང་། །
@@ -111,7 +111,7 @@ Supplicate and urge you with intense and fervent longing;
 Mobilize the force of your respective might, power, and strength,
 And in our land, the Land of Snows, the glory of happiness and well-being,
 And all the four enlightened activities that blossom swiftly,
-Accomplish them now without delay! ^4
+Accomplish them now without delay! ^0-4
 
 > ལྷག་པར་གངས་ཅན་མགོན་པོ་དང་། །
 > བསྟན་འཛིན་དམ་པའི་སྐུ་ཚེ་སྲིངས། །
@@ -121,8 +121,8 @@ Accomplish them now without delay! ^4
 Especially for the Protector of the Land of Snows,
 Extend the lives of the holy upholders of the teachings,
 Increase the happiness of the teachings and beings as vast as space,
-And grant that all aspirations be spontaneously fulfilled. ^5
+And grant that all aspirations be spontaneously fulfilled. ^0-5
 
 > ཅེས་པ་འདི་ནི་༸རྒྱལ་དབང་༸སྐུ་ཕྲེང་བཅུ་བཞི་པ་ཆེན་པོས་བོད་རྒྱལ་ལོ་ ༢༡༠༠ ཆུ་གླང་ ཟླ་ ༡ ཚེས་ ༡ ཕྱི་ལོ་ ༡༩༧༣ ཟླ་ ༣ ཚེས་ ༥ ལ་མཛད་པའོ། །
 
-This was composed by the Fourteenth Dalai Lama on the first day of the first month of the Tibetan Royal Year 2100, the Water-Ox year, corresponding to March 5, 1973. ^6
+This was composed by the Fourteenth Dalai Lama on the first day of the first month of the Tibetan Royal Year 2100, the Water-Ox year, corresponding to March 5, 1973. ^1-1-1

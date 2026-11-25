@@ -49,7 +49,7 @@ toc_id: Jbj4xY5GBM1t58pOWQ7yF
 Upon a lotus and moon seat at the crown of my head,
 The great treasure of compassion, Mother of the Victors, Tārā,
 And my kind root guru, inseparable,
-Possess a white and red complexion, radiant with the marks and signs. ^1
+Possess a white and red complexion, radiant with the marks and signs. ^0-1
 
 > ཕྱག་གཡས་ཆོས་འཆད་རྡོ་རྗེ་པད་དཀར་དང་། །
 > གཡོན་པས་དྲིལ་བུ་དང་བཅས་པདྨ་དཀར། །
@@ -59,7 +59,7 @@ Possess a white and red complexion, radiant with the marks and signs. ^1
 The right hand holds a vajra and white lotus in the gesture of teaching,
 The left holds a bell together with a white lotus,
 A water-born flower blossoming at the level of the ear,
-Wearing the three Dharma robes, adorned with a golden pandita hat. ^2
+Wearing the three Dharma robes, adorned with a golden pandita hat. ^0-2
 
 > རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་འོད་གུར་དབུས་ན་བཞུགས། །
 > ཐུགས་ཀར་ལྷག་པའི་ལྷ་མོ་མར་གད་མདོག །
@@ -69,7 +69,7 @@ Wearing the three Dharma robes, adorned with a golden pandita hat. ^2
 Seated in the vajra posture within a sphere of light,
 At the heart is the supreme goddess, emerald in color,
 Right hand in the gesture of supreme generosity, the left holding an utpala,
-Grasping at the heart the mudrā symbolizing the Three Jewels. ^3
+Grasping at the heart the mudrā symbolizing the Three Jewels. ^0-3
 
 > དར་དང་རིན་ཆེན་རྒྱན་གྱིས་མཛེས་པར་ཀླུབས། །
 > གཡས་བརྐྱངས་གཡོན་བསྐུམས་འོད་གུར་དབུས་བཞུགས་པའི། །
@@ -79,7 +79,7 @@ Grasping at the heart the mudrā symbolizing the Three Jewels. ^3
 Beautifully draped in silks and adorned with jewel ornaments,
 Sitting in the posture of right leg extended and left drawn in within a sphere of light,
 At the heart, a green syllable Tāṃ blazes with light,
-Becoming the embodiment of the three sattvas. ^4
+Becoming the embodiment of the three sattvas. ^0-4
 
 > གནས་ལྔར་ཨོཾ་ཨཱཿ་ཧཱུྃ་དང་སྭཱ་ཧཱས་མཚན། །
 > སྣང་སྟོང་ཡེ་ཤེས་རང་སྣང་རིག་རྩལ་གསལ། །
@@ -89,7 +89,7 @@ Becoming the embodiment of the three sattvas. ^4
 Marked at the five places with OṂ, ĀḤ, HŪṂ, and SVĀHĀ,
 The wisdom of appearance and emptiness, the self-manifesting radiance of awareness, is clear.
 By the light from the heart, all sources of refuge without exception
-Are invited and dissolve, becoming the embodiment of all. ^5
+Are invited and dissolve, becoming the embodiment of all. ^0-5
 
 > སྤྱི་གཙུག་ནོར་བུར་བྱང་ཆུབ་བར་དུ་བཞུགས། །
 > སྒོ་གསུམ་གུས་པའི་ཡིད་ཀྱིས་ཕྱག་འཚལ་ལོ། །
@@ -99,7 +99,7 @@ Are invited and dissolve, becoming the embodiment of all. ^5
 Dwell upon the crown of my head until enlightenment is reached.
 I prostrate with a mind of devotion through my three doors.
 I offer every offering, both actually arranged and mentally emanated.
-I confess all sins and downfalls accumulated since beginningless time. ^6
+I confess all sins and downfalls accumulated since beginningless time. ^0-6
 
 > སྐྱེ་འཕགས་དགེ་བ་ཀུན་ལ་རྗེས་ཡི་རང་། །
 > ཟབ་ཅིང་རྒྱ་ཆེའི་ཆོས་འཁོར་བསྐོར་དུ་གསོལ། །
@@ -109,7 +109,7 @@ I confess all sins and downfalls accumulated since beginningless time. ^6
 I rejoice in all the virtues of ordinary and noble beings.
 Please turn the wheel of the profound and vast Dharma.
 I dedicate the virtue of myself and others toward great enlightenment.
-At the heart, around the concentration being, ^7
+At the heart, around the concentration being, ^0-7
 
 > ཡི་གེ་བཅུ་པའི་སྔགས་ཀྱིས་བསྐོར་བར་གྱུར། །( བར་བསམས་ལ།)ཨོཾ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་སྭཱཧཱ། (ཅི་ནུས་བཟླས་མཐར། གསོལ་འདེབས་ཀྱི་ཚུལ་དུ་བླ་མའི་མཚན་སྔགས་བརྒྱའམ་ཉེར་གཅིག་རེ་བཟླ།)
 > གདུང་ཤུགས་དྲག་པོས་གསོལ་བ་བཏབ་པའི་མཐུས། །
@@ -119,7 +119,7 @@ At the heart, around the concentration being, ^7
 It becomes surrounded by the ten-syllable mantra. (Contemplating this:) OṂ TĀRE TUTTĀRE TURE SVĀHĀ. (After reciting as much as one is able, recite the guru’s name-mantra one hundred or twenty-one times in the manner of a supplication.)
 By the power of supplicating with intense, heartfelt longing,
 Light rays from the guru’s body, speech, and mind,
-White, red, and blue, dissolve into my own three places. ^8
+White, red, and blue, dissolve into my own three places. ^0-8
 
 > སྡིག་སྒྲིབ་ཀུན་སྦྱངས་བུམ་གསང་ཤེར་དབང་ཐོབ། །
 > སླར་ཡང་སྭཱཧཱ་གཉིས་ལས་སྣ་ཚོགས་འོད། །
@@ -129,7 +129,7 @@ White, red, and blue, dissolve into my own three places. ^8
 Purifying all sins and obscurations, I receive the vase, secret, and wisdom empowerments.
 Once again, from the two SVĀHĀs, multicolored light
 Radiates and dissolves into my own five places,
-Whereby the four empowerments are obtained and the capacity to achieve the four kāyas is established. ^9
+Whereby the four empowerments are obtained and the capacity to achieve the four kāyas is established. ^0-9
 
 > དཔལ་ལྡན་རྩ་བའི་བླ་མ་རིན་པོ་ཆེ། །
 > བདག་གི་སྙིང་གར་པདྨོའི་སྟེང་བཞུགས་ལ། །
@@ -139,8 +139,8 @@ Whereby the four empowerments are obtained and the capacity to achieve the four 
 Glorious and precious root guru,
 Please reside upon the lotus in my heart,
 Having cared for me through your great kindness,
-Please grant the accomplishments of your body, speech, and mind. ^10
+Please grant the accomplishments of your body, speech, and mind. ^0-10
 
 > ཞེས་དབང་བཞི་ལེན་པ་དང༌། །སྙིང་ཞུགས་ཀྱི་དམིགས་པ་རྣམས་བྱ། བླ་མའི་རྣལ་འབྱོར་འདི་ནི་ལམ་གྱི་སྲོག་ཤིང་ངམ། ཐར་པར་བགྲོད་པའི་ཐེམ་སྐས་ལྟ་བུ་མེད་དུ་མི་རུང་བ་ཡིན་ཞིང༌། བྱིན་རླབས་དང་དངོས་གྲུབ་ཐམས་ཅད་བླ་མ་ལ་བརྟེན་ནས་འབྱུང་བས་ངེས་པར་ཉམས་སུ་བླང་བར་བྱའོ།། །།
 
-Thus, take the four empowerments and perform the visualizations of the guru entering your heart. This Guru Yoga is the life-force of the path and an indispensable ladder for traversing to liberation; since all blessings and accomplishments arise in dependence upon the guru, it must certainly be practiced. ^11
+Thus, take the four empowerments and perform the visualizations of the guru entering your heart. This Guru Yoga is the life-force of the path and an indispensable ladder for traversing to liberation; since all blessings and accomplishments arise in dependence upon the guru, it must certainly be practiced. ^1-1

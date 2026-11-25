@@ -49,7 +49,7 @@ toc_id: YLNRKoZGGCig0P91yHgwc
 Protector Amitābha of the realm of Sukhāvatī,
 Look upon me with your deep blue eyes of love.
 Show me your moon-like face, joyful and smiling,
-Bestow upon me the feast of the nectar of blessings. ^1
+Bestow upon me the feast of the nectar of blessings. ^0-1
 
 > ཚེ་མཇུག་དབུགས་ཐག་ཆད་པར་ཉེ་བའི་ཚེ།།
 > མཚན་དཔེ་རྒྱན་ལྡན་ཁྱོད་སྐུ་བདག་དྲུང་དུ།།
@@ -59,7 +59,7 @@ Bestow upon me the feast of the nectar of blessings. ^1
 When the end of life approaches and the breath is about to cease,
 May you, adorned with the major and minor marks, appear before me,
 And having manifested in person, may you say to me,
-"Do not cling to this life, come to my realm." ^2
+"Do not cling to this life, come to my realm." ^0-2
 
 > རང་ལུས་རྩ་རྣམས་ལྷོད་ཅིང་སོ་དྲེགས་ཆགས།།
 > སྨིག་རྒྱུ་འདྲ་བའི་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -69,7 +69,7 @@ And having manifested in person, may you say to me,
 When the channels of my body relax and grime gathers on my teeth,
 And experiences such as a mirage-like appearance arise,
 When the sign of the earth element dissolving into water occurs,
-Do not be afraid, do not be terrified, speak to me, Amitābha. ^3
+Do not be afraid, do not be terrified, speak to me, Amitābha. ^0-3
 
 > ཁ་སྣ་བརྫེས་ཤིང་ལྕེ་ཐུང་ཤེས་པ་ཚུལ།།
 > དུ་བ་ལྟ་བུའི་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -79,7 +79,7 @@ Do not be afraid, do not be terrified, speak to me, Amitābha. ^3
 When the nose and mouth are drawn and the tongue shortens,
 And experiences such as a smoke-like appearance arise,
 When the sign of the water element dissolving into fire occurs,
-Show your face and grant comfort to my soul, Amitābha. ^4
+Show your face and grant comfort to my soul, Amitābha. ^0-4
 
 > དྲོད་སྡུད་མདངས་ཤོར་ཤིག་འབྲོས་རླངས་པ་འཕྲོ།།
 > སྲིན་བུ་མེ་ཁྱེར་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -89,7 +89,7 @@ Show your face and grant comfort to my soul, Amitābha. ^4
 When warmth, complexion, and vitality fade and vapor escapes,
 And experiences such as fireflies arise,
 When the sign of the fire element dissolving into wind occurs,
-Resound with the clear melody of the Dharma, Amitābha. ^5
+Resound with the clear melody of the Dharma, Amitābha. ^0-5
 
 > ལུས་ནི་ཤིགས་སེ་འཐོར་ཞིང་དབུགས་ཐག་ཆད།།
 > མར་མེ་ལྟ་བུའི་ཉམས་སྣང་འཆར་བ་སོགས།།
@@ -99,7 +99,7 @@ Resound with the clear melody of the Dharma, Amitābha. ^5
 The body scatters and dissolves, and the breath ceases,
 And experiences such as a lamp-like appearance arise,
 When the sign of the wind element dissolving into consciousness occurs,
-Welcome me with joy, Amitābha. ^6
+Welcome me with joy, Amitābha. ^0-6
 
 > དེ་ཚེ་ཁྱོད་ཐུགས་འོད་ཟེར་ལྕགས་ཀྱུའི་རྩེ།།
 > སྤྱི་གཙུག་ཚངས་བའི་བུ་གར་རབ་ཟུག་སྟེ།།
@@ -109,7 +109,7 @@ Welcome me with joy, Amitābha. ^6
 At that moment, the light rays from your heart, the tips of iron hooks,
 Pierce deeply into the Brahma-aperture at the crown of my head,
 Drawing my consciousness upward through the path of the central channel,
-To be placed within the hollow of a lotus in Sukhāvatī. ^7
+To be placed within the hollow of a lotus in Sukhāvatī. ^0-7
 
 > སྐད་ཅིག་དེ་རུ་ལུས་ཀྱི་སྐྱེ་མཆེད་རྫོགས།།
 > ཐེག་ཆེན་རིགས་ཅན་ལྟ་བུའི་ལུས་བླངས་ཏེ།།
@@ -119,8 +119,8 @@ To be placed within the hollow of a lotus in Sukhāvatī. ^7
 In that instant, the sense bases of the body are perfected,
 Assuming a form like those of the Mahāyāna lineage,
 I shall behold your face and receive your teachings,
-May I attain the irreversible awakening. ^8
+May I attain the irreversible awakening. ^0-8
 
 > ཅེས་དམིགས་པ་གསལ་བའི་སྒོ་ནས་འོད་དཔག་མེད་པའི་མཚན་ཐུབ་ཚོད་དུ་བཟླ་ཞིང་བཟང་སྤྱོད་སྨོན་ལམ་གྱིས་རྒྱས་གདབ་པོ།།ཞེས་པ་འདི་ནི་འཁོར་ལོ་སྣ་ཁའི་དགེ་བསྙེན་མ་ཤེས་རབ་སྒྲོལ་མས་ནན་ཆེར་བསྐུལ་ངོར།། ཚེ་ཏན་ཞབས་དྲུང་འཇིགས་མེད་རིགས་པའི་བློ་གྲོས་ཀྱིས་མདོར་བསྡུས་ཁ་གསལ་དུ་བྲིས་པའོ། །
 
-Thus, by means of clear visualization, recite the name of Amitābha as much as you are able, and seal it with the Prayer of Good Actions. This was written in a concise and clear manner by Tseten Zhabdrung Jikme Rikpe Lodro, at the earnest request of the laywoman Sherab Drolma of Khorlo Nakha. ^9
+Thus, by means of clear visualization, recite the name of Amitābha as much as you are able, and seal it with the Prayer of Good Actions. This was written in a concise and clear manner by Tseten Zhabdrung Jikme Rikpe Lodro, at the earnest request of the laywoman Sherab Drolma of Khorlo Nakha. ^1-1-1

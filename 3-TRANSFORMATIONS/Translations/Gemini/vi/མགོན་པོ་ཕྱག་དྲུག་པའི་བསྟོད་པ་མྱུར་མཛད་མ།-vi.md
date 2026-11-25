@@ -55,7 +55,7 @@ toc_id: GoxgIAqfk7g8VItAJOI6L
 Kính đỉnh lễ Đức Quán Thế Âm Tốc Hành!
 Chân đeo vòng ngọc giẫm đạp Tỳ-na-dạ-ca,
 Đại Hắc Thiên oai phong khoác xiêm y da hổ,
-Sáu cánh tay trang nghiêm bằng chuỗi ngọc linh xà. ^1
+Sáu cánh tay trang nghiêm bằng chuỗi ngọc linh xà. ^0-1
 
 > གཡས་པ་གྲི་གུག་བར་བས་འཕྲེང་བ་འཛིན། །
 > ཐ་མ་ཌཱ་མ་རུ་ནི་དྲག་ཏུ་འཁྲོལ། །
@@ -65,7 +65,7 @@ Sáu cánh tay trang nghiêm bằng chuỗi ngọc linh xà. ^1
 Tay phải vung nguyệt đao, tay giữa cầm tràng hạt,
 Tay dưới gõ vang dội tiếng trống damaru,
 Tay trái cầm bát sọ và ngọn giáo ba chĩa,
-Cũng như vung thòng lọng trói buộc mọi oán thù. ^2
+Cũng như vung thòng lọng trói buộc mọi oán thù. ^0-2
 
 > དྲག་པོའི་ཞལ་ནི་མཆེ་བ་རྣམ་པར་གཙིགས། །
 > སྤྱན་གསུམ་དྲག་པོ་དབུ་སྐྲ་གྱེན་དུ་འབར། །
@@ -75,7 +75,7 @@ Cũng như vung thòng lọng trói buộc mọi oán thù. ^2
 Khuôn mặt hung phẫn nhe hàm nanh sắc nhọn,
 Ba mắt oai nộ, mái tóc rực lửa dựng ngược,
 Giữa trán điểm tô vệt phấn sindura thiêng liêng,
-Đỉnh đầu được ấn chứng kiên cố bởi Đức Phật A Súc Bệ. ^3
+Đỉnh đầu được ấn chứng kiên cố bởi Đức Phật A Súc Bệ. ^0-3
 
 > ཁྲག་འཛག་མི་མགོ་ལྔ་བཅུའི་དོ་ཤལ་ཅན། །
 > རིན་ཆེན་ཐོད་སྐམ་ལྔ་ཡིས་དབུ་ལ་བརྒྱན། །
@@ -85,7 +85,7 @@ Giữa trán điểm tô vệt phấn sindura thiêng liêng,
 Cổ đeo chuỗi vòng năm mươi thủ cấp rỏ máu,
 Đầu trang nghiêm vương miện năm chiếc sọ khô báu,
 Ngài hiện ra từ cội cây thọ nhận phẩm vật torma,
-Con xin kính đỉnh lễ và tán thán Đức Lục Tý vinh quang! ^4
+Con xin kính đỉnh lễ và tán thán Đức Lục Tý vinh quang! ^0-4
 
 > སངས་རྒྱས་བསྟན་པ་གཉན་པོ་བསྲུང་བ་དང་། །
 > དཀོན་མཆོག་དབུ་འཕང་གཉན་པོ་བསྟོད་པ་དང་། །
@@ -97,8 +97,8 @@ Xin Ngài bảo hộ giáo pháp thiêng liêng của Đức Phật,
 Cùng tán dương uy đức cao tột của ngôi Tam Bảo,
 Xin cho chúng con gồm đạo sư, đệ tử và quyến thuộc,
 Được tiêu trừ tất cả mọi ác duyên cùng chướng ngại,
-Cúi xin Ngài mau chóng ban mọi thành tựu như ý nguyện! ^5
+Cúi xin Ngài mau chóng ban mọi thành tựu như ý nguyện! ^0-5
 
 > དཔལ་ལྡན་ཤ་ཝ་རི་དབང་ཕྱུག་གིས་མགོན་པོ་ཞལ་གཟིགས་དུས་མཛད་པའོ།།
 
-Lời nguyện này được Đại sư Shavaripa vinh quang soạn khi ngài chiêm kiến dung nhan Đấng Hộ Pháp. ^6
+Lời nguyện này được Đại sư Shavaripa vinh quang soạn khi ngài chiêm kiến dung nhan Đấng Hộ Pháp. ^1-1-1

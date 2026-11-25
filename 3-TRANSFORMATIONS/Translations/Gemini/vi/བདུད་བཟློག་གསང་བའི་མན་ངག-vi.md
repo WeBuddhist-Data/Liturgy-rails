@@ -55,7 +55,7 @@ toc_id: Ae7jqZnnotqovfP5Dfv3M
 Kính lễ Đức Văn Thù, Đấng nhiếp phục ma oán.
 Nay tuyên thuyết khẩu quyết bí mật xua tan ma chướng.
 Bên ngoài, mọi hiển bày không thể tự chủ,
-Bên trong, những cơn sóng thế tục cuộn trào dâng. ^1
+Bên trong, những cơn sóng thế tục cuộn trào dâng. ^0-1
 
 > ཆོས་ཀྱི་ལམ་དང་ཆེར་འགལ་བ། །
 > དབང་མེད་རྒྱུ་བ་བདུད་ཀྱི་རྟགས། །
@@ -65,7 +65,7 @@ Bên trong, những cơn sóng thế tục cuộn trào dâng. ^1
 Trái ngược hoàn toàn với con đường của Pháp,
 Lang bạt vô định chính là dấu hiệu của ma.
 Thấu tỏ điều này, hãy tinh tấn xua tan.
-Nơi đỉnh đầu, hiện thân quy tụ của Tam Bảo, ^2
+Nơi đỉnh đầu, hiện thân quy tụ của Tam Bảo, ^0-2
 
 > བླ་མ་ཡི་དམ་དབྱེར་མེད་བསྒོམ། །
 > ཚོགས་བསགས་གསོལ་བཏབ་ཐུགས་ཡིད་བསྲེ། །
@@ -75,7 +75,7 @@ Nơi đỉnh đầu, hiện thân quy tụ của Tam Bảo, ^2
 Hãy quán tưởng Đạo sư và Bổn tôn bất nhị.
 Tích luỹ công đức, cầu nguyện và hoà nhập tâm mình.
 Nơi luân xa tim, trên đĩa mặt trăng và chày kim cang,
-Những tia sáng của chủng tự và chân ngôn, ^3
+Những tia sáng của chủng tự và chân ngôn, ^0-3
 
 > ཡེ་ཤེས་མེ་འབར་རང་ལུས་བསྲེག །
 > སྟོང་པར་བསམས་ལ་དེའི་ངང་ལས། །
@@ -85,7 +85,7 @@ Những tia sáng của chủng tự và chân ngôn, ^3
 Bùng cháy như lửa trí tuệ thiêu rụi thân mình.
 Quán tưởng tánh không, và từ trong trạng thái ấy,
 Hãy quán tưởng bản thân mình chính là Bổn tôn.
-Nhìn thế giới hiện hữu như một ảo ảnh, ^4
+Nhìn thế giới hiện hữu như một ảo ảnh, ^0-4
 
 > ཀུན་ལ་མཉམ་པའི་བྱམས་པ་ཡིས། །
 > ཀུན་ཁྱབ་འོད་ཟེར་དཀར་པོའི་ཚུལ། །
@@ -95,7 +95,7 @@ Nhìn thế giới hiện hữu như một ảo ảnh, ^4
 Với tâm Di Lặc bình đẳng hướng đến muôn loài,
 Dưới hình tướng những tia sáng trắng toả khắp muôn nơi,
 Hãy quán tưởng tất cả thọ hưởng đại lạc vô thượng.
-Tất thảy đều là diệu dụng tánh giác của tự tâm. ^5
+Tất thảy đều là diệu dụng tánh giác của tự tâm. ^0-5
 
 > རིག་པ་མ་བཅོས་གཉུག་མ་ལ། །
 > བཟོ་བཅོས་རྒྱུ་རྐྱེན་མཐའ་དབུས་བྲལ། །
@@ -105,14 +105,14 @@ Tất thảy đều là diệu dụng tánh giác của tự tâm. ^5
 Trong tánh giác bản lai hoàn toàn không tạo tác,
 Thoát ly giả lập, nhân duyên, biên kiến và trung đạo,
 Trong trạng thái tánh không quang minh, tươi mới và vô chấp,
-An trụ xa lìa mọi sự phủ nhận và khẳng định. ^6
+An trụ xa lìa mọi sự phủ nhận và khẳng định. ^0-6
 
 > བར་ཆད་བདུད་ལས་རྣམ་རྒྱལ་ཞིང་། །
 > མཆོག་ཐུན་དངོས་གྲུབ་འགྲུབ་པར་འགྱུར། །
 
 Sẽ hoàn toàn chiến thắng mọi ma vương và chướng ngại,
-Và viên mãn những thành tựu chung và thù thắng. ^7
+Và viên mãn những thành tựu chung và thù thắng. ^0-7
 
 > ས་མ་ཡ༔ སྔར་རྫོང་གསར་སྐོར་ཞིག་ཏུ་ཟླ་བ་བཅུ་གཅིག་པའི་ཚེས་བརྒྱད་ལའོ།
 
-Samaya! Viết vào ngày mùng tám tháng mười một, trong một chuyến đi đến Dzongsar trước đây. ^8
+Samaya! Viết vào ngày mùng tám tháng mười một, trong một chuyến đi đến Dzongsar trước đây. ^1-1

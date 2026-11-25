@@ -49,7 +49,7 @@ toc_id: fVf8BxQmrcbnRwvyVCzpJ
 Emaho! Dharmakāya Samantabhadra, the sixth, Vajradhara;
 The teacher Vajrasattva and the Blessed One, King of the Śākyas;
 The protector Amitāyus and Avalokiteśvara;
-To the inseparable Padmākara, I pray. ^1
+To the inseparable Padmākara, I pray. ^0-1
 
 > སྐུ་ཡི་བདག་ཉིད་འཇམ་དཔལ་གཤིན་རྗེའི་གཤེད༔
 > གསུང་གི་བདག་ཉིད་དབང་ཆེན་རྟ་སྐད་འཚེར༔
@@ -59,7 +59,7 @@ To the inseparable Padmākara, I pray. ^1
 The embodiment of the Body is Mañjuśrī Yamāntaka;
 The embodiment of the Speech is the Great Powerful One, Hayagrīva, who neighs;
 The embodiment of the Mind is Viśuddha Heruka;
-To the Guru, the Wish-Fulfilling Jewel, I pray. ^2
+To the Guru, the Wish-Fulfilling Jewel, I pray. ^0-2
 
 > ཡོན་ཏན་ཟིལ་གནོན་ཆེ་མཆོག་ཧེ་རུ་ཀ༔
 > ཕྲིན་ལས་བདག་ཉིད་རྡོ་རྗེ་གཞོན་ནུའི་སྐུ༔
@@ -69,7 +69,7 @@ To the Guru, the Wish-Fulfilling Jewel, I pray. ^2
 The overwhelming splendor of enlightened qualities, Chemchok Heruka;
 The embodiment of enlightened activity, the form of Vajrakumāra;
 The sovereign of the ḍākinīs and mamos, Ngöndzok Gyalpo;
-To the Great Glorious Thötreng Tsal, I pray. ^3
+To the Great Glorious Thötreng Tsal, I pray. ^0-3
 
 > སྐུ་ཡི་དབྱིངས་སུ་སྒྱུ་འཕྲུལ་ཞི་ཁྲོའི་ངང་༔
 > གསུང་གི་གདངས་སྐད་ཡན་ལག་བཅུ་གཉིས་ལྡན༔
@@ -79,7 +79,7 @@ To the Great Glorious Thötreng Tsal, I pray. ^3
 Within the expanse of your body is the illusory display of peaceful and wrathful deities;
 The resonance of your speech possesses the twelve branches of melody;
 The realization of your mind is unimpeded and all-pervading;
-To the Lord, the chief of the ḍākinīs, I pray. ^4
+To the Lord, the chief of the ḍākinīs, I pray. ^0-4
 
 > སྐུ་ཚབ་ལུང་བསྟན་གསུང་ཚབ་གཏེར་དུ་སྦས༔
 > ཐུགས་ཀྱི་དགོངས་པ་ལས་ཅན་བུ་ལ་གཏད༔
@@ -89,7 +89,7 @@ To the Lord, the chief of the ḍākinīs, I pray. ^4
 You prophesied representatives of your form and concealed representatives of your speech as treasures;
 You entrusted the realization of your mind to your fortunate children;
 You left your loving testament for all the people of Tibet;
-To the most gracious emanation body, I pray. ^5
+To the most gracious emanation body, I pray. ^0-5
 
 > བཀའ་དྲིན་དྲན་ནོ་གུ་རུ་རིན་པོ་ཆེ༔
 > ཐུགས་དམ་ཞལ་བཞེས་དགོངས་པས་བཟུང་དུ་གསོལ༔
@@ -99,7 +99,7 @@ To the most gracious emanation body, I pray. ^5
 I remember your kindness, Guru Rinpoche;
 Please hold me in your heart, mindful of your sacred vows and promises.
 In these degenerate times, I have no other hope or reliance;
-Look upon me with compassion, O Tulku of Orgyen! ^6
+Look upon me with compassion, O Tulku of Orgyen! ^0-6
 
 > མཐུ་རྩལ་ནུས་པས་དུས་ངན་གཡོ་འཁྲུགས་ཟློག༔
 > བྱིན་རླབས་ཡེ་ཤེས་དབང་ཆེན་བསྐུར་དུ་གསོལ༔
@@ -111,8 +111,8 @@ With your power, skill, and capacity, avert the turbulent upheavals of this dark
 Please bestow your blessings and the great empowerment of primordial wisdom;
 Increase the dynamic strength of my meditative experience and realization,
 And, possessing the great power to benefit the teachings and sentient beings,
-Please grant that I may attain buddhahood in this single lifetime. ^7
+Please grant that I may attain buddhahood in this single lifetime. ^0-7
 
 > སྤྲུལ་པའི་གཏེར་ཆེན་མཆོག་གྱུར་གླིང་པས་ཀརྨའི་དམ་ཅན་བྲག་ནས་སྤྱན་དྲངས་པའི་ཨོ་རྒྱན་རིན་པོ་ཆེའི་རྣམ་ཐར་ལས་བྱུང་བའི་ཞལ་ཆེམས་གསོལ་འདེབས་བྱིན་རླབས་ཅན་ནོ།། །།
 
-This is the prayer of the testament from the life story of Orgyen Rinpoche, which was retrieved from the Karma Damchen Rock by the supreme emanation and great treasure revealer, Chokgyur Lingpa; it is endowed with blessings. ^8
+This is the prayer of the testament from the life story of Orgyen Rinpoche, which was retrieved from the Karma Damchen Rock by the supreme emanation and great treasure revealer, Chokgyur Lingpa; it is endowed with blessings. ^1-1

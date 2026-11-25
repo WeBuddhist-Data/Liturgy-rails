@@ -55,7 +55,7 @@ toc_id: qkbyT8Gfh1FtQRNUHFjd0
 Thoạt tiên phát khởi Bồ-đề tâm tối thượng,
 Trong ba vô số kiếp tích luỹ tư lương,
 Cùng lúc nhiếp phục bốn ma quân chướng ngại,
-Đảnh lễ Thế Tôn đấng Sư Tử uy hùng. ^1
+Đảnh lễ Thế Tôn đấng Sư Tử uy hùng. ^0-1
 
 > རྩོད་པའི་དུས་མཛད་ཐུབ་པའི་དབང་པོ་ཡིས། །
 > རྒྱལ་པོའི་ཁབ་ནས་ཡངས་ཅན་ཀཽ་ཤཱམ་བཱི། །
@@ -65,7 +65,7 @@ Cùng lúc nhiếp phục bốn ma quân chướng ngại,
 Năng Nhân Vương giáng sinh thời kỳ tranh đấu,
 Từ thành Vương Xá đến Tỳ Xá Ly, Kiều Thưởng Di,
 Và Varkhyim cùng với núi Đại thừa Shiri,
-Đảnh lễ đấng thứ lớp quang lâm thành Xá Vệ. ^2
+Đảnh lễ đấng thứ lớp quang lâm thành Xá Vệ. ^0-2
 
 > གཉན་ཡོད་གནས་སུ་སྟོན་པར་མུ་སྟེགས་ཀྱི། །
 > སྟོན་པ་དྲུག་གིས་ཆོ་འཕྲུལ་འགྲན་པའི་ཚེ། །
@@ -75,7 +75,7 @@ Và Varkhyim cùng với núi Đại thừa Shiri,
 Tại Xá Vệ, khi bậc Đạo sư cùng ngoại đạo,
 Sáu đạo sư tà giáo thi thố thần thông,
 Trước sự chứng kiến của vô số đại chúng,
-Đảnh lễ đấng thị hiện thần biến diệu kỳ. ^3
+Đảnh lễ đấng thị hiện thần biến diệu kỳ. ^0-3
 
 > ཆོས་གཅིག་གསལ་རྒྱལ་གྱིས་ནི་མཆོད་པའི་ཚེ། །
 > ཚེམས་ཤིངས་ལ་གཙུག་པས་ལྗོན་ཤིང་སྐྱེས། །
@@ -85,7 +85,7 @@ Trước sự chứng kiến của vô số đại chúng,
 Ngày mùng một vua Ba Tư Nặc dâng cúng dường,
 Ngài cắm cành tăm liền mọc lên cây báu,
 Cành lá vươn rộng che phủ năm trăm do tuần,
-Đảnh lễ đấng ban hương vị thoả mãn chúng sinh. ^4
+Đảnh lễ đấng ban hương vị thoả mãn chúng sinh. ^0-4
 
 > ཚོས་གཉིས་ཨུ་ཏྲ་ཡ་ཎས་མཆོད་པའི་ཚེ། །
 > ཞབས་བསིལ་ཆུ་ལས་རིན་ཆེན་རྫིང་བུར་སྤྲུལ། །
@@ -95,7 +95,7 @@ Cành lá vươn rộng che phủ năm trăm do tuần,
 Ngày mùng hai vua Udayana dâng cúng dường,
 Nước rửa chân Ngài hoá hiện thành ao báu,
 Hào quang toả ra từ đoá hoa sen ngũ sắc,
-Đảnh lễ đấng ban hương thơm thoả mãn chúng sinh. ^5
+Đảnh lễ đấng ban hương thơm thoả mãn chúng sinh. ^0-5
 
 > ཚེས་གསུམ་ཤུན་ཙ་དྷ་ནས་མཆོད་པའི་ཚེ། །
 > གཡས་གཡོན་གཉིས་སུ་རིན་ཆེན་རི་གཉིས་སྤྲུལ། །
@@ -105,7 +105,7 @@ Hào quang toả ra từ đoá hoa sen ngũ sắc,
 Ngày mùng ba Shuntsadhana dâng cúng dường,
 Hai bên tả hữu hoá hiện hai ngọn núi báu,
 Trên đỉnh núi trổ sinh cỏ non và hoa trái,
-Đảnh lễ đấng làm thoả mãn người cùng súc sinh. ^6
+Đảnh lễ đấng làm thoả mãn người cùng súc sinh. ^0-6
 
 > ཚེས་བཞི་ཨིནྡྲ་བྷྲ་མས་མཆོད་པའི་ཚེ། །
 > ཕྱོགས་བཞིར་ཡུར་བ་བརྒྱད་ལྡན་རྫིང་བུར་སྤྲུལ། །
@@ -115,7 +115,7 @@ Trên đỉnh núi trổ sinh cỏ non và hoa trái,
 Ngày mùng bốn Indrabrahma dâng cúng dường,
 Ao báu hoá hiện bốn phương với tám dòng kênh,
 Tiếng nước reo thuyết minh Tứ vô lượng tâm,
-Đảnh lễ đấng ban truyền thanh âm diệu Pháp. ^7
+Đảnh lễ đấng ban truyền thanh âm diệu Pháp. ^0-7
 
 > ཚེས་ལྔ་ཚངས་སྦྱིན་གྱིས་ནི་མཆོདཔའི་ཚེ། །
 > ཞལ་གྱི་སྒོ་ནས་འོད་ཟེར་སྣ་ཚོགས་ཀྱི། །
@@ -125,7 +125,7 @@ Tiếng nước reo thuyết minh Tứ vô lượng tâm,
 Ngày mùng năm vua Phạm Ma Đạt dâng cúng dường,
 Từ kim dung Ngài phóng toả muôn đạo hào quang,
 Ánh sáng diệu kỳ chạm đến tất thảy hữu tình,
-Đảnh lễ đấng ban hỷ lạc ngập tràn thân tâm. ^8
+Đảnh lễ đấng ban hỷ lạc ngập tràn thân tâm. ^0-8
 
 > ཚེས་དྲུག་ལིང་ཙ་རྣམས་ཀྱིས་མཆོད་པའི་ཚེ། །
 > སྟོནཔའི་མཐུ་ཡིས་འཁོར་གྱི་སེམས་ཅན་རྣམས། །
@@ -135,7 +135,7 @@ Từ kim dung Ngài phóng toả muôn đạo hào quang,
 Ngày mùng sáu dòng Licchavi dâng cúng dường,
 Nhờ oai lực Đạo sư đại chúng hữu tình,
 Hết thảy đều hoan hỷ phát nguyện phát tâm,
-Đảnh lễ đấng được tán thán muôn công đức. ^9
+Đảnh lễ đấng được tán thán muôn công đức. ^0-9
 
 > ཚེས་བདུན་ཤཱཀྱ་རྣམས་ཀྱིས་མཆོད་པའི་ཚེ། །
 > སྟོན་པའི་མཐུ་ཡིས་འཁོར་གྱི་སེམས་ཅན་རྣམས། །
@@ -145,7 +145,7 @@ Hết thảy đều hoan hỷ phát nguyện phát tâm,
 Ngày mùng bảy dòng Thích Ca dâng cúng dường,
 Nhờ oai lực Đạo sư đại chúng hữu tình,
 Đều trở thành quốc vương đầy đủ Thất bảo,
-Đảnh lễ đấng làm cho tất thảy hỷ hoan. ^10
+Đảnh lễ đấng làm cho tất thảy hỷ hoan. ^0-10
 
 > ཚེས་བརྒྱད་བརྒྱ་བྱིན་གྱིས་ནི་མཆོད་པའི་ཚེ། །
 > སེང་གེའི་ཁྲི་ལགླང་ཆེན་ས་སྐད་བཏོན །
@@ -155,7 +155,7 @@ Nhờ oai lực Đạo sư đại chúng hữu tình,
 Ngày mùng tám vua Đế Thích dâng cúng dường,
 Từ toà sư tử vang lên tiếng voi rống,
 Hoá hiện năm La-sát và Kim Cang Thủ,
-Đảnh lễ đấng làm cho ngoại đạo kinh hoàng. ^11
+Đảnh lễ đấng làm cho ngoại đạo kinh hoàng. ^0-11
 
 > སླར་སྐུ་ཆེ་བའི་ཆོ་འཕྲུལ་བསྟན་པ་ནི༑ ༑
 > ཚེས་དགུ་ཚངས་པའི་རྒྱལ་པོས་མཆོད་པའི་ཚེ། །
@@ -167,7 +167,7 @@ Lại thị hiện thần thông thân tướng vĩ đại,
 Ngày mùng chín Phạm Thiên vương dâng cúng dường,
 Hoá hiện Kim thân trùm khắp cõi Phạm Thiên,
 Từ Kim thân phóng toả muôn đạo hào quang,
-Đảnh lễ đấng khiến tất thảy đều chiêm ngưỡng. ^12
+Đảnh lễ đấng khiến tất thảy đều chiêm ngưỡng. ^0-12
 
 > ཚེས་བཅུ་རྒྱལ་ཆེན་བཞི་ཡིས་མཆོད་པའི་ཚེ། །
 > སྲིད་རྩེའི་བར་དུ་ཁྱབ་པའི་སྐུ་སྤྲུལ་ནས། །
@@ -177,7 +177,7 @@ Từ Kim thân phóng toả muôn đạo hào quang,
 Ngày mùng mười Tứ Đại Thiên vương cúng dường,
 Hoá hiện Kim thân trùm khắp cõi Hữu đỉnh,
 Từ Kim thân phóng toả muôn sắc hào quang,
-Đảnh lễ đấng khiến thảy đều thấy và nghe. ^13
+Đảnh lễ đấng khiến thảy đều thấy và nghe. ^0-13
 
 > བཅུ་གཅིག་མགོན་མེད་ཟས་སྦྱིན་གྱིས་མཆོད་ཚེ། །
 > སྟོན་པ་སེང་གེའི་ཁྲི་ལ་བཞུགས་བཞིན་དུ། །
@@ -187,7 +187,7 @@ Từ Kim thân phóng toả muôn sắc hào quang,
 Ngày mười một Cấp Cô Độc dâng cúng dường,
 Đạo sư vẫn đang an toạ toà sư tử,
 Thân không hiện bóng mà hoá khối hào quang,
-Đảnh lễ đấng dùng thanh âm tuyên Diệu Pháp. ^14
+Đảnh lễ đấng dùng thanh âm tuyên Diệu Pháp. ^0-14
 
 > བཅུ་གཉིས་ཁྱིམ་བདག་ཙེ་རས་མཆོད་པའི་ཚེ། །
 > སྐུ་ཡི་འོད་ཀྱིས་སྟོང་གསུམ་བར་དུ་ཁྱབ། །
@@ -197,7 +197,7 @@ Thân không hiện bóng mà hoá khối hào quang,
 Ngày mười hai cư sĩ Tsera cúng dường,
 Hào quang Kim thân trùm khắp Tam thiên giới,
 Hoá hiện chư Phật an toạ trên toà sen,
-Đảnh lễ đấng hoá hiện vô vàn ứng thân. ^15
+Đảnh lễ đấng hoá hiện vô vàn ứng thân. ^0-15
 
 > བཅུ་གསུམ་རྒྱལ་པོ་ཤུན་ཙོས་མཆོད་པའི་ཚོ།
 > ལྟེ་བའི་འོད་ཀྱིས་སྟོང་གསུམ་བར་དུ་ཁྱབ། །
@@ -207,7 +207,7 @@ Hoá hiện chư Phật an toạ trên toà sen,
 Ngày mười ba vua Shuntsa dâng cúng dường,
 Hào quang rốn Ngài trùm khắp Tam thiên giới,
 Ai chạm hào quang đều tiêu trừ chướng ngại,
-Đảnh lễ đấng giúp chúng sinh đắc đạo quả. ^16
+Đảnh lễ đấng giúp chúng sinh đắc đạo quả. ^0-16
 
 > བཅུ་བཞི་རྒྱལ་པོ་ཨིན་དྲས་མཆོད་པའི་ཚོ། །
 > རྒྱལ་པོས་གཏོར་བའི་མེ་ཏོག་ཐམས་ཅད་ཀྱང་
@@ -217,7 +217,7 @@ Ai chạm hào quang đều tiêu trừ chướng ngại,
 Ngày mười bốn vua Indra dâng cúng dường,
 Tất thảy hoa nhà vua rải dâng cúng lên,
 Hoá vô vàn xe báu trùm khắp Tam thiên,
-Đảnh lễ đấng khiến thảy đều thấy rõ ràng. ^17
+Đảnh lễ đấng khiến thảy đều thấy rõ ràng. ^0-17
 
 > བཅོ་ལྔ་གཟུགས་ཅན་སྙིང་པོ་མཆོད་པའི་ཚེ། །
 > རོ་བརྒྱ་ལྡན་པས་ཟས་ཀྱིས་སྣོད་བཀང་ནས། །
@@ -227,7 +227,7 @@ Hoá vô vàn xe báu trùm khắp Tam thiên,
 Ngày rằm Tần-bà-sa-la dâng cúng dường,
 Chứa đầy bình bát bằng thức ăn trăm vị,
 Ngài dùng lòng bàn tay chạm xuống mặt đất,
-Đảnh lễ đấng độ thoát chúng sinh địa ngục. ^18
+Đảnh lễ đấng độ thoát chúng sinh địa ngục. ^0-18
 
 > མཚུངས་མེད་སྟོན་པའི་ཆོ་འཕྲུལ་སྣ་ཚོགས་ལ། །
 > ཅུང་ཟད་ཙམ་ཞིག་བདག་གིས་བསྟོད་པ་ཡི། །
@@ -237,8 +237,8 @@ Ngài dùng lòng bàn tay chạm xuống mặt đất,
 Trước vô vàn thần thông Đạo sư vô song,
 Con xin dâng lên đôi lời tán thán này,
 Nguyện công đức này giúp tất thảy chúng sinh,
-Đắc được kim thân Đấng Chiến Thắng thần thông. ^19
+Đắc được kim thân Đấng Chiến Thắng thần thông. ^0-19
 
 > པཎ་ཆེན་ཤཱཀྱ་ཤྲཱི་སོ།།
 
-Đại học giả Śākyaśrī soạn. ^20
+Đại học giả Śākyaśrī soạn. ^1-1-1

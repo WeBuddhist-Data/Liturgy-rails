@@ -45,7 +45,7 @@ toc_id: EdElWHcBL52gpbyHnFSOO
 > བོད་སྐད་དུ༔སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་ལ༔
 
 In the language of Oḍḍiyāna: Buddha Dharma Saṅghāya
-In the Tibetan language: To the Buddha, the Dharma, and the Saṅgha, ^1
+In the Tibetan language: To the Buddha, the Dharma, and the Saṅgha, ^0-1
 
 > རྟག་ཏུ་གུས་པས་ཕྱག་འཚལ་ལོ༔
 > འདྲེན་པའི་སྐྱེས་བུ་པདྨ་འབྱུང་གནས་ཀྱི༔
@@ -55,7 +55,7 @@ In the Tibetan language: To the Buddha, the Dharma, and the Saṅgha, ^1
 I constantly offer respectful homage.
 Since the guide, the being Padmasambhava,
 Has revealed these accounts of his successive births for the sake of those to be trained,
-He protects the wise and faithful for the sake of the fortunate. ^2
+He protects the wise and faithful for the sake of the fortunate. ^0-2
 
 > ཨེ་མ་ཧོ༔
 > དེ་ནས་རྒྱལ་སྲས་མུ་ཁྲི་བཙན་པོ་ཡིས༔
@@ -75,7 +75,7 @@ The Abbot sat upon a throne of five-layered brocade,
 And upon cushions of patterned silk in the right and left rows,
 The three translators, headed by Vairocana, were seated.
 After offering many extraordinary kinds of wealth,
-He prostrated many times and made this request: ^3
+He prostrated many times and made this request: ^0-3
 
 > ཨེ་མ་ཧོ༔
 > དུས་གསུམ་མཁྱེན་པའི་རྒྱལ་སྲས་ཆེན་པོ་ལགས༔
@@ -95,7 +95,7 @@ The people of Tibet have short lives and are filled with distractions.
 From now until the end of the eon,
 For the sake of the fortunate, condensing the essence of the sacred Dharma,
 And enabling one to pray to you, the Guru,
-Please speak a concise account of your life and liberation. ^4
+Please speak a concise account of your life and liberation. ^0-4
 
 > དེ་སྐད་གསུང་པས་གུ་རུས་བཀའ་བསྩལ་པ༔
 > ལེགས་པར་ཉོན་ཅིག་མུ་ཁྲི་བཙན་པོ་ཁྱོད༔
@@ -103,7 +103,7 @@ Please speak a concise account of your life and liberation. ^4
 
 When he had spoken thus, the Guru replied:
 "Listen well, Mu-khri btsan-po!
-For the sake of the future, I shall show a concise summary." ^5
+For the sake of the future, I shall show a concise summary." ^0-5
 
 > ཨེ་མ་ཧོ༔
 > སྐྱེས་པའི་ཡབ་བརྒྱད་བལྟམས་པའི་ཡུམ་བརྒྱད་དང་༔
@@ -123,7 +123,7 @@ The eight yidams whose faces I beheld and the eight signs of ultimate accomplish
 The eight charnel grounds and the eight disciples of the Dharma lineage,
 The eight solitary retreats and the eight ladies who arose in my heart,
 The eight enlightened activities and the eight hidden treasure caches,
-And the eight profound teachings of practice, along with the treasure-holding Lingpa masters. ^6
+And the eight profound teachings of practice, along with the treasure-holding Lingpa masters. ^0-6
 
 > ཨེ་མ་ཧོ༔
 > དང་པོ་གུ་རུ་མཚན་བརྒྱད་བྱོན་ཚུལ་ནི༔
@@ -163,7 +163,7 @@ Proclaiming the sound of Dharma to all the six realms;
 I am Guru Seng-ge sgra-sgrog.
 Knowing all that can be known;
 I am Guru Blo-ldan mchog-sred.
-This is the first chapter, on the Eight Manifestations of the Guru. ^7
+This is the first chapter, on the Eight Manifestations of the Guru. ^0-7
 
 > ཨེ་མ་ཧོ༔
 > གཉིས་པ་སྐྱེས་པའི་ཡབ་བརྒྱད་བསྟན་པ་ནི༔
@@ -203,7 +203,7 @@ The human father whom I first met
 Is the Dharma Minister Trinadzin.
 The father-like friend who gave me loving counsel
 Is the noble friend Ser-ö Dampa.
-This is the second chapter, on the eight fathers who sired me. ^8
+This is the second chapter, on the eight fathers who sired me. ^0-8
 
 > ཨེ་མ་ཧོ༔
 > གསུམ་པ་བལྟམས་པའི་ཡུམ་བརྒྱད་བསྟན་པ་ནི༔
@@ -243,7 +243,7 @@ The Mother who entrusted the scrolls of the command
 Is the ḍākinī Karmendrāṇī.
 The Mother who established the life-pillar of the teachings
 Is the noble lady Jetsun Ārya Tārā.
-This is the third chapter, on the eight mothers who gave birth. ^9
+This is the third chapter, on the eight mothers who gave birth. ^0-9
 
 > ཨེ་མ་ཧོ༔
 > བཞི་པ་སྤྲུལ་པའི་སྲས་བརྒྱད་བསྟན་པ་ནི༔
@@ -283,7 +283,7 @@ The son who tames disciples according to their inclinations
 Is Tilo Prajñāpāra.
 The son who upholds the teachings of the great meditators
 Is Lhajé Candragomi.
-This is the fourth chapter, on the eight emanated sons. ^10
+This is the fourth chapter, on the eight emanated sons. ^0-10
 
 > ཨེ་མ་ཧོ༔
 > ལྔ་བ་བྱོན་པའི་ཡུལ་བརྒྱད་བསྟན་པ་ནི༔
@@ -307,7 +307,7 @@ Possessing learning and reflection, I traveled to the land of Kashmir.
 Performing the welfare of others, I traveled to the land of Li.
 Renowned and undisputed, I traveled to the land of Nepal.
 Through the power of aspiration, I traveled to the land of Tibet.
-This is the fifth chapter, on the eight lands to which I traveled. ^11
+This is the fifth chapter, on the eight lands to which I traveled. ^0-11
 
 > ཨེ་མ་ཧོ༔
 > དྲུག་པ་བཞུགས་པའི་གནས་བརྒྱད་བསྟན་པ་ནི༔
@@ -331,7 +331,7 @@ Having mastered bodhicitta, I dwelt in Siṃhala.
 Having abandoned self-grasping, I dwelt in the Purple Willow Grove.
 Having magnetized the three realms, I dwelt at Yangleshö.
 Invited by the king, I dwelt in the central spire of Samyé.
-This is the sixth chapter, on the eight places where I dwelt. ^12
+This is the sixth chapter, on the eight places where I dwelt. ^0-12
 
 > ཨེ་མ་ཧོ༔
 > བདུན་པ་བསྟེན་པའི་བླ་མ་བརྒྱད་བསྟན་པ་ནི༔
@@ -371,7 +371,7 @@ In the land of Zahor, I relied upon Nāgārjunagarbha,
 And requested the complete teachings of the Peaceful and Wrathful Padma.
 At Nālandā, I relied upon Dhanasaṃskṛta,
 And requested the complete teachings of the Peaceful and Wrathful Māmo.
-This is the seventh chapter, on relying upon the eight gurus. ^13
+This is the seventh chapter, on relying upon the eight gurus. ^0-13
 
 > ཨེ་མ་ཧོ༔
 > བརྒྱད་པ་ཡི་དམ་ལྷ་ཡི་ཞལ་གཟིགས་བསྟན་པ་ནི༔
@@ -417,7 +417,7 @@ I performed the Worldly Spirits sadhana at Dechen Dal,
 And attained a vision of the assembly of deities of Worldly Offering and Praise.
 I performed the Wrathful Mantra sadhana at Loka Tsek,
 And attained a vision of the assembly of deities of Maledictory Wrathful Mantra.
-This is the eighth chapter, on performing sadhana in the eight charnel grounds. ^14
+This is the eighth chapter, on performing sadhana in the eight charnel grounds. ^0-14
 
 > ཨེ་མ་ཧོ༔
 > དགུ་པ་མཐར་ཕྱིན་པའི་གྲུབ་རྟགས་བརྒྱད་སྟོན་པ་ནི༔
@@ -459,7 +459,7 @@ While the demonic ministers sowed discord and mocked,
 I displayed the sign of accomplishment by their becoming lame, rigid, and dead.
 When I acted as the subduer of the rākṣasas in the southwest,
 I displayed the sign of accomplishment by establishing the rākṣasas in the Dharma.
-This is the ninth chapter, on the display of the eight signs of accomplishment. ^15
+This is the ninth chapter, on the display of the eight signs of accomplishment. ^0-15
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་བ་ཆོས་བརྒྱུད་འཛིན་པའི་སློབ་མ་བརྒྱད་བསྟན་པ་ནི༔
@@ -483,7 +483,7 @@ Drogmi Palgyi, who brings the mamos into servitude;
 Who brings the arrogant lions and elephants under his power;
 Vairotsana, who is equal to the Orgyen himself;
 And the Sovereign King, who is able to manifest emanations.
-This is the tenth chapter, on the eight disciples who display emanations. ^16
+This is the tenth chapter, on the eight disciples who display emanations. ^0-16
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་གཅིག་པ་ལུང་བསྟན་དབེན་པའི་གནས་བརྒྱད་བསྟན་པ་ནི༔
@@ -499,7 +499,7 @@ Samyé Chimpu and Lhodrak Kharchu,
 Drakyi Yangdzong and Yarlung Shelphuk,
 Drakmar Yamalung and Mönka Śrī Dzong,
 Sengé Dzong and Paro Taktsang Phuk.
-This is the eleventh chapter, on the eight solitary places. ^17
+This is the eleventh chapter, on the eight solitary places. ^0-17
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་གཉིས་པ་ཐུགས་སུ་ཆུད་པའི་ཇོ་མོ་བརྒྱད་བསྟན་པ་ནི༔
@@ -525,7 +525,7 @@ The four royal sisters, the princesses;
 The one of perfect attainment, Princess Tröma Gyen;
 The King’s beloved, Princess Pema Sel;
 The Queen’s beloved, the power-bestowing Salé.
-This is the twelfth chapter, on the eight consorts. ^18
+This is the twelfth chapter, on the eight consorts. ^0-18
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་གསུམ་པ་མཛད་པའི་ཕྲིན་ལས་བརྒྱད་བསྟན་པ་ནི༔
@@ -551,7 +551,7 @@ Having vanquished the hosts of Māra, I acted as a Buddha and Bodhisattva;
 Having turned the wheel of Dharma, I set foot in the land of Tibet;
 Having caused the teachings to flourish, I concealed precious treasures;
 Having suppressed the rākṣasas, I established the world in bliss.
-This is the thirteenth chapter, on the eight enlightened activities. ^19
+This is the thirteenth chapter, on the eight enlightened activities. ^0-19
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་བཞི་པ་སྦས་པའི་གཏེར་ཁ་བརྒྱད་བསྟན་པ་ནི༔
@@ -575,7 +575,7 @@ To protect against poverty, I concealed wealth treasures;
 To tame various beings in myriad ways, I concealed minor treasures;
 I concealed two treasures that are not fixed in a single form;
 To protect the precious teachings, I concealed mind treasures.
-This is the fourteenth chapter, on the eight hidden treasure caches. ^20
+This is the fourteenth chapter, on the eight hidden treasure caches. ^0-20
 
 > ཨེ་མ་ཧོ༔
 > བཅོ་ལྔ་པ་ཉམས་སུ་བླངས་པའི་ཆོས་བརྒྱད་བསྟན་པ་ནི། །
@@ -605,7 +605,7 @@ There is the Great Perfection "The Sun,"
 There is the "Stages of the Path for Entering Secret Mantra,"
 There is the "Awareness Mantra of the Wrathful Guru,"
 And there is the "Noble Black Wrathful Mother."
-This is the fifteenth chapter, on the eight profound teachings of practice. ^21
+This is the fifteenth chapter, on the eight profound teachings of practice. ^0-21
 
 > ཨེ་མ་ཧོ༔
 > བཅུ་དྲུག་པ་ཆོས་བདག་གླིང་པ་བརྒྱད་རྣམས་བསྟན་པ་ནི༔
@@ -633,7 +633,7 @@ Samten Ling and Nyida Ling,
 Zhikpo Ling and Terdak Ling;
 These eight great treasure-revealing Lingpas will appear,
 And they are certainly emanations of me, Orgyen.
-This is the sixteenth chapter, on the eight Lingpas who are Lords of the Dharma. ^22
+This is the sixteenth chapter, on the eight Lingpas who are Lords of the Dharma. ^0-22
 
 > ཨེ་མ་ཧོ༔
 > རྒྱལ་པོ་ཆེན་པོ་ལེགས་པར་ཉོན༔
@@ -671,7 +671,7 @@ In the realm of the Dharmadhātu, I am Samantabhadra;
 In the Dense Array, I am the Great Vajradhara;
 At the Vajra Seat, I am the Great Sage himself;
 Non-dual with them, I, Padma, am spontaneously present.
-Therefore, pray to me constantly. ^23
+Therefore, pray to me constantly. ^0-23
 
 > རྒྱལ་པོའི་གདུང་རབས་བརྒྱད་དང་བཅུ་གསུམ་ནས༔
 > སེ་ཆེན་རྒྱལ་པོའི་བོད་ལ་དམག་དྲངས་ནས༔
@@ -831,8 +831,8 @@ As a treasure in the central spire of glorious Samye;
 Entrust it to those with the karmic destiny in the future, he said.
 I will not remain, but go to subdue the rakshasas;
 I go to lead all the rakshasas to the Dharma;
-Having established the people of Tibet in happiness, I shall now depart." ^24
+Having established the people of Tibet in happiness, I shall now depart." ^0-24
 
 > ཞེས་གསུངས་ཞལ་ལྷ་ནུབ་ཏུ་གཟིགས་སོ༔ ས་མ་ཡ༔ རྒྱ་རྒྱ་རྒྱ༔ གཏེར་སྟོན་ཨོ་རྒྱན་གླིང་པས་བསམ་ཡས་མཆིམས་ཕུ་ནས་གཏེར་ནས་སྤྱན་དྲངས་པའོ༔
 
-<small>Having spoken thus, he turned his face to look toward the west. Samaya. Gya Gya Gya. This was retrieved as a treasure from Samyé Chimphu by the tertön Orgyen Lingpa.</small> ^25
+<small>Having spoken thus, he turned his face to look toward the west. Samaya. Gya Gya Gya. This was retrieved as a treasure from Samyé Chimphu by the tertön Orgyen Lingpa.</small> ^1-1

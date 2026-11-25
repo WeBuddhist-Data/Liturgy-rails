@@ -267,6 +267,10 @@ def _root_heading_refs(fm, source_path):
     }
 
 
+# Headings that open a colophon section: every block under one is back_matter.
+BACK_MATTER_HEADINGS = ("མཇུག་བྱང",)
+
+
 def _infer_segment_type(ref_no_caret, doc_default):
     if not ref_no_caret:
         return doc_default
@@ -402,6 +406,7 @@ def _build_content_and_segmentation(blocks, doc_default, notes=None):
     dropped = set()
     tag_errors = []
     pos = 0
+    back_matter_level = None
 
     for block_num, block in enumerate(blocks, start=1):
         ref = block["ref"]
@@ -452,6 +457,11 @@ def _build_content_and_segmentation(blocks, doc_default, notes=None):
                 text = text[:ref_idx].rstrip()
             level = _heading_level(raw_lines[0])
             text = _clean_heading_title(text, level)
+            # A colophon section (མཇུག་བྱང) runs until the next heading at its level or above.
+            if any(h in text for h in BACK_MATTER_HEADINGS):
+                back_matter_level = level
+            elif back_matter_level is not None and level <= back_matter_level:
+                back_matter_level = None
             if text:
                 headings.append({
                     "level": level,
@@ -520,9 +530,12 @@ def _build_content_and_segmentation(blocks, doc_default, notes=None):
                 file=sys.stderr,
             )
         # Verse wins: several lines with no gap is a verse wherever it sits,
-        # front matter or colophon included. Otherwise the ID decides.
+        # front matter or colophon included. Any other block under a colophon
+        # heading is back matter. Otherwise the ID decides.
         if _is_verse_shape(content_lines):
             seg_type = "verse"
+        elif back_matter_level is not None:
+            seg_type = "back_matter"
         else:
             seg_type = _infer_segment_type(ref_no_caret, doc_default)
         seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})

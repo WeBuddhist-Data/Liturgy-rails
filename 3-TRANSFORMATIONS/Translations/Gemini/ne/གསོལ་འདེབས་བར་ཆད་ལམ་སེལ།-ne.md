@@ -34,8 +34,8 @@ line_parity_failures: 0
 style_instruction: "Translate this Tibetan liturgical text into Nepali, line by line: render each Tibetan line as exactly one Nepali line, in the same order, keeping the same number of lines as the source. Write standard Nepali in Devanagari (Nepali, not Hindi: Nepali verb forms, postpositions and honorifics). Use the Buddhist vocabulary current among Nepali-speaking Buddhists — Sanskrit-derived terms (बुद्ध, धर्म, संघ, बोधिचित्त, गुरु, शरण, पुण्य, परिणामना) and the forms familiar in Nepal's Tibetan Buddhist communities (गुरु रिन्पोछे, लामा). Devotional but clear register, suitable for recitation, in natural Nepali word order. Keep mantra syllables and dhāraṇīs as Devanagari transliteration of the Sanskrit (ॐ मणि पद्मे हूँ), never translated. Render buddhas, bodhisattvas and deities by their Sanskrit names in Devanagari (अवलोकितेश्वर, तारा, पद्मसम्भव, मञ्जुश्री); transliterate Tibetan personal names and place names. Do not add commentary, notes, or explanation."
 rails_used: none
 generated: 2026-09-06
-blocks_translated: 24
-blocks_total: 24
+blocks_translated: 25
+blocks_total: 25
 status: draft
 toc_id: RTfYMelfOXcr5GdtFYYxT
 ---
@@ -521,8 +521,6 @@ toc_id: RTfYMelfOXcr5GdtFYYxT
 > ནང་གི་བར་ཆད་ནང་དུ་སོལ༔
 > གསང་བའི་བར་ཆད་དབྱིངས་སུ་སོལ༔
 > གུས་པས་ཕྱག་འཚལ་སྐྱབས་སུ་མཆི༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
 
 करुणाले मलाई अधिष्ठान गर्नुहोस्,
 प्रेमले म लगायतलाई मार्गमा डोर्‍याउनुहोस्,
@@ -531,6 +529,10 @@ toc_id: RTfYMelfOXcr5GdtFYYxT
 बाहिरी विघ्नहरूलाई बाहिरै हटाउनुहोस्,
 भित्री विघ्नहरूलाई भित्रै हटाउनुहोस्,
 गुह्य विघ्नहरूलाई धर्मधातुमा हटाउनुहोस्,
-भक्तिपूर्वक वन्दना गर्दै शरणमा जान्छु,
+भक्तिपूर्वक वन्दना गर्दै शरणमा जान्छु, ^24
+
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
+
 ॐ आह हूँ वज्र गुरु पद्म सिद्धि हूँ
-ॐ आह हूँ वज्र गुरु पद्म थोत्रेङ त्सल वज्र समय जः सिद्धि फल हूँ आह ^24
+ॐ आह हूँ वज्र गुरु पद्म थोत्रेङ त्सल वज्र समय जः सिद्धि फल हूँ आह ^25

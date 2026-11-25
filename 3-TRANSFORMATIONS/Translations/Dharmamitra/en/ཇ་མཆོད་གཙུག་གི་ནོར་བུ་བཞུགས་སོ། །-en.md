@@ -48,7 +48,7 @@ toc_id: ZiDZKl0OYgMIeOXK9Jhd7
 Pure crown jewel, supreme deity,
 In this realm of the noble Lokeśvara,
 The supreme nectar of all food and drink,
-The emerald-leaved plant, with root and stalk. ^1
+The emerald-leaved plant, with root and stalk. ^0-1
 
 > འབྲས་བུ་རྣམ་པར་རྒྱལ་བའི་སྨན་ལྟ་བུ། །
 > སུམ་རྩེན་བདུད་རྩིའི་རོ་ཡང་ཟིལ་གནོན་པའི། །
@@ -58,7 +58,7 @@ The emerald-leaved plant, with root and stalk. ^1
 Like a medicinal fruit that is victorious over all,
 Surpassing even the nectar of the gods,
 Perfected with the six tastes, eight potencies, and ten qualities,
-It clears away all four hundred and four diseases. ^2
+It clears away all four hundred and four diseases. ^0-2
 
 > དེ་ལྟར་བཏུང་བའི་མཆོག་གྱུར་ཇ་ཡི་དངོས། །
 > བདུད་རྩིའི་རྒྱ་མཚོ་ཆེན་པོར་མངོན་སྤྲུལ་ནས། །
@@ -68,7 +68,7 @@ It clears away all four hundred and four diseases. ^2
 Thus, this substance of tea, the supreme beverage,
 Manifestly transformed into a great ocean of nectar,
 Offered with devotion as the inseparability of appearance and emptiness,
-I make this offering to the holy root and lineage gurus. ^3
+I make this offering to the holy root and lineage gurus. ^0-3
 
 > སྟོང་དང་རྩ་གཉིས་སངས་རྒྱས་མཆོད་པར་བགྱི། །
 > བྱང་སེམས་ཉན་རང་ཚོགས་རྣམས་མཆོད་པར་བགྱི། །
@@ -78,7 +78,7 @@ I make this offering to the holy root and lineage gurus. ^3
 I offer worship to the one thousand and two Buddhas.
 I offer worship to the assembly of Bodhisattvas, Śrāvakas, and Pratyekabuddhas.
 I offer worship to the Golden Rosary of the Kagyü lineage.
-I offer worship to the Protector of the three worlds. ^4
+I offer worship to the Protector of the three worlds. ^0-4
 
 > མི་ཕམ་དགྱེས་པའི་བཤེས་གཉེན་མཆོད་པར་བགྱི། །
 > བཤད་སྒྲུབ་རིག་སྨྲའི་བརྒྱུད་པ་མཆོད་པར་བགྱི། །
@@ -88,7 +88,7 @@ I offer worship to the Protector of the three worlds. ^4
 I offer worship to the spiritual friends who delight the Invincible One.
 I offer worship to the lineages of those who expound and practice the teachings.
 I offer worship to the lineages of individual liberation and the generation of bodhicitta.
-I offer worship to the vidyādhara lineages of the Kama and Terma. ^5
+I offer worship to the vidyādhara lineages of the Kama and Terma. ^0-5
 
 > རྒྱུད་བཞིའི་ཡི་དམ་ལྷ་ཚོགས་མཆོད་པར་བགྱི། །
 > ཆོས་སྐྱོང་དམ་མགོན་ལྕམ་དྲལ་མཆོད་པར་བགྱི། །
@@ -102,7 +102,7 @@ I offer worship to the Dharma protectors, the Mother, the Lord, and their retinu
 I offer worship to the monastic communities who guard the teachings.
 I offer worship to the heroes, ḍākinīs, and Dharma protectors.
 I offer worship to the command-abiding, oath-bound treasure guardians.
-I offer worship to the protectors, refuges, and the guardians of the ancestral lineage. ^6
+I offer worship to the protectors, refuges, and the guardians of the ancestral lineage. ^0-6
 
 > དེ་ལྟར་རོ་བཅུད་བདུད་རྩི་ཕུལ་བའི་མཐུས། །
 > ཐུབ་བསྟན་ཕྱོགས་བཅུར་དར་ཞིང་རྒྱས་པ་དང༌། །
@@ -114,7 +114,7 @@ By the power of offering this nectar of essence and flavor,
 May the teachings of the Sage spread and flourish in the ten directions,
 And may the teachings of the glorious Drikungpa, the crown jewel of the practice lineage,
 Be expanded through the four wheels,
-And may the lotus feet of the beings who uphold the teachings remain firm. ^7
+And may the lotus feet of the beings who uphold the teachings remain firm. ^0-7
 
 > དགེ་འདུན་བསླབ་གསུམ་ཆོས་བརྒྱུད་བརྩོན་པ་དང༌། །
 > འགྲོ་རྣམས་ལོངས་སྤྱོད་རྫོགས་ལྡན་དུས་ལྟ་བུར། །
@@ -124,7 +124,7 @@ And may the lotus feet of the beings who uphold the teachings remain firm. ^7
 May the Sangha be diligent in the three trainings and the lineage of the Dharma,
 And may all beings enjoy a time of perfection and abundance,
 With all adverse conditions completely pacified,
-May the state of the all-pervading, perfect Buddha be attained. ^8
+May the state of the all-pervading, perfect Buddha be attained. ^0-8
 
 > རང་རིག་རང་གསལ་ཤེས་དཀར་མེ་ལོང་ངོགས། །
 > འཁོར་འདས་རི་མོ་བཀྲ་ལ་སྣང་སྟོང་ཙམ། །
@@ -134,7 +134,7 @@ May the state of the all-pervading, perfect Buddha be attained. ^8
 Upon the surface of the white mirror of self-aware, self-luminous wisdom,
 The images of samsara and nirvana are vivid, yet merely empty appearances.
 Without grasping, like the moon reflected in water, in this state of union,
-May all be liberated into the non-dual expanse of the Dharmakāya. ^9
+May all be liberated into the non-dual expanse of the Dharmakāya. ^0-9
 
 > བཻ་ཌཱུར་ས་གཞིར་ལྷ་དབང་བཞུགས་བརྙན་ལྟར། །
 > འགྲོ་སེམས་སྣང་ངོར་ཐུབ་པའི་སྣང་བརྙན་ཤར། །
@@ -144,7 +144,7 @@ May all be liberated into the non-dual expanse of the Dharmakāya. ^9
 Just as the reflection of the King of Gods appears upon a ground of lapis lazuli,
 The reflection of the Sage appears within the perceptions of the minds of beings;
 Through miraculous displays that tame each according to their own inclination,
-May you reveal the path of liberation that surely brings them to maturity. ^10
+May you reveal the path of liberation that surely brings them to maturity. ^0-10
 
 > ལེགས་བཤད་མདངས་རིས་བཀྲ་བ་ལུང་རིགས་གོས། །
 > རྣམ་དཔྱོད་བསླབ་གསུམ་ཡུ་བས་ལེགས་བཏེག་ཅིང༌། །
@@ -154,8 +154,8 @@ May you reveal the path of liberation that surely brings them to maturity. ^10
 Adorned with the vibrant patterns of eloquent teachings and the robes of scripture and logic,
 Well-supported by the staff of analytical wisdom and the three trainings,
 Exquisitely beautified by the pinnacle of the definitive meaning to be meditated upon,
-May the victory banner of the Sage’s teachings be hoisted in all directions. ^11
+May the victory banner of the Sage’s teachings be hoisted in all directions. ^0-11
 
 > ཅེས་པའང་རང་གཞན་གྱི་ཆོས་སྤྱོད་བྱ་བའི་ཡན་ལག་ཏུ། འབྲི་གུང་ཆོས་ཀྱི་གྲགས་པས་དཀར་སེང་ཁྲི་སྒར་དུ་བྲིས་པའོ། །སརྦ་མངྒ་ལཾ། །
 
-This was written by 'Bri-gung Chos-kyi-grags-pa at the Dkar-seng-khri-sgar encampment, as a contribution to the religious practice of oneself and others. Sarva maṅgalaṃ. ^12
+This was written by 'Bri-gung Chos-kyi-grags-pa at the Dkar-seng-khri-sgar encampment, as a contribution to the religious practice of oneself and others. Sarva maṅgalaṃ. ^1-1-1

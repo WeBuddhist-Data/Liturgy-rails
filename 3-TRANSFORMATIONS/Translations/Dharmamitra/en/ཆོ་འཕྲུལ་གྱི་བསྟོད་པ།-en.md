@@ -48,7 +48,7 @@ toc_id: TpgTmgUFPXBnM4Xx3X5Ln
 Having first aroused the mind set upon supreme enlightenment,
 Having accumulated the collections for three countless eons,
 And having subdued the four Māras who create obstacles,
-To that Blessed Lion, I prostrate. ^1
+To that Blessed Lion, I prostrate. ^0-1
 
 > རྩོད་པའི་དུས་མཛད་ཐུབ་པའི་དབང་པོ་ཡིས། །
 > རྒྱལ་པོའི་ཁབ་ནས་ཡངས་ཅན་ཀཽ་ཤཱམ་བཱི། །
@@ -58,7 +58,7 @@ To that Blessed Lion, I prostrate. ^1
 To the Lord of Sages who acted in this age of strife,
 From Rājagṛha to Vaiśālī, Kauśāmbī,
 Vārāṇasī, and the great Śrī Parvata,
-And to Śrāvastī, I bow to you who traveled there in turn. ^2
+And to Śrāvastī, I bow to you who traveled there in turn. ^0-2
 
 > གཉན་ཡོད་གནས་སུ་སྟོན་པར་མུ་སྟེགས་ཀྱི། །
 > སྟོན་པ་དྲུག་གིས་ཆོ་འཕྲུལ་འགྲན་པའི་ཚེ། །
@@ -68,7 +68,7 @@ And to Śrāvastī, I bow to you who traveled there in turn. ^2
 At Śrāvastī, when the six teachers of the heretics
 Challenged you to a contest of miraculous displays,
 Before the eyes of the gathered multitudes,
-To you who showed wondrous miracles, I prostrate. ^3
+To you who showed wondrous miracles, I prostrate. ^0-3
 
 > ཆོས་གཅིག་གསལ་རྒྱལ་གྱིས་ནི་མཆོད་པའི་ཚེ། །
 > ཚེམས་ཤིངས་ལ་གཙུག་པས་ལྗོན་ཤིང་སྐྱེས། །
@@ -78,7 +78,7 @@ To you who showed wondrous miracles, I prostrate. ^3
 When King Prasenajit made an offering of a single religious object,
 A tree grew from where he had planted a tooth-stick,
 Its foliage spread, covering five hundred yojanas,
-To you whose fragrance satisfies all beings, I prostrate. ^4
+To you whose fragrance satisfies all beings, I prostrate. ^0-4
 
 > ཚོས་གཉིས་ཨུ་ཏྲ་ཡ་ཎས་མཆོད་པའི་ཚེ། །
 > ཞབས་བསིལ་ཆུ་ལས་རིན་ཆེན་རྫིང་བུར་སྤྲུལ། །
@@ -88,7 +88,7 @@ To you whose fragrance satisfies all beings, I prostrate. ^4
 When Utrāyaṇa made an offering of two religious objects,
 From the water for your feet, you manifested a jeweled pond,
 With the light rays of lotuses of various colors,
-To you who satisfied them with fragrance, I prostrate. ^5
+To you who satisfied them with fragrance, I prostrate. ^0-5
 
 > ཚེས་གསུམ་ཤུན་ཙ་དྷ་ནས་མཆོད་པའི་ཚེ། །
 > གཡས་གཡོན་གཉིས་སུ་རིན་ཆེན་རི་གཉིས་སྤྲུལ། །
@@ -98,7 +98,7 @@ To you who satisfied them with fragrance, I prostrate. ^5
 When Śun-tsa-dha made an offering of three religious objects,
 To the right and left, you manifested two jeweled mountains,
 From the mountain peaks grew fruits, grasses, and the like,
-To you who satisfied humans and animals, I prostrate. ^6
+To you who satisfied humans and animals, I prostrate. ^0-6
 
 > ཚེས་བཞི་ཨིནྡྲ་བྷྲ་མས་མཆོད་པའི་ཚེ། །
 > ཕྱོགས་བཞིར་ཡུར་བ་བརྒྱད་ལྡན་རྫིང་བུར་སྤྲུལ། །
@@ -108,7 +108,7 @@ To you who satisfied humans and animals, I prostrate. ^6
 When Indrabhrama made an offering of four religious objects,
 In the four directions, you manifested ponds possessing the eight qualities,
 From the sound of the water, the four immeasurables and the like,
-To you from whom the melodious sound of Dharma arose, I prostrate. ^7
+To you from whom the melodious sound of Dharma arose, I prostrate. ^0-7
 
 > ཚེས་ལྔ་ཚངས་སྦྱིན་གྱིས་ནི་མཆོདཔའི་ཚེ། །
 > ཞལ་གྱི་སྒོ་ནས་འོད་ཟེར་སྣ་ཚོགས་ཀྱི། །
@@ -118,7 +118,7 @@ To you from whom the melodious sound of Dharma arose, I prostrate. ^7
 When Tsang-jin made an offering of five religious objects,
 From the portal of your face, various rays of light emerged,
 By those rays, all sentient beings touched,
-Were suffused with bliss in body and mind; to you I prostrate. ^8
+Were suffused with bliss in body and mind; to you I prostrate. ^0-8
 
 > ཚེས་དྲུག་ལིང་ཙ་རྣམས་ཀྱིས་མཆོད་པའི་ཚེ། །
 > སྟོནཔའི་མཐུ་ཡིས་འཁོར་གྱི་སེམས་ཅན་རྣམས། །
@@ -128,7 +128,7 @@ Were suffused with bliss in body and mind; to you I prostrate. ^8
 When Ling-tsa made an offering of six religious objects,
 Through the power of the Teacher, the sentient beings in the retinue,
 Were greatly gladdened and each made their own aspirations;
-To you who spoke of the Teacher’s qualities, I prostrate. ^9
+To you who spoke of the Teacher’s qualities, I prostrate. ^0-9
 
 > ཚེས་བདུན་ཤཱཀྱ་རྣམས་ཀྱིས་མཆོད་པའི་ཚེ། །
 > སྟོན་པའི་མཐུ་ཡིས་འཁོར་གྱི་སེམས་ཅན་རྣམས། །
@@ -138,7 +138,7 @@ To you who spoke of the Teacher’s qualities, I prostrate. ^9
 When the Śākyas made an offering of seven religious objects,
 Through the power of the Teacher, the sentient beings in the retinue,
 Became kings and were endowed with the seven precious jewels,
-To you who caused all to generate joy, I prostrate. ^10
+To you who caused all to generate joy, I prostrate. ^0-10
 
 > ཚེས་བརྒྱད་བརྒྱ་བྱིན་གྱིས་ནི་མཆོད་པའི་ཚེ། །
 > སེང་གེའི་ཁྲི་ལགླང་ཆེན་ས་སྐད་བཏོན །
@@ -148,7 +148,7 @@ To you who caused all to generate joy, I prostrate. ^10
 When Indra made an offering on the eighth day,
 From the lion throne, the sound of an elephant’s roar was emitted,
 Manifesting as five rākṣasas and Vajrapāṇi,
-To you who terrified the tīrthikas, I prostrate. ^11
+To you who terrified the tīrthikas, I prostrate. ^0-11
 
 > སླར་སྐུ་ཆེ་བའི་ཆོ་འཕྲུལ་བསྟན་པ་ནི༑ ༑
 > ཚེས་དགུ་ཚངས་པའི་རྒྱལ་པོས་མཆོད་པའི་ཚེ། །
@@ -160,7 +160,7 @@ Next, the display of the miracle of the greatness of the body:
 When the King of Brahmā made an offering on the ninth day,
 You emanated a body that pervaded up to the realm of Brahmā,
 And from that body, great light rays emerged;
-To you who caused all to behold this, I prostrate. ^12
+To you who caused all to behold this, I prostrate. ^0-12
 
 > ཚེས་བཅུ་རྒྱལ་ཆེན་བཞི་ཡིས་མཆོད་པའི་ཚེ། །
 > སྲིད་རྩེའི་བར་དུ་ཁྱབ་པའི་སྐུ་སྤྲུལ་ནས། །
@@ -170,7 +170,7 @@ To you who caused all to behold this, I prostrate. ^12
 When the Four Great Kings made an offering on the tenth day,
 You emanated a body that pervaded up to the peak of existence,
 And from that body, various light rays emerged;
-To you whom all beheld and whose speech they heard, I prostrate. ^13
+To you whom all beheld and whose speech they heard, I prostrate. ^0-13
 
 > བཅུ་གཅིག་མགོན་མེད་ཟས་སྦྱིན་གྱིས་མཆོད་ཚེ། །
 > སྟོན་པ་སེང་གེའི་ཁྲི་ལ་བཞུགས་བཞིན་དུ། །
@@ -180,7 +180,7 @@ To you whom all beheld and whose speech they heard, I prostrate. ^13
 When Anāthapiṇḍada made an offering on the eleventh day,
 While the Teacher remained seated upon the lion throne,
 His body vanished and became a mass of light,
-To you who taught the Dharma through your speech, I prostrate. ^14
+To you who taught the Dharma through your speech, I prostrate. ^0-14
 
 > བཅུ་གཉིས་ཁྱིམ་བདག་ཙེ་རས་མཆོད་པའི་ཚེ། །
 > སྐུ་ཡི་འོད་ཀྱིས་སྟོང་གསུམ་བར་དུ་ཁྱབ། །
@@ -190,7 +190,7 @@ To you who taught the Dharma through your speech, I prostrate. ^14
 When the householder Tse-re made an offering on the twelfth day,
 The light of your body pervaded the three-thousandfold world,
 You emanated a Buddha seated upon a lotus throne,
-To you who caused all to emanate in that way, I prostrate. ^15
+To you who caused all to emanate in that way, I prostrate. ^0-15
 
 > བཅུ་གསུམ་རྒྱལ་པོ་ཤུན་ཙོས་མཆོད་པའི་ཚོ།
 > ལྟེ་བའི་འོད་ཀྱིས་སྟོང་གསུམ་བར་དུ་ཁྱབ། །
@@ -200,7 +200,7 @@ To you who caused all to emanate in that way, I prostrate. ^15
 When King Shun-tso made an offering on the thirteenth day,
 The light from your navel pervaded the three-thousandfold world,
 Whatever that light touched was freed from all obscurations,
-To you who attained the fruit of the nectar, I prostrate. ^16
+To you who attained the fruit of the nectar, I prostrate. ^0-16
 
 > བཅུ་བཞི་རྒྱལ་པོ་ཨིན་དྲས་མཆོད་པའི་ཚོ། །
 > རྒྱལ་པོས་གཏོར་བའི་མེ་ཏོག་ཐམས་ཅད་ཀྱང་
@@ -210,7 +210,7 @@ To you who attained the fruit of the nectar, I prostrate. ^16
 When King Indra made an offering on the fourteenth day,
 All the flowers scattered by the King,
 Pervaded the three-thousandfold world as a host of jeweled chariots,
-To you who caused all to see this clearly, I prostrate. ^17
+To you who caused all to see this clearly, I prostrate. ^0-17
 
 > བཅོ་ལྔ་གཟུགས་ཅན་སྙིང་པོ་མཆོད་པའི་ཚེ། །
 > རོ་བརྒྱ་ལྡན་པས་ཟས་ཀྱིས་སྣོད་བཀང་ནས། །
@@ -220,7 +220,7 @@ To you who caused all to see this clearly, I prostrate. ^17
 When King Gzugs-can-snying-po made an offering on the fifteenth day,
 He filled vessels with food possessing a hundred flavors,
 And by striking his palm upon the earth,
-To you who liberated immeasurable hell-beings, I prostrate. ^18
+To you who liberated immeasurable hell-beings, I prostrate. ^0-18
 
 > མཚུངས་མེད་སྟོན་པའི་ཆོ་འཕྲུལ་སྣ་ཚོགས་ལ། །
 > ཅུང་ཟད་ཙམ་ཞིག་བདག་གིས་བསྟོད་པ་ཡི། །
@@ -230,8 +230,8 @@ To you who liberated immeasurable hell-beings, I prostrate. ^18
 To the various miraculous displays of the incomparable Teacher,
 By the virtue of this slight praise I have offered,
 May all sentient beings throughout the realms of existence,
-Attain the miraculous, eternal body of the Victorious One. ^19
+Attain the miraculous, eternal body of the Victorious One. ^0-19
 
 > པཎ་ཆེན་ཤཱཀྱ་ཤྲཱི་སོ།།
 
-Paṇchen Śākyaśrī. ^20
+Paṇchen Śākyaśrī. ^1-1-1

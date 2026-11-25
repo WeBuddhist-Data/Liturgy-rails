@@ -43,11 +43,11 @@ toc_id: MqehjodNiUWgtp9ttBxQd
 
 > དྲི་བཟང་གི་ཤིང་དང་འོ་སྐམ་སྨན་སྣ་འབྲུ་སྣ་སོགས་གཙང་མ་མེར་བསྲེག་པ་ཆབ་ཀྱིས་བྲན་ལ།
 
-Sprinkle water over clean offerings such as fragrant wood, dried milk, various medicinal substances, and various grains, and burn them in the fire. ^1
+Sprinkle water over clean offerings such as fragrant wood, dried milk, various medicinal substances, and various grains, and burn them in the fire. ^0-1
 
 > རྃ་ཡྃ་ཁྃ། སྟོང་པའི་ངང་ལས་ལྷ་རྫས་བསང་གི་དུད་སྤྲིན་ཟག་མེད་བདེ་བ་ཆེན་པོ་འདོད་ཡོན་རྣམ་པ་ཐམས་ཅད་པར་འཆར་བའི་ཀུན་ཏུ་བཟང་པོའི་མཆོད་པའི་སྤྲིན་ཆེན་པོས་ནམ་མཁའི་ཁམས་གང་བར་གྱུར།
 
-RAṂ YAṂ KHAṂ. From the state of emptiness, the divine substance of the smoke-offering clouds arises as the great offering clouds of Samantabhadra, filling the expanse of space as untainted great bliss appearing in the form of every variety of sensory quality. ^2
+RAṂ YAṂ KHAṂ. From the state of emptiness, the divine substance of the smoke-offering clouds arises as the great offering clouds of Samantabhadra, filling the expanse of space as untainted great bliss appearing in the form of every variety of sensory quality. ^0-2
 
 > ཨོཾ་ཨཱཿཧཱུྃ་ཧོཿ(ཞེས་ལན་གསུམ་བརྗོད་པས་བྱིན་གྱིས་བརླབས་ལ།
 > ཧྲཱིཿ རང་བཞིན་འོད་གསལ་དག་པའི་དབྱིངས་ཉིད་ལས། །
@@ -59,7 +59,7 @@ OṂ ĀḤ HŪṂ HOH (recite three times to consecrate).
 HRĪḤ From the basic space of naturally luminous purity,
 Captivating form of the goddess, the natural radiance of great bliss,
 Holding the mudra of the utpala bow and arrow of skillful means and wisdom,
-Kurukullā, Dakini of Power, come here! ^3
+Kurukullā, Dakini of Power, come here! ^0-3
 
 > ས་གསུམ་བརྟན་པ་འཕྲོག་པའི་ཡིད་འོང་སྐུ། །
 > རྡུལ་བྲལ་བདེ་པའི་ལང་ཚོ་མངོན་འབར་ཞིང༌། །
@@ -69,7 +69,7 @@ Kurukullā, Dakini of Power, come here! ^3
 Your lovely form, which captivates the stability of the three realms,
 Blazes with the youthful vigor of stainless bliss,
 Irresistibly gathering the essence of existence and peace,
-Together with hundreds of thousands of millions of magnetizing dakinis. ^4
+Together with hundreds of thousands of millions of magnetizing dakinis. ^0-4
 
 > སྣང་སྟོང་སྐུའི་གར་སྟབས་ལམས་སེ་ལམ། །
 > དགྱེས་བཞེད་གསུང་གི་སྒྲ་དབྱངས་སྒྲོགས་བཞིན་དུ། །
@@ -79,7 +79,7 @@ Together with hundreds of thousands of millions of magnetizing dakinis. ^4
 Your forms of appearance-emptiness dance with vivid, swaying movements,
 While proclaiming the melodious sounds of your joyful speech;
 Please come here now as guests of this offering, and be pleased,
-Look upon us with your compassionate heart and hold us in your love. ^5
+Look upon us with your compassionate heart and hold us in your love. ^0-5
 
 > གཙང་སྦྱར་བསང་གི་དུད་སྤྲིན་ཡིད་འོང་བ། །
 > རབ་དཀར་ཆུ་འཛིན་གཞོན་ནུའི་ཕུང་པོ་ལྟར། །
@@ -89,7 +89,7 @@ Look upon us with your compassionate heart and hold us in your love. ^5
 These delightful, billowing clouds of pure and fragrant incense smoke,
 Like a mass of youthful, pristine white clouds,
 Pervade the expanse of the sky, and from their shimmering particles,
-An inexhaustible play of an ocean of sensory delights arises. ^6
+An inexhaustible play of an ocean of sensory delights arises. ^0-6
 
 > རྒྱལ་སྲིད་སྣ་བདུན་བཀྲ་ཤིས་རྫས་རྟགས་བརྒྱད། །
 > བུམ་བཟང་དཔག་བསམ་ཤིང་དང་ནོར་བུའི་གཏེར། །
@@ -99,7 +99,7 @@ An inexhaustible play of an ocean of sensory delights arises. ^6
 The seven precious emblems of royalty and the eight auspicious signs and substances,
 Excellent vases, wish-fulfilling trees, and treasures of jewels,
 The celestial groves, the rivers of nectar, and so forth—
-All the riches of gods and humans, without exception, ^7
+All the riches of gods and humans, without exception, ^0-7
 
 > རབ་འབྱམས་ཕྱོགས་བཅུའི་ཞིང་ན་གང་མཆིས་པའི། །
 > གཟུགས་མཛེས་སྒྲ་སྙན་དྲི་ཞིམ་རོ་བདའ་བ། །
@@ -109,7 +109,7 @@ All the riches of gods and humans, without exception, ^7
 And everything that exists throughout the infinite realms of the ten directions,
 Beautiful forms, melodious sounds, fragrant scents, delicious tastes,
 And soft textures—clouds of the six sensory qualities of supreme bliss,
-Gathered as the inexhaustible wheel of the treasury of space. ^8
+Gathered as the inexhaustible wheel of the treasury of space. ^0-8
 
 > སྣང་སྲིད་དབང་གི་ཕྱག་རྒྱར་སད་པ་ལས། །
 > རྗེས་ཆགས་དགའ་བའི་གཏེར་ལྡན་གཞོན་ནུའི་ཚོགས། །
@@ -119,7 +119,7 @@ Gathered as the inexhaustible wheel of the treasury of space. ^8
 Awakened as the mudrā that overpowers appearance and existence,
 Hosts of youthful ones possessing the treasure of passionate joy,
 Through the dramatic play of method and wisdom, bliss and emptiness,
-I present this offering that increases untainted bliss. ^9
+I present this offering that increases untainted bliss. ^0-9
 
 > ཐམས་ཅད་མཉམ་ཉིད་འོད་གསལ་དག་པའི་དབྱིངས། །
 > གདོད་ནས་བདེ་བ་ཆེན་པོའི་ངང་ཉིད་དུ། །
@@ -129,7 +129,7 @@ I present this offering that increases untainted bliss. ^9
 Within the pure expanse of luminosity where all things are equal,
 In the very state of primordial great bliss,
 Myself, the deity, and all phenomena are inseparable;
-May you be pleased by this supreme, naturally occurring offering! ^10
+May you be pleased by this supreme, naturally occurring offering! ^0-10
 
 > རྒྱལ་ཀུན་ཕྲིན་ལས་རིགས་བྱེད་དབང་མོ་ཡི། །
 > ཞབས་པད་གཙུག་གིས་བརྟེན་པའི་རྣལ་འབྱོར་བདག །
@@ -139,7 +139,7 @@ May you be pleased by this supreme, naturally occurring offering! ^10
 O Sovereign of the Arts, the enlightened activity of all the Victors,
 For me, the yogi who honors your lotus feet upon my crown,
 Hold me with your compassion, never parting until enlightenment,
-And let fall a rain of the two accomplishments and every desired boon. ^11
+And let fall a rain of the two accomplishments and every desired boon. ^0-11
 
 > ཐབས་ཤེས་ཨུཏྤལ་མདའ་གཞུའི་སྲིད་གསུམ་གྱི། །
 > ཡིད་སྣང་བརྟན་པ་དབང་མེད་ཕྲོགས་མཛད་དེ། །
@@ -149,7 +149,7 @@ And let fall a rain of the two accomplishments and every desired boon. ^11
 With the utpala bow and arrow of skillful means and wisdom,
 You irresistibly captivate the steady perceptions of the three realms;
 These vast multitudes of beings, both human and non-human,
-Please grant as servants compatible with the yogi's practice. ^12
+Please grant as servants compatible with the yogi's practice. ^0-12
 
 > མ་དག་རླུང་སེམས་གཡོ་བའི་ཆོ་འཕྲུལ་ཀུན། །
 > བདེ་སྟོང་དྷུ་ཏིའི་དབྱིངས་སུ་དབང་བྱས་ནས། །
@@ -159,7 +159,7 @@ Please grant as servants compatible with the yogi's practice. ^12
 All the magical displays of the movement of impure wind and mind,
 Having gained mastery over the space of the central channel’s bliss and emptiness,
 The state of the ḍākinī of innate, unchanging bliss—
-Please grant that it be accomplished in this very life! ^13
+Please grant that it be accomplished in this very life! ^0-13
 
 > དཔལ་དང་འབྱོར་པ་སྙན་དང་གྲགས་པ་དང༌། །
 > མཐུ་དང་ནུས་པ་བདེ་དང་སྐྱིད་པའི་དཔལ། །
@@ -169,7 +169,7 @@ Please grant that it be accomplished in this very life! ^13
 Glory, wealth, fame, and renown,
 Power, capability, and the splendor of happiness and well-being—
 Like the waxing moon and the rivers of summer,
-Please perform your enlightened activities so that they increase, expand, and remain stable. ^14
+Please perform your enlightened activities so that they increase, expand, and remain stable. ^0-14
 
 > མདོར་ན་ཡིད་ལ་གང་འདོད་དཔལ་ཐོབ་ཅིང༌། །
 > མཆོག་ཐུན་དངོས་གྲུབ་རྒྱ་མཚོའི་དབང་གིས་ཕྱུག །
@@ -179,8 +179,8 @@ Please perform your enlightened activities so that they increase, expand, and re
 In short, may we attain the glory of whatever we desire in our hearts,
 And be enriched by the power of an ocean of supreme and common accomplishments;
 Possessing the power to benefit the teachings and sentient beings,
-Please grant your blessings so that the welfare of both self and others may be accomplished! ^15
+Please grant your blessings so that the welfare of both self and others may be accomplished! ^0-15
 
 > ཞེས་པའང་དགེ་སྦྱོང་ཚེ་རིག་འཛིན་པ་ཨ་ཚང་གིས་བསྐུལ་ངོར་སྨིན་ཟླའི་དམར་ཕྱོགས་རྒྱལ་བ་གསུམ་པར་ཁྲ་འགུའི་རི་ཁྲོད་མི་ཕམ་པས་བྲིད་པ་དགེ་ལེགས་འཕེལ།།
 
-This was written at the request of the ascetic Tserig Dzinpa Atsang, on the third day of the waxing moon of the month of Smin-zla, by Mipham at the Khra-’gu hermitage; may virtue and excellence increase! ^16
+This was written at the request of the ascetic Tserig Dzinpa Atsang, on the third day of the waxing moon of the month of Smin-zla, by Mipham at the Khra-’gu hermitage; may virtue and excellence increase! ^1-1-1

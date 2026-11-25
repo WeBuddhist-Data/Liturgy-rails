@@ -43,7 +43,7 @@ toc_id: W6R1r1Dsyk8GAlpz4qJ17
 
 > རྗེ་བཙུན་བླ་མ་རྣམས་ལ་ཕྱག་འཚལ་ལོ། །
 
-I prostrate to the venerable gurus. ^1
+I prostrate to the venerable gurus. ^0-1
 
 > རྒྱལ་བའི་གསུང་རབ་ཀུན་གྱི་སྙིང་པོའི་དོན། །
 > རྒྱལ་སྲས་དམ་པ་རྣམས་ཀྱིས་བསྔགས་པའི་ལམ། །
@@ -53,7 +53,7 @@ I prostrate to the venerable gurus. ^1
 The essential meaning of all the Victor's scriptures,
 The path praised by the holy Sons of the Victors,
 The gateway for the fortunate who desire liberation—
-I shall explain these as well as I am able. ^2
+I shall explain these as well as I am able. ^0-2
 
 > གང་དག་སྲིད་པའི་བདེ་ལ་མ་ཆགས་ཤིང་། །
 > དལ་འབྱོར་དོན་ཡོད་བྱ་ཕྱིར་བརྩོན་པ་ཡིས། །
@@ -63,7 +63,7 @@ I shall explain these as well as I am able. ^2
 You who are not attached to the pleasures of existence,
 Who strive to make this life of leisure and opportunity meaningful,
 And who trust in the path that delights the Victors—
-You fortunate ones, listen with a clear mind. ^3
+You fortunate ones, listen with a clear mind. ^0-3
 
 > རྣམ་དག་ངེས་འབྱུང་མེད་པར་སྲིད་མཚོ་ཡི། །
 > བདེ་འབྲས་དོན་གཉེར་ཞི་བའི་ཐབས་མེད་ལ། །
@@ -73,7 +73,7 @@ You fortunate ones, listen with a clear mind. ^3
 Without pure renunciation, there is no way to pacify
 The pursuit of pleasurable results in the ocean of existence;
 And since craving for existence thoroughly binds all embodied beings,
-Seek renunciation first. ^4
+Seek renunciation first. ^0-4
 
 > དལ་འབྱོར་རྙེད་དཀའ་ཚེ་ལ་ལོང་མེད་པ། །
 > ཡིད་ལ་གོམས་པས་ཚེ་འདིའི་སྣང་ཤས་ལྡོག །
@@ -83,7 +83,7 @@ Seek renunciation first. ^4
 By habituating the mind to the difficulty of finding leisure and opportunity
 And the lack of time in this life, the preoccupation with this life is reversed.
 By repeatedly contemplating the unfailing laws of karma and the sufferings of cyclic existence,
-The preoccupation with future lives is reversed. ^5
+The preoccupation with future lives is reversed. ^0-5
 
 > དེ་ལྟར་གོམས་པས་འཁོར་བའི་ཕུན་ཚོགས་ལ། །
 > ཡིད་སྨོན་སྐད་ཅིག་ཙམ་ཡང་མི་སྐྱེ་ཞིང་། །
@@ -93,7 +93,7 @@ The preoccupation with future lives is reversed. ^5
 By familiarizing yourself in this way, not even a momentary wish
 For the excellences of cyclic existence will arise,
 And when a mind seeking liberation day and night
-Has emerged, at that time renunciation has been born. ^6
+Has emerged, at that time renunciation has been born. ^0-6
 
 > ངེས་འབྱུང་དེ་ཡང་རྣམ་དག་སེམས་བསྐྱེད་ཀྱིས། །
 > ཟིན་པ་མེད་ན་བླ་མེད་བྱང་ཆུབ་ཀྱི། །
@@ -103,7 +103,7 @@ Has emerged, at that time renunciation has been born. ^6
 Furthermore, if that renunciation is not embraced by a pure aspiration for awakening,
 It will not become a cause for the perfect bliss of unsurpassed enlightenment,
 Because it lacks that support;
-Therefore, the wise should generate the supreme bodhicitta. ^7
+Therefore, the wise should generate the supreme bodhicitta. ^0-7
 
 > ཤུགས་དྲག་ཆུ་བོ་བཞི་ཡི་རྒྱུན་གྱིས་ཁྱེར། །
 > བཟློག་དཀའ་ལས་ཀྱི་འཆིང་བ་དམ་པོས་བསྡམས། །
@@ -113,7 +113,7 @@ Therefore, the wise should generate the supreme bodhicitta. ^7
 Swept away by the current of the four powerful rivers,
 Bound by the tight shackles of karma so difficult to undo,
 Trapped within the iron mesh of self-grasping,
-And completely enveloped by the dense darkness of ignorance, ^8
+And completely enveloped by the dense darkness of ignorance, ^0-8
 
 > མུ་མེད་སྲིད་པར་སྐྱེ་ཞིང་སྐྱེ་བ་རུ། །
 > སྡུག་བསྔལ་གསུམ་གྱིས་རྒྱུན་ཆད་མེད་པར་མནར། །
@@ -123,7 +123,7 @@ And completely enveloped by the dense darkness of ignorance, ^8
 Born and reborn in limitless cyclic existence,
 They are continuously tormented by the three sufferings.
 Thinking of the plight of all these mothers who have fallen into such a state,
-Generate the supreme mind of enlightenment. ^9
+Generate the supreme mind of enlightenment. ^0-9
 
 > གནས་ལུགས་རྟོགས་པའི་ཤེས་རབ་མི་ལྡན་ན། །
 > ངེས་འབྱུང་བྱང་ཆུབ་སེམས་ལ་གོམས་བྱས་ཀྱང་། །
@@ -133,7 +133,7 @@ Generate the supreme mind of enlightenment. ^9
 If you lack the wisdom realizing the way things are,
 Even if you cultivate renunciation and the awakening mind,
 You will be unable to cut the root of cyclic existence;
-Therefore, strive in the means for realizing dependent origination. ^10
+Therefore, strive in the means for realizing dependent origination. ^0-10
 
 > གང་ཞིག་འཁོར་འདས་ཆོས་རྣམས་ཐམས་ཅད་ཀྱི། །
 > རྒྱུ་འབྲས་ནམ་ཡང་བསླུ་བ་མེད་མཐོང་ཞིང་། །
@@ -143,7 +143,7 @@ Therefore, strive in the means for realizing dependent origination. ^10
 Whoever sees that the causality of all phenomena of saṃsāra and nirvāṇa
 Is never-failing, and for whom all focal points of objectification have collapsed,
 That person has truly entered the path that pleases the Buddhas.
-(This line is intentionally left blank to maintain the 4-line structure of the source text.) ^11
+(This line is intentionally left blank to maintain the 4-line structure of the source text.) ^0-11
 
 > སྣང་བ་རྟེན་འབྲེལ་བསླུ་བ་མེད་པ་དང་། །
 > སྟོང་པ་ཁས་ལེན་བྲལ་བའི་གོ་བ་གཉིས། །
@@ -153,7 +153,7 @@ That person has truly entered the path that pleases the Buddhas.
 As long as the two understandings—of appearance as infallible dependent origination,
 And of emptiness as being free of all assertions—appear to be separate,
 As long as they appear as distinct,
-One has not yet realized the intent of the Sage. ^12
+One has not yet realized the intent of the Sage. ^0-12
 
 > ནམ་ཞིག་རེས་འཇོག་མེད་པར་ཅིག་ཅར་དུ། །
 > རྟེན་འབྲེལ་མི་བསླུར་མཐོང་བ་ཙམ་ཉིད་ནས། །
@@ -163,7 +163,7 @@ One has not yet realized the intent of the Sage. ^12
 When, simultaneously and without alternation,
 The mere sight of infallible dependent origination
 Causes all modes of grasping at objects of certainty to dissolve,
-Then the analysis of the view is complete. ^13
+Then the analysis of the view is complete. ^0-13
 
 > གཞན་ཡང་སྣང་བས་ཡོད་མཐའ་སེལ་བ་དང་། །
 > སྟོང་པས་མེད་མཐའ་སེལ་ཞིང་སྟོང་པ་ཉིད། །
@@ -173,7 +173,7 @@ Then the analysis of the view is complete. ^13
 Furthermore, appearance dispels the extreme of existence,
 And emptiness dispels the extreme of non-existence;
 If one knows how emptiness itself arises as cause and effect,
-One will not be captivated by views that grasp at extremes. ^14
+One will not be captivated by views that grasp at extremes. ^0-14
 
 > དེ་ལྟར་ལམ་གྱི་གཙོ་བོ་རྣམ་གསུམ་གྱི། །
 > གནད་རྣམས་རང་གིས་ཇི་བཞིན་རྟོགས་པའི་ཚེ། །
@@ -183,8 +183,8 @@ One will not be captivated by views that grasp at extremes. ^14
 When you have realized, just as they are, the essential points
 Of the three principal aspects of the path,
 Rely on solitude and generate the power of diligence,
-And swiftly accomplish your ultimate goal, my son. ^15
+And swiftly accomplish your ultimate goal, my son. ^0-15
 
 > ཞེས་པ་འདི་ནི་མང་དུ་ཐོས་པའི་དགེ་སློང་བློ་བཟང་གྲགས་པའི་དཔལ་གྱིས་ཚ་ཁོ་དབོན་པོ་ངག་དབང་གྲགས་པ་ལ་གདམས་པའོ།། ། །
 
-This was given as instruction by the widely learned bhikṣu Losang Drakpa Pel to the Tsa-kho Ponpo Ngawang Drakpa. ^16
+This was given as instruction by the widely learned bhikṣu Losang Drakpa Pel to the Tsa-kho Ponpo Ngawang Drakpa. ^1-1-1

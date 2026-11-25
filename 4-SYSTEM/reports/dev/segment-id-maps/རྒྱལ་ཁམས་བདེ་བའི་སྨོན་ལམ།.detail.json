@@ -1,0 +1,33 @@
+{
+ "edition_id": "YW34dIELkqsK2440H48vt",
+ "segment": [
+  {
+   "old_segment_id": "X8qNLgag1CgazKHKxNkrv",
+   "old_reference": "1",
+   "old_type": "verse",
+   "new_segment_id": "FuBwPBbHeKbaVh7MYKG2P",
+   "new_reference": "0-1"
+  },
+  {
+   "old_segment_id": "NhfZaNytiwdkVQm1oV7Au",
+   "old_reference": "2",
+   "old_type": "verse",
+   "new_segment_id": "RyhVtymPipdyeUr7nHNXi",
+   "new_reference": "0-2"
+  },
+  {
+   "old_segment_id": "0EZEWtr9LgqxYP4wBl7uf",
+   "old_reference": "3",
+   "old_type": "verse",
+   "new_segment_id": "AXkTQuyIq9hgVPe5OKnzD",
+   "new_reference": "0-3"
+  },
+  {
+   "old_segment_id": "9XSAudXrgqVWTsWHNBTK0",
+   "old_reference": "4",
+   "old_type": "back_matter",
+   "new_segment_id": "024U82bpL8fm2Ovdwyr9T",
+   "new_reference": "1-1-1"
+  }
+ ]
+}

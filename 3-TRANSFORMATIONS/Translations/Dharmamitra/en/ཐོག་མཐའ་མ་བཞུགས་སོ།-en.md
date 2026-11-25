@@ -42,7 +42,7 @@ toc_id: sQ0BlRE7exm5AIZq0F8iv
 
 > ཕྱོགས་བཅུའི་རྒྱལ་བ་སྲས་དང་བཅས་པ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །
 
-I prostrate to all the Victors of the ten directions together with their spiritual heirs. ^1
+I prostrate to all the Victors of the ten directions together with their spiritual heirs. ^0-1
 
 > མཐའ་ཡས་འགྲོ་བ་སྲིད་ལས་བསྒྲལ་བྱའི་ཕྱིར། །
 > མཐའ་མེད་སྨོན་ལམ་ལྷག་བསམ་དག་པས་གདབ། །
@@ -52,7 +52,7 @@ I prostrate to all the Victors of the ten directions together with their spiritu
 To liberate infinite beings from cyclic existence,
 I make boundless prayers with a pure and altruistic intention.
 By the infallible Triple Gem and those of power and might,
-May these words of truth be fulfilled through the power of the Sages. ^2
+May these words of truth be fulfilled through the power of the Sages. ^0-2
 
 > བདག་ནི་སྐྱེ་ཞིང་སྐྱེ་བ་ཐམས་ཅད་དུ། །
 > ངན་སོང་ངན་འགྲོ་ལོག་པར་ལྟུང་བ་ཡི། །
@@ -62,7 +62,7 @@ May these words of truth be fulfilled through the power of the Sages. ^2
 Throughout all my successive births,
 May I never be born in the lower realms,
 The evil destinies, or the states of downfall,
-But may I obtain a human body endowed with leisure and fortune. ^3
+But may I obtain a human body endowed with leisure and fortune. ^0-3
 
 > སྐྱེས་མ་ཐག་ནས་སྲིད་པའི་བདེ་བ་ལ། །
 > ནམ་ཡང་མ་ཆགས་ཐར་པ་འཐོབ་བྱའི་ཕྱིར། །
@@ -72,7 +72,7 @@ But may I obtain a human body endowed with leisure and fortune. ^3
 From the moment of birth, may I never be attached
 To the pleasures of cyclic existence, but in order to attain liberation,
 May I engage with unslackening diligence
-In seeking the holy life through the intention of renunciation. ^4
+In seeking the holy life through the intention of renunciation. ^0-4
 
 > བདག་ནི་རབ་ཏུ་འབྱུང་བར་བྱེད་པ་ལ། །
 > འཁོར་དང་ཉེ་དུ་ལོངས་སྤྱོད་གང་གིས་ཀྱང་། །
@@ -82,7 +82,7 @@ In seeking the holy life through the intention of renunciation. ^4
 When I seek to go forth into the religious life,
 May neither my retinue, kin, nor wealth
 Create any obstacles, and may all favorable conditions
-Be fulfilled exactly as I have intended. ^5
+Be fulfilled exactly as I have intended. ^0-5
 
 > རབ་ཏུ་བྱུང་ནས་ཇི་སྲིད་འཚོ་ཡི་བར། །
 > མཁན་སློབ་སྤྱན་སྔར་ཇི་ལྟར་ཁས་བླངས་བཞིན། །
@@ -92,7 +92,7 @@ Be fulfilled exactly as I have intended. ^5
 After going forth, for as long as I live,
 Just as I pledged in the presence of my preceptor and teacher,
 May I never be stained by any faults,
-Whether they be proscribed or naturally unwholesome. ^6
+Whether they be proscribed or naturally unwholesome. ^0-6
 
 > ཚངས་སྤྱོད་རྟེན་ལ་ཐེག་པ་ཆེན་པོ་ཡི། །
 > ཟབ་ཅིང་རྒྱ་ཆེའི་ཆོས་རྣམས་ཇི་སྙེད་པ། །
@@ -102,7 +102,7 @@ Whether they be proscribed or naturally unwholesome. ^6
 Upon the basis of the holy life, may I, through the Great Vehicle,
 Practice all the profound and vast teachings,
 And for the sake of all mothers, through many hardships,
-May I accomplish them for immeasurable eons. ^7
+May I accomplish them for immeasurable eons. ^0-7
 
 > ལུང་རྟོགས་ཡོན་ཏན་དུ་མས་རྒྱུད་གཏམས་ཤིང་། །
 > དབང་པོ་ཞི་ཞིང་རབ་དུལ་སྙིང་བརྩེར་བཅས། །
@@ -112,7 +112,7 @@ May I accomplish them for immeasurable eons. ^7
 May my mind-stream be filled with the many qualities of scripture and realization,
 With faculties peaceful, well-tamed, and accompanied by a loving heart,
 Possessing the courage to work for the sake of others without weariness,
-May I be cared for by a sublime spiritual friend. ^8
+May I be cared for by a sublime spiritual friend. ^0-8
 
 > རྟག་ཏུ་ངུ་ཡིས་ཆོས་འཕགས་བསྟེན་པ་ལྟར། །
 > ལུས་སྲོག་ལོངས་སྤྱོད་ཀུན་གྱིས་གཡོ་མེད་པར། །
@@ -122,7 +122,7 @@ May I be cared for by a sublime spiritual friend. ^8
 Just as Sadaprarudita relied upon Dharmodgata,
 With my body, life, and possessions, unwavering,
 May I perfectly please the sublime spiritual friend,
-And never cause them even a moment of displeasure. ^9
+And never cause them even a moment of displeasure. ^0-9
 
 > ཟབ་ཞི་སྤྲོས་དང་བྲལ་བའི་ཤེར་ཕྱིན་དོན། །
 > ལོག་རྟོག་དྲི་མའི་ཆུ་ཡིས་མ་བསླད་པར། །
@@ -132,7 +132,7 @@ And never cause them even a moment of displeasure. ^9
 The meaning of the Perfection of Wisdom, profound, peaceful, and free from elaboration,
 Untainted by the waters of the stains of wrong views,
 Just as it was taught to Sadaprarudita,
-May it always be taught to me in that same way. ^10
+May it always be taught to me in that same way. ^0-10
 
 > ཐུབ་པའི་དགོངས་པའི་དོན་ལས་ཕྱིར་ཕྱོགས་པའི། །
 > རྟག་ཆད་ལྟ་བ་སྟོན་པར་བྱེད་པ་པོ། །
@@ -142,7 +142,7 @@ May it always be taught to me in that same way. ^10
 May I never fall under the power of those
 Who turn away from the intent of the Sage,
 Who teach the views of eternalism and nihilism,
-Or of non-virtuous friends and evil companions. ^11
+Or of non-virtuous friends and evil companions. ^0-11
 
 > ལྷག་བསམ་རྣམ་པར་དག་པའི་དར་ཆེན་འཕྱར། །
 > བརྩོན་འགྲུས་ལྷོད་པ་མེད་པའི་རླུང་གིས་བསྐྱོད། །
@@ -152,7 +152,7 @@ Or of non-virtuous friends and evil companions. ^11
 Hoisting the great banner of completely pure extraordinary resolve,
 Propelled by the wind of unremitting diligence,
 Having well-secured the vessel of hearing, contemplation, and meditation,
-May I deliver all sentient beings from the ocean of cyclic existence. ^12
+May I deliver all sentient beings from the ocean of cyclic existence. ^0-12
 
 > ཇི་ཙམ་མང་དུ་ཐོས་དང་ལྷག་པར་གཏོང་། །
 > རྣམ་དག་ཚུལ་ཁྲིམས་རྣམ་དཔྱོད་ཤེས་རབ་ཀྱིས། །
@@ -162,7 +162,7 @@ May I deliver all sentient beings from the ocean of cyclic existence. ^12
 To the extent that I hear much and give generously,
 And through the wisdom of pure ethical discipline and discernment,
 To the extent that my mind-stream becomes superior,
-May I be free from all forms of arrogance. ^13
+May I be free from all forms of arrogance. ^0-13
 
 > རྣམ་དག་རིགས་པའི་སྟོབས་ཀྱིས་གསུང་རབ་དོན། །
 > ཇི་བཞིན་འབྱེད་ལ་གཞན་དྲིང་མི་འཇོག་པའི། །
@@ -172,7 +172,7 @@ May I be free from all forms of arrogance. ^13
 By the power of pure reasoning, may I discern the meaning of the scriptures
 Exactly as they are, without relying on others;
 In the presence of the learned, may I engage in the hearing
-Of the infinite scriptures, with an insatiable thirst. ^14
+Of the infinite scriptures, with an insatiable thirst. ^0-14
 
 > ཇི་ལྟར་ཐོས་པའི་དོན་ལ་རིགས་པ་བཞིས། །
 > ཉིན་དང་མཚན་དུ་ཚུལ་བཞིན་རབ་བརྟགས་ནས། །
@@ -182,7 +182,7 @@ Of the infinite scriptures, with an insatiable thirst. ^14
 By the four principles of reasoning, may I investigate the meaning of what I have heard,
 Properly and thoroughly, throughout the day and night;
 And upon the objects of contemplation, through the wisdom arising from reflection,
-May I cut through all doubts with an analytical mind. ^15
+May I cut through all doubts with an analytical mind. ^0-15
 
 > གང་ཚེ་ཤིན་ཏུ་ཟབ་པའི་ཆོས་ཚུལ་ལ། །
 > བསམ་བྱུང་བློ་ཡིས་ངེས་ཤེས་རྙེད་པའི་ཚེ། །
@@ -192,7 +192,7 @@ May I cut through all doubts with an analytical mind. ^15
 When I gain conviction through the wisdom arising from reflection
 Regarding the extremely profound modes of the Dharma,
 Then, with the diligence that severs attachment to this life,
-May I rely on solitude and practice as it should be practiced. ^16
+May I rely on solitude and practice as it should be practiced. ^0-16
 
 > དེ་ལྟར་ཐོས་བསམ་སྒོམ་པས་རྒྱལ་བ་ཡི། །
 > དགོངས་པའི་གནད་རྣམས་རྒྱུད་ལ་བསྐྲུན་པའི་ཚེ། །
@@ -202,7 +202,7 @@ May I rely on solitude and practice as it should be practiced. ^16
 When, through hearing, reflection, and meditation, the essential points
 Of the Conqueror’s intent are cultivated within my stream of being,
 May the appearances of this life, which crave for worldly existence,
-And the mind that seeks its own happiness, never arise. ^17
+And the mind that seeks its own happiness, never arise. ^0-17
 
 > བདག་གིས་བདོག་པའི་དངོས་པོ་ཐམས་ཅད་ལ། །
 > མ་ཆགས་བློ་ཡིས་སེར་སྣ་བཅོམ་བྱས་ཏེ། །
@@ -212,7 +212,7 @@ And the mind that seeks its own happiness, never arise. ^17
 With a mind free of attachment to all the possessions I own,
 May I overcome all stinginess;
 And by first gathering sentient beings through material gifts,
-May I satisfy them with the Dharma. ^18
+May I satisfy them with the Dharma. ^0-18
 
 > ཇི་ལྟར་ནོད་པའི་བསླབ་པ་ཕྲ་བ་ཡང་། །
 > ངེས་འབྱུང་བསམ་པས་བྱང་ཆུབ་ཐོབ་ཀྱི་བར། །
@@ -222,7 +222,7 @@ May I satisfy them with the Dharma. ^18
 Even the minor trainings I have received,
 With a mind of renunciation, until enlightenment is attained,
 May I never forsake, even at the cost of my life,
-But always uphold the victory banner of liberation. ^19
+But always uphold the victory banner of liberation. ^0-19
 
 > བདག་ལ་བརྡེག་འཚོག་མཚང་འབྲུའི་སེམས་ཅན་རྣམས། །
 > མཐོང་ངམ་ཐོས་སམ་ཡིད་ལ་དྲན་པའི་ཚེ། །
@@ -232,7 +232,7 @@ But always uphold the victory banner of liberation. ^19
 When sentient beings, through malice, strike or disparage me,
 Whether I see, hear, or recall them to mind,
 May I be free of anger and, in return,
-Praise their qualities and practice patience. ^20
+Praise their qualities and practice patience. ^0-20
 
 > དཀར་པོའི་ཆོས་རྣམས་མ་ཐོབ་ཐོབ་པ་དང་། །
 > ཐོབ་རྣམས་གོང་ནས་གོང་དུ་འཕེལ་བ་ལས། །
@@ -242,7 +242,7 @@ Praise their qualities and practice patience. ^20
 To attain the virtuous qualities not yet attained,
 And to cause those already attained to increase ever higher,
 May I completely abandon the three types of laziness that cause decline,
-And apply myself to joyful effort. ^21
+And apply myself to joyful effort. ^0-21
 
 > སྲིད་མཐའ་གནོན་པའི་ལྷག་མཐོང་སྟོབས་དང་བྲལ། །
 > ཞི་མཐའ་གནོན་པའི་སྙིང་རྗེའི་རླན་གྱིས་དབེན། །
@@ -252,7 +252,7 @@ And apply myself to joyful effort. ^21
 Lacking the power of special insight that suppresses the extreme of existence,
 And devoid of the moisture of compassion that suppresses the extreme of peace,
 May I abandon the calm abiding that mostly casts one into cyclic existence,
-And meditate upon their union. ^22
+And meditate upon their union. ^0-22
 
 > གནས་ལུགས་ཟབ་མོའི་དོན་ལ་སྐྲག་གྱུར་ནས། །
 > བློས་བྱས་ཉི་ཚེའི་སྟོང་པ་མཆོག་འཛིན་པའི། །
@@ -262,7 +262,7 @@ And meditate upon their union. ^22
 Fearing the profound meaning of the natural state,
 And grasping as supreme a mind-made, partial emptiness,
 May I thoroughly abandon all such base, erroneous views,
-And realize that all phenomena are primordially empty. ^23
+And realize that all phenomena are primordially empty. ^0-23
 
 > རྣམ་དག་བསླབ་པ་ཁྲེལ་མེད་སེམས་ཀྱིས་བྲལ། །
 > དམ་པས་སྨད་པའི་ལས་ལ་འཇིགས་མི་བྱེད། །
@@ -272,7 +272,7 @@ And realize that all phenomena are primordially empty. ^23
 Pure ethical training is severed by a shameless mind,
 And one does not fear actions condemned by the holy.
 May I even lead those monastics of degenerate conduct and false appearance,
-To establish them in faultless ethical discipline. ^24
+To establish them in faultless ethical discipline. ^0-24
 
 > ཡང་དག་ལམ་དོར་ལོག་པའི་ལམ་ངན་ཞུགས། །
 > མི་དགེའི་བཤེས་གཉེན་སྡིག་གྲོགས་དབང་དུ་སོང་། །
@@ -282,7 +282,7 @@ To establish them in faultless ethical discipline. ^24
 Abandoning the authentic path, they have entered the base path of error,
 And have fallen under the power of non-virtuous spiritual friends and evil companions.
 May I, with ease,
-Establish all such beings upon the path praised by the Victorious Ones. ^25
+Establish all such beings upon the path praised by the Victorious Ones. ^0-25
 
 > བདག་གིས་འཆད་རྩོད་རྩོམ་པ་སེངྒེའི་སྒྲས། །
 > ལོག་སྨྲའི་ཝ་ཚོགས་སྤོབས་པ་འཕྲོག་བྱས་ནས། །
@@ -292,7 +292,7 @@ Establish all such beings upon the path praised by the Victorious Ones. ^25
 With the lion’s roar of my exposition, debate, and composition,
 May I snatch away the confidence of the fox-like pack of erroneous speakers,
 And by whatever means are suitable to tame them, may I accept them as my own,
-To uphold the victory banner of the teachings that shall never decline. ^26
+To uphold the victory banner of the teachings that shall never decline. ^0-26
 
 > བདག་ནི་གང་དུ་སྐྱེས་ནས་ཐུབ་པ་ཡི། །
 > གསུང་གི་བདུད་རྩི་འཐུང་བ་དེ་ཡི་ཚེ། །
@@ -302,7 +302,7 @@ To uphold the victory banner of the teachings that shall never decline. ^26
 Wherever I am born, from the moment I drink the nectar
 Of the speech of the Sage,
 May I possess high birth, beauty, wealth, and mastery, along with wisdom,
-And may I be endowed with longevity, freedom from illness, and happiness. ^27
+And may I be endowed with longevity, freedom from illness, and happiness. ^0-27
 
 > བདག་གི་ལུས་དང་སྲོག་དང་ལོངས་སྤྱོད་ལ། །
 > རྒྱུན་དུ་འཚེ་བའི་བསམ་པ་དང་ལྡན་ཞིང་། །
@@ -312,7 +312,7 @@ And may I be endowed with longevity, freedom from illness, and happiness. ^27
 Toward those who constantly harbor the intention to harm
 My body, my life, and my possessions,
 And even toward those who speak unpleasant words to me,
-May I, all the more, cherish them as a mother does her child. ^28
+May I, all the more, cherish them as a mother does her child. ^0-28
 
 > བདག་གིས་དེ་དག་རིང་པོར་མི་ཐོགས་པར། །
 > བདག་པས་གཞན་གཅེས་སྒོམ་པའི་བྱང་ཆུབ་སེམས། །
@@ -322,7 +322,7 @@ May I, all the more, cherish them as a mother does her child. ^28
 Without delay, may I,
 Generate within my continuum the bodhicitta that cherishes others more than myself,
 And by cultivating this pure and superior intention,
-May I bestow the state of unsurpassed enlightenment. ^29
+May I bestow the state of unsurpassed enlightenment. ^0-29
 
 > སྨོན་ལམ་འདི་དག་གང་གིས་མཐོང་ངམ་ཐོས། །
 > ཡིད་ལ་དྲན་པར་བྱེད་པ་དེ་དག་ཀྱང་། །
@@ -332,7 +332,7 @@ May I bestow the state of unsurpassed enlightenment. ^29
 May whoever sees, hears, or calls these aspirations to mind,
 And those who keep them in their thoughts,
 Be without discouragement in accomplishing
-The entirety of the vast prayers of the Bodhisattvas. ^30
+The entirety of the vast prayers of the Bodhisattvas. ^0-30
 
 > ལྷག་བསམ་དག་པའི་སྟོབས་ཀྱིས་ལེགས་བསྒྲུབས་པའི། །
 > རྒྱ་ཆེན་སྨོན་ལམ་བཏབ་པ་འདི་ཡི་མཐུས། །
@@ -342,8 +342,8 @@ The entirety of the vast prayers of the Bodhisattvas. ^30
 Through the power of a pure and superior intention,
 By the force of these vast aspirations I have made,
 May I fully complete the perfection of aspiration,
-And fulfill the hopes of all embodied beings. ^31
+And fulfill the hopes of all embodied beings. ^0-31
 
 > ཅེས་ཐོག་མ་དང་བར་དང་ཐ་མར་དགེ་བའི་སྨོན་ལམ་འདི་ནི་མང་དུ་ཐོས་པའི་རྒྱལ་ཁམས་པ་བློ་བཟང་གྲགས་པའི་དཔལ་གྱིས་གཞོ་སྟོད་དཔལ་གྱི་འབྲི་ཁུང་མཐིལ་དུ་སྦྱར་བའོ། །
 
-Thus, this aspiration, virtuous in the beginning, middle, and end, Was composed by the widely learned Gyalkhampa Losang Drakpa Pel, At the glorious Zhoto Drigung Thil. ^32
+Thus, this aspiration, virtuous in the beginning, middle, and end, Was composed by the widely learned Gyalkhampa Losang Drakpa Pel, At the glorious Zhoto Drigung Thil. ^1-1-1

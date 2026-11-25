@@ -1,0 +1,107 @@
+[
+ {
+  "file": "D:\\Work\\OpenPecha\\Liturgy-rails\\4-SYSTEM\\reports\\prod\\segment-id-maps\\དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །-en.json",
+  "status": 200,
+  "response": {
+   "requested": 28,
+   "updated_counts": {
+    "sub_tasks.segment_ids": 0,
+    "tag_segments": 0,
+    "bookmarks(VERSE)": 0,
+    "recitation_segment_play_times.segment_id": 0,
+    "live_edition_settings.segments": 0
+   },
+   "skipped": []
+  }
+ },
+ {
+  "file": "D:\\Work\\OpenPecha\\Liturgy-rails\\4-SYSTEM\\reports\\prod\\segment-id-maps\\དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །-hi.json",
+  "status": 200,
+  "response": {
+   "requested": 28,
+   "updated_counts": {
+    "sub_tasks.segment_ids": 0,
+    "tag_segments": 0,
+    "bookmarks(VERSE)": 0,
+    "recitation_segment_play_times.segment_id": 0,
+    "live_edition_settings.segments": 0
+   },
+   "skipped": []
+  }
+ },
+ {
+  "file": "D:\\Work\\OpenPecha\\Liturgy-rails\\4-SYSTEM\\reports\\prod\\segment-id-maps\\དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །-mn.json",
+  "status": 200,
+  "response": {
+   "requested": 28,
+   "updated_counts": {
+    "sub_tasks.segment_ids": 0,
+    "tag_segments": 0,
+    "bookmarks(VERSE)": 0,
+    "recitation_segment_play_times.segment_id": 0,
+    "live_edition_settings.segments": 0
+   },
+   "skipped": []
+  }
+ },
+ {
+  "file": "D:\\Work\\OpenPecha\\Liturgy-rails\\4-SYSTEM\\reports\\prod\\segment-id-maps\\དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །-ne.json",
+  "status": 200,
+  "response": {
+   "requested": 28,
+   "updated_counts": {
+    "sub_tasks.segment_ids": 0,
+    "tag_segments": 0,
+    "bookmarks(VERSE)": 0,
+    "recitation_segment_play_times.segment_id": 0,
+    "live_edition_settings.segments": 0
+   },
+   "skipped": []
+  }
+ },
+ {
+  "file": "D:\\Work\\OpenPecha\\Liturgy-rails\\4-SYSTEM\\reports\\prod\\segment-id-maps\\དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །-vi.json",
+  "status": 200,
+  "response": {
+   "requested": 28,
+   "updated_counts": {
+    "sub_tasks.segment_ids": 0,
+    "tag_segments": 0,
+    "bookmarks(VERSE)": 0,
+    "recitation_segment_play_times.segment_id": 0,
+    "live_edition_settings.segments": 0
+   },
+   "skipped": []
+  }
+ },
+ {
+  "file": "D:\\Work\\OpenPecha\\Liturgy-rails\\4-SYSTEM\\reports\\prod\\segment-id-maps\\དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །-zh.json",
+  "status": 200,
+  "response": {
+   "requested": 28,
+   "updated_counts": {
+    "sub_tasks.segment_ids": 0,
+    "tag_segments": 0,
+    "bookmarks(VERSE)": 0,
+    "recitation_segment_play_times.segment_id": 0,
+    "live_edition_settings.segments": 0
+   },
+   "skipped": []
+  }
+ },
+ {
+  "file": "D:\\Work\\OpenPecha\\Liturgy-rails\\4-SYSTEM\\reports\\prod\\segment-id-maps\\དཔལ་ས་སྐྱ་པའི་བསྟན་པ་དར་ཞིང་རྒྱས་པའི་སྨོན་ལམ་འཇམ་དབྱངས་བླ་མ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །.json",
+  "status": 200,
+  "response": {
+   "requested": 28,
+   "updated_counts": {
+    "sub_tasks.segment_ids": 0,
+    "tag_segments": 0,
+    "bookmarks(VERSE)": 0,
+    "recitation_segment_play_times.segment_id": 0,
+    "live_edition_settings.segments": 0
+   },
+   "skipped": []
+  }
+ }
+]

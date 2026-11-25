@@ -55,7 +55,7 @@ toc_id: E6mA0SviTfNXkeAdkWG5J
 Bản tôn tối thắng như bảo châu thanh tịnh trên đỉnh môn,
 Nơi cõi tịnh độ thù thắng này của Thế Tự Tại,
 Thức uống cam lộ là món thù thắng nhất trong mọi đồ ăn thức uống,
-Cùng thân, rễ và những chiếc lá ngọc lục bảo. ^1
+Cùng thân, rễ và những chiếc lá ngọc lục bảo. ^0-1
 
 > འབྲས་བུ་རྣམ་པར་རྒྱལ་བའི་སྨན་ལྟ་བུ། །
 > སུམ་རྩེན་བདུད་རྩིའི་རོ་ཡང་ཟིལ་གནོན་པའི། །
@@ -65,7 +65,7 @@ Cùng thân, rễ và những chiếc lá ngọc lục bảo. ^1
 Quả của nó như linh dược chiến thắng vinh quang,
 Lấn át cả hương vị cam lộ cõi Đao Lợi Thiên,
 Tích tụ trọn vẹn sáu vị, tám công năng và mười công đức,
-Trừ diệt hoàn toàn bốn trăm lẻ bốn loại bệnh tật. ^2
+Trừ diệt hoàn toàn bốn trăm lẻ bốn loại bệnh tật. ^0-2
 
 > དེ་ལྟར་བཏུང་བའི་མཆོག་གྱུར་ཇ་ཡི་དངོས། །
 > བདུད་རྩིའི་རྒྱ་མཚོ་ཆེན་པོར་མངོན་སྤྲུལ་ནས། །
@@ -75,7 +75,7 @@ Trừ diệt hoàn toàn bốn trăm lẻ bốn loại bệnh tật. ^2
 Bản thể của trà, thức uống thù thắng nhất như thế,
 Hiện hóa thành đại dương cam lộ mênh mông,
 Bằng lòng thành kính sắc không bất nhị, con xin dâng cúng:
-Xin dâng cúng lên chư Đạo sư Gốc và Truyền thừa thiêng liêng. ^3
+Xin dâng cúng lên chư Đạo sư Gốc và Truyền thừa thiêng liêng. ^0-3
 
 > སྟོང་དང་རྩ་གཉིས་སངས་རྒྱས་མཆོད་པར་བགྱི། །
 > བྱང་སེམས་ཉན་རང་ཚོགས་རྣམས་མཆོད་པར་བགྱི། །
@@ -85,7 +85,7 @@ Xin dâng cúng lên chư Đạo sư Gốc và Truyền thừa thiêng liêng. ^
 Xin dâng cúng lên một nghìn lẻ hai vị Phật.
 Xin dâng cúng lên hải hội Bồ-tát, Thanh Văn và Duyên Giác.
 Xin dâng cúng lên chuỗi vàng của dòng truyền thừa Kagyu.
-Xin dâng cúng lên Đấng Hộ chủ của ba cõi thế gian. ^4
+Xin dâng cúng lên Đấng Hộ chủ của ba cõi thế gian. ^0-4
 
 > མི་ཕམ་དགྱེས་པའི་བཤེས་གཉེན་མཆོད་པར་བགྱི། །
 > བཤད་སྒྲུབ་རིག་སྨྲའི་བརྒྱུད་པ་མཆོད་པར་བགྱི། །
@@ -95,7 +95,7 @@ Xin dâng cúng lên Đấng Hộ chủ của ba cõi thế gian. ^4
 Xin dâng cúng lên vị Thiện tri thức được Di Lặc hoan hỷ.
 Xin dâng cúng lên dòng truyền thừa Giảng tu và Bậc biện tài.
 Xin dâng cúng lên dòng truyền thừa Biệt giải thoát và Bồ-đề tâm.
-Xin dâng cúng lên dòng truyền thừa Trì Minh Giáo Pháp và Phục Tạng. ^5
+Xin dâng cúng lên dòng truyền thừa Trì Minh Giáo Pháp và Phục Tạng. ^0-5
 
 > རྒྱུད་བཞིའི་ཡི་དམ་ལྷ་ཚོགས་མཆོད་པར་བགྱི། །
 > ཆོས་སྐྱོང་དམ་མགོན་ལྕམ་དྲལ་མཆོད་པར་བགྱི། །
@@ -109,7 +109,7 @@ Xin dâng cúng lên chư Hộ pháp, đấng Hộ chủ thiêng liêng cùng hu
 Xin dâng cúng lên các bộ chúng Hộ đạo và Giáo pháp.
 Xin dâng cúng lên chư Dũng sĩ, Không Hành Nữ và Hộ pháp.
 Xin dâng cúng lên chư Tôn Hộ giới, Bổn thệ và Hộ tạng.
-Xin dâng cúng lên các đấng Hộ chủ che chở tổ tiên và truyền thừa. ^6
+Xin dâng cúng lên các đấng Hộ chủ che chở tổ tiên và truyền thừa. ^0-6
 
 > དེ་ལྟར་རོ་བཅུད་བདུད་རྩི་ཕུལ་བའི་མཐུས། །
 > ཐུབ་བསྟན་ཕྱོགས་བཅུར་དར་ཞིང་རྒྱས་པ་དང༌། །
@@ -121,7 +121,7 @@ Nhờ năng lực dâng cúng cam lộ tinh túy này,
 Nguyện giáo pháp Đức Năng Nhân hoằng dương mười phương,
 Nguyện đấng trang nghiêm vương miện truyền thừa thực hành - Đấng Chiến Thắng Drikungpa,
 Giáo pháp của ngài được lan tỏa qua bốn bánh xe chánh pháp,
-Và gót sen của bậc trì giữ giáo pháp được trường thọ cửu trụ! ^7
+Và gót sen của bậc trì giữ giáo pháp được trường thọ cửu trụ! ^0-7
 
 > དགེ་འདུན་བསླབ་གསུམ་ཆོས་བརྒྱུད་བརྩོན་པ་དང༌། །
 > འགྲོ་རྣམས་ལོངས་སྤྱོད་རྫོགས་ལྡན་དུས་ལྟ་བུར། །
@@ -131,7 +131,7 @@ Và gót sen của bậc trì giữ giáo pháp được trường thọ cửu t
 Nguyện chư Tăng luôn tinh tấn tu tập tam vô lậu học,
 Nguyện chúng sinh thụ hưởng sự thù thắng như thuở Kiếp Vàng,
 Mọi điều chướng ngại bất tường thảy đều tịnh trừ an diệt,
-Và nguyện tất cả chứng đắc quả vị Phật Toàn Giác! ^8
+Và nguyện tất cả chứng đắc quả vị Phật Toàn Giác! ^0-8
 
 > རང་རིག་རང་གསལ་ཤེས་དཀར་མེ་ལོང་ངོགས། །
 > འཁོར་འདས་རི་མོ་བཀྲ་ལ་སྣང་སྟོང་ཙམ། །
@@ -141,7 +141,7 @@ Và nguyện tất cả chứng đắc quả vị Phật Toàn Giác! ^8
 Trên mặt gương của tâm quang minh tự giác,
 Bức tranh luân hồi niết bàn hiện rõ chỉ là sắc không,
 Bằng trạng thái vô chấp song vận như bóng trăng đáy nước,
-Nguyện thảy đều giải thoát vào cảnh giới Pháp thân bất nhị! ^9
+Nguyện thảy đều giải thoát vào cảnh giới Pháp thân bất nhị! ^0-9
 
 > བཻ་ཌཱུར་ས་གཞིར་ལྷ་དབང་བཞུགས་བརྙན་ལྟར། །
 > འགྲོ་སེམས་སྣང་ངོར་ཐུབ་པའི་སྣང་བརྙན་ཤར། །
@@ -151,7 +151,7 @@ Nguyện thảy đều giải thoát vào cảnh giới Pháp thân bất nhị!
 Như hình bóng Vua chư Thiên hiện trên mặt đất lưu ly,
 Sắc thân Đức Năng Nhân hiện rạng ngời trong tâm chúng sinh,
 Bằng thần biến tùy duyên hóa độ theo căn cơ mỗi người,
-Nguyện con đường giải thoát và thành tựu rốt ráo được hiển bày! ^10
+Nguyện con đường giải thoát và thành tựu rốt ráo được hiển bày! ^0-10
 
 > ལེགས་བཤད་མདངས་རིས་བཀྲ་བ་ལུང་རིགས་གོས། །
 > རྣམ་དཔྱོད་བསླབ་གསུམ་ཡུ་བས་ལེགས་བཏེག་ཅིང༌། །
@@ -161,8 +161,8 @@ Nguyện con đường giải thoát và thành tựu rốt ráo được hiển
 Dải lụa kinh giáo với hoa văn thiện thuyết rực rỡ,
 Được giương cao vững chãi trên cán cờ trí tuệ Tam vô lậu học,
 Điểm xuyết trang nghiêm với đỉnh cờ thiền định liễu nghĩa,
-Nguyện cờ chiến thắng của giáo pháp Năng Nhân giương cao khắp muôn phương! ^11
+Nguyện cờ chiến thắng của giáo pháp Năng Nhân giương cao khắp muôn phương! ^0-11
 
 > ཅེས་པའང་རང་གཞན་གྱི་ཆོས་སྤྱོད་བྱ་བའི་ཡན་ལག་ཏུ། འབྲི་གུང་ཆོས་ཀྱི་གྲགས་པས་དཀར་སེང་ཁྲི་སྒར་དུ་བྲིས་པའོ། །སརྦ་མངྒ་ལཾ། །
 
-Lời nguyện này được ngài Drikung Chökyi Drakpa viết tại Karseng Trigar như một phần trong pháp hành tu tập cho tự thân và tha nhân. Sarva Mangalam! ^12
+Lời nguyện này được ngài Drikung Chökyi Drakpa viết tại Karseng Trigar như một phần trong pháp hành tu tập cho tự thân và tha nhân. Sarva Mangalam! ^1-1-1

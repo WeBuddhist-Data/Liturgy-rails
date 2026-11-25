@@ -55,7 +55,7 @@ toc_id: Q1BXZNJgIPKTE5uKtWR05
 Bhrum! Trong bình chứa rộng lớn bằng các loại ngọc báu thanh tịnh,
 Phẩm vật mật nguyện là mọi nhu cầu của thế gian sinh tử,
 Được ban gia trì bởi ba chủng tự thành cam lộ trí tuệ,
-Tạo thành đám mây cúng dường mọi ước muốn bao trùm toàn bộ thế gian hiện hữu. ^1
+Tạo thành đám mây cúng dường mọi ước muốn bao trùm toàn bộ thế gian hiện hữu. ^0-1
 
 > བླ་མ་ཡི་དམ་ཌཱཀྐི་ཆོས་སྲུང་དང༌༔
 > ཕྱོགས་བཅུ་རྒྱལ་བའི་དཀྱིལ་འཁོར་ཇི་སྙེད་དང༌༔
@@ -65,7 +65,7 @@ Tạo thành đám mây cúng dường mọi ước muốn bao trùm toàn bộ 
 Dâng lên Đạo sư, Yidam, Dakini, Hộ pháp,
 Cùng vô lượng mạn-đà-la của chư Phật mười phương,
 Các vị thần thổ địa cõi Diêm-phù-đề, chúng sinh lục đạo, những khách chủ nợ oan gia,
-Đặc biệt là những kẻ đoạt mạng và trộm sinh khí của con, ^2
+Đặc biệt là những kẻ đoạt mạng và trộm sinh khí của con, ^0-2
 
 > ནད་གཏོང་བར་ཆད་རྩོམ་པའི་འབྱུང་པོ་དང༌༔
 > རྨི་ལམ་རྟགས་མཚན་ངན་དང་ལྟས་ངན་རིགས༔
@@ -75,7 +75,7 @@ Các vị thần thổ địa cõi Diêm-phù-đề, chúng sinh lục đạo, n
 Những tinh linh gieo rắc tật bệnh và tạo chướng ngại,
 Những điềm báo ác mộng và các loại ác điềm,
 Tám bộ quỷ thần hung ác và những chủ nhân của huyễn thuật,
-Những chủ nợ oan gia về thức ăn, chỗ ở và tài sản, ^3
+Những chủ nợ oan gia về thức ăn, chỗ ở và tài sản, ^0-3
 
 > གྲིབ་བདག་སྨྱོ་འདྲེ་ཕོ་གཤིན་མོ་གཤིན་དང༌༔
 > གྲི་བོ་ཐེའུ་རང་གྲོང་སྲིན་འདྲེ་མོ་བཅས༔
@@ -85,7 +85,7 @@ Những chủ nợ oan gia về thức ăn, chỗ ở và tài sản, ^3
 Các chúa tể uế trược, quỷ điên loạn, vong hồn nam nữ,
 Cùng quỷ chết oan, tinh linh Theurang, dạ xoa xóm làng và ma nữ,
 Mọi nợ oan gia được hoàn trả và thiêu rụi trong ngọn lửa đỏ,
-Tuôn rơi cơn mưa thỏa mãn mọi mong cầu tùy theo tâm nguyện mỗi người, ^4
+Tuôn rơi cơn mưa thỏa mãn mọi mong cầu tùy theo tâm nguyện mỗi người, ^0-4
 
 > ཇི་སྲིད་ནམ་མཁའ་གནས་ཀྱི་བར་ཉིད་དུ༔
 > འདོད་པའི་ཡོན་ཏན་ཟད་པ་མེད་པར་བསྔོ༔
@@ -95,7 +95,7 @@ Tuôn rơi cơn mưa thỏa mãn mọi mong cầu tùy theo tâm nguyện mỗi 
 Cho đến khi nào hư không này còn tồn tại,
 Con xin hồi hướng những phẩm vật cúng dường không bao giờ vơi cạn,
 Xin cho những tội chướng con đã tích tập trong ba thời,
-Cùng việc lạm dụng tài sản hiến cúng cho Tam Bảo và người đã khuất, ^5
+Cùng việc lạm dụng tài sản hiến cúng cho Tam Bảo và người đã khuất, ^0-5
 
 > སྦྱིན་སྲེག་མེ་མཆོད་འདི་ཡིས་དག་གྱུར་ཅིག༔
 > མེ་ལྕེ་སྣང་སྲིད་གང་བའི་རྡུལ་ཕྲན་རེས༔
@@ -105,7 +105,7 @@ Cùng việc lạm dụng tài sản hiến cúng cho Tam Bảo và người đ�
 Đều được tịnh hóa bởi pháp cúng dường hỏa tịnh này!
 Xin mỗi vi trần từ ngọn lửa tràn ngập khắp thế gian hiện hữu,
 Trở thành những đám mây cúng dường Phổ Hiền vô tận,
-Bao trùm toàn bộ các cõi tịnh độ của chư Phật! ^6
+Bao trùm toàn bộ các cõi tịnh độ của chư Phật! ^0-6
 
 > མེ་ལྕེ་ཡེ་ཤེས་འོད་ལྔའི་མཆོད་སྦྱིན་ཟེར༔
 > རིགས་དྲུག་མནར་མེད་གནས་སུ་ཁྱབ་གྱུར་པས༔
@@ -115,11 +115,11 @@ Bao trùm toàn bộ các cõi tịnh độ của chư Phật! ^6
 Ngọn lửa tỏa ra những tia sáng cúng dường của năm luồng ánh sáng trí tuệ,
 Bao trùm chúng sinh lục đạo cho đến tận ngục Vô Gián,
 Xin ba cõi luân hồi được giải thoát thành thân ánh sáng cầu vồng,
-Và mọi chúng sinh đều thành tựu Phật quả tại tinh túy Bồ-đề! ^7
+Và mọi chúng sinh đều thành tựu Phật quả tại tinh túy Bồ-đề! ^0-7
 
 > ཨོཾ་ཨཱཿཧཱུྂ༔ (ཞེས་བརྒྱ་སྟོང་འབུམ་ཕྲག་མང་པོས་འབུལ་བར་བྱའོ༔)
 
-Om Ah Hum (tụng một trăm, một ngàn hoặc hàng trăm ngàn lần trong lúc dâng cúng) ^8
+Om Ah Hum (tụng một trăm, một ngàn hoặc hàng trăm ngàn lần trong lúc dâng cúng) ^0-8
 
 > སྐུ་གསུམ་དག་པ་སྣོད་ཀྱི་གཞལ་ཡས་སུ༔
 > ཆོས་ལོངས་སྤྲུལ་གསུམ་སྣང་སྲིད་གཟུགས་ཕུང་རྣམས༔
@@ -129,7 +129,7 @@ Om Ah Hum (tụng một trăm, một ngàn hoặc hàng trăm ngàn lần trong 
 Trong cung điện vô lượng của thế giới Tam thân thanh tịnh,
 Vạn pháp hiện hữu cùng sắc uẩn là Pháp thân, Báo thân và Hóa thân,
 Tan chảy thành cam lộ, ánh sáng cầu vồng ngập tràn hư không,
-Thành tinh túy cam lộ vô lậu của luân hồi và niết bàn. ^9
+Thành tinh túy cam lộ vô lậu của luân hồi và niết bàn. ^0-9
 
 > ཐོག་མེད་དུས་ནས་ད་ལྟ་ཡན་ཆད་དུ༔
 > སྣང་སྲིད་མགྲོན་དུ་གྱུར་པ་ཡོངས་ལ་བསྔོ༔
@@ -139,7 +139,7 @@ Thành tinh túy cam lộ vô lậu của luân hồi và niết bàn. ^9
 Từ thời vô thủy cho đến tận hiện tại,
 Con xin hồi hướng cho tất cả khách thể trong vũ trụ bao la.
 Nguyện cho mọi phẩm hạnh của địa, đạo và quả được viên mãn,
-Mọi chướng ngại của kiến, thiền và hành đều được tịnh trừ, ^10
+Mọi chướng ngại của kiến, thiền và hành đều được tịnh trừ, ^0-10
 
 > རྨད་བྱུང་ཀུན་བཟང་ཐུགས་ཀྱི་མཁའ་དབྱིངས་སུ༔
 > གཞོན་ནུ་བུམ་སྐུར་གཏན་སྲིད་ཟིན་པར་ཤོག༔
@@ -149,7 +149,7 @@ Mọi chướng ngại của kiến, thiền và hành đều được tịnh tr
 Trong không gian chân tâm vi diệu của Đức Phổ Hiền,
 Nguyện an lập thường hằng trong Đồng Tử Bình Thân.
 Cho đến khi đại dương luân hồi rộng lớn tát cạn,
-Cầu mong thành Phật trong lưới Liên Hoa của cõi Sắc Cứu Cánh! ^11
+Cầu mong thành Phật trong lưới Liên Hoa của cõi Sắc Cứu Cánh! ^0-11
 
 > ཕུང་ཁམས་བསྲེག་རྫས་བཀྲག་མདངས་གཟི་བརྗིད་འབར༔
 > དཀར་དམར་བྱང་སེམས་བསྲེག་རྫས་བདེ་སྟོང་འབར༔
@@ -159,7 +159,7 @@ Cầu mong thành Phật trong lưới Liên Hoa của cõi Sắc Cứu Cánh! ^
 Phẩm vật hỏa tịnh của ngũ uẩn và các giới bừng sáng rực rỡ oai nghiêm,
 Phẩm vật hỏa tịnh bạch và hồng Bồ-đề tâm bừng cháy đại lạc tánh không,
 Phẩm vật hỏa tịnh của tánh không và đại bi tràn ngập khắp pháp giới,
-Làm nền tảng ánh sáng kim cương năm màu của vạn pháp luân hồi và niết bàn, ^12
+Làm nền tảng ánh sáng kim cương năm màu của vạn pháp luân hồi và niết bàn, ^0-12
 
 > ལྷུན་གྲུབ་རྫོགས་སངས་རྒྱས་པའི་བསྲེག་རྫས་འབུལ༔
 > སྔོན་གྱི་ལན་ཆགས་ཐམས་ཅད་བྱང་གྱུར་ཅིག༔
@@ -169,7 +169,7 @@ Làm nền tảng ánh sáng kim cương năm màu của vạn pháp luân hồi
 Con xin hiến cúng phẩm vật hỏa tịnh của Phật quả viên mãn tự nhiên,
 Nguyện cho mọi món nợ oan gia trong quá khứ đều được thanh tẩy!
 Con xin phát lộ sám hối những lỗi lầm hiện tại không lưu lại trong tâm,
-Nguyện cho chúng không trở thành vòng quay nghiệp chướng trong tương lai! ^13
+Nguyện cho chúng không trở thành vòng quay nghiệp chướng trong tương lai! ^0-13
 
 > སོ་ཐར་བྱང་སེམས་རིག་པ་འཛིན་པ་ཡི༔
 > སྡོམ་བཅས་བསླབ་པ་གསང་སྔགས་དམ་ཚིག་རིགས༔
@@ -179,7 +179,7 @@ Nguyện cho chúng không trở thành vòng quay nghiệp chướng trong tư�
 Những giới nguyện Biệt giải thoát, Bồ-tát và Trì minh,
 Cùng các học giới và những giới thệ samaya của Mật chú,
 Con xin phát lộ sám hối mọi sự vi phạm dù cố ý hay vô tình,
-Nguyện tịnh hóa mọi tật bệnh, ma quỷ ám, ô uế và sự bất tịnh! ^14
+Nguyện tịnh hóa mọi tật bệnh, ma quỷ ám, ô uế và sự bất tịnh! ^0-14
 
 > ནད་མུག་མཚོན་གྱི་བསྐལ་པ་ཞི་གྱུར་ཅིག༔
 > མཐའ་མི་དབུས་སུ་འོང་བའི་བསུན་མ་ཟློག༔
@@ -189,7 +189,7 @@ Nguyện tịnh hóa mọi tật bệnh, ma quỷ ám, ô uế và sự bất t�
 Nguyện cho các kiếp nạn tật bệnh, đói khát và đao binh được lắng dịu!
 Xin đẩy lùi hiểm họa của giặc ngoại xâm tiến vào vùng trung tâm!
 Xin đẩy lùi chướng ngại khi cung thỉnh các bậc Đạo sư hoằng Pháp!
-Xin đẩy lùi mọi điềm gở và những điều không kiết tường tại Tây Tạng! ^15
+Xin đẩy lùi mọi điềm gở và những điều không kiết tường tại Tây Tạng! ^0-15
 
 > གཟའ་ཀླུ་རྒྱལ་པོས་སྲོག་དབུགས་སྡུད་པ་ཟློག༔
 > འཇིགས་པ་ཆེན་པོ་བརྒྱད་དང་བཅུ་དྲུག་ཟློག༔
@@ -199,8 +199,8 @@ Xin đẩy lùi mọi điềm gở và những điều không kiết tường t�
 Xin đẩy lùi các tà tinh, ác long và quỷ vương cướp đoạt hơi thở sinh mạng!
 Xin đẩy lùi tám và mười sáu nỗi sợ hãi lớn lao!
 Xin đẩy lùi mọi điều bất tường cho chúng con và những người xung quanh!
-Xin đẩy lùi ma lực và uy thế của loài ác quỷ và ma phá giới! Samaya! ^16
+Xin đẩy lùi ma lực và uy thế của loài ác quỷ và ma phá giới! Samaya! ^0-16
 
 > ཞེས་ཤིང་སྣ་ཚོགས་པའི་བསངས་ཁ་བརྒྱ་དང་བརྒྱད། སྦྱིན་སྲེག་གི་ཆོ་ག་ལས་བྱུང་བ་ལྟར། རི་བོ་བསངས་མཆོད་འདིས་འཆི་བསླུ་དང་། དཀོར་སྦྱོང་། བར་ཆད་ཀྱི་རིགས་སེལ་བ་རྡོ་རྗེ་ཕ་ལམ་ལྟ་བུ་འདི། སྦས་ཡུལ་འབྲས་མོ་གཤོངས་ཀྱི་གནས་སྒོ་འབྱེད་པའི་ཆ་ལག་ཏུ་མཁའ་འགྲོས་གནང་བ་བཞིན་ནོར་འཁྲུལ་མེད་པར་སྦྱར་བའོ།། །།
 
-Gồm một trăm lẻ tám loại hương mộc hỏa tịnh khác nhau y như trong nghi thức hỏa cúng, pháp cúng dường Hỏa tịnh Sơn Thần này tựa như kim cương tịnh trừ mọi loại chướng ngại, chuộc mạng khỏi cửa tử và tịnh hóa tội lạm dụng tín tài; pháp này đã được biên soạn không chút sai lầm đúng theo sự phó chúc của chư Không Hành Nữ, làm pháp môn phụ trợ để mở cánh cửa tiến vào thánh địa ẩn giấu Dremoshong. ^17
+Gồm một trăm lẻ tám loại hương mộc hỏa tịnh khác nhau y như trong nghi thức hỏa cúng, pháp cúng dường Hỏa tịnh Sơn Thần này tựa như kim cương tịnh trừ mọi loại chướng ngại, chuộc mạng khỏi cửa tử và tịnh hóa tội lạm dụng tín tài; pháp này đã được biên soạn không chút sai lầm đúng theo sự phó chúc của chư Không Hành Nữ, làm pháp môn phụ trợ để mở cánh cửa tiến vào thánh địa ẩn giấu Dremoshong. ^1-1

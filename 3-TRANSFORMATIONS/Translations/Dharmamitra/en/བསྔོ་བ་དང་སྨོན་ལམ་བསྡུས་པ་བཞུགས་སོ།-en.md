@@ -51,7 +51,7 @@ Emaho!
 May the Victors of the ten directions and their spiritual heirs, without exception, heed this.
 By the virtue I have accumulated throughout the three times, exemplified by this,
 Gathered as one, I dedicate it to all who have a karmic connection,
-Whether positive or negative, to guide them all. ^1
+Whether positive or negative, to guide them all. ^0-1
 
 > ཀུན་ཀྱང་དགེ་འདིས་བདེ་བ་མཆོག་ཐོབས་ནས། །
 > ཚོ་གཅིག་སངས་རྒྱས་འཁོར་བ་དོང་སྤྲུགས་ཤིག །
@@ -61,7 +61,7 @@ Whether positive or negative, to guide them all. ^1
 May all, through this virtue, attain the supreme bliss,
 And in a single lifetime, dredge the depths of samsara to attain Buddhahood.
 May the collection of pure, white virtue I have amassed,
-Be sealed by the pure samadhi of non-objectification. ^2
+Be sealed by the pure samadhi of non-objectification. ^0-2
 
 > མ་རིག་འཁོར་བར་འཁྱམས་པའི་འགྲོ་བ་ལ། །
 > སྲས་བཅས་རྒྱལ་བའི་བསྔོ་བཞིན་བསྔོ་བར་བགྱིའོ། །
@@ -71,7 +71,7 @@ Be sealed by the pure samadhi of non-objectification. ^2
 To all beings wandering in the samsara of ignorance,
 I dedicate this just as the Victors and their heirs have dedicated.
 By the power of the truth of the Guru, the Victors, and their heirs,
-May all beings find their purpose in the essence of enlightenment. ^3
+May all beings find their purpose in the essence of enlightenment. ^0-3
 
 > ཆོས་ཉིད་ནམ་མཁའ་མཛོད་ཀྱི་གསང་ལམ་ནས། །
 > འཁོར་འདས་རིག་པ་རྗེན་པའི་གཤིས་ལུགས་རྟོགས། །
@@ -81,7 +81,7 @@ May all beings find their purpose in the essence of enlightenment. ^3
 Through the secret path of the sky-treasury of dharmatā,
 I realize the naked nature of samsara and nirvana.
 From the beginning, the kayas and primordial wisdom are inseparable;
-By this, I dedicate infinite virtue to all beings. ^4
+By this, I dedicate infinite virtue to all beings. ^0-4
 
 > འགྲོ་རྣམས་མ་རིག་སྒྲིབ་པ་ཡོངས་སངས་ཏེ། །
 > སྐུ་གསུམ་བྱང་ཆུབ་ས་ལ་ཕྱིན་པར་ཤོག །
@@ -91,7 +91,7 @@ By this, I dedicate infinite virtue to all beings. ^4
 May all beings be completely cleansed of the obscurations of ignorance,
 And reach the ground of the enlightenment of the three kayas.
 Through the secret path of my own awareness of dharmatā,
-The collection of uncontaminated virtue, free from the three spheres of objectification, ^5
+The collection of uncontaminated virtue, free from the three spheres of objectification, ^0-5
 
 > གང་བསགས་ཕམ་མཁའ་མཉམ་འགྲོ་ལ་བསྔོ། །
 > འགྲོ་རྣམས་སྡུག་བསྔལ་དང་བྲལ་སངས་རྒྱས་ཤོག །
@@ -101,7 +101,7 @@ The collection of uncontaminated virtue, free from the three spheres of objectif
 I dedicate to all beings, as vast as the sky.
 May all beings be free from suffering and attain Buddhahood.
 I take upon myself the sins, obscurations, and sufferings of beings;
-May they overflow into the play of the primordially pure, luminous clarity, free from obscuration. ^6
+May they overflow into the play of the primordially pure, luminous clarity, free from obscuration. ^0-6
 
 > ཨ་ཧོ།
 > ནམ་མཁའི་མཐར་ཐུགས་ཡིད་ཅན་འགྲོ་བ་རྣམས། །
@@ -113,7 +113,7 @@ Aho!
 May all sentient beings, as vast as the limits of space,
 Until the time they attain Buddhahood,
 Find that the engagement of my three doors becomes
-An inexhaustible source of sustenance for all beings. ^7
+An inexhaustible source of sustenance for all beings. ^0-7
 
 > འགྲོ་བ་མ་རིག་རྨོངས་པའི་མུན་ཁམས་སུ། །
 > ཡེ་ཤེས་རིག་པའི་ཉི་མ་གསལ་བར་ཤོག །
@@ -123,7 +123,7 @@ An inexhaustible source of sustenance for all beings. ^7
 In the dark realm of beings' bewildered ignorance,
 May the sun of pristine awareness shine forth.
 For all beings suffering from the burning heat of misery,
-May the cooling moonbeams of compassion descend, ^8
+May the cooling moonbeams of compassion descend, ^0-8
 
 > དེ་བཞིན་འཕགས་པའི་ནོར་གྱི་དབུལ་ཕོང་རྣམས། །
 > ཡོན་ཏན་བྱང་ཆུབ་ཡིད་བཞིན་གོ་ཐོབ་ཤོག །
@@ -133,7 +133,7 @@ May the cooling moonbeams of compassion descend, ^8
 And may those impoverished of the noble wealth
 Attain the wish-fulfilling state of enlightened qualities.
 In short, for all mother-beings as vast as the limits of space,
-May every desired resource appear before each one, ^9
+May every desired resource appear before each one, ^0-9
 
 > སྡུག་བསྔལ་ཀུན་སེལ་སྤྲུལ་པའི་སྟོན་བ་མཆོག །
 > གྲངས་མེད་བསམ་གྱི་མི་ཁྱབ་སྦྲུལ་བྱས་ནས། །
@@ -143,7 +143,7 @@ May every desired resource appear before each one, ^9
 The supreme emanated teacher who dispels all suffering,
 Having performed inconceivable and countless emanations,
 Dispels all temporary suffering and establishes beings in bliss,
-May he dredge the depths of the three realms of cyclic existence. ^10
+May he dredge the depths of the three realms of cyclic existence. ^0-10
 
 > ཧོ། གདོད་ནས་ཀ་དག་ཡེ་གྲོལ་གཞི་དབྱིངས་ནས། །
 > རང་བྱུང་རིག་པ་རྣམ་གྲོལ་གསང་བའི་ལམ། །
@@ -153,8 +153,8 @@ May he dredge the depths of the three realms of cyclic existence. ^10
 Ho! From the basic space of primordial purity and original liberation,
 The secret path of spontaneously present, fully liberated awareness,
 Within the state where self, other, and the three spheres are baseless and rootless,
-May the glory of the fruition of the three kayas and enlightenment be attained. ^11
+May the glory of the fruition of the three kayas and enlightenment be attained. ^0-11
 
 > ཅེས་པའང་ཀུན་རྨོངས་གསེར་ཐང་བ་ས་ག་རའི་མིང་འཛིན་པས་བརྩེ་བརྒྱ་དགོན་ནས་མེ་བྱི་ཟླ་བ་བཅུ་གཉིས་ཚེས་ཉེར་གཉིས་ལ་མྱུར་བར་བྲིས་པའོ། །
 
-This was written in haste by one bearing the name Gser-thang-ba Sa-ga-ra, who is ignorant of all, at Rtse-brgya Monastery on the twenty-second day of the twelfth month of the Fire Mouse year. ^12
+This was written in haste by one bearing the name Gser-thang-ba Sa-ga-ra, who is ignorant of all, at Rtse-brgya Monastery on the twenty-second day of the twelfth month of the Fire Mouse year. ^1-1-1

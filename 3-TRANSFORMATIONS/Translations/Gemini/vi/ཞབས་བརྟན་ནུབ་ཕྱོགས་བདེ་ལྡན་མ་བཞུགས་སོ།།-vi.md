@@ -55,7 +55,7 @@ toc_id: Agtzmf6jTIul3NqRaNVUq
 Hrih! Đấng Hộ chủ cõi Tây phương Cực Lạc,
 Cùng Tôn Thắng Phật Mẫu, Như Ý Luân v.v...,
 Từ vầng mây đại bi của hải hội Bản tôn Vô tử,
-Xin tuôn trận mưa lớn ban thành tựu tinh tủy thọ mạng xuống nơi đây! ^1
+Xin tuôn trận mưa lớn ban thành tựu tinh tủy thọ mạng xuống nơi đây! ^0-1
 
 > རིས་བྲལ་འགྲོ་ལ་རྗེས་བརྩེ་ཕན་བདེའི་ནོར། །
 > སྩོལ་མཛད་མཆོག་སྤྲུལ་མཐོང་བ་དོན་ལྡན་རྗེ། །
@@ -65,7 +65,7 @@ Xin tuôn trận mưa lớn ban thành tựu tinh tủy thọ mạng xuống nơ
 Khởi lòng bi mẫn vô tư ban kho báu phước lạc cho muôn loài,
 Hóa thân tối thượng, Đạo sư chiêm ngưỡng liền được lợi ích,
 Nguyện đôi gót sen ngài, nguồn sống của giáo pháp và chúng sinh xứ Tuyết,
-An trụ vững vàng bất động qua hàng trăm kiếp thời gian! ^2
+An trụ vững vàng bất động qua hàng trăm kiếp thời gian! ^0-2
 
 > མགོན་ཁྱོད་བསྟན་འགྲོའི་དོན་ལས་མཛད་པ་གཞན། །
 > གུད་ན་མེད་ཕྱིར་སྙིགས་དུས་འགྲོ་བ་རྣམས། །
@@ -75,7 +75,7 @@ An trụ vững vàng bất động qua hàng trăm kiếp thời gian! ^2
 Lạy Đấng Hộ chủ, ngoài việc đem lại lợi lạc cho giáo pháp và chúng sinh,
 Ngài không còn hạnh nguyện nào khác; do vậy, vì muôn loài thời mạt pháp,
 Để dẫn dắt chúng sinh đến bến bờ phước lạc, con khẩn cầu thân tướng vạn hảo của ngài
-An trụ vững vàng bất biến như chày kim cương! ^3
+An trụ vững vàng bất biến như chày kim cương! ^0-3
 
 > གངས་ཅན་འཛིན་མའི་ལྟོ་བར་གདོང་ལྔའི་ཁྲིར། །
 > ཞབས་པད་གཡོ་མེད་བསྐལ་བརྒྱར་རབ་བཞུགས་ནས། །
@@ -85,7 +85,7 @@ An trụ vững vàng bất biến như chày kim cương! ^3
 Tại trung tâm xứ Tuyết, trên ngai vàng sư tử,
 Gót sen ngài an tọa bất động qua hàng trăm kiếp,
 Đưa mọi chúng sinh và người dân Tây Tạng đến cảnh giới an lạc,
-Nguyện những đại nguyện của ngài đều được viên thành tự nhiên! ^4
+Nguyện những đại nguyện của ngài đều được viên thành tự nhiên! ^0-4
 
 > དཔལ་ལྡན་ལྷ་མོ་རྒྱལ་ཆེན་སྐུ་ལྔ་སོགས། །
 > བསྟན་སྲུང་རྒྱ་མཚོའི་མཐུ་སྟོབས་ཉིན་བྱེད་ཀྱིས། །
@@ -95,8 +95,8 @@ Nguyện những đại nguyện của ngài đều được viên thành tự n
 Palden Lhamo, Ngũ Đại Vương v.v...,
 Nhờ ánh dương oai lực của đại hải Hộ pháp,
 Nhổ tận gốc rễ bóng tối của các thế lực hung tà,
-Xin thực hành Phật sự làm nở rộ đóa sen ngàn cánh của muôn sở nguyện! ^5
+Xin thực hành Phật sự làm nở rộ đóa sen ngàn cánh của muôn sở nguyện! ^0-5
 
 > ཅེས་པ་འདི་ནི་གངས་ཅན་མགོན་པོ་ཐམས་ཅད་མཁྱེན་གཟིགས་ཆེན་པོ་བསྟན་འགྲོའི་དོན་དུ་སྲིད་པ་མ་སྟོངས་ཀྱི་བར་དུ་ཡང་སྲིད་བྱོན་དང་འབྱོན་གྱུར་རྣམས་ལ་ཆོས་སྐྱོང་ཆེན་པོས་(གནས་ཆུང་སྤྲུལ་པའི་ཆོས་སྐྱོང་)རྡོ་རྗེའི་བཀའ་ལུང་ནས་ཞབས་བརྟན་དུ་སྩལ་བའོ།། །།
 
-Bài cầu nguyện trường thọ này được Đại Hộ pháp (Hóa thân Hộ pháp Nechung) ban truyền qua lời kim cương dụ, dâng lên Đấng Hộ chủ xứ Tuyết, Bậc Toàn tri Vĩ đại, đấng đã và đang giáng sinh thành các đời hóa thân vì lợi ích của giáo pháp và chúng sinh cho đến khi luân hồi trống rỗng. ^6
+Bài cầu nguyện trường thọ này được Đại Hộ pháp (Hóa thân Hộ pháp Nechung) ban truyền qua lời kim cương dụ, dâng lên Đấng Hộ chủ xứ Tuyết, Bậc Toàn tri Vĩ đại, đấng đã và đang giáng sinh thành các đời hóa thân vì lợi ích của giáo pháp và chúng sinh cho đến khi luân hồi trống rỗng. ^1-1-1

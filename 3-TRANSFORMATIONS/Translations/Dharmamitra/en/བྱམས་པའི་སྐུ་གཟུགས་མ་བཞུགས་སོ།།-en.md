@@ -49,7 +49,7 @@ toc_id: wf5AfwJ6MLfEGzlCUTM0M
 May those embodied beings who provide the conducive conditions
 For the construction of a supreme image of Maitreya,
 In the presence of the venerable protector Maitreya,
-Enjoy the glory of the Dharma of the supreme vehicle. ^1
+Enjoy the glory of the Dharma of the supreme vehicle. ^0-1
 
 > ནམ་ཞིག་རྡོ་རྗེ་གདན་གྱི་རི་བོའི་སྤོར། །
 > བྱམས་མགོན་ཉིད་བྱེད་དབང་པོ་ཤར་བའི་ཚེ། །
@@ -59,7 +59,7 @@ Enjoy the glory of the Dharma of the supreme vehicle. ^1
 When the lord of the day, the protector Maitreya himself,
 Rises upon the mountain peak of the Vajra Seat,
 May the lotus of my intelligence blossom,
-And satisfy the swarms of fortunate bees. ^2
+And satisfy the swarms of fortunate bees. ^0-2
 
 > དེ་ཚེ་རྒྱལ་བ་བྱམས་པ་རབ་ཏུ་དགྱེས། །
 > ཕྱག་གཡས་བདག་གི་མགོ་ལ་བཞག་བཞིན་དུ། །
@@ -69,7 +69,7 @@ And satisfy the swarms of fortunate bees. ^2
 At that time, may the Victorious Maitreya be greatly pleased,
 And while placing his right hand upon my head,
 Bestow the prophecy of supreme, unsurpassed enlightenment,
-So that I may swiftly attain buddhahood for the sake of all beings. ^3
+So that I may swiftly attain buddhahood for the sake of all beings. ^0-3
 
 > བྱང་ཆུབ་སྒྲུབ་པའི་ཚེ་རབས་ཀུན་ཏུ་ཡང་། །
 > དུས་གསུམ་རྒྱལ་བ་སྲས་བཅས་ཐམས་ཅད་ཀྱི། །
@@ -79,7 +79,7 @@ So that I may swiftly attain buddhahood for the sake of all beings. ^3
 In all my lifetimes of practicing for enlightenment,
 May I gather all the vast conduct
 Of all the Victors of the three times and their heirs,
-And teach them in accordance with the truth. ^4
+And teach them in accordance with the truth. ^0-4
 
 > ལེགས་བཤད་རི་མོ་བཀྲ་བའི་ལུང་གི་གོས། །
 > རྣམ་དཔྱོད་གསེར་གྱི་ཡུ་བ་ལ་བརྟེན་ཅིང་། །
@@ -89,7 +89,7 @@ And teach them in accordance with the truth. ^4
 May the victory banner of the teachings be established in the ten directions,
 Adorned with the jewel-pinnacle of the three trainings,
 Supported by the golden handle of analytical wisdom,
-And draped in the robes of scripture, variegated with the patterns of excellent explanation. ^5
+And draped in the robes of scripture, variegated with the patterns of excellent explanation. ^0-5
 
 > ཕན་བདེའི་འབྱུང་གནས་བསྟན་པ་དར་ཞིང་རྒྱས། །
 > བསྟན་འཛིན་སྐྱེས་བུ་ཐམས་ཅད་སྐུ་ཁམས་བཟང་། །
@@ -99,7 +99,7 @@ And draped in the robes of scripture, variegated with the patterns of excellent 
 May the teachings, the source of benefit and happiness, flourish and spread,
 May all the beings who uphold the teachings enjoy excellent health,
 And may the Buddha’s teachings, the source from which happiness arises for all embodied beings,
-Always flourish and expand. ^6
+Always flourish and expand. ^0-6
 
 > རྟག་ཏུ་བྱམས་པ་རྣམ་གསུམ་གོམས་པའི་མཐུས། །
 > བདུད་སྡེ་བྱམས་པའི་དཔུང་གིས་འཇོམས་པ་དང་། །
@@ -109,8 +109,8 @@ Always flourish and expand. ^6
 Through the power of constantly habituating to the three types of loving-kindness,
 May the hosts of Māra be conquered by the army of love,
 And may the Victorious Maitreya, the Protector who guards all beings through the power of love,
-Bring auspiciousness. ^7
+Bring auspiciousness. ^0-7
 
 > ཅེས་པ་རྗེ་ཐམས་ཅད་མཁྱེན་པ་དགེ་འདུན་གྲུབ་པས་མཛད་པའོ།། དགེའོ། །
 
-This was composed by the Omniscient Lord Gendun Drubpa. Virtue. ^8
+This was composed by the Omniscient Lord Gendun Drubpa. Virtue. ^1-1-1

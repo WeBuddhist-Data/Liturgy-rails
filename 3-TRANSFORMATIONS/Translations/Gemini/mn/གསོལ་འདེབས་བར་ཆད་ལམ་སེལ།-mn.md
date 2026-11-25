@@ -34,8 +34,8 @@ line_parity_failures: 0
 style_instruction: "Translate this Tibetan liturgical text into Mongolian, line by line: render each Tibetan line as exactly one Mongolian line, in the same order, keeping the same number of lines as the source. Write modern Mongolian in Cyrillic script (Khalkha standard as used in Mongolia). Mongolian Buddhism has a centuries-old liturgical vocabulary derived from Tibetan — use it: бурхан, ном, хутагт, лам, ядам, дагина, сахиус, лагшин, бодь сэтгэл, буян, зориулга, аврал; and the established Mongolian names of deities (Жанрайсиг, Дарь эх, Манзушир, Очирваань, Ловон Бадамжунай). Devotional register suited to recitation, in natural Mongolian word order. Keep mantras and dhāraṇīs in Cyrillic transliteration as Mongolian practitioners recite them (Ум мани бадмэ хум), never translated. Transliterate other Tibetan personal names and place names. Do not add commentary, notes, or explanation."
 rails_used: none
 generated: 2026-09-07
-blocks_translated: 24
-blocks_total: 24
+blocks_translated: 25
+blocks_total: 25
 status: draft
 toc_id: xDeoLHjzTYqAuwVI874I1
 ---
@@ -521,8 +521,6 @@ toc_id: xDeoLHjzTYqAuwVI874I1
 > ནང་གི་བར་ཆད་ནང་དུ་སོལ༔
 > གསང་བའི་བར་ཆད་དབྱིངས་སུ་སོལ༔
 > གུས་པས་ཕྱག་འཚལ་སྐྱབས་སུ་མཆི༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
 
 Нийгүүлсэхүйгээр намайг адислан соёрх
 Энэрэхүйгээр над тэргүүтнийг мөрд хөтлөн соёрх
@@ -531,6 +529,10 @@ toc_id: xDeoLHjzTYqAuwVI874I1
 Гадаад барцдыг гадна нь арилган соёрх
 Дотоод барцдыг дотор нь арилган соёрх
 Нууц барцдыг агаарт арилган соёрх
-Сүсэглэн мөргөж авралд очмуй
+Сүсэглэн мөргөж авралд очмуй ^24
+
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
+> ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ་བཛྲ་ས་མ་ཡ་ཛཿསིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱ༔
+
 Ум аа хум базар гуру бадмэ сидди хум
-Ум аа хум базар гуру бадмэ төдрэнгцэл базар самаяа за сидди пала хум аа ^24
+Ум аа хум базар гуру бадмэ төдрэнгцэл базар самаяа за сидди пала хум аа ^25

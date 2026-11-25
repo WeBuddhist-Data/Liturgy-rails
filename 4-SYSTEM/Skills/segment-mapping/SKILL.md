@@ -136,6 +136,19 @@ python 4-SYSTEM/Skills/segment-mapping/scripts/renumber_to_root.py <notes or fol
   footnotes checked (re-posted from the snapshot if gone). Same ledger map and, with `--map`,
   the same `segment-id-maps/<note>.json` as `replace`. Prod needs `--confirm prod`, and
   `--map`/`--no-map` after asking.
+- Types follow the root: each segment takes its root segment's type (a root colophon retyped
+  `back_matter` carries its translations along). A translation whose references already match
+  but whose types differ is sent too (method `identical`: same ids map 1:1).
+- `--from-note`: when the root is split (or merged), split the translation the same way. First
+  split the translation note's block like the root's (each block keeps its `>` quote of the
+  root lines), then this re-segments the live translation along the note's blocks: content
+  untouched, the note's lines must equal the live lines in order (else skipped), references
+  from the note, types from the root, and the alignment to the root rebuilt 1:1 by reference
+  (the new part included). The map is judged by exact character overlap (same content), one
+  new segment per old one, a split to its first part. Kind `resegment-to-note` in the ledger.
+- A run stopped after the DELETE (a dev 502 on the POST) leaves the ledger map at status
+  `segmentation deleted`; the next `--yes` run resumes it from the snapshot (POST onward)
+  before planning anything else.
 - `--notes`: rewrites the body anchors `^1` -> `^0-1` (headings untouched), only when the
   note's anchors are exactly the live references; run once (the notes are shared by every
   environment), with the map from prod's alignment.

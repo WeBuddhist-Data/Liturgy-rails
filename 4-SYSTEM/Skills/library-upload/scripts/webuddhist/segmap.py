@@ -78,6 +78,24 @@ def _owner(seglist):
 
 def _weights(old_content, old, new_content, new):
     """-> {(old index, new index): matched characters}, plus per-segment totals."""
+    if old_content == new_content:
+        # Same text: the overlap is exact, in characters, whatever the script (tokens need
+        # spaces, which Chinese has none of).
+        o_tot = [sum(b - a for a, b in s["lines"]) for s in old]
+        n_tot = [sum(b - a for a, b in s["lines"]) for s in new]
+        nl = sorted((a, b, j) for j, s in enumerate(new) for a, b in s["lines"])
+        starts = [a for a, _, _ in nl]
+        w = {}
+        for i, s in enumerate(old):
+            for a, b in s["lines"]:
+                k = max(bisect.bisect_right(starts, a) - 1, 0)
+                while k < len(nl) and nl[k][0] < b:
+                    c, d, j = nl[k]
+                    ov = min(b, d) - max(a, c)
+                    if ov > 0:
+                        w[(i, j)] = w.get((i, j), 0) + ov
+                    k += 1
+        return w, o_tot, n_tot
     ot, nt = _tokens(old_content), _tokens(new_content)
     of, nf = _owner(old), _owner(new)
     w, o_tot, n_tot = {}, [0] * len(old), [0] * len(new)
