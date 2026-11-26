@@ -199,8 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c7ec04c4e7073cc",
+  "active": "cbf0e09142ce0e65",
   "lastOpenFiles": [
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.detail.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-zh.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-zh.detail.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-vi.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-vi.detail.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-ne.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-ne.detail.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-mn.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-hi.json",
+    "4-SYSTEM/reports/dev/segment-id-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-mn.detail.json",
     "0-INBOX/Text 1/རྗེ་བཙུན་མི་གཡོ་དཀར་པོའི་བསྟོད་པ་མེ་ཏོག་ཆུན་འཕྱང་།.md",
     "0-INBOX/Text 1/རྗེ་བཙུན་བིརྭ་པའི་སྲུང་བའི་མན་ངག་བར་ཆད་ཀུན་སེལ།.md",
     "0-INBOX/Text 1/རྗེ་བཙུན་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱིས་མཛད་པའི་ཀླུ་གཏོར་བཞུགས་སོ། །.md",
@@ -208,16 +219,6 @@
     "0-INBOX/Text 2/@མཚན་བརྗོད་བསྡུས་པ།.md",
     "0-INBOX/Text 1/རྗེ་བཙུན་ཙོང་ཁ་པ་ཆེན་པོའི་གསང་བའི་རྣམ་ཐར་གསོལ་འདེབས།.md",
     "0-INBOX/Text 1/རྗེ་བཙུན་བཅོམ་ལྡན་འདས་མ་སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ་ལ་བསྟོད་པ་མཁས་པའི་གཙུག་རྒྱན།.md",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-zh/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-zh.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-vi/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-vi.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-ne/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-ne.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-mn/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-mn.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-hi/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-hi.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-en/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-en.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.toc.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.text.json",
-    "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།-zh/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།-zh.edition.json",
     "4-SYSTEM/scripts/parser-root-text/UPSTREAM.md",
     "4-SYSTEM/reports/testing/segment-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.md",
     "4-SYSTEM/reports/testing/segment-maps/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.md",
@@ -235,7 +236,6 @@
     "4-SYSTEM/reports/testing/segment-maps/འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་སྨོན་ལམ།.md",
     "4-SYSTEM/reports/testing/segment-maps/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.md",
     "4-SYSTEM/reports/testing/segment-maps/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།.md",
-    "4-SYSTEM/reports/testing/segment-maps/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md"
+    "4-SYSTEM/reports/testing/segment-maps/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།.md"
   ]
 }
