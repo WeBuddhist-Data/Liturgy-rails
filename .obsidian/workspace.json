@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/Text 1/རྗེ་བཙུན་བཅོམ་ལྡན་འདས་མ་སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ་ལ་བསྟོད་པ་མཁས་པའི་གཙུག་རྒྱན།.md",
+                "file": "0-INBOX/Text 1/རྗེ་བཙུན་ཙོང་ཁ་པ་ཆེན་པོའི་གསང་བའི་རྣམ་ཐར་གསོལ་འདེབས།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "རྗེ་བཙུན་བཅོམ་ལྡན་འདས་མ་སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ་ལ་བསྟོད་པ་མཁས་པའི་གཙུག་རྒྱན།"
+              "title": "རྗེ་བཙུན་ཙོང་ཁ་པ་ཆེན་པོའི་གསང་བའི་རྣམ་ཐར་གསོལ་འདེབས།"
             }
           }
         ]
@@ -199,8 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbf0e09142ce0e65",
+  "active": "9c7ec04c4e7073cc",
   "lastOpenFiles": [
+    "0-INBOX/Text 1/རྗེ་བཙུན་མི་གཡོ་དཀར་པོའི་བསྟོད་པ་མེ་ཏོག་ཆུན་འཕྱང་།.md",
+    "0-INBOX/Text 1/རྗེ་བཙུན་བིརྭ་པའི་སྲུང་བའི་མན་ངག་བར་ཆད་ཀུན་སེལ།.md",
+    "0-INBOX/Text 1/རྗེ་བཙུན་བློ་བཟང་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱིས་མཛད་པའི་ཀླུ་གཏོར་བཞུགས་སོ། །.md",
+    "0-INBOX/Text 1/ཀྱེ་རྡོར་ལམ་དུས་མ་ནོར་དོན་གསལ།.md",
+    "0-INBOX/Text 2/@མཚན་བརྗོད་བསྡུས་པ།.md",
+    "0-INBOX/Text 1/རྗེ་བཙུན་ཙོང་ཁ་པ་ཆེན་པོའི་གསང་བའི་རྣམ་ཐར་གསོལ་འདེབས།.md",
+    "0-INBOX/Text 1/རྗེ་བཙུན་བཅོམ་ལྡན་འདས་མ་སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ་ལ་བསྟོད་པ་མཁས་པའི་གཙུག་རྒྱན།.md",
     "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-zh/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-zh.edition.json",
     "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-vi/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-vi.edition.json",
     "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-ne/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔-ne.edition.json",
@@ -211,7 +218,6 @@
     "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.text.json",
     "4-SYSTEM/scripts/parser-root-text/output/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.edition.json",
     "4-SYSTEM/scripts/parser-root-text/output/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།-zh/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།-zh.edition.json",
-    "4-SYSTEM/scripts/parser-root-text/output/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།-vi/སློབ་དཔོན་རིན་པོ་ཆེའི་མཚན་སྔགས།-vi.edition.json",
     "4-SYSTEM/scripts/parser-root-text/UPSTREAM.md",
     "4-SYSTEM/reports/testing/segment-maps/ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས་བཞུགས༔.md",
     "4-SYSTEM/reports/testing/segment-maps/སྨོན་ལམ་རྡོ་རྗེའི་རྒྱ་མདུད་ནི།.md",
@@ -230,12 +236,6 @@
     "4-SYSTEM/reports/testing/segment-maps/འཆི་ཁར་ཕན་པའི་གདམས་ངག་ཉམས་ལེན་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.md",
     "4-SYSTEM/reports/testing/segment-maps/ཞབས་བརྟན་ནུབ་ཕྱོགས་བདེ་ལྡན་མ་བཞུགས་སོ།།.md",
     "4-SYSTEM/reports/testing/segment-maps/ཞབས་བརྟན་གསོལ་འདེབས་འཆི་མེད་གྲུབ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
-    "4-SYSTEM/reports/testing/segment-maps/ཚེ་རབས་རྗེས་འཛིན་བཞུགས་སོ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/མགོན་པོ་ཕྱག་དྲུག་པའི་བསྟོད་པ་མྱུར་མཛད་མ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/མཁས་གྲུབ་རྗེའི་བསྟོད་པ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/བློ་སྦྱོང་ཚིག་བརྒྱད་མ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/བླ་མ་རྒྱང་འབོད་མོས་གུས་སྙིང་གི་གཟེར་འདེབས་བཞུགས་སོ།.md",
-    "4-SYSTEM/reports/testing/segment-maps/བྱིས་པའི་འབུམ་ཆུང་བཞུགས་སོ།།.md"
+    "4-SYSTEM/reports/testing/segment-maps/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md"
   ]
 }
